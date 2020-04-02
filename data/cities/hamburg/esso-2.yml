@@ -5,7 +5,7 @@ latitude: 53.6237465
 longitude: 10.111879700000001
 postcode: 22159
 city: Hamburg
-street: Pezolddamm
+street: "Pezolddamm"
 housenumber: 136
 phone: "+49-406434406"
 opening_hours: "24/7"

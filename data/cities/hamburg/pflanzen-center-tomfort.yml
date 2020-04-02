@@ -5,7 +5,7 @@ latitude: 53.6202325
 longitude: 9.9484256
 postcode: 22459
 city: Hamburg
-street: Niendorfer Kirchenweg
+street: "Niendorfer Kirchenweg"
 housenumber: 19-21
 phone: "+49 40 58917802"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"

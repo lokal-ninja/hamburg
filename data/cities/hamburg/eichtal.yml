@@ -5,7 +5,7 @@ latitude: 53.5837324
 longitude: 10.0997458
 postcode: 
 city: Hamburg
-street: Ölmühlenweg
+street: "Ölmühlenweg"
 housenumber: 43
 phone: ""
 opening_hours: ""

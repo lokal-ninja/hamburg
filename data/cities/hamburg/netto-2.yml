@@ -5,7 +5,7 @@ latitude: 53.583268800000006
 longitude: 9.982224800000001
 postcode: 20251
 city: Hamburg
-street: Hegestraße
+street: "Hegestraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.58406780000001
 longitude: 9.978887
 postcode: 20251
 city: Hamburg
-street: Eppendorfer Weg
+street: "Eppendorfer Weg"
 housenumber: 268
 phone: "+49 176 72 33 50 80"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 10:30-18:00"

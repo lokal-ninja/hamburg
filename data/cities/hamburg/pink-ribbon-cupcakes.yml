@@ -5,7 +5,7 @@ latitude: 53.55354620000001
 longitude: 10.0039248
 postcode: 20095
 city: Hamburg
-street: Glockengießerwall
+street: "Glockengießerwall"
 housenumber: 3
 phone: "+49 4531 897996"
 opening_hours: "Mo-Sa 11:00-19:00;Su 11:00-18:00"

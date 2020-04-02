@@ -5,7 +5,7 @@ latitude: 53.6533912
 longitude: 10.106353
 postcode: 22393
 city: Hamburg
-street: Stadtbahnstraße
+street: "Stadtbahnstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

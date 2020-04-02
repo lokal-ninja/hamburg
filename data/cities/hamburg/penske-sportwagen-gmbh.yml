@@ -5,7 +5,7 @@ latitude: 53.6075491
 longitude: 10.187276200000001
 postcode: 22143
 city: Hamburg
-street: Merkurring
+street: "Merkurring"
 housenumber: 2
 phone: ""
 opening_hours: ""

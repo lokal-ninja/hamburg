@@ -5,7 +5,7 @@ latitude: 53.660278600000005
 longitude: 10.0834787
 postcode: 22399
 city: Hamburg
-street: Harksheider Straße
+street: "Harksheider Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

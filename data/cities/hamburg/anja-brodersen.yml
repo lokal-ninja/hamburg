@@ -5,7 +5,7 @@ latitude: 53.57045
 longitude: 9.957636800000001
 postcode: 20259
 city: Hamburg
-street: Eppendorfer Weg
+street: "Eppendorfer Weg"
 housenumber: 35
 phone: ""
 opening_hours: "nach Vereinbarung"

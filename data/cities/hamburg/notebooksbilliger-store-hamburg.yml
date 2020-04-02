@@ -5,7 +5,7 @@ latitude: 53.5709589
 longitude: 10.026600400000001
 postcode: 22085
 city: Hamburg
-street: Winterhuder Weg
+street: "Winterhuder Weg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 11:00-20:00, Sa 10:00-19:00; Dec 24,Dec 31 09:00-13:00; PH closed"

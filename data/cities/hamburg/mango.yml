@@ -5,7 +5,7 @@ latitude: 53.5514529
 longitude: 10.0004221
 postcode: 20095
 city: Hamburg
-street: Spitalerstraße
+street: "Spitalerstraße"
 housenumber: 22-26
 phone: "+49 40 309 53 897"
 opening_hours: "Mo-Sa 10:00-20:00, PH,Su off"

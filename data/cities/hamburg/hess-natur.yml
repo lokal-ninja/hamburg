@@ -5,7 +5,7 @@ latitude: 53.552154
 longitude: 9.9972285
 postcode: 
 city: Hamburg
-street: Alstertor
+street: "Alstertor"
 housenumber: 17
 phone: ""
 opening_hours: ""

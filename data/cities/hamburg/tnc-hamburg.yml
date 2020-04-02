@@ -5,7 +5,7 @@ latitude: 53.5834102
 longitude: 9.9289953
 postcode: 22525
 city: Hamburg
-street: Warnstedtstraße
+street: "Warnstedtstraße"
 housenumber: 16 L
 phone: ""
 opening_hours: ""

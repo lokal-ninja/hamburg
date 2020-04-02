@@ -5,7 +5,7 @@ latitude: 53.5491497
 longitude: 10.100694800000001
 postcode: 22111
 city: Hamburg
-street: Legienstraße
+street: "Legienstraße"
 housenumber: 68
 phone: "+49 40 73434852"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.582587100000005
 longitude: 9.9542997
 postcode: 22529
 city: Hamburg
-street: Bötelkamp
+street: "Bötelkamp"
 housenumber: 35
 phone: "+49 40 57131050"
 opening_hours: "Mo-Fr 09:00-18:00"

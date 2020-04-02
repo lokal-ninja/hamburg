@@ -5,7 +5,7 @@ latitude: 53.648450700000005
 longitude: 9.9266205
 postcode: 22457
 city: Hamburg
-street: Wunderbrunnen
+street: "Wunderbrunnen"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00;PH closed"

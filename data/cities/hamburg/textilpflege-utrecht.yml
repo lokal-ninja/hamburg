@@ -5,7 +5,7 @@ latitude: 53.5660455
 longitude: 9.8800428
 postcode: 22607
 city: Hamburg
-street: Milcherstraße
+street: "Milcherstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

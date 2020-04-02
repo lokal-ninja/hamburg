@@ -5,7 +5,7 @@ latitude: 53.612539100000006
 longitude: 10.025185
 postcode: 22297
 city: Hamburg
-street: Alsterdorfer Markt
+street: "Alsterdorfer Markt"
 housenumber: 8
 phone: "+49 40 50090459"
 opening_hours: "Mo-Sa 07:00-21:00"

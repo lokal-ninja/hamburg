@@ -5,7 +5,7 @@ latitude: 53.58158280000001
 longitude: 9.9727526
 postcode: 20253
 city: Hamburg
-street: Hoheluftchaussee
+street: "Hoheluftchaussee"
 housenumber: 60
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 53.591782200000004
 longitude: 10.0491756
 postcode: 22305
 city: Hamburg
-street: Hellbrookstraße
+street: "Hellbrookstraße"
 housenumber: 83
 phone: "+49 40 22625684"
 opening_hours: "Tu-Su 10:00-18:00"

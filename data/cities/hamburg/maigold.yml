@@ -5,7 +5,7 @@ latitude: 53.555093400000004
 longitude: 9.9342514
 postcode: 22765
 city: Hamburg
-street: Barnerstraße
+street: "Barnerstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

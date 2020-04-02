@@ -5,7 +5,7 @@ latitude: 53.6087909
 longitude: 9.9015014
 postcode: 22523
 city: Hamburg
-street: Lohkampstraße
+street: "Lohkampstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

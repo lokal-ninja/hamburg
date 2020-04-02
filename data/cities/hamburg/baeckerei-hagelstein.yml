@@ -5,7 +5,7 @@ latitude: 53.625739300000006
 longitude: 9.901410700000001
 postcode: 22457
 city: Hamburg
-street: Halstenbeker Straße
+street: "Halstenbeker Straße"
 housenumber: 52
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 6:00-13:00; Su 8:00-16:00"

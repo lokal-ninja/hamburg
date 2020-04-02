@@ -5,7 +5,7 @@ latitude: 53.568267000000006
 longitude: 9.9880604
 postcode: 20148
 city: Hamburg
-street: Rothenbaumchaussee
+street: "Rothenbaumchaussee"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Fr 13:00-19:00; Sa 11:00-14:00; PH off"

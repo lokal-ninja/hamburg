@@ -5,7 +5,7 @@ latitude: 53.566513900000004
 longitude: 9.9687236
 postcode: 20357
 city: Hamburg
-street: Kleiner Schäferkamp
+street: "Kleiner Schäferkamp"
 housenumber: 29b
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-16:00"

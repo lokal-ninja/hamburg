@@ -5,7 +5,7 @@ latitude: 53.620203700000005
 longitude: 9.910283300000001
 postcode: 22523
 city: Hamburg
-street: Holsteiner Chaussee
+street: "Holsteiner Chaussee"
 housenumber: 130
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

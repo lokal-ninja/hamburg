@@ -5,7 +5,7 @@ latitude: 53.47361780000001
 longitude: 9.8765345
 postcode: 21147
 city: Hamburg
-street: Striepenweg
+street: "Striepenweg"
 housenumber: 39
 phone: ""
 opening_hours: ""

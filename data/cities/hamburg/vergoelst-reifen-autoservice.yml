@@ -5,7 +5,7 @@ latitude: 53.602293800000005
 longitude: 10.1444025
 postcode: 22143
 city: Hamburg
-street: Bargteheider Straße
+street: "Bargteheider Straße"
 housenumber: 73
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH off"

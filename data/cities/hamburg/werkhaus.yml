@@ -5,7 +5,7 @@ latitude: 53.5520367
 longitude: 9.9963569
 postcode: 
 city: Hamburg
-street: Hermannstraße
+street: "Hermannstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

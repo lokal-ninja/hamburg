@@ -5,7 +5,7 @@ latitude: 53.6507553
 longitude: 10.105594400000001
 postcode: 22393
 city: Hamburg
-street: Kunaustraße
+street: "Kunaustraße"
 housenumber: 
 phone: ""
 opening_hours: ""

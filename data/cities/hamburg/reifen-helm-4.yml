@@ -5,7 +5,7 @@ latitude: 53.4814975
 longitude: 10.204023600000001
 postcode: 21029
 city: Hamburg
-street: Lehfeld
+street: "Lehfeld"
 housenumber: 13
 phone: ""
 opening_hours: ""

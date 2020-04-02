@@ -5,7 +5,7 @@ latitude: 53.478467200000004
 longitude: 9.8884405
 postcode: 21147
 city: Hamburg
-street: Neuwiedenthaler Straße
+street: "Neuwiedenthaler Straße"
 housenumber: 135
 phone: "+49 40 33 98 29 96"
 opening_hours: "Mo-Th 09:00-13:00; Mo-Th 15:00-19:00;Fr 09:00-19:00; Sa 9:00-14:00"

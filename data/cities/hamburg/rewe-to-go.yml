@@ -5,7 +5,7 @@ latitude: 53.527551100000004
 longitude: 10.024291100000001
 postcode: 20539
 city: Hamburg
-street: Peutestraße
+street: "Peutestraße"
 housenumber: 2
 phone: "+49 40 7899840"
 opening_hours: "24/7"

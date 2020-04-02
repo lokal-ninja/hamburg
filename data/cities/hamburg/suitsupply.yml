@@ -5,7 +5,7 @@ latitude: 53.5521776
 longitude: 9.9880631
 postcode: 20354
 city: Hamburg
-street: Bleichenbrücke
+street: "Bleichenbrücke"
 housenumber: 10
 phone: ""
 opening_hours: ""

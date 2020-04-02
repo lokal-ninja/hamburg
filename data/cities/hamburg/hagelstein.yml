@@ -5,7 +5,7 @@ latitude: 53.607472900000005
 longitude: 9.9038112
 postcode: 22523
 city: Hamburg
-street: Alte Elbgaustraße
+street: "Alte Elbgaustraße"
 housenumber: 4-8b
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-14:00; Su 08:00-12:00"

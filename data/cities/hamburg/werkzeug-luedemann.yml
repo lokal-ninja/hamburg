@@ -5,7 +5,7 @@ latitude: 53.5976445
 longitude: 9.9174431
 postcode: 22525
 city: Hamburg
-street: Kronsaalsweg
+street: "Kronsaalsweg"
 housenumber: 82
 phone: "+49 40 5472190"
 opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-15:00; Sa 09:00-13:00"

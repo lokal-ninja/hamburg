@@ -5,7 +5,7 @@ latitude: 53.5526725
 longitude: 9.9973969
 postcode: 20095
 city: Hamburg
-street: Alstertor
+street: "Alstertor"
 housenumber: 14-18
 phone: "+49 40 3574630"
 opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"

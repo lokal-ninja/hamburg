@@ -5,7 +5,7 @@ latitude: 53.5800719
 longitude: 9.9396082
 postcode: 20257
 city: Hamburg
-street: Müggenkampstraße
+street: "Müggenkampstraße"
 housenumber: 77c
 phone: "+49 40 180 59 455"
 opening_hours: "Tu,Th 09:00-18:00, We 09:00-15:00, Fr 09:00-20:00, Sa nach Vereinbarung"

@@ -5,7 +5,7 @@ latitude: 53.5417002
 longitude: 9.990895700000001
 postcode: 20457
 city: Hamburg
-street: Am Kaiserkai
+street: "Am Kaiserkai"
 housenumber: 10
 phone: "+49 40 7367 9000"
 opening_hours: "11:00-20:00; PH off"

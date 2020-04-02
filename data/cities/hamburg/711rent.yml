@@ -5,7 +5,7 @@ latitude: 53.5680143
 longitude: 9.9566333
 postcode: 20259
 city: Hamburg
-street: Eimsbütteler Chaussee
+street: "Eimsbütteler Chaussee"
 housenumber: 66
 phone: "+49 40 63606690"
 opening_hours: ""

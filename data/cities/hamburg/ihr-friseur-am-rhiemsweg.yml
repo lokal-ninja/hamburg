@@ -5,7 +5,7 @@ latitude: 53.5584932
 longitude: 10.075140600000001
 postcode: 22111
 city: Hamburg
-street: Rhiemsweg
+street: "Rhiemsweg"
 housenumber: 55
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.600459300000004
 longitude: 10.1382968
 postcode: 22147
 city: Hamburg
-street: Scharbeutzer Straße
+street: "Scharbeutzer Straße"
 housenumber: 98B
 phone: ""
 opening_hours: ""

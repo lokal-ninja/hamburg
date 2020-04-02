@@ -5,7 +5,7 @@ latitude: 53.55702530000001
 longitude: 9.9021225
 postcode: 22763
 city: Hamburg
-street: Jürgen-Töpfer-Straße
+street: "Jürgen-Töpfer-Straße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

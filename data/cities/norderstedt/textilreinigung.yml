@@ -5,7 +5,7 @@ latitude: 53.6822899
 longitude: 9.9876249
 postcode: 22850
 city: Norderstedt
-street: Europaallee
+street: "Europaallee"
 housenumber: 4
 phone: ""
 opening_hours: ""

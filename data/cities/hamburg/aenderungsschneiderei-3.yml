@@ -5,7 +5,7 @@ latitude: 53.599907900000005
 longitude: 9.9576829
 postcode: 22529
 city: Hamburg
-street: Grelckstraße
+street: "Grelckstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.567039900000005
 longitude: 10.044358
 postcode: 22089
 city: Hamburg
-street: Wandsbeker Chaussee
+street: "Wandsbeker Chaussee"
 housenumber: 106
 phone: ""
 opening_hours: ""

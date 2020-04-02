@@ -5,7 +5,7 @@ latitude: 53.6087003
 longitude: 10.046364800000001
 postcode: 22309
 city: Hamburg
-street: Steilshooper Allee
+street: "Steilshooper Allee"
 housenumber: 9
 phone: "+49 40 60039168"
 opening_hours: "24/7"

@@ -5,7 +5,7 @@ latitude: 53.4864454
 longitude: 10.1973807
 postcode: 21035
 city: Hamburg
-street: Gerhard-Falk-Straße
+street: "Gerhard-Falk-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

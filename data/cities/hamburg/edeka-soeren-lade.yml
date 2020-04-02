@@ -5,7 +5,7 @@ latitude: 53.5689998
 longitude: 10.0182784
 postcode: 22085
 city: Hamburg
-street: Uhlenhorster Weg
+street: "Uhlenhorster Weg"
 housenumber: 2 - 4
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 07:00-21:00"

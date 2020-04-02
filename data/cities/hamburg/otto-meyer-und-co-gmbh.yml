@@ -5,7 +5,7 @@ latitude: 53.5104515
 longitude: 9.983016600000001
 postcode: 21107
 city: Hamburg
-street: Neuhöfer Straße
+street: "Neuhöfer Straße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Th 07:00-17:00, Fr 07:00-14:30"

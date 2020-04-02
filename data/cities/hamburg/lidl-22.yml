@@ -5,7 +5,7 @@ latitude: 53.58515920000001
 longitude: 10.050597400000001
 postcode: 22305
 city: Hamburg
-street: Bramfelder Straße
+street: "Bramfelder Straße"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

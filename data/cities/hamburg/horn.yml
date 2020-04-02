@@ -5,7 +5,7 @@ latitude: 53.6007419
 longitude: 9.956687800000001
 postcode: 22529
 city: Hamburg
-street: Grelckstraße
+street: "Grelckstraße"
 housenumber: 10a
 phone: "+49 40 583232"
 opening_hours: "Mo-Sa 05:30-18:00; Su 07:30-18:00"

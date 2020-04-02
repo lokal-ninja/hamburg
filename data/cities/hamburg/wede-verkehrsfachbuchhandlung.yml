@@ -5,7 +5,7 @@ latitude: 53.543289300000005
 longitude: 9.999815700000001
 postcode: 20457
 city: Hamburg
-street: Koreastraße
+street: "Koreastraße"
 housenumber: 1
 phone: ""
 opening_hours: "PH,Mo-Su 10:00-18:30"

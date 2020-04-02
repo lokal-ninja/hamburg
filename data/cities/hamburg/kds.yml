@@ -5,7 +5,7 @@ latitude: 53.661121800000004
 longitude: 10.0854189
 postcode: 22399
 city: Hamburg
-street: Moorhof
+street: "Moorhof"
 housenumber: 5
 phone: ""
 opening_hours: ""

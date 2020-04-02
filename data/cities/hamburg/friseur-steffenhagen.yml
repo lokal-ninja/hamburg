@@ -5,7 +5,7 @@ latitude: 53.657266
 longitude: 10.084808200000001
 postcode: 22399
 city: Hamburg
-street: Poppenbütteler Weg
+street: "Poppenbütteler Weg"
 housenumber: 179
 phone: "+49 40 6023819"
 opening_hours: ""

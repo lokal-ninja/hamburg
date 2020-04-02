@@ -5,7 +5,7 @@ latitude: 53.5928575
 longitude: 9.9911331
 postcode: 20249
 city: Hamburg
-street: Ludolfstraße
+street: "Ludolfstraße"
 housenumber: 42
 phone: "+49 40 463030"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

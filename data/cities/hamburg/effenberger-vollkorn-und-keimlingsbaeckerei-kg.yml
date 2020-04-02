@@ -5,7 +5,7 @@ latitude: 53.5708045
 longitude: 9.9818121
 postcode: 20146
 city: Hamburg
-street: Rutschbahn
+street: "Rutschbahn"
 housenumber: 18
 phone: "+49 40 455445"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.543030300000005
 longitude: 10.0938706
 postcode: 22111
 city: Hamburg
-street: Horner Landstraße
+street: "Horner Landstraße"
 housenumber: 445
 phone: "+49 40 7327603"
 opening_hours: ""

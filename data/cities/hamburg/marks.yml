@@ -5,7 +5,7 @@ latitude: 53.486386200000005
 longitude: 10.216714000000001
 postcode: 21029
 city: Hamburg
-street: Am Brink
+street: "Am Brink"
 housenumber: 2-4
 phone: ""
 opening_hours: ""

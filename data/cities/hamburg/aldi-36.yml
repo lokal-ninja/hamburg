@@ -5,7 +5,7 @@ latitude: 53.6527225
 longitude: 10.1868712
 postcode: 22359
 city: Hamburg
-street: Buchenkamp
+street: "Buchenkamp"
 housenumber: 94
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.6039473
 longitude: 10.042904100000001
 postcode: 22307
 city: Hamburg
-street: Lorichsstraße
+street: "Lorichsstraße"
 housenumber: 44
 phone: "+49 40 6313509"
 opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-13:00 || nach Vereinbarung"

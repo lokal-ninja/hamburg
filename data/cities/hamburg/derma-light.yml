@@ -5,7 +5,7 @@ latitude: 53.552678400000005
 longitude: 10.0010776
 postcode: 20095
 city: Hamburg
-street: Gertrudenkirchhof
+street: "Gertrudenkirchhof"
 housenumber: 10
 phone: "+49-40-55435357"
 opening_hours: "Mo-Th 13:30-20:00, Fr 11:00-20:00, PH off"

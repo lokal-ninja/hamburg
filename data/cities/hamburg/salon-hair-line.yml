@@ -5,7 +5,7 @@ latitude: 53.5971915
 longitude: 10.1528443
 postcode: 22149
 city: Hamburg
-street: Rahlstedter Straße
+street: "Rahlstedter Straße"
 housenumber: 83
 phone: ""
 opening_hours: ""

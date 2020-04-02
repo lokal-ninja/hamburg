@@ -5,7 +5,7 @@ latitude: 53.580279700000006
 longitude: 9.9494203
 postcode: 20255
 city: Hamburg
-street: Hellkamp
+street: "Hellkamp"
 housenumber: 60
 phone: "+49 1577 1868786"
 opening_hours: "Mo-Fr 10:30-18:00; Sa 10:00-16:00"

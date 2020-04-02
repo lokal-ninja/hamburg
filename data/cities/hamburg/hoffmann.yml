@@ -5,7 +5,7 @@ latitude: 53.6182231
 longitude: 10.003809500000001
 postcode: 22297
 city: Hamburg
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 173
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00; PH off"

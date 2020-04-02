@@ -5,7 +5,7 @@ latitude: 53.5654437
 longitude: 9.9653566
 postcode: 20357
 city: Hamburg
-street: Altonaer Straße
+street: "Altonaer Straße"
 housenumber: 67
 phone: "+49 40 43131661"
 opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"

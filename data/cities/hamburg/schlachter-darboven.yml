@@ -5,7 +5,7 @@ latitude: 53.4302622
 longitude: 9.982438400000001
 postcode: 
 city: Hamburg
-street: Winsener Straße
+street: "Winsener Straße"
 housenumber: 164
 phone: ""
 opening_hours: ""

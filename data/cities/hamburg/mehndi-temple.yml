@@ -5,7 +5,7 @@ latitude: 53.5935156
 longitude: 9.9888665
 postcode: 20251
 city: Hamburg
-street: Eppendorfer Marktplatz
+street: "Eppendorfer Marktplatz"
 housenumber: 15
 phone: ""
 opening_hours: ""

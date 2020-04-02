@@ -5,7 +5,7 @@ latitude: 53.61175600000001
 longitude: 9.9570314
 postcode: 22453
 city: Hamburg
-street: Kollaustraße
+street: "Kollaustraße"
 housenumber: 136
 phone: "+49 40 589767-13"
 opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-13:00"

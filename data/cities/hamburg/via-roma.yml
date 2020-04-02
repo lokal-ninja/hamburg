@@ -5,7 +5,7 @@ latitude: 53.5757136
 longitude: 9.9511895
 postcode: 20255
 city: Hamburg
-street: Heußweg
+street: "Heußweg"
 housenumber: 31
 phone: ""
 opening_hours: ""

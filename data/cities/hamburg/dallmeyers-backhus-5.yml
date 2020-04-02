@@ -5,7 +5,7 @@ latitude: 53.61608510000001
 longitude: 9.904996500000001
 postcode: 22523
 city: Hamburg
-street: Hörgensweg
+street: "Hörgensweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

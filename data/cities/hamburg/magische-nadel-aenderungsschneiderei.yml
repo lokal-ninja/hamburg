@@ -5,7 +5,7 @@ latitude: 53.454587700000005
 longitude: 9.987078
 postcode: 21073
 city: Hamburg
-street: Reinholdstraße
+street: "Reinholdstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

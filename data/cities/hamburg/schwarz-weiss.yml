@@ -5,7 +5,7 @@ latitude: 53.4565533
 longitude: 9.9783255
 postcode: 21073
 city: Hamburg
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 30
 phone: ""
 opening_hours: ""

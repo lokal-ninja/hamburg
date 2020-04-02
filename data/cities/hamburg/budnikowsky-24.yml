@@ -5,7 +5,7 @@ latitude: 53.5512619
 longitude: 9.9603663
 postcode: 20359
 city: Hamburg
-street: Talstraße
+street: "Talstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 08:30-21:00; PH off"

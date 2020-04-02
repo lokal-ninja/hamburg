@@ -5,7 +5,7 @@ latitude: 53.579885100000006
 longitude: 9.8514801
 postcode: 22549
 city: Hamburg
-street: Rugenbarg
+street: "Rugenbarg"
 housenumber: 81
 phone: ""
 opening_hours: ""

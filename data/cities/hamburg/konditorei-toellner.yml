@@ -5,7 +5,7 @@ latitude: 53.5684565
 longitude: 10.092991300000001
 postcode: 22043
 city: Hamburg
-street: Rodigallee
+street: "Rodigallee"
 housenumber: 4
 phone: "+49 40 6563832"
 opening_hours: ""

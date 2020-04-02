@@ -5,7 +5,7 @@ latitude: 53.5675595
 longitude: 9.9529362
 postcode: 20259
 city: Hamburg
-street: Doormannsweg
+street: "Doormannsweg"
 housenumber: 45
 phone: ""
 opening_hours: "24/7"

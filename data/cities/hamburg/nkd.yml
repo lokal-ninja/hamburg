@@ -5,7 +5,7 @@ latitude: 53.4861474
 longitude: 10.213696800000001
 postcode: 21029
 city: Hamburg
-street: Bergedorfer Straße
+street: "Bergedorfer Straße"
 housenumber: 140
 phone: ""
 opening_hours: "Mo-Fr 9:00-19:00; Sa 9:00-16:00"

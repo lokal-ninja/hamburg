@@ -5,7 +5,7 @@ latitude: 53.5680685
 longitude: 9.9606502
 postcode: 20259
 city: Hamburg
-street: Bellealliancestraße
+street: "Bellealliancestraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

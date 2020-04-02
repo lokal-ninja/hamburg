@@ -5,7 +5,7 @@ latitude: 53.53659450000001
 longitude: 10.0369112
 postcode: 20539
 city: Hamburg
-street: Marckmannstraße
+street: "Marckmannstraße"
 housenumber: 30
 phone: "+49 40 38073230"
 opening_hours: "Mo,Th 09:30-13:30;14:30-17:00"

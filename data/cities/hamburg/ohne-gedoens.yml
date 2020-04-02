@@ -5,7 +5,7 @@ latitude: 53.6513725
 longitude: 10.163041300000001
 postcode: 22359
 city: Hamburg
-street: Kattjahren
+street: "Kattjahren"
 housenumber: 1c
 phone: ""
 opening_hours: ""

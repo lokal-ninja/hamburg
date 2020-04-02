@@ -5,7 +5,7 @@ latitude: 53.5918215
 longitude: 9.9593755
 postcode: 22529
 city: Hamburg
-street: Stresemannallee
+street: "Stresemannallee"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

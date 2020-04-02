@@ -5,7 +5,7 @@ latitude: 53.6416185
 longitude: 10.080276300000001
 postcode: 22391
 city: Hamburg
-street: Wellingsbüttler Weg
+street: "Wellingsbüttler Weg"
 housenumber: 117
 phone: ""
 opening_hours: ""

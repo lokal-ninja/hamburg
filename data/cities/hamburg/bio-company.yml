@@ -5,7 +5,7 @@ latitude: 53.5565967
 longitude: 10.009878800000001
 postcode: 20099
 city: Hamburg
-street: Lange Reihe
+street: "Lange Reihe"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

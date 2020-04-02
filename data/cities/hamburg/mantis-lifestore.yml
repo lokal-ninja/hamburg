@@ -5,7 +5,7 @@ latitude: 53.5562793
 longitude: 9.9909283
 postcode: 20354
 city: Hamburg
-street: Große Theaterstraße
+street: "Große Theaterstraße"
 housenumber: 7
 phone: "+49 40 20943910"
 opening_hours: "Mo-Fr 12:00-19:00; Sa 10:00-19:00"

@@ -5,7 +5,7 @@ latitude: 53.621525600000005
 longitude: 9.9515562
 postcode: 22459
 city: Hamburg
-street: Paul-Sorge-Straße
+street: "Paul-Sorge-Straße"
 housenumber: 4a
 phone: "+49 40 81972958"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"

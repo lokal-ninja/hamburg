@@ -5,7 +5,7 @@ latitude: 53.5884615
 longitude: 9.921323300000001
 postcode: 22525
 city: Hamburg
-street: Randstraße
+street: "Randstraße"
 housenumber: 79
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

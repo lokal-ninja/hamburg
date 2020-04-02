@@ -5,7 +5,7 @@ latitude: 53.457035600000005
 longitude: 9.9863023
 postcode: 21073
 city: Hamburg
-street: Moorstraße
+street: "Moorstraße"
 housenumber: 11
 phone: "+49 40 33319702"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.568198800000005
 longitude: 9.982268900000001
 postcode: 20146
 city: Hamburg
-street: Grindelhof
+street: "Grindelhof"
 housenumber: 
 phone: ""
 opening_hours: ""

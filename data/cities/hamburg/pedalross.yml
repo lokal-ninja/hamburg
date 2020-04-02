@@ -5,7 +5,7 @@ latitude: 53.5693038
 longitude: 10.025830000000001
 postcode: 22087
 city: Hamburg
-street: Mundsburger Damm
+street: "Mundsburger Damm"
 housenumber: 58
 phone: "+49 40 87090001"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"

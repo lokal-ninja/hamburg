@@ -5,7 +5,7 @@ latitude: 53.5591993
 longitude: 10.106456300000001
 postcode: 22119
 city: Hamburg
-street: Manshardtstraße
+street: "Manshardtstraße"
 housenumber: 109
 phone: "+49 40 69207274"
 opening_hours: ""

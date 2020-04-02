@@ -5,7 +5,7 @@ latitude: 53.6804774
 longitude: 9.9941741
 postcode: 22848
 city: Norderstedt
-street: Ohechaussee
+street: "Ohechaussee"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

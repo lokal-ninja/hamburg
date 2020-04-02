@@ -5,7 +5,7 @@ latitude: 53.5530994
 longitude: 9.9580283
 postcode: 22767
 city: Hamburg
-street: Paul-Roosen-Straße
+street: "Paul-Roosen-Straße"
 housenumber: 27
 phone: "+491799769435"
 opening_hours: "Mo-Th 19:00-01:00, Fr,Sa 19:00-03:00"

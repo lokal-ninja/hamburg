@@ -5,7 +5,7 @@ latitude: 53.554158
 longitude: 9.988018
 postcode: 20354
 city: Hamburg
-street: Poststraße
+street: "Poststraße"
 housenumber: 51
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.56646670000001
 longitude: 9.9655872
 postcode: 
 city: Hamburg
-street: Weidenallee
+street: "Weidenallee"
 housenumber: 6
 phone: "+49 40 43096634"
 opening_hours: "Tu-Fr 14:00-19:00;Sa 11:00-16:00"

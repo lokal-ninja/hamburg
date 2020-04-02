@@ -5,7 +5,7 @@ latitude: 53.551386400000005
 longitude: 9.925235800000001
 postcode: 22763
 city: Hamburg
-street: Bei der Reitbahn
+street: "Bei der Reitbahn"
 housenumber: 3
 phone: "+49 40 39 19 08 80"
 opening_hours: "Mo-Fr 11:00-19:00;Sa 11:00-17:00"

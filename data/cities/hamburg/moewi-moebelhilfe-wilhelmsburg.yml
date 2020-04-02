@@ -5,7 +5,7 @@ latitude: 53.516415200000004
 longitude: 9.9903461
 postcode: 21107
 city: Hamburg
-street: Dierksstraße
+street: "Dierksstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.586294
 longitude: 10.0173672
 postcode: 22303
 city: Hamburg
-street: Barmbeker Straße
+street: "Barmbeker Straße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00, 07:00-13:00, 08:00-13:00"

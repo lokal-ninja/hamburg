@@ -5,7 +5,7 @@ latitude: 53.5586732
 longitude: 9.963414400000001
 postcode: 20359
 city: Hamburg
-street: Beim Grünen Jäger
+street: "Beim Grünen Jäger"
 housenumber: 21
 phone: "+49 (0)40 – 319 77 490"
 opening_hours: "Mo-Fr 11:30-19:00; Sa 11:30-17:00"

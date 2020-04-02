@@ -5,7 +5,7 @@ latitude: 53.5791103
 longitude: 10.0400553
 postcode: 22083
 city: Hamburg
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 202
 phone: ""
 opening_hours: "PH,Mo-Su 06:00-23:00"

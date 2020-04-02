@@ -5,7 +5,7 @@ latitude: 53.517324900000006
 longitude: 9.8904782
 postcode: 21129
 city: Hamburg
-street: Aluminiumstraße
+street: "Aluminiumstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

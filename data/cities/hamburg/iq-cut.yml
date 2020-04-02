@@ -5,7 +5,7 @@ latitude: 53.5493049
 longitude: 9.9883925
 postcode: 20457
 city: Hamburg
-street: Alter Wall
+street: "Alter Wall"
 housenumber: 67-69
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.578916400000004
 longitude: 9.9745939
 postcode: 
 city: Hamburg
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 132
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00; PH off"

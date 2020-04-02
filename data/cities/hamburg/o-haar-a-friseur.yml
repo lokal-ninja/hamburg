@@ -5,7 +5,7 @@ latitude: 53.5343109
 longitude: 9.8787438
 postcode: 21129
 city: Hamburg
-street: Benittstraße
+street: "Benittstraße"
 housenumber: 18
 phone: "+49 40 7429206"
 opening_hours: "Tu-Fr 08:30-18:00; Sa 08:30-13:00"

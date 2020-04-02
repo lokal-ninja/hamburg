@@ -5,7 +5,7 @@ latitude: 53.5816193
 longitude: 10.0806267
 postcode: 
 city: Hamburg
-street: Holzmühlenstraße
+street: "Holzmühlenstraße"
 housenumber: 53
 phone: ""
 opening_hours: ""

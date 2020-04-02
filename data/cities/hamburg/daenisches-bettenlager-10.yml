@@ -5,7 +5,7 @@ latitude: 53.5115855
 longitude: 10.088287300000001
 postcode: 22113
 city: Hamburg
-street: Andreas-Meyer-Straße
+street: "Andreas-Meyer-Straße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"

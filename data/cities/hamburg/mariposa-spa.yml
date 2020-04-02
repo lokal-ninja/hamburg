@@ -5,7 +5,7 @@ latitude: 53.5826721
 longitude: 9.7557975
 postcode: 22559
 city: Hamburg
-street: Am Rissener Bahnhof
+street: "Am Rissener Bahnhof"
 housenumber: 21a
 phone: ""
 opening_hours: ""

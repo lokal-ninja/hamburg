@@ -5,7 +5,7 @@ latitude: 53.554452700000006
 longitude: 9.930675200000001
 postcode: 22765
 city: Hamburg
-street: Hohenesch
+street: "Hohenesch"
 housenumber: 43
 phone: ""
 opening_hours: ""

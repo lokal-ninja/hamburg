@@ -5,7 +5,7 @@ latitude: 53.5721707
 longitude: 10.029108500000001
 postcode: 22083
 city: Hamburg
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 49
 phone: "+49 40 22691122"
 opening_hours: "Mo-Sa 10:00-20:00, PH off"

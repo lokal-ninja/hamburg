@@ -5,7 +5,7 @@ latitude: 53.542065300000004
 longitude: 9.9940344
 postcode: 20457
 city: Hamburg
-street: Großer Grasbrook
+street: "Großer Grasbrook"
 housenumber: 9
 phone: "+49 40 50031288"
 opening_hours: "Mo-Sa 11:30-22:00"

@@ -5,7 +5,7 @@ latitude: 53.649765800000004
 longitude: 10.0172743
 postcode: 22415
 city: Hamburg
-street: Krohnstieg
+street: "Krohnstieg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"

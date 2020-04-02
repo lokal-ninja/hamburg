@@ -5,7 +5,7 @@ latitude: 53.531216900000004
 longitude: 10.0550835
 postcode: 20539
 city: Hamburg
-street: Ausschläger Allee
+street: "Ausschläger Allee"
 housenumber: 174
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

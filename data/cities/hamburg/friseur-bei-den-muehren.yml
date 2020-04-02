@@ -5,7 +5,7 @@ latitude: 53.5448419
 longitude: 9.9910639
 postcode: 20457
 city: Hamburg
-street: Bei den Mühren
+street: "Bei den Mühren"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 10:30-19:00"

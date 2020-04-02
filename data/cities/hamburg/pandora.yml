@@ -5,7 +5,7 @@ latitude: 53.488655800000004
 longitude: 10.2115697
 postcode: 21029
 city: Hamburg
-street: Sachsentor
+street: "Sachsentor"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"

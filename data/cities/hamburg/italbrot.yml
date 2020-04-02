@@ -5,7 +5,7 @@ latitude: 53.549296500000004
 longitude: 9.944953700000001
 postcode: 22767
 city: Hamburg
-street: Elmenhorststraße
+street: "Elmenhorststraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

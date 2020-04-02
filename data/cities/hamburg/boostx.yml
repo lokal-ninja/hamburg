@@ -5,7 +5,7 @@ latitude: 53.568031600000005
 longitude: 9.98164
 postcode: 20146
 city: Hamburg
-street: Bornstraße
+street: "Bornstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-16:30"

@@ -5,7 +5,7 @@ latitude: 53.657240400000006
 longitude: 10.005028300000001
 postcode: 22419
 city: Hamburg
-street: Langenhorner Chaussee
+street: "Langenhorner Chaussee"
 housenumber: 344
 phone: "+49 40 5311490"
 opening_hours: "Mo-Th 08:00-13:00,14:30-18:00; Fr 08:00-18:00; PH,Sa,Su 08:00-12:00"

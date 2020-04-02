@@ -5,7 +5,7 @@ latitude: 53.5536055
 longitude: 9.9914012
 postcode: 20354
 city: Hamburg
-street: Jungfernstieg
+street: "Jungfernstieg"
 housenumber: 25
 phone: ""
 opening_hours: ""

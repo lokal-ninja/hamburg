@@ -5,7 +5,7 @@ latitude: 53.5682215
 longitude: 9.9510529
 postcode: 22769
 city: Hamburg
-street: Eimsbütteler Straße
+street: "Eimsbütteler Straße"
 housenumber: 98
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-17:00"

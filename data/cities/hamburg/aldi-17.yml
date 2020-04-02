@@ -5,7 +5,7 @@ latitude: 53.63476240000001
 longitude: 9.9567388
 postcode: 22455
 city: Hamburg
-street: Schippelsweg
+street: "Schippelsweg"
 housenumber: 51
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

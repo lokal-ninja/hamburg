@@ -5,7 +5,7 @@ latitude: 53.5650879
 longitude: 9.912009600000001
 postcode: 22761
 city: Hamburg
-street: Woyrschweg
+street: "Woyrschweg"
 housenumber: 54
 phone: ""
 opening_hours: "Mo-Fr 10:00-17:00"

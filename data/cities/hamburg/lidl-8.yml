@@ -5,7 +5,7 @@ latitude: 53.555229100000005
 longitude: 10.0170875
 postcode: 20099
 city: Hamburg
-street: Steindamm
+street: "Steindamm"
 housenumber: 94
 phone: ""
 opening_hours: "Mo-Sa 8:00-21:00; PH off"

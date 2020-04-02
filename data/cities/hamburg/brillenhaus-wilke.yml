@@ -5,7 +5,7 @@ latitude: 53.584995400000004
 longitude: 10.0246843
 postcode: 22303
 city: Hamburg
-street: Jarrestraße
+street: "Jarrestraße"
 housenumber: 37
 phone: "+49 40 270 82 91"
 opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:30; Sa 10:00-13:00"

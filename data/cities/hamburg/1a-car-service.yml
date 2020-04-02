@@ -5,7 +5,7 @@ latitude: 53.618616200000005
 longitude: 10.0114613
 postcode: 22335
 city: Hamburg
-street: Suhrenkamp
+street: "Suhrenkamp"
 housenumber: 35
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.556665100000004
 longitude: 9.9221242
 postcode: 22765
 city: Hamburg
-street: Planckstraße
+street: "Planckstraße"
 housenumber: 21
 phone: "+49 40 3901869"
 opening_hours: "Tu-Fr 08:00-19:00;Sa 08:00-15:00"

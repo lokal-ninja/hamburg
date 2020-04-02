@@ -5,7 +5,7 @@ latitude: 53.594424000000004
 longitude: 10.000686100000001
 postcode: 22299
 city: Hamburg
-street: Winterhuder Marktplatz
+street: "Winterhuder Marktplatz"
 housenumber: 6-7
 phone: "+49 40 477999"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

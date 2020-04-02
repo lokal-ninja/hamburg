@@ -5,7 +5,7 @@ latitude: 53.598479000000005
 longitude: 9.8539397
 postcode: 22869
 city: Schenefeld
-street: Altonaer Chaussee
+street: "Altonaer Chaussee"
 housenumber: 4
 phone: "+49 40 32030395"
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-19:00"

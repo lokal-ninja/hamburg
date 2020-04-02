@@ -5,7 +5,7 @@ latitude: 53.5236637
 longitude: 10.0846921
 postcode: 22113
 city: Hamburg
-street: Bredowstraße
+street: "Bredowstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Th 06:30-17:00; Fr 06:30-15:00; Sa 07:00-11:00"

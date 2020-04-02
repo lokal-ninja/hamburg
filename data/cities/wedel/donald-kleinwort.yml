@@ -5,7 +5,7 @@ latitude: 53.5725538
 longitude: 9.7025453
 postcode: 22880
 city: Wedel
-street: Hafenstraße
+street: "Hafenstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

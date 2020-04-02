@@ -5,7 +5,7 @@ latitude: 53.641124700000006
 longitude: 10.037499
 postcode: 22339
 city: Hamburg
-street: Hummelsbüttler Hauptstraße
+street: "Hummelsbüttler Hauptstraße"
 housenumber: 66
 phone: ""
 opening_hours: "Tu-Fr 8:30-18:00; Sa 8:00-12:00; PH off"

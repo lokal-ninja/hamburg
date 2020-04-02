@@ -5,7 +5,7 @@ latitude: 53.576066100000006
 longitude: 10.0396313
 postcode: 22081
 city: Hamburg
-street: Volksdorfer Straße
+street: "Volksdorfer Straße"
 housenumber: 14
 phone: "+49 40 25490549"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.574764200000004
 longitude: 9.9778731
 postcode: 20144
 city: Hamburg
-street: Grindelberg
+street: "Grindelberg"
 housenumber: 62
 phone: ""
 opening_hours: "Tu-Fr 11:00-19:00; Sa 10:00-16:00"

@@ -5,7 +5,7 @@ latitude: 53.582227100000004
 longitude: 9.7267256
 postcode: 22880
 city: Wedel
-street: Kronskamp
+street: "Kronskamp"
 housenumber: 94-96
 phone: ""
 opening_hours: "07:00-18:00"

@@ -5,7 +5,7 @@ latitude: 53.4594108
 longitude: 9.9716758
 postcode: 21073
 city: Hamburg
-street: Eißendorfer Straße
+street: "Eißendorfer Straße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Fr 05:00-17:00"

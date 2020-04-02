@@ -5,7 +5,7 @@ latitude: 53.577396
 longitude: 9.9378401
 postcode: 22525
 city: Hamburg
-street: Kieler Straße
+street: "Kieler Straße"
 housenumber: 206
 phone: ""
 opening_hours: ""

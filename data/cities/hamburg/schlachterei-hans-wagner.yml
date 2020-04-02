@@ -5,7 +5,7 @@ latitude: 53.579415000000004
 longitude: 9.945529800000001
 postcode: 20257
 city: Hamburg
-street: Methfesselstraße
+street: "Methfesselstraße"
 housenumber: 51
 phone: "+49 40 40 83 26"
 opening_hours: "Tu-Fr 07:30-18:00"

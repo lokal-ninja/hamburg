@@ -5,7 +5,7 @@ latitude: 53.5662152
 longitude: 10.0579367
 postcode: 22089
 city: Hamburg
-street: Pappelallee
+street: "Pappelallee"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-19:00"

@@ -5,7 +5,7 @@ latitude: 53.606112700000004
 longitude: 9.9008559
 postcode: 22523
 city: Hamburg
-street: Elbgaustraße
+street: "Elbgaustraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00; PH,Su off"

@@ -5,7 +5,7 @@ latitude: 53.618282300000004
 longitude: 10.080624700000001
 postcode: 22175
 city: Hamburg
-street: Berner Chaussee
+street: "Berner Chaussee"
 housenumber: 10
 phone: ""
 opening_hours: ""

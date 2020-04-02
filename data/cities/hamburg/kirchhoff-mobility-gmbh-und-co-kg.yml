@@ -5,7 +5,7 @@ latitude: 53.5183412
 longitude: 10.0047941
 postcode: 21107
 city: Hamburg
-street: Stenzelring
+street: "Stenzelring"
 housenumber: 14a
 phone: "+49 40 20 947 936"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.6184686
 longitude: 10.0296385
 postcode: 22337
 city: Hamburg
-street: Alsterdorfer Straße
+street: "Alsterdorfer Straße"
 housenumber: 536
 phone: ""
 opening_hours: ""

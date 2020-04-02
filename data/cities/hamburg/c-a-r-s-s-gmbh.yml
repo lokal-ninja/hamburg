@@ -5,7 +5,7 @@ latitude: 53.5600517
 longitude: 9.928120900000001
 postcode: 22761
 city: Hamburg
-street: Bahrenfelder Steindamm
+street: "Bahrenfelder Steindamm"
 housenumber: 2
 phone: "+49 40 8501185"
 opening_hours: "Mo-Th 09:00-18:00, Fr 09:00-17:00"

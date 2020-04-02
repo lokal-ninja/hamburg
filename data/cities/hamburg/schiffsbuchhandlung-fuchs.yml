@@ -5,7 +5,7 @@ latitude: 53.5415239
 longitude: 10.003919600000001
 postcode: 20457
 city: Hamburg
-street: Shanghaiallee
+street: "Shanghaiallee"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH off"

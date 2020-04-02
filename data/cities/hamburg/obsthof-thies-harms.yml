@@ -5,7 +5,7 @@ latitude: 53.5079287
 longitude: 9.872426800000001
 postcode: 21129
 city: Hamburg
-street: Hohenwischer Straße
+street: "Hohenwischer Straße"
 housenumber: 
 phone: "+49 40 74527656"
 opening_hours: "Mo-Tu 11:00-18:00, Th-Fr 11:00-18:00, Sa 11:00-16:00"

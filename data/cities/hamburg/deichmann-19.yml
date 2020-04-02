@@ -5,7 +5,7 @@ latitude: 53.4577864
 longitude: 9.987372200000001
 postcode: 21073
 city: Hamburg
-street: Seeveplatz
+street: "Seeveplatz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00; PH off"

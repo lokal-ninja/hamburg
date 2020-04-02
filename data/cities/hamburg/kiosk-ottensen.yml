@@ -5,7 +5,7 @@ latitude: 53.555365300000005
 longitude: 9.928438400000001
 postcode: 22765
 city: Hamburg
-street: Bahrenfelder Straße
+street: "Bahrenfelder Straße"
 housenumber: 199
 phone: ""
 opening_hours: ""

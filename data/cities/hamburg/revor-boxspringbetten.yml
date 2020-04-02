@@ -5,7 +5,7 @@ latitude: 53.586090600000006
 longitude: 10.0071074
 postcode: 22301
 city: Hamburg
-street: Poßmoorweg
+street: "Poßmoorweg"
 housenumber: 3
 phone: "+49 40 69454997"
 opening_hours: "Mo-We,Fr,Sa 11:00-18:00; Th 11:00-20:00"

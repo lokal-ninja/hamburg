@@ -5,7 +5,7 @@ latitude: 53.4601946
 longitude: 9.982768
 postcode: 21073
 city: Hamburg
-street: Harburger Ring
+street: "Harburger Ring"
 housenumber: 21
 phone: "+49 40 244 322 79"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"

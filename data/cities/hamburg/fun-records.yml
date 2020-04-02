@@ -5,7 +5,7 @@ latitude: 53.5694669
 longitude: 9.949007700000001
 postcode: 22769
 city: Hamburg
-street: Eimsbütteler Straße
+street: "Eimsbütteler Straße"
 housenumber: 139
 phone: "+49 40 196060"
 opening_hours: "Mo-Fr 09:00-18:00, Sa Nach Vereinbarung"

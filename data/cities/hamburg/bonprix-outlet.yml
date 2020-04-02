@@ -5,7 +5,7 @@ latitude: 53.598976500000006
 longitude: 10.0712594
 postcode: 22179
 city: Hamburg
-street: Werner-Otto-Straße
+street: "Werner-Otto-Straße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"

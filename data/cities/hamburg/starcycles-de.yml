@@ -5,7 +5,7 @@ latitude: 53.548920800000005
 longitude: 10.003278700000001
 postcode: 20095
 city: Hamburg
-street: Springeltwiete
+street: "Springeltwiete"
 housenumber: 4
 phone: "+49 40 70975055"
 opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-16:00"

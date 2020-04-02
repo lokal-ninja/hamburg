@@ -5,7 +5,7 @@ latitude: 53.5509585
 longitude: 10.0011843
 postcode: 20095
 city: Hamburg
-street: Mönckebergstraße
+street: "Mönckebergstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

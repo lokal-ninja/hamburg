@@ -5,7 +5,7 @@ latitude: 53.606067700000004
 longitude: 10.1580781
 postcode: 22143
 city: Hamburg
-street: Güstrower Weg
+street: "Güstrower Weg"
 housenumber: 6
 phone: ""
 opening_hours: ""

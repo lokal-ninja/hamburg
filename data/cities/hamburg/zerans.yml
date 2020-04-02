@@ -5,7 +5,7 @@ latitude: 53.5868904
 longitude: 10.045419500000001
 postcode: 22305
 city: Hamburg
-street: Wiesendamm
+street: "Wiesendamm"
 housenumber: 6
 phone: ""
 opening_hours: ""

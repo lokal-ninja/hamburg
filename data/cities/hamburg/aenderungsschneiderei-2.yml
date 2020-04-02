@@ -5,7 +5,7 @@ latitude: 53.533883700000004
 longitude: 10.044468400000001
 postcode: 20539
 city: Hamburg
-street: Vierländer Damm
+street: "Vierländer Damm"
 housenumber: 25
 phone: "+49 40 28 51 42 64"
 opening_hours: "Tu-Fr 09:00-13:00; 14:00-18:00; Sa 09:00-12:00"

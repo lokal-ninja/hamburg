@@ -5,7 +5,7 @@ latitude: 53.574406
 longitude: 9.705476200000001
 postcode: 22880
 city: Wedel
-street: Bei der Doppeleiche
+street: "Bei der Doppeleiche"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

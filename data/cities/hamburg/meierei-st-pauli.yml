@@ -5,7 +5,7 @@ latitude: 53.5525637
 longitude: 9.9607244
 postcode: 20359
 city: Hamburg
-street: Clemens-Schultz-Straße
+street: "Clemens-Schultz-Straße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Tu 09:00-21:00, We 13:00-21:00, Th-Fr 09:00-21:00, Sa 10:00-15:00"

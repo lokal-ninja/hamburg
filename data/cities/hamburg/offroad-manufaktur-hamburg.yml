@@ -5,7 +5,7 @@ latitude: 53.605591800000006
 longitude: 9.9601924
 postcode: 22529
 city: Hamburg
-street: Kollaustraße
+street: "Kollaustraße"
 housenumber: 73
 phone: "+49 40 401398-48"
 opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00;Sa 10:00-13:00"

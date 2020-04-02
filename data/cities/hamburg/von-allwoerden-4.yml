@@ -5,7 +5,7 @@ latitude: 53.576385800000004
 longitude: 10.0148299
 postcode: 22085
 city: Hamburg
-street: Hofweg
+street: "Hofweg"
 housenumber: 81
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 53.489465
 longitude: 10.1868339
 postcode: 21033
 city: Hamburg
-street: Oberer Landweg
+street: "Oberer Landweg"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00"

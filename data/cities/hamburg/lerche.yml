@@ -5,7 +5,7 @@ latitude: 53.6488547
 longitude: 10.1635872
 postcode: 22359
 city: Hamburg
-street: Claus-Ferck-Straße
+street: "Claus-Ferck-Straße"
 housenumber: 3a
 phone: ""
 opening_hours: ""

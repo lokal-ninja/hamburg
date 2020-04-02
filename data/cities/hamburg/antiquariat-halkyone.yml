@@ -5,7 +5,7 @@ latitude: 53.553042100000006
 longitude: 9.9387643
 postcode: 22767
 city: Hamburg
-street: Lamp'lweg
+street: "Lamp'lweg"
 housenumber: 10
 phone: "+49 40 389714"
 opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 11:00-13:00||by appointment"

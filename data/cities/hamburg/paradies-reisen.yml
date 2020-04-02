@@ -5,7 +5,7 @@ latitude: 53.5778776
 longitude: 10.0630752
 postcode: 22049
 city: Hamburg
-street: Stormarner Straße
+street: "Stormarner Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:30"

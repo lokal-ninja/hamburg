@@ -5,7 +5,7 @@ latitude: 53.580445600000004
 longitude: 10.0379419
 postcode: 22083
 city: Hamburg
-street: Weidestraße
+street: "Weidestraße"
 housenumber: 22
 phone: "+49 40 20972400"
 opening_hours: ""

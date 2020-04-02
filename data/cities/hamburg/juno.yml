@@ -5,7 +5,7 @@ latitude: 53.558529
 longitude: 9.9733432
 postcode: 20357
 city: Hamburg
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 136
 phone: "+49 40 3866 4617"
 opening_hours: "Tu-Fr 12:00-19:00; Sa 12:00-18:00 und nach Vereinbarung"

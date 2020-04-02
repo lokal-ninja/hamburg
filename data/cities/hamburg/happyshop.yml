@@ -5,7 +5,7 @@ latitude: 53.5921796
 longitude: 10.075436
 postcode: 22049
 city: Hamburg
-street: Lesserstraße
+street: "Lesserstraße"
 housenumber: 203
 phone: ""
 opening_hours: ""

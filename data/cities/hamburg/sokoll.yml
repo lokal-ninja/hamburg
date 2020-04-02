@@ -5,7 +5,7 @@ latitude: 53.553740100000006
 longitude: 9.963361
 postcode: 20359
 city: Hamburg
-street: Hein-Hoyer-Straße
+street: "Hein-Hoyer-Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

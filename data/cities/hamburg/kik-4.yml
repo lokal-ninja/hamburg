@@ -5,7 +5,7 @@ latitude: 53.5294286
 longitude: 10.149626900000001
 postcode: 22115
 city: Hamburg
-street: Kandinskyallee
+street: "Kandinskyallee"
 housenumber: 23g
 phone: ""
 opening_hours: ""

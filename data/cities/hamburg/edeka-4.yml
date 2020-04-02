@@ -5,7 +5,7 @@ latitude: 53.5617881
 longitude: 9.9154785
 postcode: 22761
 city: Hamburg
-street: Gasstraße
+street: "Gasstraße"
 housenumber: 4
 phone: "+49 40 85407727"
 opening_hours: "Mo-Sa 07:00 - 20:00"

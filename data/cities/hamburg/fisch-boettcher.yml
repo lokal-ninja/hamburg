@@ -5,7 +5,7 @@ latitude: 53.580752700000005
 longitude: 10.0119589
 postcode: 22303
 city: Hamburg
-street: Mühlenkamp
+street: "Mühlenkamp"
 housenumber: 17
 phone: ""
 opening_hours: "Tu-Th 08:30-13:30,15:00-18:00; Fr 08:30-13:30,15:00-18:15; Sa 08:15-12:30; PH off"

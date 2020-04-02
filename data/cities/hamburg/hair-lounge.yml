@@ -5,7 +5,7 @@ latitude: 53.4646831
 longitude: 9.9825918
 postcode: 21079
 city: Hamburg
-street: Harburger Schloßstraße
+street: "Harburger Schloßstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.5730251
 longitude: 10.0183646
 postcode: 22085
 city: Hamburg
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

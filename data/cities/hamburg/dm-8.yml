@@ -5,7 +5,7 @@ latitude: 53.5486221
 longitude: 9.989988100000001
 postcode: 20457
 city: Hamburg
-street: Großer Burstah
+street: "Großer Burstah"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00, Sa 09:00-19:00"

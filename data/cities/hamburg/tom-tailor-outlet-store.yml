@@ -5,7 +5,7 @@ latitude: 53.620876300000006
 longitude: 9.957369700000001
 postcode: 22453
 city: Hamburg
-street: Garstedter Weg
+street: "Garstedter Weg"
 housenumber: 14
 phone: ""
 opening_hours: ""

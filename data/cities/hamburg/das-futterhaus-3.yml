@@ -5,7 +5,7 @@ latitude: 53.5395035
 longitude: 10.111270900000001
 postcode: 22111
 city: Hamburg
-street: Reclamstraße
+street: "Reclamstraße"
 housenumber: 19
 phone: "+49 40 73673727"
 opening_hours: "Mo-Sa 09:00-20:00"

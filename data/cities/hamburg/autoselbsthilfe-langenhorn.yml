@@ -5,7 +5,7 @@ latitude: 53.6626319
 longitude: 10.0065884
 postcode: 22419
 city: Hamburg
-street: Oehleckerring
+street: "Oehleckerring"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 09:00-21:00;Sa 09:00-18:00"

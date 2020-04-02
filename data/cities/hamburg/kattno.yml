@@ -5,7 +5,7 @@ latitude: 53.554501200000004
 longitude: 10.0105555
 postcode: 20099
 city: Hamburg
-street: Ellmenreichstraße
+street: "Ellmenreichstraße"
 housenumber: 26
 phone: "+49 40 28 00 42 97"
 opening_hours: "Mo-Sa 10:00-20:00"

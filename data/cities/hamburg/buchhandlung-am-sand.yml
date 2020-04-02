@@ -5,7 +5,7 @@ latitude: 53.4608799
 longitude: 9.9806723
 postcode: 21073
 city: Hamburg
-street: Hölertwiete
+street: "Hölertwiete"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.632949100000005
 longitude: 9.910231900000001
 postcode: 22457
 city: Hamburg
-street: Pinneberger Straße
+street: "Pinneberger Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00"

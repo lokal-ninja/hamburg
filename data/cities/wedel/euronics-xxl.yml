@@ -5,7 +5,7 @@ latitude: 53.5846013
 longitude: 9.7261009
 postcode: 22880
 city: Wedel
-street: Rissener Straße
+street: "Rissener Straße"
 housenumber: 125
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00; PH off"

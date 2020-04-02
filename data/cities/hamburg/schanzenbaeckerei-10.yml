@@ -5,7 +5,7 @@ latitude: 53.465855000000005
 longitude: 9.9874908
 postcode: 21079
 city: Hamburg
-street: Veritaskai
+street: "Veritaskai"
 housenumber: 4
 phone: "+49 40 30085532"
 opening_hours: "Mo-Fr 08:00-18:00"

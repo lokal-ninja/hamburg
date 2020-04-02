@@ -5,7 +5,7 @@ latitude: 53.587194700000005
 longitude: 10.091727
 postcode: 22047
 city: Hamburg
-street: Friedrich-Ebert-Damm
+street: "Friedrich-Ebert-Damm"
 housenumber: 112
 phone: "+49 40 63608578"
 opening_hours: "Mo-Fr 09:30-18:30, Sa 10:00-15:30"

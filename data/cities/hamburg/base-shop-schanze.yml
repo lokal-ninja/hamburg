@@ -5,7 +5,7 @@ latitude: 53.5599591
 longitude: 9.9634497
 postcode: 20357
 city: Hamburg
-street: Schulterblatt
+street: "Schulterblatt"
 housenumber: 21
 phone: "+49 178 8880 444"
 opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-15:00"

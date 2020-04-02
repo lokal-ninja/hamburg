@@ -5,7 +5,7 @@ latitude: 53.586507700000006
 longitude: 10.094922200000001
 postcode: 22047
 city: Hamburg
-street: Helbingstraße
+street: "Helbingstraße"
 housenumber: 63
 phone: ""
 opening_hours: "Mo-Sa 10:00-18:00"

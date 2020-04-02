@@ -5,7 +5,7 @@ latitude: 53.629135700000006
 longitude: 9.9285227
 postcode: 22459
 city: Hamburg
-street: Heidlohstraße
+street: "Heidlohstraße"
 housenumber: 1
 phone: "+49 40 5500333"
 opening_hours: "Mo-Th 10:00-12:30,15:00-18:00; Fr 10:00-12:30,15:00-18:30; Sa 10:00-13:00"

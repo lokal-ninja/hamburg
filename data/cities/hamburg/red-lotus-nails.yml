@@ -5,7 +5,7 @@ latitude: 53.575177800000006
 longitude: 9.955516600000001
 postcode: 20259
 city: Hamburg
-street: Osterstraße
+street: "Osterstraße"
 housenumber: 75
 phone: "+49 40 67304328"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

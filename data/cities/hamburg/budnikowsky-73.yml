@@ -5,7 +5,7 @@ latitude: 53.5796633
 longitude: 9.9453669
 postcode: 20257
 city: Hamburg
-street: Müggenkampstraße
+street: "Müggenkampstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:30"

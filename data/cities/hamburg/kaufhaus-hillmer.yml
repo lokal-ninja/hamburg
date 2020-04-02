@@ -5,7 +5,7 @@ latitude: 53.671483800000004
 longitude: 10.1261683
 postcode: 22395
 city: Hamburg
-street: Volksdorfer Damm
+street: "Volksdorfer Damm"
 housenumber: 270
 phone: ""
 opening_hours: ""

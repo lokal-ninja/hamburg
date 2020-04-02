@@ -5,7 +5,7 @@ latitude: 53.5721374
 longitude: 9.9255586
 postcode: 22525
 city: Hamburg
-street: Rondenbarg
+street: "Rondenbarg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"

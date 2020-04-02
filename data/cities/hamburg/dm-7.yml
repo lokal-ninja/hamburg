@@ -5,7 +5,7 @@ latitude: 53.5924314
 longitude: 9.9889165
 postcode: 20249
 city: Hamburg
-street: Eppendorfer Landstraße
+street: "Eppendorfer Landstraße"
 housenumber: 108
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

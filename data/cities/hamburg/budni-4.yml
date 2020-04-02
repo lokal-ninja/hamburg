@@ -5,7 +5,7 @@ latitude: 53.599905400000004
 longitude: 9.9626411
 postcode: 22529
 city: Hamburg
-street: Vogt-Wells-Straße
+street: "Vogt-Wells-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

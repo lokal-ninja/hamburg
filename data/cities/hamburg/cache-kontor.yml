@@ -5,7 +5,7 @@ latitude: 53.5609279
 longitude: 9.9666669
 postcode: 20357
 city: Hamburg
-street: Sternstraße
+street: "Sternstraße"
 housenumber: 81e
 phone: "+49 (40) 3860 9622"
 opening_hours: "Mo-We 09:00-17:00; Th 09:00-20:00; Fr 09:00-15:00; Sa[1,2] 12:00-16:00"

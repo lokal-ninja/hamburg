@@ -5,7 +5,7 @@ latitude: 53.6609065
 longitude: 10.085713100000001
 postcode: 22399
 city: Hamburg
-street: Poppenbüttler Hauptstraße
+street: "Poppenbüttler Hauptstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

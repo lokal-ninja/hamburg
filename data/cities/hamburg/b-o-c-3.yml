@@ -5,7 +5,7 @@ latitude: 53.601403100000006
 longitude: 9.9768086
 postcode: 22529
 city: Hamburg
-street: Nedderfeld
+street: "Nedderfeld"
 housenumber: 98
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

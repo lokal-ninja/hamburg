@@ -5,7 +5,7 @@ latitude: 53.6349151
 longitude: 10.0147379
 postcode: 22335
 city: Hamburg
-street: Erdkampsweg
+street: "Erdkampsweg"
 housenumber: 134
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

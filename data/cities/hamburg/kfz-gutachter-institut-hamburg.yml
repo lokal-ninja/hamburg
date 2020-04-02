@@ -5,7 +5,7 @@ latitude: 53.552478900000004
 longitude: 9.992229
 postcode: 20354
 city: Hamburg
-street: Neuer Wall
+street: "Neuer Wall"
 housenumber: 10
 phone: ""
 opening_hours: ""

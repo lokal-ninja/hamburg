@@ -5,7 +5,7 @@ latitude: 53.671862700000005
 longitude: 10.0903452
 postcode: 22399
 city: Hamburg
-street: An der Alsterschleife
+street: "An der Alsterschleife"
 housenumber: 27
 phone: ""
 opening_hours: ""

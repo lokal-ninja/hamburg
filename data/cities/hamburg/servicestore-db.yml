@@ -5,7 +5,7 @@ latitude: 53.5638426
 longitude: 9.965697200000001
 postcode: 20357
 city: Hamburg
-street: Dänenweg
+street: "Dänenweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Th 05:30-23:00, Fr 05:30-02:00, Sa 07:30-24:00; PH,Su 07:30-23:00"

@@ -5,7 +5,7 @@ latitude: 53.589047900000004
 longitude: 9.8751344
 postcode: 22547
 city: Hamburg
-street: Luruper Hauptstraße
+street: "Luruper Hauptstraße"
 housenumber: 107
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

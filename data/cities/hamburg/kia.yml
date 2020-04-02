@@ -5,7 +5,7 @@ latitude: 53.592809900000006
 longitude: 9.922199800000001
 postcode: 22525
 city: Hamburg
-street: Volksparkstraße
+street: "Volksparkstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

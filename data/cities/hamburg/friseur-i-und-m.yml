@@ -5,7 +5,7 @@ latitude: 53.579377300000004
 longitude: 9.9495308
 postcode: 20255
 city: Hamburg
-street: Stellinger Weg
+street: "Stellinger Weg"
 housenumber: 28
 phone: ""
 opening_hours: "Tu-Fr 09:30-18:30; Sa 09:30-16:00"

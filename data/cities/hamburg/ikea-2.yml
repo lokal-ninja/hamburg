@@ -5,7 +5,7 @@ latitude: 53.5098411
 longitude: 10.093290000000001
 postcode: 22113
 city: Hamburg
-street: Unterer Landweg
+street: "Unterer Landweg"
 housenumber: 77
 phone: ""
 opening_hours: "Mo-Sa 10:00-21:00; PH closed"

@@ -5,7 +5,7 @@ latitude: 53.57323890000001
 longitude: 10.018430700000001
 postcode: 22085
 city: Hamburg
-street: Arndtstraße
+street: "Arndtstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 06:30-15:00; Sa 06:30-12:30; Su 08:00-12:00"

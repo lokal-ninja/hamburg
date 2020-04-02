@@ -5,7 +5,7 @@ latitude: 53.532763800000005
 longitude: 9.879785400000001
 postcode: 21129
 city: Hamburg
-street: Steendiek
+street: "Steendiek"
 housenumber: 40
 phone: "+49 40 33396946"
 opening_hours: ""

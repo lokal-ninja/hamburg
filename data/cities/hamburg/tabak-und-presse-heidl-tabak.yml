@@ -5,7 +5,7 @@ latitude: 53.5420256
 longitude: 10.106584600000001
 postcode: 22111
 city: Hamburg
-street: Billstedter Hauptstraße
+street: "Billstedter Hauptstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

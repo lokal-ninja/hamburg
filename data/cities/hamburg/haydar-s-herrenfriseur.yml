@@ -5,7 +5,7 @@ latitude: 53.607890000000005
 longitude: 10.117045500000001
 postcode: 22159
 city: Hamburg
-street: August-Krogmann-Straße
+street: "August-Krogmann-Straße"
 housenumber: 22
 phone: "+49 176 26931840"
 opening_hours: ""

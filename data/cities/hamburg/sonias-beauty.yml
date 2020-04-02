@@ -5,7 +5,7 @@ latitude: 53.590912700000004
 longitude: 9.973849000000001
 postcode: 20251
 city: Hamburg
-street: Martinistraße
+street: "Martinistraße"
 housenumber: 52
 phone: "+49 40 97073447"
 opening_hours: "Mo-Fr 10:00-18:00"

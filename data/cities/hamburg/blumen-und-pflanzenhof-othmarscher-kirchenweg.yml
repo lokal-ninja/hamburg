@@ -5,7 +5,7 @@ latitude: 53.5520355
 longitude: 9.9068857
 postcode: 22763
 city: Hamburg
-street: Othmarscher Kirchenweg
+street: "Othmarscher Kirchenweg"
 housenumber: 116-118
 phone: "+49 40 880 6935"
 opening_hours: "Mo,Tu,Th,Fr 08:00-13:00, Mo-Fr 15:00-18:00, We 08:00-13:00; Sa 08:00-13:00"

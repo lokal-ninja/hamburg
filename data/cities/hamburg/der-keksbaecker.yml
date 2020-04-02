@@ -5,7 +5,7 @@ latitude: 53.5836491
 longitude: 9.9549301
 postcode: 22529
 city: Hamburg
-street: Sorthmannweg
+street: "Sorthmannweg"
 housenumber: 10
 phone: "+49 40 5605006"
 opening_hours: ""

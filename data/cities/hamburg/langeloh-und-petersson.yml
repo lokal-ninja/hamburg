@@ -5,7 +5,7 @@ latitude: 53.584174000000004
 longitude: 9.9804489
 postcode: 20251
 city: Hamburg
-street: Lehmweg
+street: "Lehmweg"
 housenumber: 42
 phone: "+49 40 58 96 12 84"
 opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-16:00"

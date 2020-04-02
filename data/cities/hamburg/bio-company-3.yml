@@ -5,7 +5,7 @@ latitude: 53.5601453
 longitude: 9.9586225
 postcode: 22769
 city: Hamburg
-street: Stresemannstraße
+street: "Stresemannstraße"
 housenumber: 62
 phone: "+49 40 370281550"
 opening_hours: "Mo-Sa 08:00-20:00 open, Mo-Sa 07:30-20:00 bakery"

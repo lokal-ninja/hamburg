@@ -5,7 +5,7 @@ latitude: 53.6190616
 longitude: 10.000868200000001
 postcode: 22335
 city: Hamburg
-street: Sportallee
+street: "Sportallee"
 housenumber: 72
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00, Sa 10:00-15:00"

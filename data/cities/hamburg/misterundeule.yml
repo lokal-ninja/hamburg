@@ -5,7 +5,7 @@ latitude: 53.547942000000006
 longitude: 9.9894417
 postcode: 20457
 city: Hamburg
-street: Hopfenmarkt
+street: "Hopfenmarkt"
 housenumber: 31
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.5742241
 longitude: 10.048252100000001
 postcode: 22081
 city: Hamburg
-street: Gluckstraße
+street: "Gluckstraße"
 housenumber: 73
 phone: "+49 40 295424"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.5456124
 longitude: 10.0248212
 postcode: 20097
 city: Hamburg
-street: Hammerbrookstraße
+street: "Hammerbrookstraße"
 housenumber: 89
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00"

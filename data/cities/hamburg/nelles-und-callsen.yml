@@ -5,7 +5,7 @@ latitude: 53.587959500000004
 longitude: 9.850558600000001
 postcode: 22549
 city: Hamburg
-street: Bornheide
+street: "Bornheide"
 housenumber: 57e
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00; PH off"

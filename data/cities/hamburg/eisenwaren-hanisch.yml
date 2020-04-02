@@ -5,7 +5,7 @@ latitude: 53.5602035
 longitude: 10.064248300000001
 postcode: 20535
 city: Hamburg
-street: Sievekingsallee
+street: "Sievekingsallee"
 housenumber: 105
 phone: ""
 opening_hours: ""

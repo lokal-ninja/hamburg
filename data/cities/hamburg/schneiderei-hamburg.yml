@@ -5,7 +5,7 @@ latitude: 53.557956100000006
 longitude: 10.0356024
 postcode: 20535
 city: Hamburg
-street: Bürgerweide
+street: "Bürgerweide"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

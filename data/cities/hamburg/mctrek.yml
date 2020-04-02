@@ -5,7 +5,7 @@ latitude: 53.48081680000001
 longitude: 10.207248700000001
 postcode: 21029
 city: Hamburg
-street: Curslacker Neuer Deich
+street: "Curslacker Neuer Deich"
 housenumber: 44
 phone: "+49 40 72 00 42 56"
 opening_hours: "Mo-Sa 10:00-19:00; PH Su off"

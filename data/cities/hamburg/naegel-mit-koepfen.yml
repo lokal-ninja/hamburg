@@ -5,7 +5,7 @@ latitude: 53.552841
 longitude: 9.942835
 postcode: 22767
 city: Hamburg
-street: Lornsenstraße
+street: "Lornsenstraße"
 housenumber: 13
 phone: "+49 40 18020946"
 opening_hours: ""

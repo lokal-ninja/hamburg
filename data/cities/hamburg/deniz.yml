@@ -5,7 +5,7 @@ latitude: 53.551496
 longitude: 9.947044
 postcode: 
 city: Hamburg
-street: Große Bergstraße
+street: "Große Bergstraße"
 housenumber: 161
 phone: ""
 opening_hours: ""

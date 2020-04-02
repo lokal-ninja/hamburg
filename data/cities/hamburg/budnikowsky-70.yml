@@ -5,7 +5,7 @@ latitude: 53.560908000000005
 longitude: 9.812062300000001
 postcode: 22587
 city: Hamburg
-street: Propst-Paulsen-Straße
+street: "Propst-Paulsen-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"

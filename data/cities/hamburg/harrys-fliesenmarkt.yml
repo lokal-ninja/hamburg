@@ -5,7 +5,7 @@ latitude: 53.567674100000005
 longitude: 9.929424500000001
 postcode: 22761
 city: Hamburg
-street: Schützenstraße
+street: "Schützenstraße"
 housenumber: 102
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-16:00"

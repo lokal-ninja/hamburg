@@ -5,7 +5,7 @@ latitude: 53.6111664
 longitude: 10.0583174
 postcode: 22309
 city: Hamburg
-street: Schreyerring
+street: "Schreyerring"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH,Su off"

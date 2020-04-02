@@ -5,7 +5,7 @@ latitude: 53.4570209
 longitude: 9.985562600000002
 postcode: 21073
 city: Hamburg
-street: Seevepassage
+street: "Seevepassage"
 housenumber: 4
 phone: ""
 opening_hours: ""

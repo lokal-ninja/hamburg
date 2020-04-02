@@ -5,7 +5,7 @@ latitude: 53.66954380000001
 longitude: 10.0188676
 postcode: 22419
 city: Hamburg
-street: Neubergerweg
+street: "Neubergerweg"
 housenumber: 235
 phone: "+49405311124"
 opening_hours: ""

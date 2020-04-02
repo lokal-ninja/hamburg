@@ -5,7 +5,7 @@ latitude: 53.5654978
 longitude: 10.0459223
 postcode: 22089
 city: Hamburg
-street: Papenstraße
+street: "Papenstraße"
 housenumber: 69
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.5744155
 longitude: 10.1046897
 postcode: 22043
 city: Hamburg
-street: Holstenhofweg
+street: "Holstenhofweg"
 housenumber: 49
 phone: ""
 opening_hours: ""

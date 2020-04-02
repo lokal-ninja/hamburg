@@ -5,7 +5,7 @@ latitude: 53.6750507
 longitude: 10.1379886
 postcode: 22395
 city: Hamburg
-street: Bergstedter Chaussee
+street: "Bergstedter Chaussee"
 housenumber: 214
 phone: ""
 opening_hours: ""

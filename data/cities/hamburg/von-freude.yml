@@ -5,7 +5,7 @@ latitude: 53.557295200000006
 longitude: 9.990234800000001
 postcode: 20354
 city: Hamburg
-street: Colonnaden
+street: "Colonnaden"
 housenumber: 72
 phone: "+49 40 22853515"
 opening_hours: "We,Th 16:00-19:00; Fr 16:00-18:30; Sa 14:00-18:00"

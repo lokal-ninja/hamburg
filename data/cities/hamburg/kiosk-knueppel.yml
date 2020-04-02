@@ -5,7 +5,7 @@ latitude: 53.553693200000005
 longitude: 9.9482199
 postcode: 22767
 city: Hamburg
-street: Virchowstraße
+street: "Virchowstraße"
 housenumber: 64
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:30;Sa 06:00-16:00;Su 07:30-13:00"

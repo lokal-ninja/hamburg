@@ -5,7 +5,7 @@ latitude: 53.699266
 longitude: 10.101357400000001
 postcode: 22397
 city: Hamburg
-street: Poppenbütteler Chaussee
+street: "Poppenbütteler Chaussee"
 housenumber: 92
 phone: "+49 40 6076910"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su 10:00-16:00"

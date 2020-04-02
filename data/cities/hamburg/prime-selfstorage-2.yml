@@ -5,7 +5,7 @@ latitude: 53.5919595
 longitude: 10.0562935
 postcode: 22305
 city: Hamburg
-street: Bramfelder Straße
+street: "Bramfelder Straße"
 housenumber: 149
 phone: "+49 40 692140790"
 opening_hours: "Mo-Su 06:00-23:00"

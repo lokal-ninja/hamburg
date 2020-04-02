@@ -5,7 +5,7 @@ latitude: 53.5515088
 longitude: 10.025590600000001
 postcode: 20097
 city: Hamburg
-street: Spaldingstraße
+street: "Spaldingstraße"
 housenumber: 218
 phone: "+49 40 9876 1466"
 opening_hours: "Mo-Sa 09:30-20:00"

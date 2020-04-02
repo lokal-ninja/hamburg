@@ -5,7 +5,7 @@ latitude: 53.6060742
 longitude: 10.077027000000001
 postcode: 22179
 city: Hamburg
-street: Maimoorweg
+street: "Maimoorweg"
 housenumber: 46
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

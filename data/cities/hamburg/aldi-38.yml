@@ -5,7 +5,7 @@ latitude: 53.5522879
 longitude: 10.0433746
 postcode: 20537
 city: Hamburg
-street: Eiffestraße
+street: "Eiffestraße"
 housenumber: 406
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

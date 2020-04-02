@@ -5,7 +5,7 @@ latitude: 53.477667700000005
 longitude: 10.1982511
 postcode: 21035
 city: Hamburg
-street: Helmut-Nack-Straße
+street: "Helmut-Nack-Straße"
 housenumber: 2
 phone: "+49 040 28 78 78 88"
 opening_hours: ""

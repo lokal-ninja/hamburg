@@ -5,7 +5,7 @@ latitude: 53.6254999
 longitude: 9.9096709
 postcode: 22457
 city: Hamburg
-street: Holsteiner Chaussee
+street: "Holsteiner Chaussee"
 housenumber: 190
 phone: ""
 opening_hours: ""

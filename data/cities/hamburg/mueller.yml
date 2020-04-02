@@ -5,7 +5,7 @@ latitude: 53.540823200000005
 longitude: 10.105210900000001
 postcode: 22111
 city: Hamburg
-street: Möllner Landstraße
+street: "Möllner Landstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

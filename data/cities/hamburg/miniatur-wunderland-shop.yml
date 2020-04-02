@@ -5,7 +5,7 @@ latitude: 53.543760000000006
 longitude: 9.988915200000001
 postcode: 20457
 city: Hamburg
-street: Kehrwieder
+street: "Kehrwieder"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Th 09:30-18:00; Tu 09:30-21:00; Fr 09:30-19:00; Sa 08:00-21:00; PH,Su 08:30-20:00"

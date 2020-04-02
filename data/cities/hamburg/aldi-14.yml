@@ -5,7 +5,7 @@ latitude: 53.559095500000005
 longitude: 9.9484926
 postcode: 22765
 city: Hamburg
-street: Holstenstraße
+street: "Holstenstraße"
 housenumber: 156
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 53.563441000000005
 longitude: 9.9368171
 postcode: 22769
 city: Hamburg
-street: Stresemannstraße
+street: "Stresemannstraße"
 housenumber: 268
 phone: "+49 40 20906892"
 opening_hours: "Mo-Fr 09:00-15:00"

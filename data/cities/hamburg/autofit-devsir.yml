@@ -5,7 +5,7 @@ latitude: 53.57573300000001
 longitude: 10.0829008
 postcode: 22041
 city: Hamburg
-street: Efftingestraße
+street: "Efftingestraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.4581832
 longitude: 10.009423700000001
 postcode: 21079
 city: Hamburg
-street: Großmoorring
+street: "Großmoorring"
 housenumber: 2
 phone: ""
 opening_hours: ""

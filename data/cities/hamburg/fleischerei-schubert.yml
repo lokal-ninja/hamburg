@@ -5,7 +5,7 @@ latitude: 53.5622145
 longitude: 10.060676200000001
 postcode: 20535
 city: Hamburg
-street: Quellenweg
+street: "Quellenweg"
 housenumber: 19
 phone: "+49 40 207923"
 opening_hours: ""

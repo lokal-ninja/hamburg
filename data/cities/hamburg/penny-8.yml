@@ -5,7 +5,7 @@ latitude: 53.569678100000004
 longitude: 9.9642291
 postcode: 20357
 city: Hamburg
-street: Schäferkampsallee
+street: "Schäferkampsallee"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Sa 07:30-23:00"

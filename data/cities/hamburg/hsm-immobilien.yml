@@ -5,7 +5,7 @@ latitude: 53.581045800000005
 longitude: 9.937835100000001
 postcode: 22525
 city: Hamburg
-street: Langenfelder Damm
+street: "Langenfelder Damm"
 housenumber: 67
 phone: ""
 opening_hours: "Mo-Sa 08:00-18:00"

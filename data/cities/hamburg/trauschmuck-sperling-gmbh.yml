@@ -5,7 +5,7 @@ latitude: 53.5616367
 longitude: 10.0314001
 postcode: 22087
 city: Hamburg
-street: Lübecker Straße
+street: "Lübecker Straße"
 housenumber: 95
 phone: "+49 40 63609673"
 opening_hours: "Mo-Fr 11:00-18:00"

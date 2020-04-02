@@ -5,7 +5,7 @@ latitude: 53.653493700000006
 longitude: 10.115007700000001
 postcode: 22393
 city: Hamburg
-street: Waldweg
+street: "Waldweg"
 housenumber: 10
 phone: ""
 opening_hours: ""

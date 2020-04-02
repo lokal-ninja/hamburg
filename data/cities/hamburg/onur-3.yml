@@ -5,7 +5,7 @@ latitude: 53.5415264
 longitude: 10.1022934
 postcode: 22111
 city: Hamburg
-street: Schiffbeker Weg
+street: "Schiffbeker Weg"
 housenumber: 18
 phone: ""
 opening_hours: ""

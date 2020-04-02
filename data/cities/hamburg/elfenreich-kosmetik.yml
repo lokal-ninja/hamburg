@@ -5,7 +5,7 @@ latitude: 53.5754777
 longitude: 10.023514
 postcode: 22083
 city: Hamburg
-street: Humboldtstraße
+street: "Humboldtstraße"
 housenumber: 75
 phone: ""
 opening_hours: ""

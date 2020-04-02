@@ -5,7 +5,7 @@ latitude: 53.558331100000004
 longitude: 9.972534300000001
 postcode: 20357
 city: Hamburg
-street: Glashüttenstraße
+street: "Glashüttenstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

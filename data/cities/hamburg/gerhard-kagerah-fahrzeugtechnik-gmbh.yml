@@ -5,7 +5,7 @@ latitude: 53.5906037
 longitude: 9.912736500000001
 postcode: 22525
 city: Hamburg
-street: Lederstraße
+street: "Lederstraße"
 housenumber: 30
 phone: "+49 40 408304"
 opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-15:00"

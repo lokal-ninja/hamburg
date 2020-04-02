@@ -5,7 +5,7 @@ latitude: 53.603817500000005
 longitude: 9.9659932
 postcode: 22529
 city: Hamburg
-street: Alte Kollaustraße
+street: "Alte Kollaustraße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

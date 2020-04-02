@@ -5,7 +5,7 @@ latitude: 53.582562900000006
 longitude: 10.012892500000001
 postcode: 22303
 city: Hamburg
-street: Schinkelstraße
+street: "Schinkelstraße"
 housenumber: 11
 phone: "+49 40 65 04 36 55"
 opening_hours: "Terminvereinbarung Telefon: 65043656 Handy: 0176-51489447"

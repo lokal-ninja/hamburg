@@ -5,7 +5,7 @@ latitude: 53.5510796
 longitude: 9.9956318
 postcode: 20095
 city: Hamburg
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 09:30-17:30"

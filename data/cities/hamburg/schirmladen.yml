@@ -5,7 +5,7 @@ latitude: 53.5527602
 longitude: 10.0003393
 postcode: 20095
 city: Hamburg
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

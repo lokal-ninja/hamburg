@@ -5,7 +5,7 @@ latitude: 53.54999
 longitude: 10.1003143
 postcode: 22119
 city: Hamburg
-street: Hermannstal
+street: "Hermannstal"
 housenumber: 123
 phone: ""
 opening_hours: ""

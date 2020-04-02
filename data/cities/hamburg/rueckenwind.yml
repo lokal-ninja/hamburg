@@ -5,7 +5,7 @@ latitude: 53.572580300000006
 longitude: 9.845278500000001
 postcode: 22549
 city: Hamburg
-street: Osdorfer Landstraße
+street: "Osdorfer Landstraße"
 housenumber: 233
 phone: "+49 172 9074671"
 opening_hours: "Mo, Fr 10:30-18:00"

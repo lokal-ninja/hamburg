@@ -5,7 +5,7 @@ latitude: 53.5008221
 longitude: 9.8768232
 postcode: 21129
 city: Hamburg
-street: Hinterdeich
+street: "Hinterdeich"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-17:00"

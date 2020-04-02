@@ -5,7 +5,7 @@ latitude: 53.5581898
 longitude: 9.9751884
 postcode: 20357
 city: Hamburg
-street: Karolinenstraße
+street: "Karolinenstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

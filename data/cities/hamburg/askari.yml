@@ -5,7 +5,7 @@ latitude: 53.571045000000005
 longitude: 9.9203759
 postcode: 22525
 city: Hamburg
-street: Holstenkamp
+street: "Holstenkamp"
 housenumber: 58
 phone: ""
 opening_hours: ""

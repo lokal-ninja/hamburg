@@ -5,7 +5,7 @@ latitude: 53.439475800000004
 longitude: 9.998845600000001
 postcode: 21079
 city: Hamburg
-street: Radickestraße
+street: "Radickestraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

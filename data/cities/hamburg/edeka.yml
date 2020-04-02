@@ -5,7 +5,7 @@ latitude: 53.581313800000004
 longitude: 10.0637257
 postcode: 22049
 city: Hamburg
-street: Straßburger Straße
+street: "Straßburger Straße"
 housenumber: 34
 phone: "+49 40 685924"
 opening_hours: "Mo-Sa 07:00-22:00"

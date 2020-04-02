@@ -5,7 +5,7 @@ latitude: 53.583619500000005
 longitude: 9.978979800000001
 postcode: 20251
 city: Hamburg
-street: Löwenstraße
+street: "Löwenstraße"
 housenumber: 16
 phone: "+49 40 47 19 38 00"
 opening_hours: ""

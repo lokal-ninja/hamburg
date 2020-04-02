@@ -5,7 +5,7 @@ latitude: 53.580117900000005
 longitude: 10.0781916
 postcode: 22041
 city: Hamburg
-street: Schwarzlosestraße
+street: "Schwarzlosestraße"
 housenumber: 10
 phone: "+49 (40) 6522214"
 opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-16:00"

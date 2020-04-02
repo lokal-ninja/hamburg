@@ -5,7 +5,7 @@ latitude: 53.5494549
 longitude: 10.016085700000001
 postcode: 20097
 city: Hamburg
-street: Spaldingstraße
+street: "Spaldingstraße"
 housenumber: 77-79
 phone: ""
 opening_hours: "Mo-Fr 05:30-21:00; Sa 09:00-18:00; Su 12:00-18:00"

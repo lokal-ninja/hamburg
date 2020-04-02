@@ -5,7 +5,7 @@ latitude: 53.59993600000001
 longitude: 10.0415024
 postcode: 22307
 city: Hamburg
-street: Fuhlsbüttler Straße
+street: "Fuhlsbüttler Straße"
 housenumber: 324
 phone: "+49 40 64424696"
 opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"

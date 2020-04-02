@@ -5,7 +5,7 @@ latitude: 53.5907229
 longitude: 9.899284100000001
 postcode: 22525
 city: Hamburg
-street: Hellgrundweg
+street: "Hellgrundweg"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 11:00-18:00;Sa 10:00-14:00"

@@ -5,7 +5,7 @@ latitude: 53.553246
 longitude: 9.9313186
 postcode: 22765
 city: Hamburg
-street: Große Rainstraße
+street: "Große Rainstraße"
 housenumber: 27
 phone: "+49 40 397240"
 opening_hours: ""

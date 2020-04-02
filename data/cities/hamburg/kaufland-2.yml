@@ -5,7 +5,7 @@ latitude: 53.58776030000001
 longitude: 10.0942317
 postcode: 22047
 city: Hamburg
-street: Helbingtwiete
+street: "Helbingtwiete"
 housenumber: 7-9
 phone: "+49 40 734356580"
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.4667935
 longitude: 10.201719200000001
 postcode: 21039
 city: Hamburg
-street: Curslacker Neuer Deich
+street: "Curslacker Neuer Deich"
 housenumber: 170
 phone: ""
 opening_hours: ""

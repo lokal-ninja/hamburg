@@ -5,7 +5,7 @@ latitude: 53.6118875
 longitude: 9.957149000000001
 postcode: 22453
 city: Hamburg
-street: Papenreye
+street: "Papenreye"
 housenumber: 2
 phone: "+49 40 58916988"
 opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 53.5748484
 longitude: 10.019192700000001
 postcode: 22085
 city: Hamburg
-street: Zimmerstraße
+street: "Zimmerstraße"
 housenumber: 44
 phone: "+49 40 22 74 8010"
 opening_hours: ""

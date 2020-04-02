@@ -5,7 +5,7 @@ latitude: 53.4626796
 longitude: 9.984429500000001
 postcode: 21073
 city: Hamburg
-street: Großer Schippsee
+street: "Großer Schippsee"
 housenumber: 37
 phone: ""
 opening_hours: "24/7"

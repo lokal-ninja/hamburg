@@ -5,7 +5,7 @@ latitude: 53.562463900000004
 longitude: 9.931288400000001
 postcode: 22761
 city: Hamburg
-street: Taşköprüstraße
+street: "Taşköprüstraße"
 housenumber: 10
 phone: "+49 40 853470"
 opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-20:00"

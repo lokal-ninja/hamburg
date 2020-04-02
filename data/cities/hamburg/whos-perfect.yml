@@ -5,7 +5,7 @@ latitude: 53.550598300000004
 longitude: 10.024093800000001
 postcode: 20097
 city: Hamburg
-street: Nordkanalstraße
+street: "Nordkanalstraße"
 housenumber: 52
 phone: "+49 40 25333740"
 opening_hours: "Mo-Sa 10:00-20:00; Su 13:00-17:00"

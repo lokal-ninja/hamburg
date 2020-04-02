@@ -5,7 +5,7 @@ latitude: 53.564410300000006
 longitude: 9.9200937
 postcode: 22761
 city: Hamburg
-street: Bornkampsweg
+street: "Bornkampsweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

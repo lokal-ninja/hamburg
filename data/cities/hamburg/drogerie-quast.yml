@@ -5,7 +5,7 @@ latitude: 53.5186154
 longitude: 9.811390000000001
 postcode: 21129
 city: Hamburg
-street: Arp-Schnitger-Stieg
+street: "Arp-Schnitger-Stieg"
 housenumber: 123
 phone: ""
 opening_hours: ""

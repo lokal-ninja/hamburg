@@ -5,7 +5,7 @@ latitude: 53.57702990000001
 longitude: 9.9427844
 postcode: 20257
 city: Hamburg
-street: Lappenbergsallee
+street: "Lappenbergsallee"
 housenumber: 36
 phone: "+49 40 4327 6555"
 opening_hours: "Mo-Fr 11:00-20:00; Sa 08:00-16:00"

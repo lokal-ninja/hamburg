@@ -5,7 +5,7 @@ latitude: 53.594266100000006
 longitude: 9.9874208
 postcode: 20251
 city: Hamburg
-street: Erikastraße
+street: "Erikastraße"
 housenumber: 74
 phone: ""
 opening_hours: ""

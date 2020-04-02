@@ -5,7 +5,7 @@ latitude: 53.5809487
 longitude: 9.792052400000001
 postcode: 20259
 city: Hamburg
-street: Sülldorfer Landstraße
+street: "Sülldorfer Landstraße"
 housenumber: 230
 phone: ""
 opening_hours: "24/7"

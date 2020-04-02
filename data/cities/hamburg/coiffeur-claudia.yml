@@ -5,7 +5,7 @@ latitude: 53.508827700000005
 longitude: 10.1864693
 postcode: 21031
 city: Hamburg
-street: Mendelstraße
+street: "Mendelstraße"
 housenumber: 26f
 phone: ""
 opening_hours: ""

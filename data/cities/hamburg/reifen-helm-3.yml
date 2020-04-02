@@ -5,7 +5,7 @@ latitude: 53.668303900000005
 longitude: 10.068196400000001
 postcode: 22399
 city: Hamburg
-street: Poppenbütteler Bogen
+street: "Poppenbütteler Bogen"
 housenumber: 41
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.53409550000001
 longitude: 10.1072454
 postcode: 22113
 city: Hamburg
-street: Billbrookdeich
+street: "Billbrookdeich"
 housenumber: 220
 phone: "+49 40 73090718"
 opening_hours: ""

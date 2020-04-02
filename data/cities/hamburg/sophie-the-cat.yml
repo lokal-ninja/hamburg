@@ -5,7 +5,7 @@ latitude: 53.558326900000004
 longitude: 9.9733649
 postcode: 20357
 city: Hamburg
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 15
 phone: "+49 40 28004952"
 opening_hours: "Mo-Fr 12:00-19:00;Sa 11:00-18:00"

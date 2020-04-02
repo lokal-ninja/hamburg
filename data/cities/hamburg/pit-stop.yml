@@ -5,7 +5,7 @@ latitude: 53.5636256
 longitude: 9.9229733
 postcode: 22761
 city: Hamburg
-street: Stresemannstraße
+street: "Stresemannstraße"
 housenumber: 362
 phone: "+49 40 8507662"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off"

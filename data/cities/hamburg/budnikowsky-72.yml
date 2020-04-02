@@ -5,7 +5,7 @@ latitude: 53.6219491
 longitude: 10.1645398
 postcode: 22145
 city: Hamburg
-street: Meiendorfer Straße
+street: "Meiendorfer Straße"
 housenumber: 89
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

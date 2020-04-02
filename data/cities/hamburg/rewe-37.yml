@@ -5,7 +5,7 @@ latitude: 53.456054800000004
 longitude: 9.9602073
 postcode: 21073
 city: Hamburg
-street: Kirchenhang
+street: "Kirchenhang"
 housenumber: 4-6
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH closed"

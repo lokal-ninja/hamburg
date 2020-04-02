@@ -5,7 +5,7 @@ latitude: 53.59075850000001
 longitude: 9.987791600000001
 postcode: 20249
 city: Hamburg
-street: Eppendorfer Landstraße
+street: "Eppendorfer Landstraße"
 housenumber: 86
 phone: "+49 40 46776959"
 opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00"

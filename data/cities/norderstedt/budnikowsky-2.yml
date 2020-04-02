@@ -5,7 +5,7 @@ latitude: 53.6819834
 longitude: 9.9987476
 postcode: 22848
 city: Norderstedt
-street: Schmuggelstieg
+street: "Schmuggelstieg"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off"

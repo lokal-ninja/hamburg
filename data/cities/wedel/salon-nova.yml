@@ -5,7 +5,7 @@ latitude: 53.5931889
 longitude: 9.723690000000001
 postcode: 22880
 city: Wedel
-street: Hasenkamp
+street: "Hasenkamp"
 housenumber: 12
 phone: "+49 4103 7034580"
 opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-12:00"

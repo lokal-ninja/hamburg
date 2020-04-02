@@ -5,7 +5,7 @@ latitude: 53.5771956
 longitude: 10.0807971
 postcode: 22041
 city: Hamburg
-street: Wandsbeker Zollstraße
+street: "Wandsbeker Zollstraße"
 housenumber: 95
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

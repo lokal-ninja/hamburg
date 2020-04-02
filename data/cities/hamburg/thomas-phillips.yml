@@ -5,7 +5,7 @@ latitude: 53.5800324
 longitude: 10.0764279
 postcode: 22041
 city: Hamburg
-street: Auf dem Königslande
+street: "Auf dem Königslande"
 housenumber: 28b
 phone: "+49-40-68841844"
 opening_hours: "Mo-Sa 08:00-19:00"

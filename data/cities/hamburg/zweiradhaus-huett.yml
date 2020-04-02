@@ -5,7 +5,7 @@ latitude: 53.646071600000006
 longitude: 10.1190707
 postcode: 22393
 city: Hamburg
-street: Berner Weg
+street: "Berner Weg"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"

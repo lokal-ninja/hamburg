@@ -5,7 +5,7 @@ latitude: 53.5521882
 longitude: 9.9355095
 postcode: 22765
 city: Hamburg
-street: Paul-Nevermann-Platz
+street: "Paul-Nevermann-Platz"
 housenumber: 15-16
 phone: ""
 opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-22:00; Su 08:00-21:00; PH 08:00-21:00"

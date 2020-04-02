@@ -5,7 +5,7 @@ latitude: 53.516636600000005
 longitude: 9.9832462
 postcode: 21107
 city: Hamburg
-street: Fährstraße
+street: "Fährstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

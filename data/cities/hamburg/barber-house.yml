@@ -5,7 +5,7 @@ latitude: 53.548281800000005
 longitude: 10.0001177
 postcode: 20457
 city: Hamburg
-street: Hopfensack
+street: "Hopfensack"
 housenumber: 6
 phone: "+49 40 30091838"
 opening_hours: "Tu 09:00-19:00; We-Fr 10:00-19:00; Sa 09:00-16:00"

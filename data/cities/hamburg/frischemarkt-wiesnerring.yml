@@ -5,7 +5,7 @@ latitude: 53.4827237
 longitude: 10.199011
 postcode: 21035
 city: Hamburg
-street: Wiesnerring
+street: "Wiesnerring"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-18:00"

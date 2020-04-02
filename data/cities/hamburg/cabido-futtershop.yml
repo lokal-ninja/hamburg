@@ -5,7 +5,7 @@ latitude: 53.640904600000006
 longitude: 9.948720900000001
 postcode: 22455
 city: Hamburg
-street: Ernst-Mittelbach-Ring
+street: "Ernst-Mittelbach-Ring"
 housenumber: 57
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00; Sa 09:00-13:00"

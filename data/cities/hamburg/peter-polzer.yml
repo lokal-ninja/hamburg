@@ -5,7 +5,7 @@ latitude: 53.559408600000005
 longitude: 9.8874261
 postcode: 22605
 city: Hamburg
-street: Reventlowstraße
+street: "Reventlowstraße"
 housenumber: 66
 phone: "+49 40 85506766"
 opening_hours: ""

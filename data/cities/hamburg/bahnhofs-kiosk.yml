@@ -5,7 +5,7 @@ latitude: 53.500823600000004
 longitude: 10.0087468
 postcode: 21109
 city: Hamburg
-street: Wittestraße
+street: "Wittestraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

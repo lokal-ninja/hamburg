@@ -5,7 +5,7 @@ latitude: 53.593159400000005
 longitude: 9.9884515
 postcode: 
 city: Hamburg
-street: Eppendorfer Landstraße
+street: "Eppendorfer Landstraße"
 housenumber: 122A
 phone: ""
 opening_hours: ""

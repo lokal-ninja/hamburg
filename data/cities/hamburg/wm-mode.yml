@@ -5,7 +5,7 @@ latitude: 53.5333392
 longitude: 10.038956500000001
 postcode: 20539
 city: Hamburg
-street: Rothenburgsorter Marktplatz
+street: "Rothenburgsorter Marktplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-18:00"

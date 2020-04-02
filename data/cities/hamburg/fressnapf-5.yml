@@ -5,7 +5,7 @@ latitude: 53.6047414
 longitude: 10.1155261
 postcode: 22159
 city: Hamburg
-street: An der Walddörferbahn
+street: "An der Walddörferbahn"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; PH off"

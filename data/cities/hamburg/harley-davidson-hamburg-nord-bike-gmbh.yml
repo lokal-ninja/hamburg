@@ -5,7 +5,7 @@ latitude: 53.6017078
 longitude: 10.1135433
 postcode: 22159
 city: Hamburg
-street: Ivo-Hauptmann-Ring
+street: "Ivo-Hauptmann-Ring"
 housenumber: 4
 phone: "+49 40 4130300"
 opening_hours: ""

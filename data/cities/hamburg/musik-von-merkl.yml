@@ -5,7 +5,7 @@ latitude: 53.4869217
 longitude: 10.2052156
 postcode: 21029
 city: Hamburg
-street: Stuhlrohrstraße
+street: "Stuhlrohrstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

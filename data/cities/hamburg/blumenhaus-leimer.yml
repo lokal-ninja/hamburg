@@ -5,7 +5,7 @@ latitude: 53.4491773
 longitude: 9.953161000000001
 postcode: 
 city: Hamburg
-street: Beerentalweg
+street: "Beerentalweg"
 housenumber: 
 phone: ""
 opening_hours: ""

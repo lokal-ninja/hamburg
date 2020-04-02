@@ -5,7 +5,7 @@ latitude: 53.5470388
 longitude: 9.962590500000001
 postcode: 20359
 city: Hamburg
-street: Bernhard-Nocht-Straße
+street: "Bernhard-Nocht-Straße"
 housenumber: 95
 phone: "+49 40 75666085"
 opening_hours: "Th-Fr 13:00-18:00; Sa 12:00-19:00; Su 12:00-17:00"

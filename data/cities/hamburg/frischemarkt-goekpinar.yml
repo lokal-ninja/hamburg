@@ -5,7 +5,7 @@ latitude: 53.5464112
 longitude: 9.945700700000002
 postcode: 22767
 city: Hamburg
-street: Schleestraße
+street: "Schleestraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

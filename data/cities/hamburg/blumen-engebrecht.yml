@@ -5,7 +5,7 @@ latitude: 53.6662906
 longitude: 10.024724
 postcode: 22417
 city: Hamburg
-street: Tangstedter Landstraße
+street: "Tangstedter Landstraße"
 housenumber: 252
 phone: "+49 40 5205891"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.586207300000005
 longitude: 10.017265
 postcode: 22303
 city: Hamburg
-street: Semperstraße
+street: "Semperstraße"
 housenumber: 52
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:30, Sa 08:00-14:00"

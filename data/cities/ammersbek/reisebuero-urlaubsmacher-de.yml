@@ -5,7 +5,7 @@ latitude: 53.678505300000005
 longitude: 10.1461897
 postcode: 22949
 city: Ammersbek
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 108
 phone: "+49 40 60441111"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

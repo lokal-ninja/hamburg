@@ -5,7 +5,7 @@ latitude: 53.554599800000005
 longitude: 9.9340711
 postcode: 22765
 city: Hamburg
-street: Scheel-Plessen-Straße
+street: "Scheel-Plessen-Straße"
 housenumber: 1
 phone: "+49 40 3 19 32 55"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.572457500000006
 longitude: 10.0642814
 postcode: 22041
 city: Hamburg
-street: Wandsbeker Marktstraße
+street: "Wandsbeker Marktstraße"
 housenumber: 65
 phone: "+49 40 658010"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-20:00"

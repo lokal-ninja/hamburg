@@ -5,7 +5,7 @@ latitude: 53.604641300000004
 longitude: 10.157387
 postcode: 22143
 city: Hamburg
-street: Schweriner Straße
+street: "Schweriner Straße"
 housenumber: 8-12
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; PH off"

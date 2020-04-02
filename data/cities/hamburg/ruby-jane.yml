@@ -5,7 +5,7 @@ latitude: 53.5768337
 longitude: 9.9489851
 postcode: 20255
 city: Hamburg
-street: Osterstraße
+street: "Osterstraße"
 housenumber: 136
 phone: ""
 opening_hours: ""

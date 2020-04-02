@@ -5,7 +5,7 @@ latitude: 53.643244200000005
 longitude: 10.126072800000001
 postcode: 22393
 city: Hamburg
-street: Meiendorfer Mühlenweg
+street: "Meiendorfer Mühlenweg"
 housenumber: 29
 phone: ""
 opening_hours: ""

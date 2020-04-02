@@ -5,7 +5,7 @@ latitude: 53.575740100000004
 longitude: 10.0454284
 postcode: 22081
 city: Hamburg
-street: Von-Essen-Straße
+street: "Von-Essen-Straße"
 housenumber: 76
 phone: "+49 40 20971022"
 opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00"

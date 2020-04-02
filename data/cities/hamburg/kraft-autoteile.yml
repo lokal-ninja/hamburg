@@ -5,7 +5,7 @@ latitude: 53.5899026
 longitude: 9.9100812
 postcode: 22525
 city: Hamburg
-street: Lederstraße
+street: "Lederstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

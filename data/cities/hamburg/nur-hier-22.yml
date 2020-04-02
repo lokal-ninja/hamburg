@@ -5,7 +5,7 @@ latitude: 53.653113100000006
 longitude: 10.112572700000001
 postcode: 22393
 city: Hamburg
-street: Saseler Markt
+street: "Saseler Markt"
 housenumber: 16
 phone: "+49 40 6012102"
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-14:00; PH,Su 06:00-12:00"

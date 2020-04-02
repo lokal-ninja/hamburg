@@ -5,7 +5,7 @@ latitude: 53.533539000000005
 longitude: 10.034456200000001
 postcode: 20539
 city: Hamburg
-street: Billwerder Neuer Deich
+street: "Billwerder Neuer Deich"
 housenumber: 40
 phone: "+49 40 81978790"
 opening_hours: "Mo-Fr 09:00-22:00; Sa,Su 09:00-20:00"

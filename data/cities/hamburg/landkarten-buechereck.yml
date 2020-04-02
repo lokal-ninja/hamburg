@@ -5,7 +5,7 @@ latitude: 53.56198070000001
 longitude: 9.8194417
 postcode: 22587
 city: Hamburg
-street: Dockenhudener Straße
+street: "Dockenhudener Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

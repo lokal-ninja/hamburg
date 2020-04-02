@@ -5,7 +5,7 @@ latitude: 53.461133100000005
 longitude: 9.981797400000001
 postcode: 21073
 city: Hamburg
-street: Schloßmühlendamm
+street: "Schloßmühlendamm"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 09:00-22:00; Su 11:00-20:00"

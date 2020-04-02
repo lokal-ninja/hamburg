@@ -5,7 +5,7 @@ latitude: 53.544548500000005
 longitude: 10.0511944
 postcode: 20537
 city: Hamburg
-street: Hammer Deich
+street: "Hammer Deich"
 housenumber: 160a
 phone: ""
 opening_hours: "Mo-Th 07:00-17:00, Fr 07:00-15:00"

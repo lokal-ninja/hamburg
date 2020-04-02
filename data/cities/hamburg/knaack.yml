@@ -5,7 +5,7 @@ latitude: 53.648897100000006
 longitude: 10.1654202
 postcode: 22359
 city: Hamburg
-street: Im Alten Dorfe
+street: "Im Alten Dorfe"
 housenumber: 29
 phone: ""
 opening_hours: ""

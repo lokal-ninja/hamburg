@@ -5,7 +5,7 @@ latitude: 53.634177900000005
 longitude: 9.957885800000001
 postcode: 22459
 city: Hamburg
-street: Sperberhorst
+street: "Sperberhorst"
 housenumber: 15
 phone: "+49 40 5515011"
 opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00; PH off"

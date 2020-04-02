@@ -5,7 +5,7 @@ latitude: 53.558465700000006
 longitude: 9.8119251
 postcode: 22587
 city: Hamburg
-street: Elbchaussee
+street: "Elbchaussee"
 housenumber: 583
 phone: ""
 opening_hours: ""

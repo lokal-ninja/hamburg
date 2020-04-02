@@ -5,7 +5,7 @@ latitude: 53.566324800000004
 longitude: 9.9657438
 postcode: 20357
 city: Hamburg
-street: Weidenallee
+street: "Weidenallee"
 housenumber: 4
 phone: ""
 opening_hours: "Tu-Fr 12:30-18:30; Sa 11:00-16:00"

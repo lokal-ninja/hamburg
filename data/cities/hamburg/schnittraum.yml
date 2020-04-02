@@ -5,7 +5,7 @@ latitude: 53.5664461
 longitude: 10.019654500000001
 postcode: 22087
 city: Hamburg
-street: Papenhuder Straße
+street: "Papenhuder Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

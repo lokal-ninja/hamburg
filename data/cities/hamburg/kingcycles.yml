@@ -5,7 +5,7 @@ latitude: 53.5789003
 longitude: 9.9461998
 postcode: 20255
 city: Hamburg
-street: Osterstraße
+street: "Osterstraße"
 housenumber: 181
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

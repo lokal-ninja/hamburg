@@ -5,7 +5,7 @@ latitude: 53.546513600000004
 longitude: 10.110079500000001
 postcode: 22119
 city: Hamburg
-street: Schiffbeker Höhe
+street: "Schiffbeker Höhe"
 housenumber: 12a
 phone: "+49 40 7311313"
 opening_hours: "Mo-Fr 10:00-12:00, 14:00-18:00; Sa 09:00-13:00; PH off"

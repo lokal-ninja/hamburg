@@ -5,7 +5,7 @@ latitude: 53.680572500000004
 longitude: 10.000076400000001
 postcode: 22419
 city: Hamburg
-street: Schmuggelstieg
+street: "Schmuggelstieg"
 housenumber: 39
 phone: ""
 opening_hours: ""

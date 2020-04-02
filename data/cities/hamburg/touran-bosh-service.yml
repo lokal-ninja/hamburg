@@ -5,7 +5,7 @@ latitude: 53.5413232
 longitude: 10.038911200000001
 postcode: 20539
 city: Hamburg
-street: Billstraße
+street: "Billstraße"
 housenumber: 67
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00"

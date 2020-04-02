@@ -5,7 +5,7 @@ latitude: 53.547670700000005
 longitude: 9.926842800000001
 postcode: 22765
 city: Hamburg
-street: Holländische Reihe
+street: "Holländische Reihe"
 housenumber: 53
 phone: ""
 opening_hours: ""

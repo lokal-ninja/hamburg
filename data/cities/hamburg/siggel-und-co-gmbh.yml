@@ -5,7 +5,7 @@ latitude: 53.5802698
 longitude: 10.1232786
 postcode: 22045
 city: Hamburg
-street: Albert-Schweitzer-Ring
+street: "Albert-Schweitzer-Ring"
 housenumber: 36a
 phone: "+49-40-6695926"
 opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"

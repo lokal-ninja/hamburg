@@ -5,7 +5,7 @@ latitude: 53.4722768
 longitude: 9.8861799
 postcode: 21149
 city: Hamburg
-street: Cuxhavener Straße
+street: "Cuxhavener Straße"
 housenumber: 162
 phone: "+49-40-79753400"
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00;Sa 10:00-13:00"

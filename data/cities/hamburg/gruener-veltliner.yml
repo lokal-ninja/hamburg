@@ -5,7 +5,7 @@ latitude: 53.5853995
 longitude: 9.9538238
 postcode: 22529
 city: Hamburg
-street: Herlingsburg
+street: "Herlingsburg"
 housenumber: 16
 phone: "+49 40 460 73 774"
 opening_hours: "Th-Fr 12:00-19:00; Sa 11:00-15:00"

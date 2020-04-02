@@ -5,7 +5,7 @@ latitude: 53.574541
 longitude: 10.016188900000001
 postcode: 22085
 city: Hamburg
-street: Zimmerstraße
+street: "Zimmerstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-13:00"

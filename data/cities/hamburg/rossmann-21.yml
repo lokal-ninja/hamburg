@@ -5,7 +5,7 @@ latitude: 53.551659400000005
 longitude: 9.9999181
 postcode: 20095
 city: Hamburg
-street: Gerhart-Hauptmann-Platz
+street: "Gerhart-Hauptmann-Platz"
 housenumber: 48
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"

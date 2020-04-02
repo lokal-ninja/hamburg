@@ -5,7 +5,7 @@ latitude: 53.4708618
 longitude: 9.952985400000001
 postcode: 21075
 city: Hamburg
-street: Stader Straße
+street: "Stader Straße"
 housenumber: 78
 phone: "+49 40 776113"
 opening_hours: "Mo-Fr 07:00-17:30, Sa 09:00-12:00; PH closed"

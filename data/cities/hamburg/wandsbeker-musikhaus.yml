@@ -5,7 +5,7 @@ latitude: 53.5738617
 longitude: 10.0629281
 postcode: 22041
 city: Hamburg
-street: Wandsbeker Königstraße
+street: "Wandsbeker Königstraße"
 housenumber: 37
 phone: "+49 40 682131"
 opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-16:00"

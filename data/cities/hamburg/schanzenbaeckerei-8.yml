@@ -5,7 +5,7 @@ latitude: 53.548988800000004
 longitude: 10.002301800000001
 postcode: 20095
 city: Hamburg
-street: Burchardplatz
+street: "Burchardplatz"
 housenumber: 5
 phone: "+49 40 30392186"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-18:00; PHoff"

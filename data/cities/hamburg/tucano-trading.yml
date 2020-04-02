@@ -5,7 +5,7 @@ latitude: 53.5676001
 longitude: 9.9173547
 postcode: 22761
 city: Hamburg
-street: Boschstraße
+street: "Boschstraße"
 housenumber: 2
 phone: "+49 40 8550 8386"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-17:00"

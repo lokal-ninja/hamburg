@@ -5,7 +5,7 @@ latitude: 53.574937600000005
 longitude: 9.9940236
 postcode: 20149
 city: Hamburg
-street: Mittelweg
+street: "Mittelweg"
 housenumber: 111a
 phone: "+49-40-8222720"
 opening_hours: ""

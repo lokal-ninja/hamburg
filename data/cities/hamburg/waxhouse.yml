@@ -5,7 +5,7 @@ latitude: 53.575628300000005
 longitude: 9.955239500000001
 postcode: 20259
 city: Hamburg
-street: Emilienstraße
+street: "Emilienstraße"
 housenumber: 22-24
 phone: ""
 opening_hours: "Tu-Fr 11:00-20:00; Sa 09:30-17:30"

@@ -5,7 +5,7 @@ latitude: 53.5587055
 longitude: 10.0480312
 postcode: 20535
 city: Hamburg
-street: Sievekingdamm
+street: "Sievekingdamm"
 housenumber: 40
 phone: "+49 (0) 176 83409773"
 opening_hours: ""

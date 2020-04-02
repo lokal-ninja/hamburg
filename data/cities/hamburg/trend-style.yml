@@ -5,7 +5,7 @@ latitude: 53.608408600000004
 longitude: 9.9034707
 postcode: 22523
 city: Hamburg
-street: Eidelstedter Platz
+street: "Eidelstedter Platz"
 housenumber: 4
 phone: "+49-40-69466175"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.553158800000006
 longitude: 9.9614239
 postcode: 20359
 city: Hamburg
-street: Wohlwillstraße
+street: "Wohlwillstraße"
 housenumber: 12
 phone: "+49 40 86686281"
 opening_hours: "Mo-Fr 12:00-19:00; Sa 11:00-17:00; PH,Su off"

@@ -5,7 +5,7 @@ latitude: 53.5088207
 longitude: 10.1849638
 postcode: 21031
 city: Hamburg
-street: Weberade
+street: "Weberade"
 housenumber: 21-23
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.634352400000004
 longitude: 9.9143963
 postcode: 22457
 city: Hamburg
-street: Oldesloer Straße
+street: "Oldesloer Straße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 53.591332300000005
 longitude: 10.035765300000001
 postcode: 22303
 city: Hamburg
-street: Alter Güterbahnhof
+street: "Alter Güterbahnhof"
 housenumber: 2
 phone: "+49 40 81971950"
 opening_hours: "Mo-Sa 07:00-21:00"

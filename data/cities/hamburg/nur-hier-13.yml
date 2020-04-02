@@ -5,7 +5,7 @@ latitude: 53.549889400000005
 longitude: 9.993180800000001
 postcode: 20095
 city: Hamburg
-street: Rathausmarkt
+street: "Rathausmarkt"
 housenumber: 19
 phone: "+49 40 32025797"
 opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-18:00; PH closed"

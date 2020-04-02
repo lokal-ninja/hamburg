@@ -5,7 +5,7 @@ latitude: 53.62542070000001
 longitude: 10.140714800000001
 postcode: 22147
 city: Hamburg
-street: Alte Berner Straße
+street: "Alte Berner Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

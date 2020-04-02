@@ -5,7 +5,7 @@ latitude: 53.5939519
 longitude: 9.9999461
 postcode: 22299
 city: Hamburg
-street: Barmbeker Straße
+street: "Barmbeker Straße"
 housenumber: 189
 phone: "+49 40 476558"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.5916013
 longitude: 10.0446556
 postcode: 22305
 city: Hamburg
-street: Fuhlsbüttler Straße
+street: "Fuhlsbüttler Straße"
 housenumber: 162
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:30"

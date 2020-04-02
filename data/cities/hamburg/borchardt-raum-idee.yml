@@ -5,7 +5,7 @@ latitude: 53.640222400000006
 longitude: 10.084063500000001
 postcode: 22391
 city: Hamburg
-street: Rolfinckstraße
+street: "Rolfinckstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

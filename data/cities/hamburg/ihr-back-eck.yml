@@ -5,7 +5,7 @@ latitude: 53.635297300000005
 longitude: 9.942965000000001
 postcode: 22453
 city: Hamburg
-street: Gottschalkweg
+street: "Gottschalkweg"
 housenumber: 2
 phone: "+49-40-55598524"
 opening_hours: ""

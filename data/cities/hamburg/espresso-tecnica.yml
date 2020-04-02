@@ -5,7 +5,7 @@ latitude: 53.561532400000004
 longitude: 9.927287300000001
 postcode: 22761
 city: Hamburg
-street: Ruhrstraße
+street: "Ruhrstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

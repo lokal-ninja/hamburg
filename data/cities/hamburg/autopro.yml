@@ -5,7 +5,7 @@ latitude: 53.574592200000005
 longitude: 9.955725300000001
 postcode: 20259
 city: Hamburg
-street: Henriettenstraße
+street: "Henriettenstraße"
 housenumber: 28a
 phone: "+49 40 403420"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.605505900000004
 longitude: 10.1185048
 postcode: 22159
 city: Hamburg
-street: Berner Heerweg
+street: "Berner Heerweg"
 housenumber: 173-175
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

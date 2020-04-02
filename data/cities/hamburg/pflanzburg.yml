@@ -5,7 +5,7 @@ latitude: 53.558426700000005
 longitude: 9.965534100000001
 postcode: 20359
 city: Hamburg
-street: Neuer Pferdemarkt
+street: "Neuer Pferdemarkt"
 housenumber: 21 - 22a
 phone: ""
 opening_hours: "Mo-Fr 11:00-18:30; Sa 11:00-15:00"

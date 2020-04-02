@@ -5,7 +5,7 @@ latitude: 53.556984500000006
 longitude: 9.989021900000001
 postcode: 20354
 city: Hamburg
-street: Große Theaterstraße
+street: "Große Theaterstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

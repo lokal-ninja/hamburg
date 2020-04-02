@@ -5,7 +5,7 @@ latitude: 53.5457369
 longitude: 9.9759629
 postcode: 20459
 city: Hamburg
-street: Rambachstraße
+street: "Rambachstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.6497405
 longitude: 10.0134416
 postcode: 22415
 city: Hamburg
-street: Langenhorner Markt
+street: "Langenhorner Markt"
 housenumber: 7c
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00"

@@ -5,7 +5,7 @@ latitude: 53.64009720000001
 longitude: 10.0836749
 postcode: 22391
 city: Hamburg
-street: Dannenkoppel
+street: "Dannenkoppel"
 housenumber: 50
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.5643584
 longitude: 10.0245353
 postcode: 22087
 city: Hamburg
-street: Kuhmühle
+street: "Kuhmühle"
 housenumber: 6
 phone: "+49 40 25178338"
 opening_hours: ""

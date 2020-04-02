@@ -5,7 +5,7 @@ latitude: 53.5732056
 longitude: 10.0910624
 postcode: 22043
 city: Hamburg
-street: Gustav-Adolf-Straße
+street: "Gustav-Adolf-Straße"
 housenumber: 111d
 phone: ""
 opening_hours: ""

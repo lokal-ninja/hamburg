@@ -5,7 +5,7 @@ latitude: 53.593242200000006
 longitude: 9.928321200000001
 postcode: 22527
 city: Hamburg
-street: Stellinger Steindamm
+street: "Stellinger Steindamm"
 housenumber: 2
 phone: "+49 40 435353"
 opening_hours: "Mo-Fr 12:00-19:00; Sa 11:00-16:00"

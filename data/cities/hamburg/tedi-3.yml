@@ -5,7 +5,7 @@ latitude: 53.4795353
 longitude: 9.874634700000001
 postcode: 21147
 city: Hamburg
-street: Rehrstieg
+street: "Rehrstieg"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 9:00-16:00"

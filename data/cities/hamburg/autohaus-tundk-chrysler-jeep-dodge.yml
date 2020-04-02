@@ -5,7 +5,7 @@ latitude: 53.432551600000004
 longitude: 9.985664700000001
 postcode: 21077
 city: Hamburg
-street: Winsener Straße
+street: "Winsener Straße"
 housenumber: 149B
 phone: ""
 opening_hours: ""

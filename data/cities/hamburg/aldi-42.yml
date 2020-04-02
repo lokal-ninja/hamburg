@@ -5,7 +5,7 @@ latitude: 53.6078897
 longitude: 10.0558435
 postcode: 22309
 city: Hamburg
-street: Steilshooper Straße
+street: "Steilshooper Straße"
 housenumber: 317
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

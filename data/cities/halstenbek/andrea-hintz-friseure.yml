@@ -5,7 +5,7 @@ latitude: 53.6153788
 longitude: 9.8652691
 postcode: 25469
 city: Halstenbek
-street: Siebentunnelweg
+street: "Siebentunnelweg"
 housenumber: 4
 phone: "+49 4101 43198"
 opening_hours: "Mo, Tu, Th, Fr 08:30-12:30,13:30-18:00; Sa 08:00-13:00"

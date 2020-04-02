@@ -5,7 +5,7 @@ latitude: 53.57513530000001
 longitude: 10.1076592
 postcode: 22043
 city: Hamburg
-street: Schimmelmannstraße
+street: "Schimmelmannstraße"
 housenumber: 131
 phone: ""
 opening_hours: ""

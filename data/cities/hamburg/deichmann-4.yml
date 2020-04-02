@@ -5,7 +5,7 @@ latitude: 53.4886725
 longitude: 10.2065532
 postcode: 21029
 city: Hamburg
-street: Weidenbaumsweg
+street: "Weidenbaumsweg"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00; PH off"

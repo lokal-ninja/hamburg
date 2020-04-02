@@ -5,7 +5,7 @@ latitude: 53.554260600000006
 longitude: 9.9616035
 postcode: 20359
 city: Hamburg
-street: Brigittenstraße
+street: "Brigittenstraße"
 housenumber: 3
 phone: "+49-40-31792583"
 opening_hours: ""

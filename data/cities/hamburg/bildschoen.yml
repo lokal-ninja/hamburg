@@ -5,7 +5,7 @@ latitude: 53.6321455
 longitude: 9.9439778
 postcode: 22455
 city: Hamburg
-street: Sethweg
+street: "Sethweg"
 housenumber: 43
 phone: "+49 40 55289289"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.592121600000006
 longitude: 9.8740229
 postcode: 22547
 city: Hamburg
-street: Eckhoffplatz
+street: "Eckhoffplatz"
 housenumber: 1
 phone: "+49 40 87974155"
 opening_hours: "Mo-Sa 09:00-20:00"

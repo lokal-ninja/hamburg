@@ -5,7 +5,7 @@ latitude: 53.4799662
 longitude: 10.223257700000001
 postcode: 21029
 city: Hamburg
-street: Brookkehre
+street: "Brookkehre"
 housenumber: 32
 phone: "+49 40 72904060"
 opening_hours: "Mo-Fr 08:00-16:00"

@@ -5,7 +5,7 @@ latitude: 53.5582665
 longitude: 9.966955800000001
 postcode: 20357
 city: Hamburg
-street: Sternstraße
+street: "Sternstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Th-Fr 12:00-20:00; Sa 12:00-18:00"

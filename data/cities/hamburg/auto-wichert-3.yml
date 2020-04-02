@@ -5,7 +5,7 @@ latitude: 53.5824264
 longitude: 10.138665300000001
 postcode: 22045
 city: Hamburg
-street: Charlottenburger Straße
+street: "Charlottenburger Straße"
 housenumber: 63
 phone: ""
 opening_hours: ""

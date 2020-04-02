@@ -5,7 +5,7 @@ latitude: 53.58828870000001
 longitude: 9.850153500000001
 postcode: 22549
 city: Hamburg
-street: Kroonhorst
+street: "Kroonhorst"
 housenumber: 3
 phone: ""
 opening_hours: ""

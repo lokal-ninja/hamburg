@@ -5,7 +5,7 @@ latitude: 53.631296600000006
 longitude: 9.9168596
 postcode: 22459
 city: Hamburg
-street: Wählingsallee
+street: "Wählingsallee"
 housenumber: 29
 phone: "+49 40 5507657"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; PH off"

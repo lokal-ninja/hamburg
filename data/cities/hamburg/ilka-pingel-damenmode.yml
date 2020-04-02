@@ -5,7 +5,7 @@ latitude: 53.648715200000005
 longitude: 10.167325
 postcode: 22359
 city: Hamburg
-street: Wiesenhöfen
+street: "Wiesenhöfen"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.5524952
 longitude: 10.020586300000002
 postcode: 20097
 city: Hamburg
-street: Beim Strohhause
+street: "Beim Strohhause"
 housenumber: 8
 phone: "+49 40 24878100"
 opening_hours: "Mo-Sa 07:00-24:00; Sa 07:00-23:30; PH,Su closed; 2018 Dec 24 07:00-14:00; 2018 Dec 31 07:00-18:00"

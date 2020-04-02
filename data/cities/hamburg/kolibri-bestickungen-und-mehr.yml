@@ -5,7 +5,7 @@ latitude: 53.4868199
 longitude: 10.216909600000001
 postcode: 21029
 city: Hamburg
-street: Wentorfer Straße
+street: "Wentorfer Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

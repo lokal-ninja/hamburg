@@ -5,7 +5,7 @@ latitude: 53.488927000000004
 longitude: 10.184555300000001
 postcode: 21033
 city: Hamburg
-street: Friedrich-Frank-Bogen
+street: "Friedrich-Frank-Bogen"
 housenumber: 168-172
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

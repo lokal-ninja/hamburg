@@ -5,7 +5,7 @@ latitude: 53.4558088
 longitude: 9.9864367
 postcode: 21073
 city: Hamburg
-street: Wilstorfer Straße
+street: "Wilstorfer Straße"
 housenumber: 62
 phone: ""
 opening_hours: ""

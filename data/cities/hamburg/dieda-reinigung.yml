@@ -5,7 +5,7 @@ latitude: 53.59773860000001
 longitude: 10.0421524
 postcode: 22307
 city: Hamburg
-street: Fuhlsbüttler Straße
+street: "Fuhlsbüttler Straße"
 housenumber: 269
 phone: ""
 opening_hours: ""

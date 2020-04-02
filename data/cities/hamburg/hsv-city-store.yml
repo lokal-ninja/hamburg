@@ -5,7 +5,7 @@ latitude: 53.549813500000006
 longitude: 9.995885900000001
 postcode: 20095
 city: Hamburg
-street: Schmiedestraße
+street: "Schmiedestraße"
 housenumber: 
 phone: ""
 opening_hours: ""

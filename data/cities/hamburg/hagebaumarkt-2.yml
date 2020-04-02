@@ -5,7 +5,7 @@ latitude: 53.58696320000001
 longitude: 10.007243800000001
 postcode: 22301
 city: Hamburg
-street: Krohnskamp
+street: "Krohnskamp"
 housenumber: 25
 phone: "+49 40 6506680"
 opening_hours: "Mo-Sa 09:00-20:00"

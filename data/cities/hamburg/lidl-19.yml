@@ -5,7 +5,7 @@ latitude: 53.572845300000004
 longitude: 10.0587482
 postcode: 22041
 city: Hamburg
-street: Brauhausstraße
+street: "Brauhausstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

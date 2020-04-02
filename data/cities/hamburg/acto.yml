@@ -5,7 +5,7 @@ latitude: 53.5553377
 longitude: 9.9083558
 postcode: 22763
 city: Hamburg
-street: Behringstraße
+street: "Behringstraße"
 housenumber: 118
 phone: ""
 opening_hours: ""

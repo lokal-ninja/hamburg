@@ -5,7 +5,7 @@ latitude: 53.644093600000005
 longitude: 10.0993607
 postcode: 22393
 city: Hamburg
-street: Saseler Chaussee
+street: "Saseler Chaussee"
 housenumber: 109
 phone: ""
 opening_hours: ""

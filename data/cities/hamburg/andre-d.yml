@@ -5,7 +5,7 @@ latitude: 53.631337200000004
 longitude: 10.0144319
 postcode: 22335
 city: Hamburg
-street: Alsterkrugchaussee
+street: "Alsterkrugchaussee"
 housenumber: 587
 phone: "+49 40 598088"
 opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-18:30; Sa 09:00-13:00"

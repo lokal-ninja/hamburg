@@ -5,7 +5,7 @@ latitude: 53.5636348
 longitude: 10.0781379
 postcode: 22043
 city: Hamburg
-street: Rennbahnstraße
+street: "Rennbahnstraße"
 housenumber: 135
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:30; PH off"

@@ -5,7 +5,7 @@ latitude: 53.5391787
 longitude: 10.032947400000001
 postcode: 20539
 city: Hamburg
-street: Billhorner Kanalstraße
+street: "Billhorner Kanalstraße"
 housenumber: 1
 phone: "+49 40 78089351"
 opening_hours: "Mo-Sa 10:00-20:00"

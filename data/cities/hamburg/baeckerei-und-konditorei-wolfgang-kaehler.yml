@@ -5,7 +5,7 @@ latitude: 53.418443100000005
 longitude: 10.200281700000001
 postcode: 21037
 city: Hamburg
-street: Alte Twiete
+street: "Alte Twiete"
 housenumber: 5
 phone: "+49407230316"
 opening_hours: "Mo 06:00-12:00; Tu-Fr 06:00-13:00,14:30-18:00; Sa 06:00-12:00"

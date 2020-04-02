@@ -5,7 +5,7 @@ latitude: 53.540337900000004
 longitude: 10.105151600000001
 postcode: 22111
 city: Hamburg
-street: Billstedter Platz
+street: "Billstedter Platz"
 housenumber: 37J
 phone: "+49 40 736300"
 opening_hours: "Mo-Sa 09:30-20:00; PH off"

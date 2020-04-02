@@ -5,7 +5,7 @@ latitude: 53.4551706
 longitude: 10.0051891
 postcode: 21079
 city: Hamburg
-street: Großmoorbogen
+street: "Großmoorbogen"
 housenumber: 22
 phone: ""
 opening_hours: ""

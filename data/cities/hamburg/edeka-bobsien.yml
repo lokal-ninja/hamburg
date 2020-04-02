@@ -5,7 +5,7 @@ latitude: 53.53410160000001
 longitude: 9.8817807
 postcode: 21129
 city: Hamburg
-street: Köhlfleet-Hauptdeich
+street: "Köhlfleet-Hauptdeich"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

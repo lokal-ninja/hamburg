@@ -5,7 +5,7 @@ latitude: 53.5647298
 longitude: 9.9654307
 postcode: 20357
 city: Hamburg
-street: Schanzenstraße
+street: "Schanzenstraße"
 housenumber: 117
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-14:00"

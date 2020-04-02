@@ -5,7 +5,7 @@ latitude: 53.549623700000005
 longitude: 10.0374519
 postcode: 20537
 city: Hamburg
-street: Ausschläger Weg
+street: "Ausschläger Weg"
 housenumber: 59
 phone: "+49 40 251509 0"
 opening_hours: ""

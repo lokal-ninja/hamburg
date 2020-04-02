@@ -5,7 +5,7 @@ latitude: 53.54173290000001
 longitude: 9.9981829
 postcode: 20457
 city: Hamburg
-street: Überseeboulevard
+street: "Überseeboulevard"
 housenumber: 5
 phone: ""
 opening_hours: ""

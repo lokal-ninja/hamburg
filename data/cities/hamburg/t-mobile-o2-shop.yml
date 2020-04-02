@@ -5,7 +5,7 @@ latitude: 53.491406500000004
 longitude: 10.2074528
 postcode: 21031
 city: Hamburg
-street: Alte Holstenstraße
+street: "Alte Holstenstraße"
 housenumber: 42
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00"

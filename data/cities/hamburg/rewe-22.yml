@@ -5,7 +5,7 @@ latitude: 53.64118980000001
 longitude: 10.080883
 postcode: 22391
 city: Hamburg
-street: Wellingsbütteler Markt
+street: "Wellingsbütteler Markt"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

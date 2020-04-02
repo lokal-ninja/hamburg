@@ -5,7 +5,7 @@ latitude: 53.5955201
 longitude: 9.985207800000001
 postcode: 20251
 city: Hamburg
-street: Lokstedter Weg
+street: "Lokstedter Weg"
 housenumber: 42
 phone: ""
 opening_hours: ""

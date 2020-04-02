@@ -5,7 +5,7 @@ latitude: 53.5639661
 longitude: 10.058631400000001
 postcode: 20535
 city: Hamburg
-street: Caspar-Voght-Straße
+street: "Caspar-Voght-Straße"
 housenumber: 88
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.654003800000005
 longitude: 10.1011963
 postcode: 22395
 city: Hamburg
-street: Saseler Damm
+street: "Saseler Damm"
 housenumber: 7a
 phone: ""
 opening_hours: ""

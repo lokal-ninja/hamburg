@@ -5,7 +5,7 @@ latitude: 53.58085500000001
 longitude: 10.019888700000001
 postcode: 22085
 city: Hamburg
-street: Herderstraße
+street: "Herderstraße"
 housenumber: 56
 phone: "+49 40 2291161"
 opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-14:00"

@@ -5,7 +5,7 @@ latitude: 53.623467100000006
 longitude: 10.0184548
 postcode: 22335
 city: Hamburg
-street: Röntgenstraße
+street: "Röntgenstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

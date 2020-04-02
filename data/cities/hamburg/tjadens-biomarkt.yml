@@ -5,7 +5,7 @@ latitude: 53.582092800000005
 longitude: 10.0157509
 postcode: 22303
 city: Hamburg
-street: Gertigstraße
+street: "Gertigstraße"
 housenumber: 28
 phone: "+49 40 69456943"
 opening_hours: "Mo-Sa 09:00-21:00"

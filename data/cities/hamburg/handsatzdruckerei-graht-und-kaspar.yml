@@ -5,7 +5,7 @@ latitude: 53.571897400000005
 longitude: 9.959658600000001
 postcode: 20259
 city: Hamburg
-street: Weidenstieg
+street: "Weidenstieg"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 15:30-19:00; Sa 11:00-13:00"

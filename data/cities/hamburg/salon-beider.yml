@@ -5,7 +5,7 @@ latitude: 53.6251557
 longitude: 10.140467800000001
 postcode: 22147
 city: Hamburg
-street: Hermann-Balk-Straße
+street: "Hermann-Balk-Straße"
 housenumber: 120
 phone: ""
 opening_hours: ""

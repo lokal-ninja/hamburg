@@ -5,7 +5,7 @@ latitude: 53.6078094
 longitude: 10.178339600000001
 postcode: 22143
 city: Hamburg
-street: Sieker Landstraße
+street: "Sieker Landstraße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

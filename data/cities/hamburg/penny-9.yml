@@ -5,7 +5,7 @@ latitude: 53.553685200000004
 longitude: 10.0628171
 postcode: 20537
 city: Hamburg
-street: Droopweg
+street: "Droopweg"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 7:00-22:00; PH off"

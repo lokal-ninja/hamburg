@@ -5,7 +5,7 @@ latitude: 53.552410900000005
 longitude: 9.9884503
 postcode: 20354
 city: Hamburg
-street: Große Bleichen
+street: "Große Bleichen"
 housenumber: 31
 phone: "+49 40 35016332"
 opening_hours: "Mo-Sa 10:00-20:00"

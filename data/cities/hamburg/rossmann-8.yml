@@ -5,7 +5,7 @@ latitude: 53.58158
 longitude: 9.7579636
 postcode: 22559
 city: Hamburg
-street: Wedeler Landstraße
+street: "Wedeler Landstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-18:00; PH off"

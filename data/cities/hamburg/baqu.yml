@@ -5,7 +5,7 @@ latitude: 53.5621262
 longitude: 9.9626914
 postcode: 20357
 city: Hamburg
-street: Susannenstraße
+street: "Susannenstraße"
 housenumber: 39
 phone: "+49 40 433814"
 opening_hours: "9:00-20:00"

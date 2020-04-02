@@ -5,7 +5,7 @@ latitude: 53.602235300000004
 longitude: 9.990944200000001
 postcode: 22297
 city: Hamburg
-street: Deelböge
+street: "Deelböge"
 housenumber: 11
 phone: "+49 40 31108662"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off"

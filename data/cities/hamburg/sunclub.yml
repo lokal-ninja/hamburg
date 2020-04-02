@@ -5,7 +5,7 @@ latitude: 53.6264898
 longitude: 10.140092800000001
 postcode: 22147
 city: Hamburg
-street: Kriegkamp
+street: "Kriegkamp"
 housenumber: 2
 phone: "+49 40 21982004"
 opening_hours: ""

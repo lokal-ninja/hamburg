@@ -5,7 +5,7 @@ latitude: 53.672617900000006
 longitude: 10.000176300000001
 postcode: 22419
 city: Hamburg
-street: Käkenflur
+street: "Käkenflur"
 housenumber: 16 a
 phone: ""
 opening_hours: "Mo,We,Fr-Sa 08:00-20:00; Tu 08:00-14:00"

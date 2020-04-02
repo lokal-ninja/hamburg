@@ -5,7 +5,7 @@ latitude: 53.56379810000001
 longitude: 10.0321041
 postcode: 22087
 city: Hamburg
-street: Güntherstraße
+street: "Güntherstraße"
 housenumber: 94
 phone: "+49 40 25496088"
 opening_hours: "Mo-Fr 11:30-19:00; Sa 11:30-16:00"

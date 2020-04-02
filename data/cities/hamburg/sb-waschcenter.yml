@@ -5,7 +5,7 @@ latitude: 53.66986850000001
 longitude: 10.143218800000001
 postcode: 22359
 city: Hamburg
-street: Stüffeleck
+street: "Stüffeleck"
 housenumber: 8
 phone: ""
 opening_hours: ""

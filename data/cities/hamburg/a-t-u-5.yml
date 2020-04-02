@@ -5,7 +5,7 @@ latitude: 53.571505200000004
 longitude: 9.868421900000001
 postcode: 
 city: Hamburg
-street: Osdorfer Landstraße
+street: "Osdorfer Landstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

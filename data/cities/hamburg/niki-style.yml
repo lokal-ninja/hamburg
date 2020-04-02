@@ -5,7 +5,7 @@ latitude: 53.551919700000006
 longitude: 9.9438268
 postcode: 22767
 city: Hamburg
-street: Große Bergstraße
+street: "Große Bergstraße"
 housenumber: 199c
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.456518100000004
 longitude: 9.988189400000001
 postcode: 21079
 city: Hamburg
-street: Hannoversche Straße
+street: "Hannoversche Straße"
 housenumber: 86
 phone: "+49 40 32310830"
 opening_hours: "Mo-Sa 09:30-20:00"

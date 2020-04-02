@@ -5,7 +5,7 @@ latitude: 53.557777400000006
 longitude: 10.012187800000001
 postcode: 20099
 city: Hamburg
-street: Danziger Straße
+street: "Danziger Straße"
 housenumber: 70
 phone: ""
 opening_hours: "Mo-Sa 10:00-21:00"

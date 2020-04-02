@@ -5,7 +5,7 @@ latitude: 53.66176170000001
 longitude: 9.9804568
 postcode: 22848
 city: Norderstedt
-street: Gutenbergring
+street: "Gutenbergring"
 housenumber: 18
 phone: "+49 40 5343250"
 opening_hours: ""

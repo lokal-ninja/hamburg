@@ -5,7 +5,7 @@ latitude: 53.6451652
 longitude: 10.1296079
 postcode: 22393
 city: Hamburg
-street: Volksdorfer Weg
+street: "Volksdorfer Weg"
 housenumber: 194
 phone: ""
 opening_hours: ""

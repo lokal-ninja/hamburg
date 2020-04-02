@@ -5,7 +5,7 @@ latitude: 53.6193791
 longitude: 9.9509941
 postcode: 22459
 city: Hamburg
-street: Tibarg
+street: "Tibarg"
 housenumber: 7-9
 phone: "+49 40 52105701"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"

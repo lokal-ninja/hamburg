@@ -5,7 +5,7 @@ latitude: 53.5793462
 longitude: 9.9792014
 postcode: 20144
 city: Hamburg
-street: Isestraße
+street: "Isestraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.5802319
 longitude: 9.9646188
 postcode: 20253
 city: Hamburg
-street: Gärtnerstraße
+street: "Gärtnerstraße"
 housenumber: 99
 phone: ""
 opening_hours: ""

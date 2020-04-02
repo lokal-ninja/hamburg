@@ -5,7 +5,7 @@ latitude: 53.581813000000004
 longitude: 10.0104342
 postcode: 22301
 city: Hamburg
-street: Poelchaukamp
+street: "Poelchaukamp"
 housenumber: 4
 phone: ""
 opening_hours: ""
