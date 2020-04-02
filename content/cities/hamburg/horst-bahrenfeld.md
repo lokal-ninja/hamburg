@@ -1,0 +1,4 @@
+---
+title: "Horst Bahrenfeld"
+url: /hamburg/horst-bahrenfeld/
+---

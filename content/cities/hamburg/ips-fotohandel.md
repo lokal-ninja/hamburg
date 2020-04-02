@@ -1,0 +1,4 @@
+---
+title: "IPS. Fotohandel"
+url: /hamburg/ips-fotohandel/
+---

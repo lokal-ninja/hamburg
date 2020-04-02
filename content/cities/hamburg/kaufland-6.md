@@ -1,0 +1,4 @@
+---
+title: "Kaufland"
+url: /hamburg/kaufland-6/
+---

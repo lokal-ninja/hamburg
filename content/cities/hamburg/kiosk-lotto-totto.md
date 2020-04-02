@@ -1,0 +1,4 @@
+---
+title: "Kiosk Lotto/Totto"
+url: /hamburg/kiosk-lotto-totto/
+---

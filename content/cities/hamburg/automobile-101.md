@@ -1,0 +1,4 @@
+---
+title: "Automobile 101"
+url: /hamburg/automobile-101/
+---
