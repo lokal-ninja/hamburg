@@ -1,12 +1,12 @@
-id: 341792265
+id: 418956988
 type: node
 shop: Bäckerei
-latitude: 53.5567021
-longitude: 10.010000400000001
-postcode: 20099
+latitude: 53.5808965
+longitude: 10.007804100000001
+postcode: 22301
 city: Hamburg
-street: "Lange Reihe"
-housenumber: 
+street: "Poelchaukamp"
+housenumber: 27
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:30; Sa 07:00-18:00; Su 08:00-17:00"
-website: ""
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 08:00-14:00"
+website: "https://www.dat-backhus.de/"

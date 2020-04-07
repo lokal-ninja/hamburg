@@ -1,12 +1,12 @@
-id: 6225128156
-type: node
+id: 445915984
+type: way
 shop: Kleidung
-latitude: 53.65515370000001
-longitude: 10.090851500000001
-postcode: 22391
+latitude: 53.6122943
+longitude: 10.0755312
+postcode: 22177
 city: Hamburg
-street: "Heegbarg"
-housenumber: 31
-phone: "+49 40 60682080"
-opening_hours: "Mo-Sa 09:30-20:00; PH,Su off"
+street: "Bramfelder Chaussee"
+housenumber: 230
+phone: ""
+opening_hours: "Mo-Sa 10:00-20:00"
 website: ""

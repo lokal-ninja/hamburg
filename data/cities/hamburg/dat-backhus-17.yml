@@ -1,12 +1,12 @@
-id: 1912513885
+id: 2104311896
 type: node
 shop: Bäckerei
-latitude: 53.550047400000004
-longitude: 9.9978145
-postcode: 20095
+latitude: 53.564131700000004
+longitude: 10.0562533
+postcode: 20535
 city: Hamburg
-street: "Speersort"
-housenumber: 10
+street: "Marienthaler Straße"
+housenumber: 145
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.datbackhus.de/"
+opening_hours: ""
+website: ""

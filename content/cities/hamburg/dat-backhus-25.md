@@ -1,4 +1,4 @@
 ---
-title: "Dat Backhus"
+title: "Dat backhus"
 url: /hamburg/dat-backhus-25/
 ---

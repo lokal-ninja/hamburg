@@ -1,12 +1,12 @@
-id: 4908626743
+id: 5131084028
 type: node
 shop: Bäckerei
-latitude: 53.5822671
-longitude: 9.755131200000001
-postcode: 22559
+latitude: 53.541865900000005
+longitude: 10.1061244
+postcode: 22111
 city: Hamburg
-street: "Am Rissener Bahnhof"
-housenumber: 18
+street: "Billstedter Platz"
+housenumber: 42c
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-16:00; Su 08:00-16:00"
-website: "https://dat-backhus.de/Service/Filialen/Am-Rissener-Bahnhof/"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: ""
