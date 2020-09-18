@@ -1,12 +1,12 @@
-id: 5757125857
+id: 3607848851
 type: node
 shop: Hörgeräte
-latitude: 53.4610822
-longitude: 9.9818309
-postcode: 21073
+latitude: 53.5393545
+longitude: 10.1050305
+postcode: "22111"
 city: Hamburg
-street: "Hölertwiete"
-housenumber: 2
+street: "Möllner Landstraße"
+housenumber: 12
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.kind.com/de-de/"
+opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00; PH off"
+website: ""

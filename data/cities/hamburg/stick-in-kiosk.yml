@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.556096200000006
 longitude: 9.928541300000001
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Barnerstraße"
 housenumber: 49

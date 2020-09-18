@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 53.5609279
 longitude: 9.9666669
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Sternstraße"
 housenumber: 81e

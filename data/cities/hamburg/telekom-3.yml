@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.5704573
 longitude: 9.861342
-postcode: 22609
+postcode: "22609"
 city: Hamburg
 street: "Osdorfer Landstraße"
 housenumber: 131

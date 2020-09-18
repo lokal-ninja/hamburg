@@ -1,12 +1,12 @@
-id: 102792845
-type: way
+id: 7419795568
+type: node
 shop: Bäckerei
-latitude: 53.641328200000004
-longitude: 10.081890300000001
-postcode: 22391
+latitude: 53.5960151
+longitude: 9.9206873
+postcode: "22525"
 city: Hamburg
-street: "Rolfinckstraße"
-housenumber: 17
+street: "Kieler Straße"
+housenumber: 499
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 06:00-20:00; PH off"
 website: ""

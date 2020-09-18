@@ -1,12 +1,12 @@
-id: 123781893
+id: 53024581
 type: way
 shop: Supermarkt
-latitude: 53.456054800000004
-longitude: 9.9602073
-postcode: 21073
+latitude: 53.584124900000006
+longitude: 10.141130500000001
+postcode: "22045"
 city: Hamburg
-street: "Kirchenhang"
-housenumber: 4-6
+street: "Schöneberger Straße"
+housenumber: 31
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH closed"
+opening_hours: "Mo-Sa 07:00-23:00"
 website: ""

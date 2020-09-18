@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5946816
 longitude: 10.000403400000001
-postcode: 22299
+postcode: "22299"
 city: Hamburg
 street: "Winterhuder Marktplatz"
 housenumber: 8

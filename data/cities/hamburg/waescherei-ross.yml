@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.5804424
 longitude: 10.0380921
-postcode: 22083
+postcode: "22083"
 city: Hamburg
 street: "Weidestraße"
 housenumber: 20a

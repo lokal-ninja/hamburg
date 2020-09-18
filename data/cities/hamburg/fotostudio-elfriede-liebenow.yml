@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.650758700000004
 longitude: 10.1619457
-postcode: 22359
+postcode: "22359"
 city: Hamburg
 street: "Halenreie"
 housenumber: 4

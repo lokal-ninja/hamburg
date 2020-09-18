@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 53.461161000000004
 longitude: 9.982620200000001
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Schloßmühlendamm"
 housenumber: 2

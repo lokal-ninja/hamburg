@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.649308500000004
 longitude: 10.163853300000001
-postcode: 22359
+postcode: "22359"
 city: Hamburg
 street: "Claus-Ferck-Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.56198070000001
 longitude: 9.8194417
-postcode: 22587
+postcode: "22587"
 city: Hamburg
 street: "Dockenhudener Straße"
 housenumber: 4

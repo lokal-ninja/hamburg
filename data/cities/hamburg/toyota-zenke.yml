@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.5727728
 longitude: 9.8516434
-postcode: 22549
+postcode: "22549"
 city: Hamburg
 street: "Osdorfer Landstraße"
 housenumber: 186

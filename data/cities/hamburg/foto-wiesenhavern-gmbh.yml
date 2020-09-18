@@ -3,7 +3,7 @@ type: node
 shop: Kamera
 latitude: 53.5508444
 longitude: 10.000566300000001
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Mönckebergstraße"
 housenumber: 11

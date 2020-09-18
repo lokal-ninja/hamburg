@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.556654
 longitude: 9.927978000000001
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Bahrenfelder Straße"
 housenumber: 231

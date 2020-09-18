@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.5562793
 longitude: 9.9909283
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Große Theaterstraße"
 housenumber: 7

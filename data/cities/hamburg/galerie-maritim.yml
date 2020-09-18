@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.5473645
 longitude: 9.9805855
-postcode: 20459
+postcode: "20459"
 city: Hamburg
 street: "Martin-Luther-Straße"
 housenumber: 21

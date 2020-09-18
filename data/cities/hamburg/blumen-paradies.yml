@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.5552806
 longitude: 10.040212200000001
-postcode: 20537
+postcode: "20537"
 city: Hamburg
 street: "Borgfelder Straße"
 housenumber: 86

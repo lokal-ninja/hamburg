@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.600469000000004
 longitude: 10.1382384
-postcode: 22147
+postcode: "22147"
 city: Hamburg
 street: "Scharbeutzer Straße"
 housenumber: 98C

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.455948400000004
 longitude: 9.9862439
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Wilstorfer Straße"
 housenumber: 60

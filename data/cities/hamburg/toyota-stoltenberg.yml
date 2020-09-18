@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.6608443
 longitude: 10.0812129
-postcode: 22399
+postcode: "22399"
 city: Hamburg
 street: "Harksheider Straße"
 housenumber: 17

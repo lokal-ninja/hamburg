@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5568104
 longitude: 9.9033896
-postcode: 22763
+postcode: "22763"
 city: Hamburg
 street: "Behringstraße"
 housenumber: 154

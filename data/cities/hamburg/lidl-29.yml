@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5855286
 longitude: 9.9342178
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Kieler Straße"
 housenumber: 310

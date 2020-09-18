@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.579433800000004
 longitude: 10.1000309
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Ahrensburger Straße"
 housenumber: 87

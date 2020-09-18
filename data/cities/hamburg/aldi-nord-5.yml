@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.4719166
 longitude: 9.9017206
-postcode: 21149
+postcode: "21149"
 city: Hamburg
 street: "Cuxhavener Straße"
 housenumber: 66

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.5843445
 longitude: 10.023081000000001
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Jarrestraße"
 housenumber: 26

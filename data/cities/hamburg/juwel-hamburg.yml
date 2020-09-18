@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.5537087
 longitude: 10.0023392
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Brandsende"
 housenumber: 2-4

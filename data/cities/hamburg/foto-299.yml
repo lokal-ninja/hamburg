@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.6001173
 longitude: 10.040857800000001
-postcode: 22307
+postcode: "22307"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 299

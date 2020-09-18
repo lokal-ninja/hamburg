@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.574020100000006
 longitude: 10.096880500000001
-postcode: 22043
+postcode: "22043"
 city: Hamburg
 street: "Gustav-Adolf-Straße"
 housenumber: 99

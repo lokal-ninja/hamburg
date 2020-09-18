@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 53.53409550000001
 longitude: 10.1072454
-postcode: 22113
+postcode: "22113"
 city: Hamburg
 street: "Billbrookdeich"
 housenumber: 220

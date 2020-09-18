@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5531547
 longitude: 9.958496100000001
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Paul-Roosen-Straße"
 housenumber: 20

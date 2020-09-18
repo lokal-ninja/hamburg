@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.5756383
 longitude: 9.9511716
-postcode: 20255
+postcode: "20255"
 city: Hamburg
 street: "Heußweg"
 housenumber: 31

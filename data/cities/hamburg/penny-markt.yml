@@ -1,12 +1,12 @@
-id: 365102752
-type: node
+id: 39885785
+type: way
 shop: Supermarkt
-latitude: 53.62542070000001
-longitude: 10.140714800000001
-postcode: 22147
+latitude: 53.632013500000006
+longitude: 10.0885022
+postcode: "22175"
 city: Hamburg
-street: "Alte Berner Straße"
-housenumber: 10
+street: "Bramfelder Chaussee"
+housenumber: 491
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
+website: "https://www.rewe.de/meinkaufsbox/markt/marktinfo.html?marketid=424675"

@@ -1,4 +1,4 @@
 ---
-title: "EDEKA Niemerszein"
+title: "Edeka Niemerszein"
 url: /hamburg/edeka-niemerszein-2/
 ---

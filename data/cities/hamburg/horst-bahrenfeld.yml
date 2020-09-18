@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.562302900000006
 longitude: 9.915703
-postcode: 22761
+postcode: "22761"
 city: Hamburg
 street: "Paul-Dessau-Straße"
 housenumber: 8

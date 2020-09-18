@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 53.5825849
 longitude: 9.9561513
-postcode: 22529
+postcode: "22529"
 city: Hamburg
 street: "Stresemannallee"
 housenumber: 118

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 53.5735972
 longitude: 9.9611639
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Eppendorfer Weg"
 housenumber: 78

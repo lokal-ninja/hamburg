@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.5527856
 longitude: 9.9972144
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Alstertor"
 housenumber: 14-18

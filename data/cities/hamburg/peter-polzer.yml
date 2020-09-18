@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.559408600000005
 longitude: 9.8874261
-postcode: 22605
+postcode: "22605"
 city: Hamburg
 street: "Reventlowstraße"
 housenumber: 66

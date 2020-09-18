@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.551659400000005
 longitude: 9.9999181
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Gerhart-Hauptmann-Platz"
 housenumber: 48

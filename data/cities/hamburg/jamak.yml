@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 53.5813366
 longitude: 10.012408800000001
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Gertigstraße"
 housenumber: 3

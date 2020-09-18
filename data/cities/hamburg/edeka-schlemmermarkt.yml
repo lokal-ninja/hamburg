@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5533403
 longitude: 9.989175000000001
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Poststraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.57080070000001
 longitude: 10.1232714
-postcode: 22043
+postcode: "22043"
 city: Hamburg
 street: "Rodigallee"
 housenumber: 238

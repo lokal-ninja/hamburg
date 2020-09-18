@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.559397000000004
 longitude: 9.9637483
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Schulterblatt"
 housenumber: 3

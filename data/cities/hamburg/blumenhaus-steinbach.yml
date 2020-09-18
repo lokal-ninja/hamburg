@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.6621517
 longitude: 10.0870037
-postcode: 22399
+postcode: "22399"
 city: Hamburg
 street: "Poppenbüttler Hauptstraße"
 housenumber: 12

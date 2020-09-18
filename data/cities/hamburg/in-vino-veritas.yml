@@ -1,12 +1,12 @@
 id: 2148881577
 type: node
-shop: Feinkost
+shop: Spirituosen
 latitude: 53.547670700000005
 longitude: 9.926842800000001
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Holländische Reihe"
 housenumber: 53
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 40 39 90 49 50"
+opening_hours: "Tu,Th,Fr 11:30-19:00;Sa 10:00-14:00;Mo,We off"
+website: "www.wichmannweine.de"

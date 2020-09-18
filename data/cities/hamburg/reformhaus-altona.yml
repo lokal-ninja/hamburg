@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5518787
 longitude: 9.9443242
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Große Bergstraße"
 housenumber: 199

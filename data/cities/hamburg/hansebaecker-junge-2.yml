@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5594807
 longitude: 9.8852402
-postcode: 22607
+postcode: "22607"
 city: Hamburg
 street: "Waitzstraße"
 housenumber: 9

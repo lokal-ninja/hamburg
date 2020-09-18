@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.6010519
 longitude: 10.1187204
-postcode: 22159
+postcode: "22159"
 city: Hamburg
 street: "Berner Heerweg"
 housenumber: 122a

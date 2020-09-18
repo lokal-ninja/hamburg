@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.643244200000005
 longitude: 10.126072800000001
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Meiendorfer Mühlenweg"
 housenumber: 29

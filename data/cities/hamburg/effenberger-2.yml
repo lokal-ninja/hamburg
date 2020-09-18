@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5956607
 longitude: 9.997776100000001
-postcode: 22299
+postcode: "22299"
 city: Hamburg
 street: "Alsterdorfer Straße"
 housenumber: 17

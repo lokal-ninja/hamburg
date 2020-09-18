@@ -3,10 +3,10 @@ type: node
 shop: Bestattungen
 latitude: 53.5956084
 longitude: 10.0433011
-postcode: 22307
+postcode: "22307"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 223
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-15:00"
 website: "https://www.schaarschmidt-bestattungen.de/"

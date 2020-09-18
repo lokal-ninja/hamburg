@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.635252
 longitude: 9.9194109
-postcode: 22457
+postcode: "22457"
 city: Hamburg
 street: "Frohmestraße"
 housenumber: 11a

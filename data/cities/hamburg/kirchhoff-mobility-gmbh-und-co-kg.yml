@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.5183412
 longitude: 10.0047941
-postcode: 21107
+postcode: "21107"
 city: Hamburg
 street: "Stenzelring"
 housenumber: 14a

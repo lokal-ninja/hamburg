@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.591782200000004
 longitude: 10.0491756
-postcode: 22305
+postcode: "22305"
 city: Hamburg
 street: "Hellbrookstraße"
 housenumber: 83

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.633186900000005
 longitude: 9.9200399
-postcode: 22457
+postcode: "22457"
 city: Hamburg
 street: "Frohmestraße"
 housenumber: 34

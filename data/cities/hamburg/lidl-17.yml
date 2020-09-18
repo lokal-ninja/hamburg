@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5807937
 longitude: 9.7974554
-postcode: 22589
+postcode: "22589"
 city: Hamburg
 street: "Sülldorfer Landstraße"
 housenumber: 188

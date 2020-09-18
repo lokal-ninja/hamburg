@@ -3,7 +3,7 @@ type: node
 shop: Kamera
 latitude: 53.5720096
 longitude: 9.9756596
-postcode: 
+postcode: ""
 city: Hamburg
 street: "Kleiner Kielort"
 housenumber: 3-5

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5823539
 longitude: 9.7549086
-postcode: 22559
+postcode: "22559"
 city: Hamburg
 street: "Wedeler Landstraße"
 housenumber: 52-56

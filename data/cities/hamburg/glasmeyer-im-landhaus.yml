@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5656073
 longitude: 9.8807642
-postcode: 22607
+postcode: "22607"
 city: Hamburg
 street: "Kalckreuthweg"
 housenumber: 90

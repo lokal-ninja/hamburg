@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.539107300000005
 longitude: 10.1067516
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Möllner Landstraße"
 housenumber: 24

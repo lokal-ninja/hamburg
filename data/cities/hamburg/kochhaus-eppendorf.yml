@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.59075850000001
 longitude: 9.987791600000001
-postcode: 20249
+postcode: "20249"
 city: Hamburg
 street: "Eppendorfer Landstraße"
 housenumber: 86

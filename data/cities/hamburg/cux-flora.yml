@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.471551000000005
 longitude: 9.834893000000001
-postcode: 21149
+postcode: "21149"
 city: Hamburg
 street: "Cuxhavener Straße"
 housenumber: 423

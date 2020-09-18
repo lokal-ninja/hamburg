@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.4424275
 longitude: 9.993207100000001
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Rönneburger Straße"
 housenumber: 23

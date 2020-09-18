@@ -1,12 +1,12 @@
-id: 148667125
+id: 123781893
 type: way
 shop: Supermarkt
-latitude: 53.5987614
-longitude: 9.913690800000001
-postcode: 22525
+latitude: 53.456054800000004
+longitude: 9.9602073
+postcode: "21073"
 city: Hamburg
-street: "Kieler Straße"
-housenumber: 573b
+street: "Kirchenhang"
+housenumber: 4-8
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: "Mo-Sa 07:00-22:00; PH closed"
 website: ""

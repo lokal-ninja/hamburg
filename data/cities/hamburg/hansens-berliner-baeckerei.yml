@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.608532600000004
 longitude: 10.043585400000001
-postcode: 22309
+postcode: "22309"
 city: Hamburg
 street: "Eichenlohweg"
 housenumber: 17

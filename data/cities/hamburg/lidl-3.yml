@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.563854400000004
 longitude: 9.9615065
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Altonaer Straße"
 housenumber: 10

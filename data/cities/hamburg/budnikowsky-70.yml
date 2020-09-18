@@ -1,12 +1,12 @@
-id: 5323876513
+id: 7745531183
 type: node
 shop: Drogerie
-latitude: 53.560908000000005
-longitude: 9.812062300000001
-postcode: 22587
+latitude: 53.551432000000005
+longitude: 9.93877
+postcode: "22767"
 city: Hamburg
-street: "Propst-Paulsen-Straße"
-housenumber: 2
+street: "Neue Große Bergstraße"
+housenumber: 18
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
-website: "https://www.budni.de/filialen/22587-propst-paulsen-str.-2/"
+opening_hours: "Mo-Sa 08:00-20:30"
+website: ""

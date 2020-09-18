@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.553625600000004
 longitude: 10.011878000000001
-postcode: 20099
+postcode: "20099"
 city: Hamburg
 street: "Steindamm"
 housenumber: 21

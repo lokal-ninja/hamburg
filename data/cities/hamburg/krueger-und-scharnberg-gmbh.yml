@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 53.5821448
 longitude: 10.0188033
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Gertigstraße"
 housenumber: 60-64

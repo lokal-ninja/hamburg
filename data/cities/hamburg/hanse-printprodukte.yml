@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 53.5744155
 longitude: 10.1046897
-postcode: 22043
+postcode: "22043"
 city: Hamburg
 street: "Holstenhofweg"
 housenumber: 49

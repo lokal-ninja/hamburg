@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 53.557319400000004
 longitude: 9.9752443
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Karolinenstraße"
 housenumber: 4

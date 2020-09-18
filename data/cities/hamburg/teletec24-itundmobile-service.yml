@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.557248
 longitude: 9.9647704
-postcode: 20359
+postcode: "20359"
 city: Hamburg
 street: "Neuer Kamp"
 housenumber: 1

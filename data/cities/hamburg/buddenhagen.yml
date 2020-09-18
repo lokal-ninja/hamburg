@@ -3,10 +3,10 @@ type: way
 shop: Elektronik
 latitude: 53.6505528
 longitude: 10.105242
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Saseler Chaussee"
 housenumber: 156
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.euronics.de/hamburg-buddenhagen/unsere-filialen/filiale-alstertal/"

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.5522872
 longitude: 9.9351488
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Paul-Nevermann-Platz"
 housenumber: 15

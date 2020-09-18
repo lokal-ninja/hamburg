@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6148006
 longitude: 10.1528586
-postcode: 22147
+postcode: "22147"
 city: Hamburg
 street: "Alter Zollweg"
 housenumber: 2

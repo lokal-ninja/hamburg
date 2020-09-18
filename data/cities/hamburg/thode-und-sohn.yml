@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.5786791
 longitude: 9.8079897
-postcode: 22589
+postcode: "22589"
 city: Hamburg
 street: "Sülldorfer Landstraße"
 housenumber: 110

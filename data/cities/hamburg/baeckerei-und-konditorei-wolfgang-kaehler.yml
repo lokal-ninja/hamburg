@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.418443100000005
 longitude: 10.200281700000001
-postcode: 21037
+postcode: "21037"
 city: Hamburg
 street: "Alte Twiete"
 housenumber: 5

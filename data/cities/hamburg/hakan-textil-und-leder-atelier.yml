@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.573552600000006
 longitude: 9.9611049
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Eppendorfer Weg"
 housenumber: 76

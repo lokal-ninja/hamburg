@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.588450200000004
 longitude: 10.0037772
-postcode: 22301
+postcode: "22301"
 city: Hamburg
 street: "Maria-Louisen-Straße"
 housenumber: 67

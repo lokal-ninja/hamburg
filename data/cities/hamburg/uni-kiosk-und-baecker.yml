@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.4594108
 longitude: 9.9716758
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Eißendorfer Straße"
 housenumber: 55

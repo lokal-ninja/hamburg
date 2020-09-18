@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 53.6333509
 longitude: 9.954034100000001
-postcode: 22459
+postcode: "22459"
 city: Hamburg
 street: "Krähenweg"
 housenumber: 3a

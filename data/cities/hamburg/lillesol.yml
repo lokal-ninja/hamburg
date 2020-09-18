@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.566324800000004
 longitude: 9.9657438
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Weidenallee"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 53.5764372
 longitude: 9.918414700000001
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Winsbergring"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.578721300000005
 longitude: 10.0142171
-postcode: 22085
+postcode: "22085"
 city: Hamburg
 street: "Hofweg"
 housenumber: 100

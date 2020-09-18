@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.5526622
 longitude: 10.0920888
-postcode: 22119
+postcode: "22119"
 city: Hamburg
 street: "Hermannstal"
 housenumber: 69

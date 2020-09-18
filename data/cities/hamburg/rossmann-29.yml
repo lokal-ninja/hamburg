@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.6050698
 longitude: 10.117313900000001
-postcode: 22159
+postcode: "22159"
 city: Hamburg
 street: "Berner Heerweg"
 housenumber: 175

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.646714800000005
 longitude: 10.1765772
-postcode: 22359
+postcode: "22359"
 city: Hamburg
 street: "Heinsonweg"
 housenumber: 27

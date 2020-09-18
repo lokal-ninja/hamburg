@@ -3,10 +3,10 @@ type: node
 shop: Outdoor
 latitude: 53.48081680000001
 longitude: 10.207248700000001
-postcode: 21029
+postcode: "21029"
 city: Hamburg
 street: "Curslacker Neuer Deich"
 housenumber: 44
-phone: "+49 40 72 00 42 56"
+phone: ""
 opening_hours: "Mo-Sa 10:00-19:00; PH Su off"
-website: "https://www.mctrek.de/Service/filialen/hamburg"
+website: ""

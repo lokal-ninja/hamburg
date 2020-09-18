@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.54239260000001
 longitude: 10.1077239
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Reclamstraße"
 housenumber: 3

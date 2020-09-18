@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.539087800000004
 longitude: 10.106898900000001
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Möllner Landstraße"
 housenumber: 26

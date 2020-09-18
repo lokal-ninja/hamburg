@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5781411
 longitude: 9.9409498
-postcode: 20257
+postcode: "20257"
 city: Hamburg
 street: "Langenfelder Damm"
 housenumber: 5

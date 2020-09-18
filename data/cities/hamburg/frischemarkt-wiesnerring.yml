@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.4827237
 longitude: 10.199011
-postcode: 21035
+postcode: "21035"
 city: Hamburg
 street: "Wiesnerring"
 housenumber: 5

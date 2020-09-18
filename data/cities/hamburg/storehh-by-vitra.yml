@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.5532112
 longitude: 9.930315400000001
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Kleine Rainstraße"
 housenumber: 44a

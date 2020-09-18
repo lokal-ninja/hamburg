@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5622212
 longitude: 10.0479071
-postcode: 20535
+postcode: "20535"
 city: Hamburg
 street: "Griesstraße"
 housenumber: 1

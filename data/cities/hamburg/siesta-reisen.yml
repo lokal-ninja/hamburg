@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.6332139
 longitude: 10.005075600000001
-postcode: 22335
+postcode: "22335"
 city: Hamburg
 street: "Flughafenstraße"
 housenumber: 1-3

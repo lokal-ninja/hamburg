@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.575664100000004
 longitude: 10.0786055
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Rüterstraße"
 housenumber: 45

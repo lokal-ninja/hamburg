@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.477667700000005
 longitude: 10.1982511
-postcode: 21035
+postcode: "21035"
 city: Hamburg
 street: "Helmut-Nack-Straße"
 housenumber: 2

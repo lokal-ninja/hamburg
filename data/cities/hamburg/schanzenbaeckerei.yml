@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5456124
 longitude: 10.0248212
-postcode: 20097
+postcode: "20097"
 city: Hamburg
 street: "Hammerbrookstraße"
 housenumber: 89

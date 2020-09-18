@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 53.583483400000006
 longitude: 9.977095
-postcode: 20251
+postcode: "20251"
 city: Hamburg
 street: "Eppendorfer Weg"
 housenumber: 252

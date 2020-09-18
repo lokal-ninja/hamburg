@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.553935100000004
 longitude: 9.9853839
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "ABC-Straße"
 housenumber: 21

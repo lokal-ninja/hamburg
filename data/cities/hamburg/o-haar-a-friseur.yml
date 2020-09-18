@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5343109
 longitude: 9.8787438
-postcode: 21129
+postcode: "21129"
 city: Hamburg
 street: "Benittstraße"
 housenumber: 18

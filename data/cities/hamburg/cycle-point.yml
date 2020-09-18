@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.55980460000001
 longitude: 9.964361400000001
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Schanzenstraße"
 housenumber: 3

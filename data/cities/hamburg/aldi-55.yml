@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6349151
 longitude: 10.0147379
-postcode: 22335
+postcode: "22335"
 city: Hamburg
 street: "Erdkampsweg"
 housenumber: 134

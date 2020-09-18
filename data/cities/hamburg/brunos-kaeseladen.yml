@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 53.56144990000001
 longitude: 9.9626432
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Schulterblatt"
 housenumber: 60

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.6067539
 longitude: 10.011639
-postcode: 22297
+postcode: "22297"
 city: Hamburg
 street: "Heubergredder"
 housenumber: 48

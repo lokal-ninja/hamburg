@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.5496497
 longitude: 10.0778648
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Bauerbergweg"
 housenumber: 7

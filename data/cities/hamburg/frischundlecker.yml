@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.587791
 longitude: 9.850781900000001
-postcode: 22549
+postcode: "22549"
 city: Hamburg
 street: "Bornheide"
 housenumber: 55a

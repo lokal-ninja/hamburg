@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 53.534911
 longitude: 9.9690586
-postcode: 20457
+postcode: "20457"
 city: Hamburg
 street: "Reiherdamm"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 53.5808036
 longitude: 10.1233252
-postcode: 22045
+postcode: "22045"
 city: Hamburg
 street: "Albert-Schweitzer-Ring"
 housenumber: 39

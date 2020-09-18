@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.547343600000005
 longitude: 10.1073129
-postcode: 22119
+postcode: "22119"
 city: Hamburg
 street: "Schiffbeker Weg"
 housenumber: 82

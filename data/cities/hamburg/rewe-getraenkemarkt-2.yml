@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.603788800000004
 longitude: 9.9846929
-postcode: 22453
+postcode: "22453"
 city: Hamburg
 street: "Borsteler Chaussee"
 housenumber: 17

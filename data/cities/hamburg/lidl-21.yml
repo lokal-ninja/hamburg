@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.531216900000004
 longitude: 10.0550835
-postcode: 20539
+postcode: "20539"
 city: Hamburg
 street: "Ausschläger Allee"
 housenumber: 174

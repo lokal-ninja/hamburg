@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 53.626279700000005
 longitude: 10.139926500000001
-postcode: 22147
+postcode: "22147"
 city: Hamburg
 street: "Alte Berner Straße"
 housenumber: 1
 phone: "+49 40 6445461"
-opening_hours: ""
+opening_hours: "Mo-Sa 09:30-18:30; Su,PH 10:00-14:00"
 website: "http://www.blumen-schoenemann.de"

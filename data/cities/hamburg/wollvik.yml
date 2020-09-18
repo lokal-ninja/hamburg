@@ -3,10 +3,10 @@ type: node
 shop: Wolle
 latitude: 53.626548500000006
 longitude: 10.0241211
-postcode: 22335
+postcode: "22335"
 city: Hamburg
 street: "Ratsmühlendamm"
 housenumber: 26
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-13:00,14:30-18:00; Sa 10:00-13:00"
 website: "http://www.wollvik-hamburg.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.561013800000005
 longitude: 9.9625769
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Schulterblatt"
 housenumber: 49

@@ -1,12 +1,12 @@
-id: 42157278
+id: 33872286
 type: way
 shop: Supermarkt
-latitude: 53.6696796
-longitude: 10.143094600000001
-postcode: 22359
+latitude: 53.5736757
+longitude: 9.846121100000001
+postcode: "22549"
 city: Hamburg
-street: "Volksdorfer Damm"
-housenumber: 186
-phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: ""
+street: "Rugenbarg"
+housenumber: 7
+phone: "+49 40 80781521"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.rewe.de/marktseite/hamburg/540725/rewe-markt-rugenbarg-7/"

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 53.635314300000005
 longitude: 10.0157638
-postcode: 22335
+postcode: "22335"
 city: Hamburg
 street: "Langenhorner Chaussee"
 housenumber: 3

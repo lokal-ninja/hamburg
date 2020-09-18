@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.503141500000005
 longitude: 10.192718000000001
-postcode: 21031
+postcode: "21031"
 city: Hamburg
 street: "Lohbrügger Landstraße"
 housenumber: 123

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5522879
 longitude: 10.0433746
-postcode: 20537
+postcode: "20537"
 city: Hamburg
 street: "Eiffestraße"
 housenumber: 406

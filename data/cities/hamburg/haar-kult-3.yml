@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.647734
 longitude: 10.163378100000001
-postcode: 22359
+postcode: "22359"
 city: Hamburg
 street: "Weiße Rose"
 housenumber: 3

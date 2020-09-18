@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 53.64733510000001
 longitude: 10.0118414
-postcode: 22415
+postcode: "22415"
 city: Hamburg
 street: "Langenhorner Chaussee"
 housenumber: 184

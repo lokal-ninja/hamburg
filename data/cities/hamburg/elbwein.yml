@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.564899700000005
 longitude: 9.880258900000001
-postcode: 22607
+postcode: "22607"
 city: Hamburg
 street: "Beselerstraße"
 housenumber: 27

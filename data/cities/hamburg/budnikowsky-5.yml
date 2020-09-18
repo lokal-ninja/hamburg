@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5680552
 longitude: 9.9806339
-postcode: 20146
+postcode: "20146"
 city: Hamburg
 street: "Grindelallee"
 housenumber: 

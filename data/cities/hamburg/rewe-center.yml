@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.58679780000001
 longitude: 10.125446
-postcode: 22045
+postcode: "22045"
 city: Hamburg
 street: "Tonndorfer Hauptstraße"
 housenumber: 71-81

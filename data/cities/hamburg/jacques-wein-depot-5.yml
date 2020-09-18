@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 53.603400400000005
 longitude: 10.0401573
-postcode: 22309
+postcode: "22309"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 405

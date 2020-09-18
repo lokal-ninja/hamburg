@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.454587700000005
 longitude: 9.987078
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Reinholdstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 53.459724800000004
 longitude: 9.957174700000001
-postcode: 21075
+postcode: "21075"
 city: Hamburg
 street: "Denickestraße"
 housenumber: 92

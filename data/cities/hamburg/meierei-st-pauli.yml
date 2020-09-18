@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.5525637
 longitude: 9.9607244
-postcode: 20359
+postcode: "20359"
 city: Hamburg
 street: "Clemens-Schultz-Straße"
 housenumber: 55

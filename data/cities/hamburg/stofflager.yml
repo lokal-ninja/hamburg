@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 53.61263
 longitude: 9.9642607
-postcode: 22453
+postcode: "22453"
 city: Hamburg
 street: "Papenreye"
 housenumber: 24

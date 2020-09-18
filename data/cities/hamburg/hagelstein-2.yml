@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5994754
 longitude: 9.9638352
-postcode: 22529
+postcode: "22529"
 city: Hamburg
 street: "Siemersplatz"
 housenumber: 5

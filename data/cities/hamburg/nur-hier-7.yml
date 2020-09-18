@@ -1,12 +1,12 @@
-id: 711496316
+id: 707006916
 type: node
 shop: Bäckerei
-latitude: 53.552427
-longitude: 9.930294
-postcode: 22765
+latitude: 53.580884700000006
+longitude: 9.973640600000001
+postcode: "20253"
 city: Hamburg
-street: "Bahrenfelder Straße"
-housenumber: 110
-phone: ""
-opening_hours: "Mo-Sa 07:00-18:30;Su 08:00-18:00"
-website: ""
+street: "Hoheluftchaussee"
+housenumber: 52 - 56
+phone: "+49 40 4207813"
+opening_hours: "Mo-Sa 06:00-20:00"
+website: "http://www.nur-hier.de"

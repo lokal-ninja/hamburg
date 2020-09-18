@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.704234400000004
 longitude: 10.104249600000001
-postcode: 22397
+postcode: "22397"
 city: Hamburg
 street: "Poppenbütteler Chaussee"
 housenumber: 43

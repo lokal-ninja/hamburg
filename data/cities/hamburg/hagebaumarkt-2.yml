@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.58696320000001
 longitude: 10.007243800000001
-postcode: 22301
+postcode: "22301"
 city: Hamburg
 street: "Krohnskamp"
 housenumber: 25

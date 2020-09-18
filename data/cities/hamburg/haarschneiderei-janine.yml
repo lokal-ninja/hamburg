@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.543030300000005
 longitude: 10.0938706
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Horner Landstraße"
 housenumber: 445

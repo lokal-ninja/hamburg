@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.572845300000004
 longitude: 10.0587482
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Brauhausstraße"
 housenumber: 23

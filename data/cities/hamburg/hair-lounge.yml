@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.4646831
 longitude: 9.9825918
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Harburger Schloßstraße"
 housenumber: 9

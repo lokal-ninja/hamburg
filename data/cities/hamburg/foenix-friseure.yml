@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.584040800000004
 longitude: 10.011514400000001
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Semperstraße"
 housenumber: 8

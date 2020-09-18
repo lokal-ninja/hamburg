@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5493049
 longitude: 9.9883925
-postcode: 20457
+postcode: "20457"
 city: Hamburg
 street: "Alter Wall"
 housenumber: 67-69

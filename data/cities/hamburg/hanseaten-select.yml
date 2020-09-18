@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 53.5459527
 longitude: 10.0078616
-postcode: 20097
+postcode: "20097"
 city: Hamburg
 street: "Oberhafenstraße"
 housenumber: 1

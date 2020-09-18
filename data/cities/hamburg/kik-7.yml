@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.599201
 longitude: 9.9159559
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Kieler Straße"
 housenumber: 573

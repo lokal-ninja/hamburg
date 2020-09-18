@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.5585839
 longitude: 9.9672946
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Sternstraße"
 housenumber: 4

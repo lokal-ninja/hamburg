@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.487296300000004
 longitude: 10.2129875
-postcode: 21029
+postcode: "21029"
 city: Hamburg
 street: "Hinterm Graben"
 housenumber: 15

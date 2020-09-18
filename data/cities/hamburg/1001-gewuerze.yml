@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.5865196
 longitude: 10.052350200000001
-postcode: 22305
+postcode: "22305"
 city: Hamburg
 street: "Geierstraße"
 housenumber: 1

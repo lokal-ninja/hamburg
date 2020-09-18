@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.599026
 longitude: 9.915663200000001
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Kieler Straße"
 housenumber: 573

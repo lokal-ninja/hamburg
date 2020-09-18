@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.546513600000004
 longitude: 10.110079500000001
-postcode: 22119
+postcode: "22119"
 city: Hamburg
 street: "Schiffbeker Höhe"
 housenumber: 12a

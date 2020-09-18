@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5635179
 longitude: 10.024380500000001
-postcode: 22087
+postcode: "22087"
 city: Hamburg
 street: "Mühlendamm"
 housenumber: 59

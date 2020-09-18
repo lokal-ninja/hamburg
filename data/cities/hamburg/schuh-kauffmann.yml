@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.5526343
 longitude: 10.000059700000001
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Gertrudenstraße"
 housenumber: 3

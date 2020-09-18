@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 53.558529
 longitude: 9.9733432
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Marktstraße"
 housenumber: 136

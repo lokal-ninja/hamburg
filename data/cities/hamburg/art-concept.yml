@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5640696
 longitude: 10.034885200000002
-postcode: 22087
+postcode: "22087"
 city: Hamburg
 street: "Landwehr"
 housenumber: 1

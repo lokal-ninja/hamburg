@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 53.604855300000004
 longitude: 10.0403228
-postcode: 22309
+postcode: "22309"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 406

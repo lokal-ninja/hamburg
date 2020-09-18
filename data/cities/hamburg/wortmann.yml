@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.5780133
 longitude: 9.8399391
-postcode: 22549
+postcode: "22549"
 city: Hamburg
 street: "Am Osdorfer Born"
 housenumber: 52

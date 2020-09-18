@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.5393203
 longitude: 10.108602600000001
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Möllner Landstraße"
 housenumber: 35

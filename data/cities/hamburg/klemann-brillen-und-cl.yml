@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.5928575
 longitude: 9.9911331
-postcode: 20249
+postcode: "20249"
 city: Hamburg
 street: "Ludolfstraße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.572650700000004
 longitude: 9.926136300000001
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Rondenbarg"
 housenumber: 2

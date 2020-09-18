@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.5539798
 longitude: 9.933126900000001
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Hahnenkamp"
 housenumber: 12

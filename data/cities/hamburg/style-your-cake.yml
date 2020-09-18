@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 53.583986200000005
 longitude: 9.980372000000001
-postcode: 20251
+postcode: "20251"
 city: Hamburg
 street: "Lehmweg"
 housenumber: 40

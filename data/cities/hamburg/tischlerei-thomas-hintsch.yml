@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.654109500000004
 longitude: 10.0973705
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Langenstücken"
 housenumber: 32

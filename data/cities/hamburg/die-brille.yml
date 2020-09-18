@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.5690686
 longitude: 9.9798921
-postcode: 20146
+postcode: "20146"
 city: Hamburg
 street: "Grindelallee"
 housenumber: 136

@@ -3,10 +3,10 @@ type: node
 shop: Tiere
 latitude: 53.480951600000004
 longitude: 10.2074204
-postcode: 21029
+postcode: "21029"
 city: Hamburg
 street: "Curslacker Neuer Deich"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
-website: "https://www.futterhaus.de/mein-futterhaus/filialen/hamburg-bergedorf/"
+website: ""

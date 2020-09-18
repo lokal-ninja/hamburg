@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.6348393
 longitude: 9.9534687
-postcode: 22455
+postcode: "22455"
 city: Hamburg
 street: "Paul-Sorge-Straße"
 housenumber: 142

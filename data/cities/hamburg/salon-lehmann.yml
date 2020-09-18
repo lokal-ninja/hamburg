@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.58085500000001
 longitude: 10.019888700000001
-postcode: 22085
+postcode: "22085"
 city: Hamburg
 street: "Herderstraße"
 housenumber: 56

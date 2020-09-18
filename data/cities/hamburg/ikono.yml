@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.54173290000001
 longitude: 9.9981829
-postcode: 20457
+postcode: "20457"
 city: Hamburg
 street: "Überseeboulevard"
 housenumber: 5

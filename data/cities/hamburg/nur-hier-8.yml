@@ -1,12 +1,12 @@
-id: 719391875
+id: 711496316
 type: node
 shop: Bäckerei
-latitude: 53.632949100000005
-longitude: 9.910231900000001
-postcode: 22457
+latitude: 53.552427
+longitude: 9.930294
+postcode: "22765"
 city: Hamburg
-street: "Pinneberger Straße"
-housenumber: 2
+street: "Bahrenfelder Straße"
+housenumber: 110
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00"
+opening_hours: "Mo-Sa 07:00-18:30;Su 08:00-18:00"
 website: ""

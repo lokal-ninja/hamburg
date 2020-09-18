@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.6523327
 longitude: 10.1098359
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Kunaustraße"
 housenumber: 11

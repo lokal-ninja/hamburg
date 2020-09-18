@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 53.5755093
 longitude: 9.9539206
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Osterstraße"
 housenumber: 95

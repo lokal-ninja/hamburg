@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.5504259
 longitude: 10.001798200000001
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Jakobikirchhof"
 housenumber: 8

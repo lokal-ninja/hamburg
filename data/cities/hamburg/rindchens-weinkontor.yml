@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 53.5792894
 longitude: 9.9496605
-postcode: 20255
+postcode: "20255"
 city: Hamburg
 street: "Stellinger Weg"
 housenumber: 26

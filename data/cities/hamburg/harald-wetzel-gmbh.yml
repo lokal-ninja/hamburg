@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 53.6312672
 longitude: 10.0143997
-postcode: 22335
+postcode: "22335"
 city: Hamburg
 street: "Alsterkrugchaussee"
 housenumber: 587

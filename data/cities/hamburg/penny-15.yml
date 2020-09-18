@@ -1,12 +1,12 @@
-id: 833459870
+id: 773373957
 type: node
 shop: Supermarkt
-latitude: 53.6398759
-longitude: 9.9469641
-postcode: 22455
+latitude: 53.6036511
+longitude: 10.04087
+postcode: "22309"
 city: Hamburg
-street: "Nordalbingerweg"
-housenumber: 11
+street: "Fuhlsbüttler Straße"
+housenumber: 428
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.penny.de/marktsuche/"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: ""

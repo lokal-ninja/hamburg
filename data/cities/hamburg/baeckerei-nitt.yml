@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.6524748
 longitude: 10.0928877
-postcode: 22391
+postcode: "22391"
 city: Hamburg
 street: "Heegbarg"
 housenumber: 4

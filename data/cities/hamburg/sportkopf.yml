@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.647664400000004
 longitude: 10.1635864
-postcode: 22359
+postcode: "22359"
 city: Hamburg
 street: "Weiße Rose"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.6250287
 longitude: 10.139909900000001
-postcode: 22147
+postcode: "22147"
 city: Hamburg
 street: "Hermann-Balk-Straße"
 housenumber: 127

@@ -3,7 +3,7 @@ type: way
 shop: Tauchen
 latitude: 53.5878201
 longitude: 10.084117500000001
-postcode: 22047
+postcode: "22047"
 city: Hamburg
 street: "Rosmarinstraße"
 housenumber: 26

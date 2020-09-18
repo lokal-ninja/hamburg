@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6630157
 longitude: 10.0779127
-postcode: 22399
+postcode: "22399"
 city: Hamburg
 street: "Harksheider Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 53.6416076
 longitude: 10.0812349
-postcode: 22391
+postcode: "22391"
 city: Hamburg
 street: "Rolfinckstraße"
 housenumber: 1

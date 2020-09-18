@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.552965
 longitude: 9.933508
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Hahnenkamp"
 housenumber: 1

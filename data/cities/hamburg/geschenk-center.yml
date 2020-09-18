@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.4572562
 longitude: 9.9858545
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Seevepassage"
 housenumber: 1

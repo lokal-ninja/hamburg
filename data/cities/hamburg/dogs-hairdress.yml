@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.5708002
 longitude: 10.1234135
-postcode: 22043
+postcode: "22043"
 city: Hamburg
 street: "Rodigallee"
 housenumber: 238

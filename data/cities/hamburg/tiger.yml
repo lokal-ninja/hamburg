@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.5761313
 longitude: 9.9527611
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Osterstraße"
 housenumber: 104

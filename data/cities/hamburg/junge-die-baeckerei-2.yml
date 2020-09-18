@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.581683000000005
 longitude: 9.7564793
-postcode: 22559
+postcode: "22559"
 city: Hamburg
 street: "Wedeler Landstraße"
 housenumber: 41

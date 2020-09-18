@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5569787
 longitude: 9.9020034
-postcode: 22763
+postcode: "22763"
 city: Hamburg
 street: "Jürgen-Töpfer-Straße"
 housenumber: 18

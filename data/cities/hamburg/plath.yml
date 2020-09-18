@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.6535881
 longitude: 10.107787400000001
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Stadtbahnstraße"
 housenumber: 17a

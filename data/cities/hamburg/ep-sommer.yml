@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.660566800000005
 longitude: 10.082677200000001
-postcode: 22399
+postcode: "22399"
 city: Hamburg
 street: "Harksheider Straße"
 housenumber: 8

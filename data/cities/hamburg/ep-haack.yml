@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.629892500000004
 longitude: 10.022004800000001
-postcode: 22335
+postcode: "22335"
 city: Hamburg
 street: "Erdkampsweg"
 housenumber: 57

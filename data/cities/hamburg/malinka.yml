@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 53.5497918
 longitude: 9.930305500000001
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Bahrenfelder Straße"
 housenumber: 43
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.malinka-hamburg.de/"
+opening_hours: "Mo-Sa 09:00-19:00; PH off"
+website: ""

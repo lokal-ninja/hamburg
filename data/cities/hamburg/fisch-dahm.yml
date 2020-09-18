@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.6246135
 longitude: 10.140621900000001
-postcode: 22147
+postcode: "22147"
 city: Hamburg
 street: "Hermann-Balk-Straße"
 housenumber: 114

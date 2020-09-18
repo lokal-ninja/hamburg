@@ -1,12 +1,12 @@
-id: 1149627989
+id: 1360150365
 type: node
 shop: Bäckerei
-latitude: 53.555209700000006
-longitude: 9.9260985
-postcode: 22765
+latitude: 53.548988800000004
+longitude: 10.002301800000001
+postcode: "20095"
 city: Hamburg
-street: "Behringstraße"
-housenumber: 2
-phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-14:00; Su 06:00-16:30"
-website: ""
+street: "Burchardplatz"
+housenumber: 5
+phone: "+49 40 30392186"
+opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-18:00; PHoff"
+website: "https://www.schanzenbaeckerei.de/filialen/burchardplatz"

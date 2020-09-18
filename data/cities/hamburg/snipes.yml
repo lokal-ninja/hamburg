@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.5504559
 longitude: 9.995781500000001
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Mönckebergstraße"
 housenumber: 25

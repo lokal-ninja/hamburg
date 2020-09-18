@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.6064286
 longitude: 10.039535500000001
-postcode: 22309
+postcode: "22309"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 468

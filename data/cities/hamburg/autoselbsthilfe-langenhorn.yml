@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.6626319
 longitude: 10.0065884
-postcode: 22419
+postcode: "22419"
 city: Hamburg
 street: "Oehleckerring"
 housenumber: 19

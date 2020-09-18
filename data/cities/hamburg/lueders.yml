@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.576624200000005
 longitude: 9.9515335
-postcode: 20255
+postcode: "20255"
 city: Hamburg
 street: "Heußweg"
 housenumber: 33

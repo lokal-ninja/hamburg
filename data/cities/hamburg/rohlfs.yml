@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.6244001
 longitude: 10.1146695
-postcode: 22159
+postcode: "22159"
 city: Hamburg
 street: "Pezolddamm"
 housenumber: 154

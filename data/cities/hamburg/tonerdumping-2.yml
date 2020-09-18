@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 53.5721707
 longitude: 10.029108500000001
-postcode: 22083
+postcode: "22083"
 city: Hamburg
 street: "Hamburger Straße"
 housenumber: 49

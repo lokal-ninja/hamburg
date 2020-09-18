@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.67049170000001
 longitude: 10.1266833
-postcode: 22395
+postcode: "22395"
 city: Hamburg
 street: "Bergstedter Chaussee"
 housenumber: 130 b

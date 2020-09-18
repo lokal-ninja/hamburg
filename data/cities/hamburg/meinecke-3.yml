@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.6074798
 longitude: 10.005216
-postcode: 22297
+postcode: "22297"
 city: Hamburg
 street: "Alsterdorfer Straße"
 housenumber: 253

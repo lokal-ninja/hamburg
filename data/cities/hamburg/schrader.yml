@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 53.5690067
 longitude: 9.9799436
-postcode: 20146
+postcode: "20146"
 city: Hamburg
 street: "Grindelallee"
 housenumber: 136

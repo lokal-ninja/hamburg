@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.54003
 longitude: 10.104739200000001
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Möllner Landstraße"
 housenumber: 3

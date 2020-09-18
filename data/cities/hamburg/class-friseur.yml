@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.53924790000001
 longitude: 10.1058149
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Möllner Landstraße"
 housenumber: 18

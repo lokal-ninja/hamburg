@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.6418023
 longitude: 10.037822100000001
-postcode: 22339
+postcode: "22339"
 city: Hamburg
 street: "Hummelsbüttler Hauptstraße"
 housenumber: 59

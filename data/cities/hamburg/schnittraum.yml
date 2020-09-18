@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5664461
 longitude: 10.019654500000001
-postcode: 22087
+postcode: "22087"
 city: Hamburg
 street: "Papenhuder Straße"
 housenumber: 24

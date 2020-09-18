@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.587601600000006
 longitude: 10.0977657
-postcode: 22047
+postcode: "22047"
 city: Hamburg
 street: "Am Stadtrand"
 housenumber: 31,33

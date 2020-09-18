@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5727392
 longitude: 10.062238800000001
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Wandsbeker Königstraße"
 housenumber: 23-25

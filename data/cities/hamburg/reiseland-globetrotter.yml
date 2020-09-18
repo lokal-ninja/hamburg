@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.4566256
 longitude: 9.9863918
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Hannoversche Straße"
 housenumber: 86

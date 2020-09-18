@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.65120520000001
 longitude: 10.105850100000001
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Kunaustraße"
 housenumber: 30

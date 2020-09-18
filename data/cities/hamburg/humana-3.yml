@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 53.560383
 longitude: 9.9651756
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Schanzenstraße"
 housenumber: 24

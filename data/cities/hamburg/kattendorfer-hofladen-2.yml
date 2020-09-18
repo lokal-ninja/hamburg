@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.5625262
 longitude: 9.9570038
-postcode: 22769
+postcode: "22769"
 city: Hamburg
 street: "Max-Brauer-Allee"
 housenumber: 249

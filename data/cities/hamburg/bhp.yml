@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.5866697
 longitude: 10.0058187
-postcode: 22301
+postcode: "22301"
 city: Hamburg
 street: "Dorotheenstraße"
 housenumber: 108

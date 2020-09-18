@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.590167
 longitude: 9.986392
-postcode: 20249
+postcode: "20249"
 city: Hamburg
 street: "Eppendorfer Landstraße"
 housenumber: 67

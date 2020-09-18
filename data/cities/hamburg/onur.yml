@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5903045
 longitude: 10.0446866
-postcode: 22305
+postcode: "22305"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 125-127

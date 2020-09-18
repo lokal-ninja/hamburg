@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.65399360000001
 longitude: 10.111943
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Saseler Markt"
 housenumber: 6

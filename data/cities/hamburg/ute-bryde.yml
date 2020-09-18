@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5532223
 longitude: 9.9831274
-postcode: 20355
+postcode: "20355"
 city: Hamburg
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 47

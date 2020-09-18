@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.5525943
 longitude: 9.9896987
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Große Bleichen"
 housenumber: 21

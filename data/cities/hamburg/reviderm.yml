@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.5793462
 longitude: 9.9792014
-postcode: 20144
+postcode: "20144"
 city: Hamburg
 street: "Isestraße"
 housenumber: 20

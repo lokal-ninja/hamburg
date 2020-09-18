@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.527551100000004
 longitude: 10.024291100000001
-postcode: 20539
+postcode: "20539"
 city: Hamburg
 street: "Peutestraße"
 housenumber: 2

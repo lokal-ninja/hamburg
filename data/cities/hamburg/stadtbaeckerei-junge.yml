@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5815264
 longitude: 10.011798
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Mühlenkamp"
 housenumber: 32

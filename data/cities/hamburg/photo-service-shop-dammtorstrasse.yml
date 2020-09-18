@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.557437400000005
 longitude: 9.9890477
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Dammtorstraße"
 housenumber: 22

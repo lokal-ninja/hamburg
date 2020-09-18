@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.549930700000004
 longitude: 10.002242
-postcode: 
+postcode: ""
 city: Hamburg
 street: "Steinstraße"
 housenumber: 17a

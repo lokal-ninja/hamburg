@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.5811975
 longitude: 10.012733800000001
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Gertigstraße"
 housenumber: 6

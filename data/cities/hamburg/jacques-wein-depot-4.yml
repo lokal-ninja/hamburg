@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 53.55212770000001
 longitude: 9.9296465
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Ottenser Hauptstraße"
 housenumber: 28

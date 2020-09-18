@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.5546001
 longitude: 9.989348000000001
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Gerhofstraße"
 housenumber: 38

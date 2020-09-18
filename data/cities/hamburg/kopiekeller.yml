@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.556323000000006
 longitude: 10.0067961
-postcode: 20099
+postcode: "20099"
 city: Hamburg
 street: "St. Georgstraße"
 housenumber: 8

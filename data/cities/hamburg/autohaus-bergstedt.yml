@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.6750507
 longitude: 10.1379886
-postcode: 22395
+postcode: "22395"
 city: Hamburg
 street: "Bergstedter Chaussee"
 housenumber: 214

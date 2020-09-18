@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.500542300000006
 longitude: 9.998928900000001
-postcode: 21109
+postcode: "21109"
 city: Hamburg
 street: "Dratelnstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.584995400000004
 longitude: 10.0246843
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Jarrestraße"
 housenumber: 37

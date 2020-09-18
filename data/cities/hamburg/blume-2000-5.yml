@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.6249886
 longitude: 10.139943800000001
-postcode: 22147
+postcode: "22147"
 city: Hamburg
 street: "Hermann-Balk-Straße"
 housenumber: 125

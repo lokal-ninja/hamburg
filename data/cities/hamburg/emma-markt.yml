@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.547601400000005
 longitude: 9.962613600000001
-postcode: 20359
+postcode: "20359"
 city: Hamburg
 street: "Davidstraße"
 housenumber: 5

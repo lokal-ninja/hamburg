@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5525886
 longitude: 9.9630034
-postcode: 20359
+postcode: "20359"
 city: Hamburg
 street: "Hein-Hoyer-Straße"
 housenumber: 52

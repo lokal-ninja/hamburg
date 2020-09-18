@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 53.589117300000005
 longitude: 10.062009100000001
-postcode: 22305
+postcode: "22305"
 city: Hamburg
 street: "Habichtstraße"
 housenumber: 2

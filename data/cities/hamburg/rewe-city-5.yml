@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.628016
 longitude: 10.0243272
-postcode: 22335
+postcode: "22335"
 city: Hamburg
 street: "Erdkampsweg"
 housenumber: 29

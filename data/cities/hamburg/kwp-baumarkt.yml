@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.654416600000005
 longitude: 10.1067037
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Saseler Chaussee"
 housenumber: 211

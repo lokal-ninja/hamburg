@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.546217000000006
 longitude: 10.0487315
-postcode: 20537
+postcode: "20537"
 city: Hamburg
 street: "Borstelmannsweg"
 housenumber: 182

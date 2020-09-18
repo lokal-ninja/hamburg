@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.6120323
 longitude: 10.077100100000001
-postcode: 22177
+postcode: "22177"
 city: Hamburg
 street: "Bramfelder Chaussee"
 housenumber: 230

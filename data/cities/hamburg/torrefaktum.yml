@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 53.5569476
 longitude: 9.9278603
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Bahrenfelder Straße"
 housenumber: 237

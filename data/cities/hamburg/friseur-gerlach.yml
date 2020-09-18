@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5029739
 longitude: 10.1891072
-postcode: 21033
+postcode: "21033"
 city: Hamburg
 street: "Ladenbeker Furtweg"
 housenumber: 10a

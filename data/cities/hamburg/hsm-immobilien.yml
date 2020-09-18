@@ -3,7 +3,7 @@ type: node
 shop: Immobilien
 latitude: 53.581045800000005
 longitude: 9.937835100000001
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Langenfelder Damm"
 housenumber: 67

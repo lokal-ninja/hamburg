@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.552308000000004
 longitude: 9.9918671
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Neuer Wall"
 housenumber: 18

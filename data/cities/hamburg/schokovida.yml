@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 53.584654300000004
 longitude: 9.9838755
-postcode: 20249
+postcode: "20249"
 city: Hamburg
 street: "Hegestraße"
 housenumber: 33

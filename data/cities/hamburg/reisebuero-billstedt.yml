@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.538020700000004
 longitude: 10.1060853
-postcode: 22117
+postcode: "22117"
 city: Hamburg
 street: "Billstedter Hauptstraße"
 housenumber: 82

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 53.566513900000004
 longitude: 9.9687236
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Kleiner Schäferkamp"
 housenumber: 29b

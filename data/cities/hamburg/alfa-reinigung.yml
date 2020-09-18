@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.581074
 longitude: 10.011635
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Mühlenkamp"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.594266100000006
 longitude: 9.9874208
-postcode: 20251
+postcode: "20251"
 city: Hamburg
 street: "Erikastraße"
 housenumber: 74

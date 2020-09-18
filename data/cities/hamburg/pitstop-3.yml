@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.593231
 longitude: 10.1382372
-postcode: 22149
+postcode: "22149"
 city: Hamburg
 street: "Rahlstedter Straße"
 housenumber: 1-3

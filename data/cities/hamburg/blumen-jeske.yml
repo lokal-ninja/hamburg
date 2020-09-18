@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 53.4491129
 longitude: 9.9529806
-postcode: 21077
+postcode: "21077"
 city: Hamburg
 street: "Beerentalweg"
 housenumber: 44
-phone: ""
+phone: "+49 040-7907205"
 opening_hours: ""
-website: ""
+website: "https://blumenjeske.de/"

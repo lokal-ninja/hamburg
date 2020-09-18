@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.471389
 longitude: 9.944554400000001
-postcode: 21075
+postcode: "21075"
 city: Hamburg
 street: "Stader Straße"
 housenumber: 138

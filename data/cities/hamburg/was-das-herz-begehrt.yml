@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 53.592224300000005
 longitude: 10.0439003
-postcode: 22305
+postcode: "22305"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 157

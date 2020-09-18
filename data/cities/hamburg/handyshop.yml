@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.550151400000004
 longitude: 10.078111600000002
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Horner Landstraße"
 housenumber: 148a

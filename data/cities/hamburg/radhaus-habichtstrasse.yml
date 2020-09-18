@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5941315
 longitude: 10.0507533
-postcode: 22307
+postcode: "22307"
 city: Hamburg
 street: "Habichtstraße"
 housenumber: 104a

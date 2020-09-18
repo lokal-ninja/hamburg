@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5988708
 longitude: 9.915640400000001
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Kieler Straße"
 housenumber: 561-573

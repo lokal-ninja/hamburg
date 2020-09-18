@@ -3,7 +3,7 @@ type: way
 shop: Pool
 latitude: 53.653309500000006
 longitude: 10.1051011
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Stadtbahnstraße"
 housenumber: 29

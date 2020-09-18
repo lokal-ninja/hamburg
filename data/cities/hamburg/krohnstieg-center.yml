@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 53.648917100000006
 longitude: 10.011775700000001
-postcode: 22415
+postcode: "22415"
 city: Hamburg
 street: "Krohnstieg"
 housenumber: 41

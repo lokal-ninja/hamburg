@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5538783
 longitude: 10.0124755
-postcode: 20099
+postcode: "20099"
 city: Hamburg
 street: "Steindamm"
 housenumber: 27

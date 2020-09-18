@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.5446995
 longitude: 9.9408908
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Große Elbstraße"
 housenumber: 210

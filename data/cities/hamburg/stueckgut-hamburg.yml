@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5516407
 longitude: 9.932191900000001
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Am Felde"
 housenumber: 91

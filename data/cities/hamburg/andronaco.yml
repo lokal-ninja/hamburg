@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.566379100000006
 longitude: 9.922595600000001
-postcode: 22761
+postcode: "22761"
 city: Hamburg
 street: "Beerenweg"
 housenumber: 24-26

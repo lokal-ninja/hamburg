@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.442688100000005
 longitude: 9.993709800000001
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Musilweg"
 housenumber: 6

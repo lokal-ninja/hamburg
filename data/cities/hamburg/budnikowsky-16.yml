@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.559133900000006
 longitude: 10.014002300000001
-postcode: 20099
+postcode: "20099"
 city: Hamburg
 street: "Lange Reihe"
 housenumber: 104 - 106

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.475477600000005
 longitude: 10.1973365
-postcode: 21035
+postcode: "21035"
 city: Hamburg
 street: "Randersweide"
 housenumber: 59-63

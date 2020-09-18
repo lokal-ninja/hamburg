@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.621525600000005
 longitude: 9.9515562
-postcode: 22459
+postcode: "22459"
 city: Hamburg
 street: "Paul-Sorge-Straße"
 housenumber: 4a

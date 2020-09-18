@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.535984000000006
 longitude: 10.037225900000001
-postcode: 20539
+postcode: "20539"
 city: Hamburg
 street: "Billhorner Röhrendamm"
 housenumber: 145-147

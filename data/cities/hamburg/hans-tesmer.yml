@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.4541204
 longitude: 10.0071995
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Großmoorbogen"
 housenumber: 23

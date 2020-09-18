@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.558534
 longitude: 9.972892900000002
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Marktstraße"
 housenumber: 131

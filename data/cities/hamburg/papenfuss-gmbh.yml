@@ -3,10 +3,10 @@ type: node
 shop: Kopieren
 latitude: 53.5721756
 longitude: 9.8551435
-postcode: 22549
+postcode: "22549"
 city: Hamburg
 street: "Osdorfer Landstraße"
 housenumber: 162
-phone: "+49 40 805411"
-opening_hours: "Mo-Th 08:30-18:00, Fr 08:30-16:00, Sa 08:30-14:00"
-website: "http://www.papenfuss-gmbh.de/"
+phone: ""
+opening_hours: "Mo-Th 08:30-18:00, Fr 08:30-16:00, Sa 08:30-14:00; PH off"
+website: ""

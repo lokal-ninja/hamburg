@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 53.579846100000005
 longitude: 9.9425757
-postcode: 20257
+postcode: "20257"
 city: Hamburg
 street: "Müggenkampstraße"
 housenumber: 45

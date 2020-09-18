@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.647048100000006
 longitude: 10.088120700000001
-postcode: 22391
+postcode: "22391"
 city: Hamburg
 street: "Poppenbüttler Landstraße"
 housenumber: 2

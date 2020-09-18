@@ -1,12 +1,12 @@
-id: 699751082
+id: 735410135
 type: node
 shop: Bäckerei
-latitude: 53.558874800000005
-longitude: 10.0385915
-postcode: 20535
+latitude: 53.649783500000005
+longitude: 10.0128412
+postcode: "22415"
 city: Hamburg
-street: "Bürgerweide"
-housenumber: 90
-phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-12:00"
+street: "Langenhorner Markt"
+housenumber: 13b
+phone: "+49 40 5317444"
+opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-14:00; Su 08:00-11:00"
 website: ""

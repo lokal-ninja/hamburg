@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.652810800000005
 longitude: 10.0928193
-postcode: 22391
+postcode: "22391"
 city: Hamburg
 street: "Heegbarg"
 housenumber: 6

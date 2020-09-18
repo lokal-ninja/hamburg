@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 53.55417550000001
 longitude: 9.9878628
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Poststraße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 53.460100600000004
 longitude: 9.9822541
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Lüneburger Straße"
 housenumber: 43

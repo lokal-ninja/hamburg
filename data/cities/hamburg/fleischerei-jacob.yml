@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.571457300000006
 longitude: 9.9604163
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Weidenstieg"
 housenumber: 15

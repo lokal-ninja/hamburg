@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.553693200000005
 longitude: 9.9482199
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Virchowstraße"
 housenumber: 64

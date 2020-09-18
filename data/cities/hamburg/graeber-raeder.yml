@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.597810900000006
 longitude: 10.0421087
-postcode: 22307
+postcode: "22307"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 269

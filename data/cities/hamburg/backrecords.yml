@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 53.5535098
 longitude: 9.961774400000001
-postcode: 20359
+postcode: "20359"
 city: Hamburg
 street: "Wohlwillstraße"
 housenumber: 24

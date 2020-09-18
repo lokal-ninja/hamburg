@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5876262
 longitude: 10.0869543
-postcode: 22047
+postcode: "22047"
 city: Hamburg
 street: "Friedrich-Ebert-Damm"
 housenumber: 85f

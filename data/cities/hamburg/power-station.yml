@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.6055384
 longitude: 10.0403184
-postcode: 22307
+postcode: "22307"
 city: Hamburg
 street: "Elligersweg"
 housenumber: 5

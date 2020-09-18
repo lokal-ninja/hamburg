@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.548281800000005
 longitude: 10.0001177
-postcode: 20457
+postcode: "20457"
 city: Hamburg
 street: "Hopfensack"
 housenumber: 6

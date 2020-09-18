@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5933366
 longitude: 10.0523389
-postcode: 22305
+postcode: "22305"
 city: Hamburg
 street: "Habichtstraße"
 housenumber: 96

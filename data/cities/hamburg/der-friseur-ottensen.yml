@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.556665100000004
 longitude: 9.9221242
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Planckstraße"
 housenumber: 21

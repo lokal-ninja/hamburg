@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.563083000000006
 longitude: 9.8133561
-postcode: 22587
+postcode: "22587"
 city: Hamburg
 street: "Erik-Blumenfeld-Platz"
 housenumber: 19

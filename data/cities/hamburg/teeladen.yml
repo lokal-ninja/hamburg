@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 53.564075200000005
 longitude: 10.058542500000001
-postcode: 20535
+postcode: "20535"
 city: Hamburg
 street: "Caspar-Voght-Straße"
 housenumber: 90

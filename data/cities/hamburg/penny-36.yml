@@ -1,12 +1,12 @@
-id: 176358366
+id: 148054290
 type: way
 shop: Supermarkt
-latitude: 53.632386200000006
-longitude: 9.955386800000001
-postcode: 22459
+latitude: 53.44793000000001
+longitude: 9.944087300000001
+postcode: "21077"
 city: Hamburg
-street: "Krähenweg"
-housenumber: 4
+street: "Beerentalweg"
+housenumber: 35d
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"
 website: ""

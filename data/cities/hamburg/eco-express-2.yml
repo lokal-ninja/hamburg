@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.558604200000005
 longitude: 9.94851
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Max-Brauer-Allee"
 housenumber: 155

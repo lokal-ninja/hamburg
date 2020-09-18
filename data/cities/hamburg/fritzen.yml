@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.5533456
 longitude: 9.9616162
-postcode: 20359
+postcode: "20359"
 city: Hamburg
 street: "Wohlwillstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.533452000000004
 longitude: 10.039084
-postcode: 20539
+postcode: "20539"
 city: Hamburg
 street: "Rothenburgsorter Marktplatz"
 housenumber: 2

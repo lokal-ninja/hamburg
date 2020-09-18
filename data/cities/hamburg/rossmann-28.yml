@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5402293
 longitude: 10.1038741
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Billstedter Platz"
 housenumber: 42a

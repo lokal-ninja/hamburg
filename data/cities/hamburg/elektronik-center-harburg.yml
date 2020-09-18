@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.4531088
 longitude: 9.987446400000001
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Wilstorfer Straße"
 housenumber: 104

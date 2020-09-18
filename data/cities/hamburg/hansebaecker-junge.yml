@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.456282800000004
 longitude: 9.987411900000001
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Hannoversche Straße"
 housenumber: 86

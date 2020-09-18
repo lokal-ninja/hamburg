@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 53.602779600000005
 longitude: 10.0436344
-postcode: 22307
+postcode: "22307"
 city: Hamburg
 street: "Hartzlohplatz"
 housenumber: 1

@@ -1,12 +1,12 @@
-id: 39885785
+id: 334901152
 type: way
 shop: Supermarkt
-latitude: 53.632013500000006
-longitude: 10.0885022
-postcode: 22175
+latitude: 53.629127600000004
+longitude: 10.150167000000001
+postcode: "22145"
 city: Hamburg
-street: "Bramfelder Chaussee"
-housenumber: 491
+street: "Saseler Straße"
+housenumber: 136a
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/meinkaufsbox/markt/marktinfo.html?marketid=424675"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

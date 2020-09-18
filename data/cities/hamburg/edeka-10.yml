@@ -1,12 +1,12 @@
-id: 1452699102
+id: 553103996
 type: node
 shop: Supermarkt
-latitude: 53.461213
-longitude: 9.9799199
-postcode: 21073
+latitude: 53.5481885
+longitude: 9.9890077
+postcode: "20457"
 city: Hamburg
-street: "Sand"
-housenumber: 27-31
-phone: "+49 40 772955"
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "http://www.niemerszein.de/ihr-markt/sand-31"
+street: "Großer Burstah"
+housenumber: 31
+phone: "+49 40 364737"
+opening_hours: "Mo-Fr 07:30-19:00; Sa 08:30-16:00; PH off"
+website: "https://edeka-struve.de/de/Marktdetailseite/Schlemmer-Markt-Struve-am-Grossen-Burstah-2"

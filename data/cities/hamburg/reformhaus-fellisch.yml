@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.4610143
 longitude: 9.981413100000001
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Hölertwiete"
 housenumber: 4

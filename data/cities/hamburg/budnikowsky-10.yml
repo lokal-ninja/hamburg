@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5907052
 longitude: 9.9865118
-postcode: 20249
+postcode: "20249"
 city: Hamburg
 street: "Eppendorfer Landstraße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.587194700000005
 longitude: 10.091727
-postcode: 22047
+postcode: "22047"
 city: Hamburg
 street: "Friedrich-Ebert-Damm"
 housenumber: 112

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 53.556540700000006
 longitude: 10.006962000000001
-postcode: 20099
+postcode: "20099"
 city: Hamburg
 street: "St. Georgs Kirchhof"
 housenumber: 7

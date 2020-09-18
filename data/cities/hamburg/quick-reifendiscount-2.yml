@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 53.471386300000006
 longitude: 9.8687424
-postcode: 21149
+postcode: "21149"
 city: Hamburg
 street: "Cuxhavener Straße"
 housenumber: 267

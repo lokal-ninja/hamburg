@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.5976445
 longitude: 9.9174431
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Kronsaalsweg"
 housenumber: 82

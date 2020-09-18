@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.56705040000001
 longitude: 9.9812995
-postcode: 20146
+postcode: "20146"
 city: Hamburg
 street: "Grindelallee"
 housenumber: 92

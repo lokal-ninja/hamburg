@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.5819216
 longitude: 10.0108072
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Mühlenkamp"
 housenumber: 39

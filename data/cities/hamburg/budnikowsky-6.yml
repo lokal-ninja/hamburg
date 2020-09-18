@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.6292941
 longitude: 10.022777600000001
-postcode: 22335
+postcode: "22335"
 city: Hamburg
 street: "Erdkampsweg"
 housenumber: 47-49

@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 53.5717465
 longitude: 9.9590286
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Eppendorfer Weg"
 housenumber: 54

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.574237100000005
 longitude: 10.0794589
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Morewoodstraße"
 housenumber: 32

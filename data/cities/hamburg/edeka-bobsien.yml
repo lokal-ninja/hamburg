@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.53410160000001
 longitude: 9.8817807
-postcode: 21129
+postcode: "21129"
 city: Hamburg
 street: "Köhlfleet-Hauptdeich"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.554525500000004
 longitude: 9.927784
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Friedensallee"
 housenumber: 8

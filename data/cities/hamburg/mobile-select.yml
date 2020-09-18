@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.4565209
 longitude: 9.986974700000001
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Hannoversche Straße"
 housenumber: 86

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5552871
 longitude: 10.0415057
-postcode: 20537
+postcode: "20537"
 city: Hamburg
 street: "Hammer Landstraße"
 housenumber: 6

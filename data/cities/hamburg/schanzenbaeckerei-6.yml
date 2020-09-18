@@ -1,12 +1,12 @@
-id: 740938963
+id: 1149627989
 type: node
 shop: Bäckerei
-latitude: 53.546157400000006
-longitude: 9.9893652
-postcode: 20459
+latitude: 53.555209700000006
+longitude: 9.9260985
+postcode: "22765"
 city: Hamburg
-street: "Holzbrücke"
-housenumber: 7
-phone: "+49 40 30095895"
-opening_hours: "Mo-Fr 07:00-19:00"
-website: "https://www.schanzenbaeckerei.de/filialen/holzbruecke"
+street: "Behringstraße"
+housenumber: 2
+phone: ""
+opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-14:00; Su 06:00-16:30"
+website: ""

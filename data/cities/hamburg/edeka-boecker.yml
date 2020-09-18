@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5418655
 longitude: 9.9977126
-postcode: 20457
+postcode: "20457"
 city: Hamburg
 street: "Überseeboulevard"
 housenumber: 4-10

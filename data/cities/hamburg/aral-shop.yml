@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.562294
 longitude: 10.120170100000001
-postcode: 22119
+postcode: "22119"
 city: Hamburg
 street: "Schiffbeker Weg"
 housenumber: 228

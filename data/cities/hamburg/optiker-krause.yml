@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.561506
 longitude: 10.0373705
-postcode: 22087
+postcode: "22087"
 city: Hamburg
 street: "Landwehr"
 housenumber: 39

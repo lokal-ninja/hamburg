@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.5745561
 longitude: 9.8461184
-postcode: 22549
+postcode: "22549"
 city: Hamburg
 street: "Rugenbarg"
 housenumber: 13

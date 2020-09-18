@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5772732
 longitude: 10.0581247
-postcode: 22049
+postcode: "22049"
 city: Hamburg
 street: "Krausestraße"
 housenumber: 116

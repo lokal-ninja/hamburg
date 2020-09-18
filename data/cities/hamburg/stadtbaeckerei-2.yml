@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.555606000000004
 longitude: 9.988368000000001
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Gänsemarkt"
 housenumber: 44

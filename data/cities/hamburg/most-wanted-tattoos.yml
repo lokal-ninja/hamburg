@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 53.6047401
 longitude: 10.040372600000001
-postcode: 22309
+postcode: "22309"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 458-460

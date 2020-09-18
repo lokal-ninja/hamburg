@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.5754286
 longitude: 9.9628742
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Eppendorfer Weg"
 housenumber: 110

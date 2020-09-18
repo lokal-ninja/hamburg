@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5676822
 longitude: 9.9808693
-postcode: 20146
+postcode: "20146"
 city: Hamburg
 street: "Grindelallee"
 housenumber: 104

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 53.575391
 longitude: 10.0365097
-postcode: 22083
+postcode: "22083"
 city: Hamburg
 street: "Hamburger Straße"
 housenumber: 134

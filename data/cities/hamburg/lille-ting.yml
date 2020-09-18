@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.6615508
 longitude: 10.086183400000001
-postcode: 22399
+postcode: "22399"
 city: Hamburg
 street: "Poppenbüttler Hauptstraße"
 housenumber: 9a

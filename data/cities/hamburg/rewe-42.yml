@@ -1,12 +1,12 @@
-id: 218331538
+id: 199653785
 type: way
 shop: Supermarkt
-latitude: 53.498427400000004
-longitude: 10.209456900000001
-postcode: 21031
+latitude: 53.6075736
+longitude: 10.005765
+postcode: "22297"
 city: Hamburg
-street: "Am Beckerkamp"
-housenumber: 31
+street: "Alsterdorfer Straße"
+housenumber: 255
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/hamburg-lohbruegge/540672/rewe-markt-am-beckerkamp-31/"
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.5485674
 longitude: 9.925650800000001
-postcode: 22763
+postcode: "22763"
 city: Hamburg
 street: "Große Brunnenstraße"
 housenumber: 32

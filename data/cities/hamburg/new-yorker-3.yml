@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.541053500000004
 longitude: 10.1054996
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Möllner Landstraße"
 housenumber: 3

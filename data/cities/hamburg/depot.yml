@@ -3,10 +3,10 @@ type: node
 shop: Raumausstattung
 latitude: 53.621071
 longitude: 9.952518600000001
-postcode: 22459
+postcode: "22459"
 city: Hamburg
 street: "Tibarg"
 housenumber: 42
-phone: "+49 40 52105333"
+phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-17:00; PH,Su off"
-website: "https://www.depot-online.com/filialen"
+website: ""

@@ -1,12 +1,12 @@
-id: 611334610
+id: 610844360
 type: node
 shop: Supermarkt
-latitude: 53.4894587
-longitude: 10.1590279
-postcode: 21035
+latitude: 53.553685200000004
+longitude: 10.0628171
+postcode: "20537"
 city: Hamburg
-street: "Fleetplatz"
-housenumber: 1-7
+street: "Droopweg"
+housenumber: 25
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: "Mo-Sa 7:00-22:00; PH off"
 website: ""

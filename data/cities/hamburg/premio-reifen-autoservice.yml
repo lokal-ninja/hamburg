@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 53.489465
 longitude: 10.1868339
-postcode: 21033
+postcode: "21033"
 city: Hamburg
 street: "Oberer Landweg"
 housenumber: 9

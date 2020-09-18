@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.539923400000006
 longitude: 10.1057334
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Billstedter Platz"
 housenumber: 39k

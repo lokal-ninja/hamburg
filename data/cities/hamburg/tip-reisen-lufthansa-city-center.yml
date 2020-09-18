@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.581635600000006
 longitude: 10.0107537
-postcode: 22301
+postcode: "22301"
 city: Hamburg
 street: "Poelchaukamp"
 housenumber: 1

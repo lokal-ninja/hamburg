@@ -1,12 +1,12 @@
-id: 2159036866
+id: 2184537367
 type: node
 shop: Drogerie
-latitude: 53.560138300000006
-longitude: 10.1070191
-postcode: 22119
+latitude: 53.553976500000005
+longitude: 10.0861221
+postcode: "22111"
 city: Hamburg
-street: "Graßmannweg"
-housenumber: 6-13
+street: "Rennbahnstraße"
+housenumber: 30-38
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
-website: "https://www.budni.de/filialen/22119-grassmannweg-6-13/"
+opening_hours: "Mo-Sa 08:00-21:00; PH off"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.5527765
 longitude: 10.0048621
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Spitalerstraße"
 housenumber: 2

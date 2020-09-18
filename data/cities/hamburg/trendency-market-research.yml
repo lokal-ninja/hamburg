@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.551084100000004
 longitude: 9.9395919
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Altonaer Poststraße"
 housenumber: 13A

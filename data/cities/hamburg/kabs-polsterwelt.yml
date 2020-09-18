@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.579889900000005
 longitude: 10.080112900000001
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Walddörferstraße"
 housenumber: 140

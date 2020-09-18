@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.6480614
 longitude: 10.164066
-postcode: 22359
+postcode: "22359"
 city: Hamburg
 street: "Weiße Rose"
 housenumber: 8

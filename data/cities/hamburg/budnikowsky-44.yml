@@ -1,12 +1,12 @@
-id: 2923161201
+id: 2923189601
 type: node
 shop: Drogerie
-latitude: 53.5731199
-longitude: 10.0677385
-postcode: 22041
+latitude: 53.580754500000005
+longitude: 9.9738371
+postcode: "20253"
 city: Hamburg
-street: "Wandsbeker Marktstraße"
-housenumber: 97-99
+street: "Hoheluftchaussee"
+housenumber: 52
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.budni.de/filialen/22041-wandsbeker-marktstrasse-97-99/"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

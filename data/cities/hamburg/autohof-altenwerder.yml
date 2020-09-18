@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.513384900000005
 longitude: 9.9134618
-postcode: 21129
+postcode: "21129"
 city: Hamburg
 street: "Altenwerder Hauptdeich"
 housenumber: 22

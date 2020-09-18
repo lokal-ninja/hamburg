@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.55626
 longitude: 9.921202000000001
-postcode: 22763
+postcode: "22763"
 city: Hamburg
 street: "Friedensallee"
 housenumber: 88

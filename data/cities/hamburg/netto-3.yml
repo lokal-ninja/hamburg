@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.595896100000004
 longitude: 9.9975425
-postcode: 22299
+postcode: "22299"
 city: Hamburg
 street: "Alsterdorfer Straße"
 housenumber: 21

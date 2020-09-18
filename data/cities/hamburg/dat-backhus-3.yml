@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5808965
 longitude: 10.007804100000001
-postcode: 22301
+postcode: "22301"
 city: Hamburg
 street: "Poelchaukamp"
 housenumber: 27

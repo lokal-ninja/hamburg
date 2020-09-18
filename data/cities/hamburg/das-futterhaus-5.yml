@@ -1,12 +1,12 @@
-id: 49564759
-type: way
+id: 5446721510
+type: node
 shop: Tiere
-latitude: 53.5790926
-longitude: 10.0950935
-postcode: 22041
+latitude: 53.498069300000004
+longitude: 10.009602600000001
+postcode: ""
 city: Hamburg
-street: "Ahrensburger Straße"
-housenumber: 52
-phone: "+49 40 68949393"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off"
-website: "https://www.futterhaus.de/"
+street: "Wilhelm-Strauß-Weg"
+housenumber: 4a
+phone: ""
+opening_hours: "Mo-Sa 09:00-19:00; PH off"
+website: ""

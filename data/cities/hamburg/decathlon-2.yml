@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 53.5708507
 longitude: 10.061449000000001
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Wandsbeker Marktstraße"
 housenumber: 1

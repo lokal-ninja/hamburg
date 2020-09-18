@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.5391787
 longitude: 10.032947400000001
-postcode: 20539
+postcode: "20539"
 city: Hamburg
 street: "Billhorner Kanalstraße"
 housenumber: 1

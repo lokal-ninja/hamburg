@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 53.620992400000006
 longitude: 9.9517833
-postcode: 22459
+postcode: "22459"
 city: Hamburg
 street: "Tibarg"
 housenumber: 21

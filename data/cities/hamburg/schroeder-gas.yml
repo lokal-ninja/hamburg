@@ -3,7 +3,7 @@ type: node
 shop: Gasflaschen
 latitude: 53.56499
 longitude: 9.9264332
-postcode: 22761
+postcode: "22761"
 city: Hamburg
 street: "Ruhrstraße"
 housenumber: 36

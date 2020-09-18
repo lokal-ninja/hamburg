@@ -1,12 +1,12 @@
-id: 343467777
-type: way
+id: 7235791672
+type: node
 shop: Drogerie
-latitude: 53.5536936
-longitude: 10.0060417
-postcode: 20099
+latitude: 53.5882694
+longitude: 10.0450491
+postcode: "22305"
 city: Hamburg
-street: "Kirchenallee"
-housenumber: 1
+street: "Massaquoipassage"
+housenumber: 2
 phone: ""
-opening_hours: "PH,Mo-Su 07:00-23:00"
+opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su off; PH off"
 website: ""

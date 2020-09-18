@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 53.6513725
 longitude: 10.163041300000001
-postcode: 22359
+postcode: "22359"
 city: Hamburg
 street: "Kattjahren"
 housenumber: 1c
 phone: ""
-opening_hours: ""
-website: "https://www.ohnegedoenshamburg.de/"
+opening_hours: "Mo-Tu 09:00-18:30; We 09:00-14:30; Th-Fr 09:00-18:30; Sa 09:30-14:30; PH off"
+website: ""

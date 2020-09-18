@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 53.5546189
 longitude: 9.9891144
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Gerhofstraße"
 housenumber: 19

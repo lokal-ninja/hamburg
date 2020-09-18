@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.561606600000005
 longitude: 10.021911000000001
-postcode: 22087
+postcode: "22087"
 city: Hamburg
 street: "Ifflandstraße"
 housenumber: 45

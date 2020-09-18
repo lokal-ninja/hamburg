@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.5926576
 longitude: 10.044552300000001
-postcode: 22305
+postcode: "22305"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 174

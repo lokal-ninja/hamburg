@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.612842400000005
 longitude: 10.0786101
-postcode: 22179
+postcode: "22179"
 city: Hamburg
 street: "Bramfelder Dorfplatz"
 housenumber: 18

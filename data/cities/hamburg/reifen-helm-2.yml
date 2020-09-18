@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 53.634177900000005
 longitude: 9.957885800000001
-postcode: 22459
+postcode: "22459"
 city: Hamburg
 street: "Sperberhorst"
 housenumber: 15

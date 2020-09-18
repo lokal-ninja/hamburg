@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.575108900000004
 longitude: 9.955837200000001
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Osterstraße"
 housenumber: 67

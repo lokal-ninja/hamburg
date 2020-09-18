@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5735308
 longitude: 9.959058200000001
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Schulweg"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5848151
 longitude: 10.0255027
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Jarrestraße"
 housenumber: 44

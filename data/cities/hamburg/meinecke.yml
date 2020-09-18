@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.628708
 longitude: 10.0235293
-postcode: 22335
+postcode: "22335"
 city: Hamburg
 street: "Erdkampsweg"
 housenumber: 39

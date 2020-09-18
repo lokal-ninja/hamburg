@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 53.581658000000004
 longitude: 9.972678700000001
-postcode: 20253
+postcode: "20253"
 city: Hamburg
 street: "Hoheluftchaussee"
 housenumber: 60

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.593159400000005
 longitude: 9.9884515
-postcode: 
+postcode: ""
 city: Hamburg
 street: "Eppendorfer Landstraße"
 housenumber: 122A

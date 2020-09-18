@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 53.587378900000004
 longitude: 10.0046633
-postcode: 22301
+postcode: "22301"
 city: Hamburg
 street: "Dorotheenstraße"
 housenumber: 113
-phone: "+49 40 30778613"
-opening_hours: "Mo-Fr 11:00-18:30; Sa 11:00-16:00"
-website: "http://www.nobelhobel.de/"
+phone: ""
+opening_hours: "Mo-Fr 11:00-18:30; Sa 11:00-16:00; PH off"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.578816100000004
 longitude: 9.9403518
-postcode: 20257
+postcode: "20257"
 city: Hamburg
 street: "Langenfelder Damm"
 housenumber: 21

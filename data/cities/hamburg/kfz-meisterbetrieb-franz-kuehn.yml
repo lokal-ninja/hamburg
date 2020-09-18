@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.58495490000001
 longitude: 9.9545951
-postcode: 22529
+postcode: "22529"
 city: Hamburg
 street: "Deepenstöcken"
 housenumber: 4

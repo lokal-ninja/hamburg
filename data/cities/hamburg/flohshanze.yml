@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.5580921
 longitude: 9.967728300000001
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Neuer Kamp"
 housenumber: 30

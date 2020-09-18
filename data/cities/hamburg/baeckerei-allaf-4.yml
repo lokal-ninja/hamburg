@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 53.5749634
 longitude: 9.959279500000001
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Schulweg"
 housenumber: 45
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 05:00-19:00; Sa 06:00-15:00; Su,PH 06:00-14:00"
 website: "http://baeckereiallaf.com"

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.4675913
 longitude: 9.959004100000001
-postcode: 21075
+postcode: "21075"
 city: Hamburg
 street: "Konsul-Francke-Straße"
 housenumber: 12

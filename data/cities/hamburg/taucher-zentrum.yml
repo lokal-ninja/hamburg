@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 53.567703300000005
 longitude: 10.018952
-postcode: 22087
+postcode: "22087"
 city: Hamburg
 street: "Papenhuder Straße"
 housenumber: 40

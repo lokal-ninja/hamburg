@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5576287
 longitude: 10.036585500000001
-postcode: 20535
+postcode: "20535"
 city: Hamburg
 street: "Bürgerweide"
 housenumber: 64

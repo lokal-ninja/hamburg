@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 53.552227900000005
 longitude: 10.0670854
-postcode: 20537
+postcode: "20537"
 city: Hamburg
 street: "Ewaldsweg"
 housenumber: 20

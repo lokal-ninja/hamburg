@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5740228
 longitude: 10.0724699
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Wandsbeker Marktstraße"
 housenumber: 167

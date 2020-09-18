@@ -1,12 +1,12 @@
-id: 773373957
+id: 768808844
 type: node
 shop: Supermarkt
-latitude: 53.6036511
-longitude: 10.04087
-postcode: 22309
+latitude: 53.598465100000006
+longitude: 9.9966536
+postcode: "22299"
 city: Hamburg
-street: "Fuhlsbüttler Straße"
-housenumber: 428
+street: "Alsterdorfer Straße"
+housenumber: 63-65
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00"
+opening_hours: "Mo-Sa 07:30-22:00"
 website: ""

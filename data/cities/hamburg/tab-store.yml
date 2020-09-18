@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsgeräte
 latitude: 53.5875567
 longitude: 9.851329
-postcode: 22549
+postcode: "22549"
 city: Hamburg
 street: "Bornheide"
 housenumber: 51a

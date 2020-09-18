@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.5906037
 longitude: 9.912736500000001
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Lederstraße"
 housenumber: 30

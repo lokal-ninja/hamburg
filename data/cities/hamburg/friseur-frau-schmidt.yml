@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5515034
 longitude: 10.087244100000001
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Washingtonallee"
 housenumber: 20

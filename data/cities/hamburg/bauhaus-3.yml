@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.604421200000004
 longitude: 10.0731055
-postcode: 22177
+postcode: "22177"
 city: Hamburg
 street: "Bramfelder Chaussee"
 housenumber: 136

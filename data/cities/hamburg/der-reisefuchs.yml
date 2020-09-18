@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.59757140000001
 longitude: 10.0424583
-postcode: 22307
+postcode: "22307"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 267

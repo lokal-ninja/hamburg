@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 53.6468964
 longitude: 10.0881526
-postcode: 22391
+postcode: "22391"
 city: Hamburg
 street: "Poppenbüttler Landstraße"
 housenumber: 1

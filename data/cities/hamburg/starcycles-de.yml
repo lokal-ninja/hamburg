@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.548920800000005
 longitude: 10.003278700000001
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Springeltwiete"
 housenumber: 4

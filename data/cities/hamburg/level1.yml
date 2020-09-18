@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.5612495
 longitude: 9.962397900000001
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Schulterblatt"
 housenumber: 55

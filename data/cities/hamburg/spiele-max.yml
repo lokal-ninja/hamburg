@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 53.539459900000004
 longitude: 10.1043325
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Möllner Landstraße"
 housenumber: 2 - 14

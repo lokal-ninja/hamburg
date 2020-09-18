@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.624216100000005
 longitude: 10.1407325
-postcode: 22147
+postcode: "22147"
 city: Hamburg
 street: "Hermann-Balk-Straße"
 housenumber: 110

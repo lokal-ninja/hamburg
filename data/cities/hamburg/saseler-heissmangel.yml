@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 53.6534641
 longitude: 10.1149141
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Waldweg"
 housenumber: 10

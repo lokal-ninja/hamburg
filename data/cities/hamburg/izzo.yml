@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5567197
 longitude: 9.9279396
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Bahrenfelder Straße"
 housenumber: 231

@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 53.5474254
 longitude: 9.9379942
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Alte Königstraße"
 housenumber: 23

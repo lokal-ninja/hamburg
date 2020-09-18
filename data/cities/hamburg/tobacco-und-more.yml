@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 53.5569306
 longitude: 9.9021529
-postcode: 22763
+postcode: "22763"
 city: Hamburg
 street: "Jürgen-Töpfer-Straße"
 housenumber: 18

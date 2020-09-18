@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5507902
 longitude: 9.956178000000001
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Holstenstraße"
 housenumber: 5-9

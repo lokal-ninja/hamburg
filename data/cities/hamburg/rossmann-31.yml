@@ -1,12 +1,12 @@
-id: 307058577
-type: way
+id: 6661765485
+type: node
 shop: Drogerie
-latitude: 53.672617900000006
-longitude: 10.000176300000001
-postcode: 22419
+latitude: 53.554324
+longitude: 9.990338300000001
+postcode: "20354"
 city: Hamburg
-street: "Käkenflur"
-housenumber: 16 a
+street: "Jungfernstieg"
+housenumber: 38
 phone: ""
-opening_hours: "Mo,We,Fr-Sa 08:00-20:00; Tu 08:00-14:00"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

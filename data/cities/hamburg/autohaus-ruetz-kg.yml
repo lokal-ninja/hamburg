@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.54999
 longitude: 10.1003143
-postcode: 22119
+postcode: "22119"
 city: Hamburg
 street: "Hermannstal"
 housenumber: 123

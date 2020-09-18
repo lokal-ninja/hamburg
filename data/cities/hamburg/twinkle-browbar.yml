@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.456396700000006
 longitude: 9.9867299
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Hannoversche Straße"
 housenumber: 86

@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 53.555933
 longitude: 9.9285682
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Bahrenfelder Straße"
 housenumber: 232

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.5632749
 longitude: 10.022831100000001
-postcode: 22087
+postcode: "22087"
 city: Hamburg
 street: "Ifflandstraße"
 housenumber: 71

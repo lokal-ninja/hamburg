@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5900326
 longitude: 10.077505
-postcode: 22049
+postcode: "22049"
 city: Hamburg
 street: "Lesserstraße"
 housenumber: 151

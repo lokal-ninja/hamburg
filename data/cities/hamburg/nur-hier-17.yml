@@ -1,12 +1,12 @@
-id: 3838114819
+id: 2670464381
 type: node
 shop: Bäckerei
-latitude: 53.553822600000004
-longitude: 10.085480200000001
-postcode: 22111
+latitude: 53.5398859
+longitude: 10.1058979
+postcode: "22111"
 city: Hamburg
-street: "Rennbahnstraße"
-housenumber: 28a
+street: "Möllner Landstraße"
+housenumber: 19a
 phone: ""
-opening_hours: "Mo-Fr 05:00-19:00; Sa 06:00-19:00, Su 06:00-18:00"
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
 website: ""

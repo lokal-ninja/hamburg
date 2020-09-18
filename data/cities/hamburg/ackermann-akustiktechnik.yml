@@ -3,7 +3,7 @@ type: way
 shop: Hörgeräte
 latitude: 53.6528743
 longitude: 10.0928035
-postcode: 22391
+postcode: "22391"
 city: Hamburg
 street: "Heegbarg"
 housenumber: 6

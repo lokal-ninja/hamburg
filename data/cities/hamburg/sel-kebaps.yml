@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.5764052
 longitude: 10.058264900000001
-postcode: 22049
+postcode: "22049"
 city: Hamburg
 street: "Krausestraße"
 housenumber: 118

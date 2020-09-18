@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.573043000000006
 longitude: 9.9604934
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Eppendorfer Weg"
 housenumber: 66

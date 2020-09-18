@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 53.4620004
 longitude: 10.013960500000001
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Großmoorbogen"
 housenumber: 1

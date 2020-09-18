@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5720067
 longitude: 9.9520275
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Fruchtallee"
 housenumber: 108

@@ -3,10 +3,10 @@ type: node
 shop: Wäscherei
 latitude: 53.66986850000001
 longitude: 10.143218800000001
-postcode: 22359
+postcode: "22359"
 city: Hamburg
 street: "Stüffeleck"
 housenumber: 8
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 08:00-15:00; Fr 08:00-12:00"
 website: ""

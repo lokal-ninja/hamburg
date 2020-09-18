@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.4722427
 longitude: 9.886629800000001
-postcode: 21149
+postcode: "21149"
 city: Hamburg
 street: "Cuxhavener Straße"
 housenumber: 158

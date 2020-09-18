@@ -1,12 +1,12 @@
-id: 735410113
+id: 4114885956
 type: node
 shop: Kaffee
-latitude: 53.6497405
-longitude: 10.0134416
-postcode: 22415
+latitude: 53.559407400000005
+longitude: 9.883348900000001
+postcode: "22607"
 city: Hamburg
-street: "Langenhorner Markt"
-housenumber: 7c
+street: "Waitzstraße"
+housenumber: 21
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00"
-website: ""
+opening_hours: "Mo-Fr 09:00-18:30;Sa 09:00-14:00"
+website: "https://www.tchibo.de/tchibo-filiale-waitzstrasse-21-22607-hamburg-a1422472.html"

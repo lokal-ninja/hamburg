@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.548792000000006
 longitude: 9.984761800000001
-postcode: 20459
+postcode: "20459"
 city: Hamburg
 street: "Admiralitätstraße"
 housenumber: 71/72

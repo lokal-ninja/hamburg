@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.633506800000006
 longitude: 9.9581379
-postcode: 22459
+postcode: "22459"
 city: Hamburg
 street: "Sperberhorst"
 housenumber: 14

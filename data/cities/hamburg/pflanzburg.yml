@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.558426700000005
 longitude: 9.965534100000001
-postcode: 20359
+postcode: "20359"
 city: Hamburg
 street: "Neuer Pferdemarkt"
 housenumber: 21 - 22a

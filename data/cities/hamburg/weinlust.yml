@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 53.580743600000005
 longitude: 10.0124031
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Mühlenkamp"
 housenumber: 14

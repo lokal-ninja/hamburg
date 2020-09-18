@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.649941600000005
 longitude: 10.0145275
-postcode: 22415
+postcode: "22415"
 city: Hamburg
 street: "Langenhorner Markt"
 housenumber: 2c

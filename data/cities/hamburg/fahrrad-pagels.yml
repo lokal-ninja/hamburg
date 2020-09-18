@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.54990230000001
 longitude: 10.079912
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Horner Landstraße"
 housenumber: 191

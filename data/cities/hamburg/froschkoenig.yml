@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 53.653493700000006
 longitude: 10.115007700000001
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Waldweg"
 housenumber: 10

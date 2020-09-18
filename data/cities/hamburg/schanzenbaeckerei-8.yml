@@ -1,12 +1,12 @@
-id: 1360150365
+id: 1482105767
 type: node
 shop: Bäckerei
-latitude: 53.548988800000004
-longitude: 10.002301800000001
-postcode: 20095
+latitude: 53.545124300000005
+longitude: 10.0022151
+postcode: "20457"
 city: Hamburg
-street: "Burchardplatz"
-housenumber: 5
-phone: "+49 40 30392186"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-18:00; PHoff"
-website: "https://www.schanzenbaeckerei.de/filialen/burchardplatz"
+street: "Brooktorkai"
+housenumber: 22
+phone: "+49 40 30306990"
+opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-16:00"
+website: "https://www.schanzenbaeckerei.de/filialen/brooktorkai.php"

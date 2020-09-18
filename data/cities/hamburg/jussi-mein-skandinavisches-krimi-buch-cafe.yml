@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.583307000000005
 longitude: 9.980023800000001
-postcode: 20251
+postcode: "20251"
 city: Hamburg
 street: "Lehmweg"
 housenumber: 35

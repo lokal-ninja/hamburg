@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.6233111
 longitude: 10.1117907
-postcode: 22159
+postcode: "22159"
 city: Hamburg
 street: "August-Krogmann-Straße"
 housenumber: 200

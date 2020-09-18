@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.572718900000005
 longitude: 9.959459800000001
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Henriettenweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 53.6404216
 longitude: 10.083105900000001
-postcode: 22391
+postcode: "22391"
 city: Hamburg
 street: "Rolfinckstraße"
 housenumber: 12

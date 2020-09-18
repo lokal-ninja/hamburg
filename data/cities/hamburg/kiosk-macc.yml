@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.4570912
 longitude: 9.969173900000001
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Hirschfeldplatz"
 housenumber: 5

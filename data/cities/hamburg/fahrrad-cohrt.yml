@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 53.638046300000006
 longitude: 10.093665000000001
-postcode: 22391
+postcode: "22391"
 city: Hamburg
 street: "Saseler Chaussee"
 housenumber: 61

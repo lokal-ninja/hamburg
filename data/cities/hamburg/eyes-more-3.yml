@@ -1,12 +1,12 @@
-id: 445916020
-type: way
+id: 5452349931
+type: node
 shop: Optiker
-latitude: 53.612313400000005
-longitude: 10.076181100000001
-postcode: 22177
+latitude: 53.540780000000005
+longitude: 10.1055051
+postcode: "22119"
 city: Hamburg
-street: "Bramfelder Chaussee"
-housenumber: 230
+street: "Möllner Landstraße"
+housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:30-20:00; PH off"
 website: ""

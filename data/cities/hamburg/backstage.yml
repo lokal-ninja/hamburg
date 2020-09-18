@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.57286920000001
 longitude: 9.960289000000001
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Eppendorfer Weg"
 housenumber: 64

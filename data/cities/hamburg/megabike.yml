@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 53.56279000000001
 longitude: 9.9226632
-postcode: 
+postcode: ""
 city: Hamburg
 street: "Stresemannstraße"
 housenumber: 360
-phone: "+49-040-89062783"
-opening_hours: ""
+phone: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
 website: ""

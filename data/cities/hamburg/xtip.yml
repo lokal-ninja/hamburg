@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 53.57516570000001
 longitude: 9.9573596
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Osterstraße"
 housenumber: 50

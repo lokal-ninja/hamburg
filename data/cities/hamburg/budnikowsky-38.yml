@@ -1,12 +1,12 @@
-id: 2400339217
+id: 2499750254
 type: node
 shop: Drogerie
-latitude: 53.649765800000004
-longitude: 10.0172743
-postcode: 22415
+latitude: 53.577426900000006
+longitude: 10.020494000000001
+postcode: "22083"
 city: Hamburg
-street: "Krohnstieg"
-housenumber: 2
+street: "Mozartstraße"
+housenumber: 16
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://www.budni.de/filialen/22415-krohnstieg-2/"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: "https://www.budni.de/filialen/22083-mozartstrasse-16/"

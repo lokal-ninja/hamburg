@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.562842700000004
 longitude: 10.056115
-postcode: 20535
+postcode: "20535"
 city: Hamburg
 street: "Hammer Steindamm"
 housenumber: 76

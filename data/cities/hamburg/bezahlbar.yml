@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.595772200000006
 longitude: 10.0474274
-postcode: 22307
+postcode: "22307"
 city: Hamburg
 street: "Habichtstraße"
 housenumber: 126

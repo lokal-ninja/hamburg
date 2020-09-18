@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.545646000000005
 longitude: 10.085093
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Horner Brückenweg"
 housenumber: 12

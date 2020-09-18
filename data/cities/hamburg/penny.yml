@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.546382
 longitude: 10.093545
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Washingtonallee"
 housenumber: 87

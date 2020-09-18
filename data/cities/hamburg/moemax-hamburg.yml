@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.468239200000006
 longitude: 9.9686219
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Buxtehuder Straße"
 housenumber: 62

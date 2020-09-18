@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 53.602293800000005
 longitude: 10.1444025
-postcode: 22143
+postcode: "22143"
 city: Hamburg
 street: "Bargteheider Straße"
 housenumber: 73

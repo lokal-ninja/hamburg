@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.5897032
 longitude: 10.022709
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Wiesendamm"
 housenumber: 120

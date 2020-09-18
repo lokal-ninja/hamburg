@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.608408600000004
 longitude: 9.9034707
-postcode: 22523
+postcode: "22523"
 city: Hamburg
 street: "Eidelstedter Platz"
 housenumber: 4

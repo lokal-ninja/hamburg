@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 53.5859085
 longitude: 9.9280033
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Randstraße"
 housenumber: 28

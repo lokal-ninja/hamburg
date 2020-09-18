@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.56805060000001
 longitude: 9.9948367
-postcode: 20148
+postcode: "20148"
 city: Hamburg
 street: "Mittelweg"
 housenumber: 26

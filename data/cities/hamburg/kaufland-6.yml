@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6010903
 longitude: 9.9744183
-postcode: 22529
+postcode: "22529"
 city: Hamburg
 street: "Nedderfeld"
 housenumber: 70

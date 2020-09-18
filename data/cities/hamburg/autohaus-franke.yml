@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.5641868
 longitude: 9.9316584
-postcode: 22761
+postcode: "22761"
 city: Hamburg
 street: "Bessemerweg"
 housenumber: 6a

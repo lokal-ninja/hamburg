@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5518871
 longitude: 10.0010296
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Gertrudenkirchhof"
 housenumber: 1

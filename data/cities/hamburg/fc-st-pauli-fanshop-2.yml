@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.549828000000005
 longitude: 9.9632831
-postcode: 20359
+postcode: "20359"
 city: Hamburg
 street: "Reeperbahn"
 housenumber: 63-65

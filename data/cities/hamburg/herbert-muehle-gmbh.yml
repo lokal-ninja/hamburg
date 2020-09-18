@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.4816219
 longitude: 10.204871
-postcode: 21029
+postcode: "21029"
 city: Hamburg
 street: "Lehfeld"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 53.586355000000005
 longitude: 10.1259083
-postcode: 22045
+postcode: "22045"
 city: Hamburg
 street: "Tonndorfer Hauptstraße"
 housenumber: 88

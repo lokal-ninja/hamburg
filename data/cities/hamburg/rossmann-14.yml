@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.6108716
 longitude: 10.058748300000001
-postcode: 22309
+postcode: "22309"
 city: Hamburg
 street: "Schreyerring"
 housenumber: 26

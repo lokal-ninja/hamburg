@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.530065300000004
 longitude: 10.1064705
-postcode: 22113
+postcode: "22113"
 city: Hamburg
 street: "Liebigstraße"
 housenumber: 94

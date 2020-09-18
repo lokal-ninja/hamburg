@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.6536326
 longitude: 10.0900797
-postcode: 22391
+postcode: "22391"
 city: Hamburg
 street: "Heegbarg"
 housenumber: 31

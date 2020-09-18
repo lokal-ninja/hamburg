@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.552792600000004
 longitude: 10.0414385
-postcode: 20537
+postcode: "20537"
 city: Hamburg
 street: "Eiffestraße"
 housenumber: 95

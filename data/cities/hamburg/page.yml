@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5627591
 longitude: 9.811893300000001
-postcode: 22587
+postcode: "22587"
 city: Hamburg
 street: "Blankeneser Bahnhofstraße"
 housenumber: 56

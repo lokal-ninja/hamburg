@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.56379810000001
 longitude: 10.0321041
-postcode: 22087
+postcode: "22087"
 city: Hamburg
 street: "Güntherstraße"
 housenumber: 94

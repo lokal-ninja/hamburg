@@ -1,4 +1,4 @@
 ---
-title: "OTON"
+title: "oton"
 url: /hamburg/oton/
 ---

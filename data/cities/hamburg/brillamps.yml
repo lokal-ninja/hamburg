@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 53.568056500000004
 longitude: 10.049721700000001
-postcode: 22089
+postcode: "22089"
 city: Hamburg
 street: "Wandsbeker Chaussee"
 housenumber: 160

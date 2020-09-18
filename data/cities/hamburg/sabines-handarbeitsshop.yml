@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 53.4578287
 longitude: 9.9799246
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Bremer Straße"
 housenumber: 22

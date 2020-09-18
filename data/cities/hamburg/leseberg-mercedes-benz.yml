@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.572574800000005
 longitude: 9.8481071
-postcode: 22549
+postcode: "22549"
 city: Hamburg
 street: "Osdorfer Landstraße"
 housenumber: 215

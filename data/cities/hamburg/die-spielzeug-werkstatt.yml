@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 53.5877196
 longitude: 9.84937
-postcode: 22549
+postcode: "22549"
 city: Hamburg
 street: "Achtern Born"
 housenumber: 133b

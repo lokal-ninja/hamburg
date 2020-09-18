@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 53.65986
 longitude: 10.0857167
-postcode: 22399
+postcode: "22399"
 city: Hamburg
 street: "Poppenbüttler Hauptstraße"
 housenumber: 1

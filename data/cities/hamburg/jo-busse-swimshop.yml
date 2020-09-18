@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.621322400000004
 longitude: 10.0829907
-postcode: 22175
+postcode: "22175"
 city: Hamburg
 street: "Bramfelder Chaussee"
 housenumber: 364

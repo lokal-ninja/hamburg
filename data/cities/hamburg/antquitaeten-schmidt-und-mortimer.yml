@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 53.6625327
 longitude: 10.0878314
-postcode: 22399
+postcode: "22399"
 city: Hamburg
 street: "Poppenbüttler Hauptstraße"
 housenumber: 14

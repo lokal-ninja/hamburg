@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 53.592278900000004
 longitude: 9.988726300000002
-postcode: 20249
+postcode: "20249"
 city: Hamburg
 street: "Eppendorfer Landstraße"
 housenumber: 104

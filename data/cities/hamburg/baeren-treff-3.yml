@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.486923600000004
 longitude: 10.2139973
-postcode: 21029
+postcode: "21029"
 city: Hamburg
 street: "Hude"
 housenumber: 1

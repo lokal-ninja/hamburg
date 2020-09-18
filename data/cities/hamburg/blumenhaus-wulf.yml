@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.563844700000004
 longitude: 10.0236073
-postcode: 22087
+postcode: "22087"
 city: Hamburg
 street: "Ifflandstraße"
 housenumber: 85

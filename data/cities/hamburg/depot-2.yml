@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.5906371
 longitude: 9.985975100000001
-postcode: 20249
+postcode: "20249"
 city: Hamburg
 street: "Eppendorfer Landstraße"
 housenumber: 77

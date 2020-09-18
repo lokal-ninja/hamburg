@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.6120152
 longitude: 10.074886300000001
-postcode: 22177
+postcode: "22177"
 city: Hamburg
 street: "Bramfelder Chaussee"
 housenumber: 230

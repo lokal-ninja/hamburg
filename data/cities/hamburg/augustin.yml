@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.6492142
 longitude: 10.1041349
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Schäfersruh"
 housenumber: 2

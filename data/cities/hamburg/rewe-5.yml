@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5754213
 longitude: 10.042140700000001
-postcode: 22081
+postcode: "22081"
 city: Hamburg
 street: "Holsteinischer Kamp"
 housenumber: 53

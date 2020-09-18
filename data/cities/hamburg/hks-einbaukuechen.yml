@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.610578100000005
 longitude: 9.958366700000001
-postcode: 22453
+postcode: "22453"
 city: Hamburg
 street: "Kollaustraße"
 housenumber: 118

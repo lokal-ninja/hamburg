@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.5721861
 longitude: 9.958621200000001
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Tornquiststraße"
 housenumber: 1

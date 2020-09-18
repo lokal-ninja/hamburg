@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5704113
 longitude: 10.0613691
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Wandsbeker Marktstraße"
 housenumber: 2

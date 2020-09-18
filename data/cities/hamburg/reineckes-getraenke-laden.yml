@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.547779000000006
 longitude: 9.9315298
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Holländische Reihe"
 housenumber: 3-5

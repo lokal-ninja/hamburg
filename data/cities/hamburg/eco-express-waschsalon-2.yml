@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.5549935
 longitude: 9.9286847
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Bahrenfelder Straße"
 housenumber: 186

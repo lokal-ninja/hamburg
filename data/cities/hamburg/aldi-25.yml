@@ -1,12 +1,12 @@
-id: 5221302937
+id: 4144993056
 type: node
 shop: Supermarkt
-latitude: 53.497907700000006
-longitude: 10.208847800000001
-postcode: 21031
+latitude: 53.4579509
+longitude: 9.9871254
+postcode: "21073"
 city: Hamburg
-street: "Am Beckerkamp"
-housenumber: 29
+street: "Seeveplatz"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
 website: ""

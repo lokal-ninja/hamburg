@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsgeräte
 latitude: 53.57456620000001
 longitude: 10.1012746
-postcode: 22043
+postcode: "22043"
 city: Hamburg
 street: "Gustav-Adolf-Straße"
 housenumber: 66

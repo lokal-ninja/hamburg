@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.6267963
 longitude: 10.085946100000001
-postcode: 22175
+postcode: "22175"
 city: Hamburg
 street: "Bramfelder Chaussee"
 housenumber: 432

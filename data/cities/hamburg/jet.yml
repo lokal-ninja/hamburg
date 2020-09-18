@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.4684162
 longitude: 9.9672797
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Buxtehuder Straße"
 housenumber: 76-80

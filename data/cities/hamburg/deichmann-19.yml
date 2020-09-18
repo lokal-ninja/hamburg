@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.4577864
 longitude: 9.987372200000001
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Seeveplatz"
 housenumber: 1

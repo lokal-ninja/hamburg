@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.5542978
 longitude: 9.930379100000001
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Hohenesch"
 housenumber: 40

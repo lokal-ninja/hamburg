@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.5582665
 longitude: 9.966955800000001
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Sternstraße"
 housenumber: 17

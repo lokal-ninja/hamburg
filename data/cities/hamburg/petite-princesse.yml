@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.5930466
 longitude: 9.987509900000001
-postcode: 20251
+postcode: "20251"
 city: Hamburg
 street: "Erikastraße"
 housenumber: 48

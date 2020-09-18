@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.4569854
 longitude: 9.9859288
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Moorstraße"
 housenumber: 7

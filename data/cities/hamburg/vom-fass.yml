@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 53.620800100000004
 longitude: 9.951717
-postcode: 22459
+postcode: "22459"
 city: Hamburg
 street: "Tibarg"
 housenumber: 21

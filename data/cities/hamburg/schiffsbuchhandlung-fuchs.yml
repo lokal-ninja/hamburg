@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.5415239
 longitude: 10.003919600000001
-postcode: 20457
+postcode: "20457"
 city: Hamburg
 street: "Shanghaiallee"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.61608510000001
 longitude: 9.904996500000001
-postcode: 22523
+postcode: "22523"
 city: Hamburg
 street: "Hörgensweg"
 housenumber: 5

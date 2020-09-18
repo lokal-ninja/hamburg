@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.620755900000006
 longitude: 9.951705800000001
-postcode: 22459
+postcode: "22459"
 city: Hamburg
 street: "Tibarg"
 housenumber: 21

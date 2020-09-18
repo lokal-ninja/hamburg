@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.5529188
 longitude: 9.9296054
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Bahrenfelder Straße"
 housenumber: 117

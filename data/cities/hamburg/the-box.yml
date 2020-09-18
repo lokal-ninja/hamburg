@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.5563687
 longitude: 9.9260971
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Borselstraße"
 housenumber: 16f

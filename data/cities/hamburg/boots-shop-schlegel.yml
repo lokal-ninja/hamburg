@@ -3,7 +3,7 @@ type: node
 shop: Boot
 latitude: 53.6482113
 longitude: 10.0110501
-postcode: 22415
+postcode: "22415"
 city: Hamburg
 street: "Langenhorner Chaussee"
 housenumber: 198

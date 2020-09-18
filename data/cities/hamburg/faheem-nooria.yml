@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.54731
 longitude: 10.1075551
-postcode: 22119
+postcode: "22119"
 city: Hamburg
 street: "Schiffbeker Höhe"
 housenumber: 2a

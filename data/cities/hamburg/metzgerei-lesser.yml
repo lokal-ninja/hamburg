@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 53.4715386
 longitude: 9.8897048
-postcode: 21149
+postcode: "21149"
 city: Hamburg
 street: "Cuxhavener Straße"
 housenumber: 141

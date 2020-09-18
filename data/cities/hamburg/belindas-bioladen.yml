@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.469602200000004
 longitude: 9.8540665
-postcode: 21149
+postcode: "21149"
 city: Hamburg
 street: "Neugrabener Markt"
 housenumber: 1

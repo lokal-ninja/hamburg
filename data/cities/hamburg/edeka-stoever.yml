@@ -1,12 +1,12 @@
 id: 254431997
 type: node
 shop: Supermarkt
-latitude: 53.5974256
-longitude: 10.100694800000001
-postcode: 22159
+latitude: 53.597547500000005
+longitude: 10.1008197
+postcode: "22159"
 city: Hamburg
 street: "Traberweg"
 housenumber: 1
-phone: "+49 64509525"
+phone: "+49 40 64509515"
 opening_hours: "Mo-Sa 07:00-21:00"
-website: ""
+website: "https://www.edeka.de/eh/nord/e-aktiv-markt-stöver-traberweg-1/index.jsp"

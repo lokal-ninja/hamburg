@@ -1,12 +1,12 @@
-id: 4100013663
+id: 4304740858
 type: node
 shop: Drogerie
-latitude: 53.58666040000001
-longitude: 10.086479
-postcode: 22047
+latitude: 53.573173600000004
+longitude: 9.977495300000001
+postcode: "20144"
 city: Hamburg
-street: "Friedrich-Ebert-Damm"
-housenumber: 79-85
+street: "Grindelberg"
+housenumber: 7
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.budni.de/filialen/22047-friedrich-ebert-damm-79-85/"
+opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
+website: ""

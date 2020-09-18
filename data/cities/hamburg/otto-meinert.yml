@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.5613274
 longitude: 9.8202268
-postcode: 22587
+postcode: "22587"
 city: Hamburg
 street: "Elbchaussee"
 housenumber: 530

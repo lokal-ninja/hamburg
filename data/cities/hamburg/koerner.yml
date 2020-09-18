@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5632388
 longitude: 9.810244200000001
-postcode: 22587
+postcode: "22587"
 city: Hamburg
 street: "Blankeneser Landstraße"
 housenumber: 13

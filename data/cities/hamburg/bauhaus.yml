@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.5771956
 longitude: 10.0807971
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Wandsbeker Zollstraße"
 housenumber: 95

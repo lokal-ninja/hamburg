@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.4562479
 longitude: 9.987356
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Hannoversche Straße"
 housenumber: 86

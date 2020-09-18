@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.577566000000004
 longitude: 10.0209399
-postcode: 22083
+postcode: "22083"
 city: Hamburg
 street: "Mozartstraße"
 housenumber: 16

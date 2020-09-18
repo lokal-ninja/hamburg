@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.5517351
 longitude: 9.9302112
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Bahrenfelder Straße"
 housenumber: 81

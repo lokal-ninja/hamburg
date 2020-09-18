@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.589008400000004
 longitude: 9.9861728
-postcode: 20249
+postcode: "20249"
 city: Hamburg
 street: "Eppendorfer Landstraße"
 housenumber: 53

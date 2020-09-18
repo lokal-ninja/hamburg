@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 53.5739804
 longitude: 10.0599535
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Königsreihe"
 housenumber: 4

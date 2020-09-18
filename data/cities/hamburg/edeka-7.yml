@@ -1,12 +1,12 @@
-id: 428182373
+id: 301070548
 type: node
 shop: Supermarkt
-latitude: 53.487139500000005
-longitude: 10.179903900000001
-postcode: 21035
+latitude: 53.5758456
+longitude: 9.9540439
+postcode: "20259"
 city: Hamburg
-street: "Edith-Stein-Platz"
-housenumber: 4
-phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: ""
+street: "Osterstraße"
+housenumber: 86-90
+phone: "+49 40 43272624"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "http://www.niemerszein.de/ihr-markt/osterstrasse-120"

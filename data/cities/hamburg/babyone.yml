@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 53.568890200000006
 longitude: 10.0569127
-postcode: 22089
+postcode: "22089"
 city: Hamburg
 street: "Hammer Steindamm"
 housenumber: 3-7

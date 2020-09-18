@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.565651200000005
 longitude: 9.959135700000001
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Schulterblatt"
 housenumber: 132

@@ -1,12 +1,12 @@
-id: 5245811661
-type: node
+id: 445922037
+type: way
 shop: Möbel
-latitude: 53.486753400000005
-longitude: 10.206268900000001
-postcode: 21029
+latitude: 53.6122268
+longitude: 10.075618
+postcode: "22177"
 city: Hamburg
-street: "Stuhlrohrstraße"
-housenumber: 10
+street: "Bramfelder Chaussee"
+housenumber: 230
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 09:30-18:00;PH off"
+opening_hours: "Mo-Sa 10:00-20:00; PH off"
 website: ""

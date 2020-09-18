@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5797158
 longitude: 9.967325200000001
-postcode: 20253
+postcode: "20253"
 city: Hamburg
 street: "Eppendorfer Weg"
 housenumber: 166

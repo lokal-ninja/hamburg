@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.540676000000005
 longitude: 10.100635800000001
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Billstedter Hauptstraße"
 housenumber: 39

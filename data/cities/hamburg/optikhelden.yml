@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 53.571187900000005
 longitude: 10.0609681
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Wandsbeker Marktstraße"
 housenumber: 1

@@ -1,12 +1,12 @@
-id: 106132050
-type: way
+id: 7466232836
+type: node
 shop: Drogerie
-latitude: 53.6416185
-longitude: 10.080276300000001
-postcode: 22391
+latitude: 53.641482200000006
+longitude: 10.0803606
+postcode: "22391"
 city: Hamburg
 street: "Wellingsbüttler Weg"
 housenumber: 117
-phone: ""
-opening_hours: ""
+phone: "+49 40 5361417"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
 website: ""

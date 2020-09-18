@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.5761716
 longitude: 10.024028900000001
-postcode: 22083
+postcode: "22083"
 city: Hamburg
 street: "Beethovenstraße"
 housenumber: 20

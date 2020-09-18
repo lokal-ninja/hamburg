@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.538695700000005
 longitude: 10.126064600000001
-postcode: 22117
+postcode: "22117"
 city: Hamburg
 street: "Möllner Landstraße"
 housenumber: 150

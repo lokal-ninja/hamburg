@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.5804519
 longitude: 10.037628100000001
-postcode: 22083
+postcode: "22083"
 city: Hamburg
 street: "Weidestraße"
 housenumber: 24

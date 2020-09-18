@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.458685300000006
 longitude: 9.987043100000001
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Seeveplatz"
 housenumber: 1

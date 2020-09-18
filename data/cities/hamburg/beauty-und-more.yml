@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.456095600000005
 longitude: 9.9871587
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Hannoversche Straße"
 housenumber: 86

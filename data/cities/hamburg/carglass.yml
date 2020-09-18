@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 53.6503541
 longitude: 10.1050664
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Saseler Chaussee"
 housenumber: 154
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 800 4209050"
+opening_hours: "Mo-Fr 08:00-17:00"
+website: "https://standorte.carglass.de/standorte/hamburg/saseler-chaussee-154.html"

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.6531797
 longitude: 10.112547000000001
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Saseler Markt"
 housenumber: 15

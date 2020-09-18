@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 53.555493500000004
 longitude: 9.928368800000001
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Bahrenfelder Straße"
 housenumber: 203

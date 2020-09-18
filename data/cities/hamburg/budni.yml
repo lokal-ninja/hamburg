@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 53.588793
 longitude: 10.0452917
-postcode: 22305
+postcode: "22305"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 107-109
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:30"
+opening_hours: "Mo-Sa 08:00-21:00"
 website: ""

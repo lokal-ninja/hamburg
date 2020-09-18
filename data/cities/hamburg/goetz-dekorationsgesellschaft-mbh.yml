@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.6184686
 longitude: 10.0296385
-postcode: 22337
+postcode: "22337"
 city: Hamburg
 street: "Alsterdorfer Straße"
 housenumber: 536

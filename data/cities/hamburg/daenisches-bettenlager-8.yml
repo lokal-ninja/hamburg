@@ -1,12 +1,12 @@
-id: 4142824833
+id: 4584060691
 type: node
 shop: Möbel
-latitude: 53.599532700000005
-longitude: 9.9160283
-postcode: 22525
+latitude: 53.5115855
+longitude: 10.088287300000001
+postcode: "22113"
 city: Hamburg
-street: "Kieler Straße"
-housenumber: 571
+street: "Andreas-Meyer-Straße"
+housenumber: 62
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 09:30-16:00, PH off"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"
 website: ""

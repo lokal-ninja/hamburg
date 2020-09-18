@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.5638426
 longitude: 9.965697200000001
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Dänenweg"
 housenumber: 1

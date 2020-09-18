@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.4886623
 longitude: 10.187172100000002
-postcode: 21033
+postcode: "21033"
 city: Hamburg
 street: "Oberer Landweg"
 housenumber: 21b

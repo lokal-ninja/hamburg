@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.553830600000005
 longitude: 9.9911869
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Jungfernstieg"
 housenumber: 26

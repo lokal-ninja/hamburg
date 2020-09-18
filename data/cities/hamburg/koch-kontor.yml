@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.5595974
 longitude: 9.975199
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Karolinenstraße"
 housenumber: 27

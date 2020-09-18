@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.5356098
 longitude: 10.1195673
-postcode: 22117
+postcode: "22117"
 city: Hamburg
 street: "Kapellenstraße"
 housenumber: 31

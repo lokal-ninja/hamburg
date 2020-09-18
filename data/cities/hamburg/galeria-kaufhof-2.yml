@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 53.6531907
 longitude: 10.0899976
-postcode: 22391
+postcode: "22391"
 city: Hamburg
 street: "Heegbarg"
 housenumber: 31

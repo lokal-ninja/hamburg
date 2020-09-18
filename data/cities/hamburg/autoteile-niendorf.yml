@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.622526
 longitude: 9.9418138
-postcode: 22459
+postcode: "22459"
 city: Hamburg
 street: "Friedrich-Ebert-Straße"
 housenumber: 48

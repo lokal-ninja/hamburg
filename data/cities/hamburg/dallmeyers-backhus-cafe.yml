@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.58988
 longitude: 9.9737357
-postcode: 20251
+postcode: "20251"
 city: Hamburg
 street: "Martinistraße"
 housenumber: 64

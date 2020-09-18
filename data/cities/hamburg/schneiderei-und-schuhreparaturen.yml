@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.553318100000006
 longitude: 10.002304
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Rosenstraße"
 housenumber: 5

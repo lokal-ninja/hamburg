@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.575672700000005
 longitude: 9.953187100000001
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Osterstraße"
 housenumber: 103

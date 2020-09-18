@@ -3,10 +3,10 @@ type: way
 shop: Lebensmittel
 latitude: 53.579174200000004
 longitude: 9.9365625
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Kieler Straße"
 housenumber: 234
 phone: ""
-opening_hours: ""
+opening_hours: "24/7"
 website: ""

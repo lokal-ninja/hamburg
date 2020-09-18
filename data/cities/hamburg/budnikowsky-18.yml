@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5825163
 longitude: 9.7545143
-postcode: 22559
+postcode: "22559"
 city: Hamburg
 street: "Wedeler Landstraße"
 housenumber: 52-56

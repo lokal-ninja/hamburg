@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.549753
 longitude: 10.064841000000001
-postcode: 20537
+postcode: "20537"
 city: Hamburg
 street: "Eiffestraße"
 housenumber: 664

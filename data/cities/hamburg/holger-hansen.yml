@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.5666476
 longitude: 9.930787800000001
-postcode: 22761
+postcode: "22761"
 city: Hamburg
 street: "Amália-Rodrigues-Weg"
 housenumber: 14

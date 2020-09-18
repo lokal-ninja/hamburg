@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5529553
 longitude: 9.9597393
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Paul-Roosen-Straße"
 housenumber: 8

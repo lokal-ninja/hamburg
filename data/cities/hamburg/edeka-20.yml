@@ -1,12 +1,12 @@
-id: 74874228
+id: 39894960
 type: way
 shop: Supermarkt
-latitude: 53.6643259
-longitude: 10.024414
-postcode: 22417
+latitude: 53.564400400000004
+longitude: 10.0366186
+postcode: "22089"
 city: Hamburg
-street: "Tangstedter Landstraße"
-housenumber: 234
-phone: "+49 40 53048209"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: "Conventstraße"
+housenumber: 8-10
+phone: ""
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
 website: ""

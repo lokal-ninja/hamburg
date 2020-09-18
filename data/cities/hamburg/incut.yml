@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.53976350000001
 longitude: 10.1015993
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Billstedter Hauptstraße"
 housenumber: 44-48

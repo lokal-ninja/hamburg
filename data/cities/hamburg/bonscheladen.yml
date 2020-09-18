@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.554435000000005
 longitude: 9.9279509
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Friedensallee"
 housenumber: 12

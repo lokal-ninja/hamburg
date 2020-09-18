@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.555975800000006
 longitude: 10.0090553
-postcode: 20099
+postcode: "20099"
 city: Hamburg
 street: "Lange Reihe"
 housenumber: 9

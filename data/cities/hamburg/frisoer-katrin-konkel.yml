@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.619525100000004
 longitude: 10.080607800000001
-postcode: 22175
+postcode: "22175"
 city: Hamburg
 street: "Bramfelder Chaussee"
 housenumber: 345

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.487181400000004
 longitude: 10.180687200000001
-postcode: 21035
+postcode: "21035"
 city: Hamburg
 street: "Edith-Stein-Platz"
 housenumber: 5

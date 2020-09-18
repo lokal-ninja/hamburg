@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 53.6441852
 longitude: 10.0128503
-postcode: 22415
+postcode: "22415"
 city: Hamburg
 street: "Langenhorner Chaussee"
 housenumber: 139

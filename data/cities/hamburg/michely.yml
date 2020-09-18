@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.6541435
 longitude: 10.111979100000001
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Saseler Markt"
 housenumber: 6

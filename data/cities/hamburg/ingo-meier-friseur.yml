@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.557783
 longitude: 10.0487994
-postcode: 20535
+postcode: "20535"
 city: Hamburg
 street: "Carl-Petersen-Straße"
 housenumber: 90

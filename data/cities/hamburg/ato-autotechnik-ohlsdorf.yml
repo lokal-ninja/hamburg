@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.6180614
 longitude: 10.032538500000001
-postcode: 22335
+postcode: "22335"
 city: Hamburg
 street: "Sommerkamp"
 housenumber: 31a

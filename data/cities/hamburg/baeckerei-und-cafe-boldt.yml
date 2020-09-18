@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.573001000000005
 longitude: 10.0551878
-postcode: 22089
+postcode: "22089"
 city: Hamburg
 street: "Eilbeker Weg"
 housenumber: 200

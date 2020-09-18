@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 53.461807900000004
 longitude: 9.9837845
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Kleiner Schippsee"
 housenumber: 13

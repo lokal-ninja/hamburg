@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 53.5530776
 longitude: 9.9590689
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Paul-Roosen-Straße"
 housenumber: 12

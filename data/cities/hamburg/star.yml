@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.613218800000006
 longitude: 9.952994
-postcode: 22453
+postcode: "22453"
 city: Hamburg
 street: "Kollaustraße"
 housenumber: 170

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5585614
 longitude: 9.9500238
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Max-Brauer-Allee"
 housenumber: 174

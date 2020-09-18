@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5601453
 longitude: 9.9586225
-postcode: 22769
+postcode: "22769"
 city: Hamburg
 street: "Stresemannstraße"
 housenumber: 62

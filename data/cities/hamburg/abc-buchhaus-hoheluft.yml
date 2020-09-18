@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.58158280000001
 longitude: 9.9727526
-postcode: 20253
+postcode: "20253"
 city: Hamburg
 street: "Hoheluftchaussee"
 housenumber: 60

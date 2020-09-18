@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.4380381
 longitude: 9.998467300000002
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Radickestraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.58860730000001
 longitude: 10.1064591
-postcode: 22047
+postcode: "22047"
 city: Hamburg
 street: "Walddörferstraße"
 housenumber: 416C

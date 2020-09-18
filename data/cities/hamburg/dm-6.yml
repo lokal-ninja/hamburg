@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.564680200000005
 longitude: 9.8138951
-postcode: 22587
+postcode: "22587"
 city: Hamburg
 street: "Sülldorfer Kirchenweg"
 housenumber: 2b

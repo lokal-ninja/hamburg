@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 53.5622405
 longitude: 10.0478211
-postcode: 20535
+postcode: "20535"
 city: Hamburg
 street: "Riesserstraße"
 housenumber: 9

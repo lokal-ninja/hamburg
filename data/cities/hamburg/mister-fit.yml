@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.4601946
 longitude: 9.982768
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Harburger Ring"
 housenumber: 21

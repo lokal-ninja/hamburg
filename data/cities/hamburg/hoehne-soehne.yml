@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.6477355
 longitude: 10.0607745
-postcode: 22339
+postcode: "22339"
 city: Hamburg
 street: "Barkhausenweg"
 housenumber: 3

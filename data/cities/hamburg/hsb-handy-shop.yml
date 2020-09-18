@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 53.587626
 longitude: 9.8511919
-postcode: 22549
+postcode: "22549"
 city: Hamburg
 street: "Bornheide"
 housenumber: 51b

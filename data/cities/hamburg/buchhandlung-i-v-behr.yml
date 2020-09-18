@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.648927
 longitude: 10.1657097
-postcode: 22359
+postcode: "22359"
 city: Hamburg
 street: "Im Alten Dorfe"
 housenumber: 31

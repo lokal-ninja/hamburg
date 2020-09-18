@@ -1,12 +1,12 @@
-id: 300595929
+id: 293952471
 type: node
 shop: Supermarkt
-latitude: 53.568366700000006
-longitude: 9.9804125
-postcode: 20146
+latitude: 53.6242962
+longitude: 10.1145536
+postcode: "22159"
 city: Hamburg
-street: "Grindelallee"
-housenumber: 126
-phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+street: "Pezolddamm"
+housenumber: 154
+phone: "+49 40 6400144"
+opening_hours: "Mo-Sa 07:00-21:00; PH off"
 website: ""

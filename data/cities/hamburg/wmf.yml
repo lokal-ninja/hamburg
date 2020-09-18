@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 53.55073590000001
 longitude: 9.9998318
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Mönckebergstraße"
 housenumber: 13

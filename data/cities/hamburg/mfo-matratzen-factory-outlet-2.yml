@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.577295500000005
 longitude: 10.0381061
-postcode: 22083
+postcode: "22083"
 city: Hamburg
 street: "Hamburger Straße"
 housenumber: 163-165

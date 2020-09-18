@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 53.576456500000006
 longitude: 9.9475691
-postcode: 20255
+postcode: "20255"
 city: Hamburg
 street: "Osterstraße"
 housenumber: 149

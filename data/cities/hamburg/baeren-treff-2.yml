@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.5505542
 longitude: 9.9979808
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Mönckebergstraße"
 housenumber: 19

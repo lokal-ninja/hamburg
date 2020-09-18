@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.5545945
 longitude: 9.988019900000001
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "ABC-Straße"
 housenumber: 1

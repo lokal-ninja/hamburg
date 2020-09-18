@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.56733620000001
 longitude: 10.0463535
-postcode: 22089
+postcode: "22089"
 city: Hamburg
 street: "Wandsbeker Chaussee"
 housenumber: 118

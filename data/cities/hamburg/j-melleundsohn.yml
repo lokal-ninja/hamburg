@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.6618543
 longitude: 10.0862379
-postcode: 22399
+postcode: "22399"
 city: Hamburg
 street: "Poppenbüttler Hauptstraße"
 housenumber: 11

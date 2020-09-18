@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5497577
 longitude: 10.0663779
-postcode: 20537
+postcode: "20537"
 city: Hamburg
 street: "Eiffestraße"
 housenumber: 664b

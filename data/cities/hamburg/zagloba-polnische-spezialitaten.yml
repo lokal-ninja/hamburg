@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.5393479
 longitude: 10.1068642
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Möllner Landstraße"
 housenumber: 31

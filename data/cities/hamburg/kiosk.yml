@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 53.560066400000004
 longitude: 10.108025000000001
-postcode: 22119
+postcode: "22119"
 city: Hamburg
 street: "Dannerallee"
 housenumber: 1

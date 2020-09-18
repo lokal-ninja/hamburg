@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.540531800000004
 longitude: 9.9968036
-postcode: 20457
+postcode: "20457"
 city: Hamburg
 street: "Am Grasbrookpark"
 housenumber: 1

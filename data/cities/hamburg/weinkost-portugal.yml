@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 53.5457369
 longitude: 9.9759629
-postcode: 20459
+postcode: "20459"
 city: Hamburg
 street: "Rambachstraße"
 housenumber: 13

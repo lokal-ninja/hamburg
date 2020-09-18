@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.5906436
 longitude: 9.9863087
-postcode: 20249
+postcode: "20249"
 city: Hamburg
 street: "Eppendorfer Landstraße"
 housenumber: 77

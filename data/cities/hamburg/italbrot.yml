@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.549296500000004
 longitude: 9.944953700000001
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Elmenhorststraße"
 housenumber: 10

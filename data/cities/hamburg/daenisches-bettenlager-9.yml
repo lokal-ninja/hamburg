@@ -1,12 +1,12 @@
-id: 4304849473
+id: 5245811661
 type: node
 shop: Möbel
-latitude: 53.551700100000005
-longitude: 9.999412600000001
-postcode: 20095
+latitude: 53.486753400000005
+longitude: 10.206268900000001
+postcode: "21029"
 city: Hamburg
-street: "Spitalerstraße"
-housenumber: 24d
+street: "Stuhlrohrstraße"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00, PH off"
+opening_hours: "Mo-Fr 10:00-19:00, Sa 09:30-18:00;PH off"
 website: ""

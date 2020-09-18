@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 53.5795133
 longitude: 9.949289
-postcode: 20255
+postcode: "20255"
 city: Hamburg
 street: "Stellinger Weg"
 housenumber: 30

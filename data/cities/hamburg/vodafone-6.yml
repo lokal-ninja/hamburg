@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.620201200000004
 longitude: 9.9520493
-postcode: 22459
+postcode: "22459"
 city: Hamburg
 street: "Tibarg"
 housenumber: 34

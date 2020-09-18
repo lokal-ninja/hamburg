@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.5327883
 longitude: 9.8796662
-postcode: 21129
+postcode: "21129"
 city: Hamburg
 street: "Steendiek"
 housenumber: 41

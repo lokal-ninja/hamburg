@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.554104
 longitude: 9.9887314
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Poststraße"
 housenumber: 37

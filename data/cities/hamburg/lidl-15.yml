@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.584561300000004
 longitude: 9.872611800000001
-postcode: 22549
+postcode: "22549"
 city: Hamburg
 street: "Kressenweg"
 housenumber: 34

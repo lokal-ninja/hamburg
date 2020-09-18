@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.5615194
 longitude: 9.9617757
-postcode: 22769
+postcode: "22769"
 city: Hamburg
 street: "Juliusstraße"
 housenumber: 33

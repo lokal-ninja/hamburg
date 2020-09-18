@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5855903
 longitude: 10.0331957
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Saarlandstraße"
 housenumber: 1

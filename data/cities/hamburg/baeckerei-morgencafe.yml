@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.667378400000004
 longitude: 10.0109382
-postcode: 22419
+postcode: "22419"
 city: Hamburg
 street: "Theodor-Fahr-Straße"
 housenumber: 1a

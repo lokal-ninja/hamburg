@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.579602400000006
 longitude: 10.0734697
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Behnkenkammer"
 housenumber: 1

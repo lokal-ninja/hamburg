@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.601338600000005
 longitude: 10.0412435
-postcode: 22307
+postcode: "22307"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 346

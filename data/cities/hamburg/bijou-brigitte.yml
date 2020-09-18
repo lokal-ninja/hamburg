@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 53.4566074
 longitude: 9.9881215
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Hannoversche Straße"
 housenumber: 86

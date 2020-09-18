@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.565614200000006
 longitude: 9.9591776
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Schulterblatt"
 housenumber: 132

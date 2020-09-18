@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.551633100000004
 longitude: 9.9271411
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Ottenser Hauptstraße"
 housenumber: 55

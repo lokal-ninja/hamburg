@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.5675595
 longitude: 9.9529362
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Doormannsweg"
 housenumber: 45

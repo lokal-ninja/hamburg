@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.612351700000005
 longitude: 9.9577329
-postcode: 22453
+postcode: "22453"
 city: Hamburg
 street: "Papenreye"
 housenumber: 5

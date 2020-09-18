@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.5430982
 longitude: 10.1026469
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Schiffbeker Weg"
 housenumber: 27-29

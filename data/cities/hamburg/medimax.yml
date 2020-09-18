@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.6044885
 longitude: 10.159436300000001
-postcode: 22143
+postcode: "22143"
 city: Hamburg
 street: "Schweriner Straße"
 housenumber: 8-12

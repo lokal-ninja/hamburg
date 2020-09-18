@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 53.5758069
 longitude: 9.9543432
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Osterstraße"
 housenumber: 84

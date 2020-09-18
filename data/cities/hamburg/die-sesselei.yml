@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.604627400000005
 longitude: 10.024294900000001
-postcode: 22297
+postcode: "22297"
 city: Hamburg
 street: "Überseering"
 housenumber: 19

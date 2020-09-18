@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.6051626
 longitude: 10.053309200000001
-postcode: 22309
+postcode: "22309"
 city: Hamburg
 street: "Steilshooper Straße"
 housenumber: 281

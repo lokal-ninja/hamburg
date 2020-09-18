@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.605545500000005
 longitude: 10.1187245
-postcode: 22159
+postcode: "22159"
 city: Hamburg
 street: "Berner Heerweg"
 housenumber: 173/175

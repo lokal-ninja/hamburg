@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.4572598
 longitude: 9.985127400000001
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Seevepassage"
 housenumber: 2

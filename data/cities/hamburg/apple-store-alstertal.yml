@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.654119200000004
 longitude: 10.0917746
-postcode: 22391
+postcode: "22391"
 city: Hamburg
 street: "Heegbarg"
 housenumber: 31

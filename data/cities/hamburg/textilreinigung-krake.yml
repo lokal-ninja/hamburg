@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.559988000000004
 longitude: 10.1065767
-postcode: 22119
+postcode: "22119"
 city: Hamburg
 street: "Graßmannweg"
 housenumber: 12

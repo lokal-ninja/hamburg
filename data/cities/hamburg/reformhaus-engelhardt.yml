@@ -1,12 +1,12 @@
-id: 2035393313
+id: 1948014284
 type: node
 shop: Supermarkt
-latitude: 53.5529809
-longitude: 9.989182300000001
-postcode: 20354
+latitude: 53.558902700000004
+longitude: 9.811259100000001
+postcode: "22587"
 city: Hamburg
-street: "Große Bleichen"
-housenumber: 36
+street: "Blankeneser Bahnhofstraße"
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
+opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-14:00"
 website: ""

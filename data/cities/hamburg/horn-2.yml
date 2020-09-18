@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.612131500000004
 longitude: 9.958999
-postcode: 22453
+postcode: "22453"
 city: Hamburg
 street: "Papenreye"
 housenumber: 6

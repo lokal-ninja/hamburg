@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.552933700000004
 longitude: 10.0846616
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Rennbahnstraße"
 housenumber: 24

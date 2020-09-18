@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.5730115
 longitude: 10.030655900000001
-postcode: 22083
+postcode: "22083"
 city: Hamburg
 street: "Hamburger Straße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.551163300000006
 longitude: 10.0749052
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Horner Landstraße"
 housenumber: 110

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.557409400000004
 longitude: 10.051202700000001
-postcode: 20535
+postcode: "20535"
 city: Hamburg
 street: "Carl-Petersen-Straße"
 housenumber: 116

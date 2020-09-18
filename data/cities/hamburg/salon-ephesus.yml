@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5623968
 longitude: 9.9633614
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Susannenstraße"
 housenumber: 35

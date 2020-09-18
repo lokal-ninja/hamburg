@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 53.646071600000006
 longitude: 10.1190707
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Berner Weg"
 housenumber: 62

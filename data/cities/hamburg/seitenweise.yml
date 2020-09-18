@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.5626503
 longitude: 10.056459100000001
-postcode: 20535
+postcode: "20535"
 city: Hamburg
 street: "Hammer Steindamm"
 housenumber: 119

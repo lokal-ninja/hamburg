@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 53.552531900000005
 longitude: 9.9325109
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Ottenser Hauptstraße"
 housenumber: 10

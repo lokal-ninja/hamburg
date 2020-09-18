@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 53.5682215
 longitude: 9.9510529
-postcode: 22769
+postcode: "22769"
 city: Hamburg
 street: "Eimsbütteler Straße"
 housenumber: 98

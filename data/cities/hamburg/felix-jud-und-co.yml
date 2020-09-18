@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.552238700000004
 longitude: 9.9922331
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Neuer Wall"
 housenumber: 13

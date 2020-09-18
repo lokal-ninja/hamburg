@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.573091700000006
 longitude: 10.066438400000001
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Quarree"
 housenumber: 8-10

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.457184100000006
 longitude: 9.9874097
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Moorstraße"
 housenumber: 23

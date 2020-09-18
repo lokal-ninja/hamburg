@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.6081626
 longitude: 10.0567651
-postcode: 22309
+postcode: "22309"
 city: Hamburg
 street: "Steilshooper Straße"
 housenumber: 319

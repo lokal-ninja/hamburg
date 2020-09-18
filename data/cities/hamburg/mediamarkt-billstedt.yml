@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.540337900000004
 longitude: 10.105151600000001
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Billstedter Platz"
 housenumber: 37J

@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 53.553736400000005
 longitude: 10.0139341
-postcode: 20099
+postcode: "20099"
 city: Hamburg
 street: "Pulverteich"
 housenumber: 8

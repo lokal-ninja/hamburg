@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.631465500000004
 longitude: 9.954102800000001
-postcode: 22459
+postcode: "22459"
 city: Hamburg
 street: "Adlerhorst"
 housenumber: 13

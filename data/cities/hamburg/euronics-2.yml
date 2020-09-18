@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.594103600000004
 longitude: 10.0493267
-postcode: 22307
+postcode: "22307"
 city: Hamburg
 street: "Habichtstraße"
 housenumber: 101

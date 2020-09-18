@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5754377
 longitude: 9.955983600000001
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Osterstraße"
 housenumber: 70

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.551864200000004
 longitude: 9.9952608
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Ballindamm"
 housenumber: 40

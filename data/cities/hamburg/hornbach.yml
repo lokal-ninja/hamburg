@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.6150442
 longitude: 9.9032771
-postcode: 22523
+postcode: "22523"
 city: Hamburg
 street: "Holsteiner Chaussee"
 housenumber: 49

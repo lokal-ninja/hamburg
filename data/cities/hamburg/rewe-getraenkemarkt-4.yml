@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.5814851
 longitude: 10.0788525
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Auf dem Königslande"
 housenumber: 51

@@ -1,12 +1,12 @@
-id: 4144993056
+id: 4143189489
 type: node
 shop: Supermarkt
-latitude: 53.4579509
-longitude: 9.9871254
-postcode: 21073
+latitude: 53.55503
+longitude: 9.9286882
+postcode: "22765"
 city: Hamburg
-street: "Seeveplatz"
-housenumber: 1
+street: "Bahrenfelder Straße"
+housenumber: 188
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: "Mo-Sa 08:00-21:00; PH off"
 website: ""

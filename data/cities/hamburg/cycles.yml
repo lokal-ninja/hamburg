@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.563027000000005
 longitude: 9.816166200000001
-postcode: 22587
+postcode: "22587"
 city: Hamburg
 street: "Dockenhudener Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 53.57955200000001
 longitude: 9.9445669
-postcode: 20257
+postcode: "20257"
 city: Hamburg
 street: "Müggenkampstraße"
 housenumber: 11

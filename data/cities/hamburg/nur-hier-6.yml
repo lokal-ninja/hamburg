@@ -1,12 +1,12 @@
-id: 707006916
+id: 692085290
 type: node
 shop: Bäckerei
-latitude: 53.580884700000006
-longitude: 9.973640600000001
-postcode: 20253
+latitude: 53.588840000000005
+longitude: 10.0453098
+postcode: "22305"
 city: Hamburg
-street: "Hoheluftchaussee"
-housenumber: 52 - 56
-phone: "+49 40 4207813"
-opening_hours: "Mo-Sa 06:00-20:00"
-website: "http://www.nur-hier.de"
+street: "Fuhlsbüttler Straße"
+housenumber: 107-109
+phone: ""
+opening_hours: "Mo-Fr 06:00-20:00; Sa 06:00-18:00"
+website: ""

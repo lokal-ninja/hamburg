@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.648346100000005
 longitude: 10.0378199
-postcode: 22339
+postcode: "22339"
 city: Hamburg
 street: "Lademannbogen"
 housenumber: 1a

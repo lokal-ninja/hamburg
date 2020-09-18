@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5494811
 longitude: 9.93645
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Max-Brauer-Allee"
 housenumber: 36

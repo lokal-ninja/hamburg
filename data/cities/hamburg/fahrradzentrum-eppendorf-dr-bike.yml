@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5824732
 longitude: 9.9731425
-postcode: 20251
+postcode: "20251"
 city: Hamburg
 street: "Eppendorfer Weg"
 housenumber: 231

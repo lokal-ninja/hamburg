@@ -3,7 +3,7 @@ type: way
 shop: Zeitungen
 latitude: 53.5872511
 longitude: 9.851329900000001
-postcode: 22549
+postcode: "22549"
 city: Hamburg
 street: "Bornheide"
 housenumber: 45

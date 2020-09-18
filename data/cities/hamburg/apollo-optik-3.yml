@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.6072804
 longitude: 9.904904400000001
-postcode: 22523
+postcode: "22523"
 city: Hamburg
 street: "Alte Elbgaustraße"
 housenumber: 1

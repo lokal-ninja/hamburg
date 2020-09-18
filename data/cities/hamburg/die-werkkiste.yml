@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.552614500000004
 longitude: 9.944744
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Schomburgstraße"
 housenumber: 87

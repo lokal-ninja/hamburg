@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5533792
 longitude: 10.062179700000002
-postcode: 20537
+postcode: "20537"
 city: Hamburg
 street: "Droopweg"
 housenumber: 25

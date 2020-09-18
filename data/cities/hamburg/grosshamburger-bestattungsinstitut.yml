@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.554599800000005
 longitude: 9.9340711
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Scheel-Plessen-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.599907900000005
 longitude: 9.9576829
-postcode: 22529
+postcode: "22529"
 city: Hamburg
 street: "Grelckstraße"
 housenumber: 1

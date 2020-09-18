@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.4551621
 longitude: 9.9870991
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Wilstorfer Straße"
 housenumber: 74

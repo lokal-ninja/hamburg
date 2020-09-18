@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 53.574937600000005
 longitude: 9.9940236
-postcode: 20149
+postcode: "20149"
 city: Hamburg
 street: "Mittelweg"
 housenumber: 111a

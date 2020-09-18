@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5643584
 longitude: 10.0245353
-postcode: 22087
+postcode: "22087"
 city: Hamburg
 street: "Kuhmühle"
 housenumber: 6

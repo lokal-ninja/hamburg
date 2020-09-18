@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.603235600000005
 longitude: 10.0408778
-postcode: 22309
+postcode: "22309"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 414

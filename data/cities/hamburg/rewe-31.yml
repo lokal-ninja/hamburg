@@ -1,12 +1,12 @@
-id: 4848520
-type: way
+id: 7182756959
+type: node
 shop: Supermarkt
-latitude: 53.477482900000005
-longitude: 9.884093
-postcode: 21147
+latitude: 53.588034400000005
+longitude: 10.0447953
+postcode: "22305"
 city: Hamburg
-street: "Hardauring"
-housenumber: 34
-phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; PH closed"
-website: ""
+street: "Krüsistraße"
+housenumber: 7
+phone: "+49 40 181078430"
+opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-23:30; PH,Su off"
+website: "https://www.rewe.de/angebote/hamburg-freie-und-hansestadt/541804/rewe-markt-kruesistr-7/"

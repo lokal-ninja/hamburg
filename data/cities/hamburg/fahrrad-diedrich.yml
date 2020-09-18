@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5903739
 longitude: 10.045243800000001
-postcode: 22305
+postcode: "22305"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 132

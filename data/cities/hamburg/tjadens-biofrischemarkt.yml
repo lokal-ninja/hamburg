@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.559715600000004
 longitude: 9.9098529
-postcode: 22763
+postcode: "22763"
 city: Hamburg
 street: "Friedensallee"
 housenumber: 275

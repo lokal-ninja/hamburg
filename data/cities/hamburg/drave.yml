@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5569251
 longitude: 9.9023246
-postcode: 22763
+postcode: "22763"
 city: Hamburg
 street: "Jürgen-Töpfer-Straße"
 housenumber: 18

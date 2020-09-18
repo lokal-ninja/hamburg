@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.47402820000001
 longitude: 9.839721200000001
-postcode: 21149
+postcode: "21149"
 city: Hamburg
 street: "Stremelkamp"
 housenumber: 16

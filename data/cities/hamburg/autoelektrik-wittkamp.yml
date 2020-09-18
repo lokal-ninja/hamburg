@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 53.5467991
 longitude: 10.0448296
-postcode: 20537
+postcode: "20537"
 city: Hamburg
 street: "Hammer Deich"
 housenumber: 57

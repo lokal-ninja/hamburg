@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.5414237
 longitude: 10.0944635
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Am Schiffbeker Berg"
 housenumber: 20

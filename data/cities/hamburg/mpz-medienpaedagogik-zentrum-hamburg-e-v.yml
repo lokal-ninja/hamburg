@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 53.5585473
 longitude: 9.9675636
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Sternstraße"
 housenumber: 4

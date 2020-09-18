@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.5529622
 longitude: 9.9295419
-postcode: 
+postcode: ""
 city: Hamburg
 street: "Bahrenfelder Straße"
 housenumber: 119

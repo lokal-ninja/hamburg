@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.648740600000004
 longitude: 10.0129249
-postcode: 22415
+postcode: "22415"
 city: Hamburg
 street: "Krohnstieg"
 housenumber: 41-43

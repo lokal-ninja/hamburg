@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.4892946
 longitude: 10.1589992
-postcode: 21035
+postcode: "21035"
 city: Hamburg
 street: "Fleetplatz"
 housenumber: 1-7

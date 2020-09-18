@@ -1,12 +1,12 @@
-id: 4584060691
-type: node
+id: 136066425
+type: way
 shop: Möbel
-latitude: 53.5115855
-longitude: 10.088287300000001
-postcode: 22113
+latitude: 53.6006974
+longitude: 9.9767223
+postcode: "22529"
 city: Hamburg
-street: "Andreas-Meyer-Straße"
-housenumber: 62
+street: "Nedderfeld"
+housenumber: 96
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"
-website: ""
+opening_hours: ""
+website: "https://www.daenischesbettenlager.de/filiale/f/f695/hamburg/hamburg/nedderfeld-96"

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 53.6017078
 longitude: 10.1135433
-postcode: 22159
+postcode: "22159"
 city: Hamburg
 street: "Ivo-Hauptmann-Ring"
 housenumber: 4

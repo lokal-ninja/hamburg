@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 53.551588800000005
 longitude: 9.9300961
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Bahrenfelder Straße"
 housenumber: 79
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 10:00-19:00, Sa10:00-18:00"
+website: "https://www.buchhandlung-christiansen.de/de/"

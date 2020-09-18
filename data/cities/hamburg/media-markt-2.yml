@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.6009948
 longitude: 9.974161800000001
-postcode: 22529
+postcode: "22529"
 city: Hamburg
 street: "Nedderfeld"
 housenumber: 70

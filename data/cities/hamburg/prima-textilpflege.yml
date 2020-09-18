@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.591824900000006
 longitude: 9.9884993
-postcode: 20249
+postcode: "20249"
 city: Hamburg
 street: "Eppendorfer Landstraße"
 housenumber: 98

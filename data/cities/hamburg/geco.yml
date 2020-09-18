@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.6497845
 longitude: 10.0165991
-postcode: 22415
+postcode: "22415"
 city: Hamburg
 street: "Krohnstieg"
 housenumber: 4

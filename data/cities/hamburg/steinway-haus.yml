@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.5745744
 longitude: 9.923979800000001
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Rondenbarg"
 housenumber: 15

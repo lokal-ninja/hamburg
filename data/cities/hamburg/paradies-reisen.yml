@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.5778776
 longitude: 10.0630752
-postcode: 22049
+postcode: "22049"
 city: Hamburg
 street: "Stormarner Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.598362
 longitude: 10.0416868
-postcode: 22307
+postcode: "22307"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 279

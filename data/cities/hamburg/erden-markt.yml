@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5496015
 longitude: 9.948644400000001
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Blücherstraße"
 housenumber: 3

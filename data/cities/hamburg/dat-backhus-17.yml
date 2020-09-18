@@ -1,12 +1,12 @@
-id: 2104311896
+id: 2518851205
 type: node
 shop: Bäckerei
-latitude: 53.564131700000004
-longitude: 10.0562533
-postcode: 20535
+latitude: 53.5865323
+longitude: 10.017950800000001
+postcode: "22303"
 city: Hamburg
-street: "Marienthaler Straße"
-housenumber: 145
+street: "Semperstraße"
+housenumber: 56
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 06:30-19:00; Su 08:00-17:00"
+website: "http://www.datbackhus.de"

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.4561268
 longitude: 9.863140900000001
-postcode: 21149
+postcode: "21149"
 city: Hamburg
 street: "Fischbeker Holtweg"
 housenumber: 106A

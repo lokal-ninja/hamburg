@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.6071371
 longitude: 9.9055696
-postcode: 22523
+postcode: "22523"
 city: Hamburg
 street: "Alte Elbgaustraße"
 housenumber: 1

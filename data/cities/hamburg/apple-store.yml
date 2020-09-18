@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.552838400000006
 longitude: 9.9925952
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Jungfernstieg"
 housenumber: 12

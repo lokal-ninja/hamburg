@@ -3,10 +3,10 @@ type: node
 shop: Mieten
 latitude: 53.4607753
 longitude: 9.9860228
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Buxtehuder Straße"
 housenumber: 1d
-phone: "+49 40 303873840"
+phone: ""
 opening_hours: ""
-website: "https://prime-selfstorage.de/standorte/lagerraum-mieten-in-hamburg-harburg/"
+website: ""

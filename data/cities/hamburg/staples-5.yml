@@ -3,10 +3,10 @@ type: way
 shop: Schreibwaren
 latitude: 53.6494027
 longitude: 10.1045716
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Saseler Chaussee"
 housenumber: 148
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 40 6364620"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-16:00"
+website: "https://www.staples.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.55265970000001
 longitude: 9.9319238
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Ottenser Hauptstraße"
 housenumber: 10

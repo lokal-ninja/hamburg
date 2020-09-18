@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.5795516
 longitude: 10.0740925
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Walddörferstraße"
 housenumber: 80

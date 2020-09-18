@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 53.623467100000006
 longitude: 10.0184548
-postcode: 22335
+postcode: "22335"
 city: Hamburg
 street: "Röntgenstraße"
 housenumber: 50
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-13:00"
 website: ""

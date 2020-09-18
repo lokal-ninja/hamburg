@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5539775
 longitude: 9.999510200000001
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Ferdinandstraße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.5486542
 longitude: 9.998716100000001
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Schopenstehl"
 housenumber: 23

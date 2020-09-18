@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.552852900000005
 longitude: 9.9296801
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Bahrenfelder Straße"
 housenumber: 113

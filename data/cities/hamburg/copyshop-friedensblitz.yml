@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.554586
 longitude: 9.927701200000001
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Friedensallee"
 housenumber: 14-16

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5691738
 longitude: 9.8795827
-postcode: 22607
+postcode: "22607"
 city: Hamburg
 street: "Osdorfer Landstraße"
 housenumber: 2

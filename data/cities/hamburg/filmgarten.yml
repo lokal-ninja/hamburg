@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 53.5660475
 longitude: 9.9817698
-postcode: 20146
+postcode: "20146"
 city: Hamburg
 street: "Grindelallee"
 housenumber: 37 / 39

@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 53.459629400000004
 longitude: 9.9767034
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Julius-Ludowieg-Straße"
 housenumber: 32

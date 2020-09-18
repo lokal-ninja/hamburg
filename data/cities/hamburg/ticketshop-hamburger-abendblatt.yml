@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 53.4567483
 longitude: 9.9876962
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Hannoversche Straße"
 housenumber: 86

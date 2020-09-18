@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.446266300000005
 longitude: 9.9938903
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Reeseberg"
 housenumber: 62

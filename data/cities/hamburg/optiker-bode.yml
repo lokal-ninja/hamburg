@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.625207100000004
 longitude: 10.1398896
-postcode: 22147
+postcode: "22147"
 city: Hamburg
 street: "Hermann-Balk-Straße"
 housenumber: 127a

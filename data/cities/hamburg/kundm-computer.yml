@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.59993600000001
 longitude: 10.0415024
-postcode: 22307
+postcode: "22307"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 324

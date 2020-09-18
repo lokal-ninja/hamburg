@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.559315600000005
 longitude: 9.9162064
-postcode: 22763
+postcode: "22763"
 city: Hamburg
 street: "Friedensallee"
 housenumber: 128

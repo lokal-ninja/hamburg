@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 53.564355000000006
 longitude: 9.958218800000001
-postcode: 22769
+postcode: "22769"
 city: Hamburg
 street: "Eimsbütteler Straße"
 housenumber: 13

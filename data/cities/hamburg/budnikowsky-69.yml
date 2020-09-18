@@ -1,12 +1,12 @@
-id: 5323832653
+id: 5323876513
 type: node
 shop: Drogerie
-latitude: 53.5986532
-longitude: 9.859372
-postcode: 22547
+latitude: 53.560908000000005
+longitude: 9.812062300000001
+postcode: "22587"
 city: Hamburg
-street: "Luruper Hauptstraße"
-housenumber: 272 a
+street: "Propst-Paulsen-Straße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; PH off"
-website: "https://www.budni.de/filialen/22547-luruper-hauptstrasse-272-a/"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
+website: "https://www.budni.de/filialen/22587-propst-paulsen-str.-2/"

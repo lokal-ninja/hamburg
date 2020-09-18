@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.5527749
 longitude: 9.942848900000001
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Lornsenstraße"
 housenumber: 11

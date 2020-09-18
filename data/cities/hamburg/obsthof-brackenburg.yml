@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.5008221
 longitude: 9.8768232
-postcode: 21129
+postcode: "21129"
 city: Hamburg
 street: "Hinterdeich"
 housenumber: 8

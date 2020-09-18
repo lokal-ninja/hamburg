@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5764171
 longitude: 9.952496700000001
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Osterstraße"
 housenumber: 112

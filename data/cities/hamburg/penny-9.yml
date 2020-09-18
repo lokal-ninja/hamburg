@@ -1,12 +1,12 @@
-id: 610844360
+id: 598696668
 type: node
 shop: Supermarkt
-latitude: 53.553685200000004
-longitude: 10.0628171
-postcode: 20537
+latitude: 53.569678100000004
+longitude: 9.9642291
+postcode: "20357"
 city: Hamburg
-street: "Droopweg"
-housenumber: 25
+street: "Schäferkampsallee"
+housenumber: 58
 phone: ""
-opening_hours: "Mo-Sa 7:00-22:00; PH off"
-website: ""
+opening_hours: "Mo-Sa 07:30-22:00"
+website: "https://www.penny.de"

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5334809
 longitude: 9.8822507
-postcode: 21129
+postcode: "21129"
 city: Hamburg
 street: "Köhlfleet-Hauptdeich"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.547250500000004
 longitude: 9.962682200000001
-postcode: 
+postcode: ""
 city: Hamburg
 street: "Davidstraße"
 housenumber: 3

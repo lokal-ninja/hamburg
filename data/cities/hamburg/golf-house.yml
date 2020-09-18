@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.546940600000006
 longitude: 10.023818100000002
-postcode: 20097
+postcode: "20097"
 city: Hamburg
 street: "Hammerbrookstraße"
 housenumber: 69

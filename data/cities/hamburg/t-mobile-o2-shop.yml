@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.491406500000004
 longitude: 10.2074528
-postcode: 21031
+postcode: "21031"
 city: Hamburg
 street: "Alte Holstenstraße"
 housenumber: 42

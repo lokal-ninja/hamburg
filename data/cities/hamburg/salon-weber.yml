@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5915923
 longitude: 10.0458028
-postcode: 22305
+postcode: "22305"
 city: Hamburg
 street: "Hellbrookstraße"
 housenumber: 61

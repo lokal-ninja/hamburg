@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.57702990000001
 longitude: 9.9427844
-postcode: 20257
+postcode: "20257"
 city: Hamburg
 street: "Lappenbergsallee"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.5814596
 longitude: 10.011851
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Mühlenkamp"
 housenumber: 22

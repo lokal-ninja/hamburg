@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.6182231
 longitude: 10.003809500000001
-postcode: 22297
+postcode: "22297"
 city: Hamburg
 street: "Hindenburgstraße"
 housenumber: 173

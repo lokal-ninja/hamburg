@@ -1,12 +1,12 @@
-id: 2670464381
+id: 2417816240
 type: node
 shop: Bäckerei
-latitude: 53.5398859
-longitude: 10.1058979
-postcode: 22111
+latitude: 53.5999794
+longitude: 9.963220100000001
+postcode: "22529"
 city: Hamburg
-street: "Möllner Landstraße"
-housenumber: 19a
+street: "Kollaustraße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: ""
+opening_hours: "Mo-Sa 06:00-19:00; Su 06:00-13:00"
+website: "http://www.nur-hier.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.6043389
 longitude: 9.9797536
-postcode: 22453
+postcode: "22453"
 city: Hamburg
 street: "Borsteler Chaussee"
 housenumber: 85-99a

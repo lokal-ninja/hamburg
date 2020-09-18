@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.6128468
 longitude: 10.0244087
-postcode: 22297
+postcode: "22297"
 city: Hamburg
 street: "Alsterdorfer Markt"
 housenumber: 12

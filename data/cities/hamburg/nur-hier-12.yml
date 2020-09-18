@@ -1,12 +1,12 @@
-id: 2035393295
+id: 1599630523
 type: node
 shop: Bäckerei
-latitude: 53.55332730000001
-longitude: 9.9888606
-postcode: 20354
+latitude: 53.593174700000006
+longitude: 9.9439616
+postcode: "22529"
 city: Hamburg
-street: "Große Bleichen"
-housenumber: 36
-phone: "+49 40 340049"
-opening_hours: "Mo-Sa 06:00-20:00; PH off"
+street: "Koppelstraße"
+housenumber: 45
+phone: ""
+opening_hours: "Mo-Fr 05:30-18:30;Sa 06:00-18:00;Su 07:00-18:00"
 website: ""

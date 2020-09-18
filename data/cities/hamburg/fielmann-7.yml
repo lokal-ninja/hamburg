@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.5898789
 longitude: 10.0455162
-postcode: 22305
+postcode: "22305"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 122

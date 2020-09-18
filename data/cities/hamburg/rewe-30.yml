@@ -1,12 +1,12 @@
-id: 7182756959
+id: 6577264701
 type: node
 shop: Supermarkt
-latitude: 53.588034400000005
-longitude: 10.0447953
-postcode: 22305
+latitude: 53.607169000000006
+longitude: 9.9052477
+postcode: "22523"
 city: Hamburg
-street: "Krüsistraße"
-housenumber: 7
-phone: "+49 40 181078430"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-23:30; PH,Su off"
-website: "https://www.rewe.de/angebote/hamburg-freie-und-hansestadt/541804/rewe-markt-kruesistr-7/"
+street: "Alte Elbgaustraße"
+housenumber: 1
+phone: ""
+opening_hours: "Mo-Sa 08:00-21:00; PH,Su off"
+website: ""

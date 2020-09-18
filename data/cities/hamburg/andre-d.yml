@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.631337200000004
 longitude: 10.0144319
-postcode: 22335
+postcode: "22335"
 city: Hamburg
 street: "Alsterkrugchaussee"
 housenumber: 587

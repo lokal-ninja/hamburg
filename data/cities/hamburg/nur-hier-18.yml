@@ -1,12 +1,12 @@
-id: 3903156613
+id: 3838114819
 type: node
 shop: Bäckerei
-latitude: 53.515513000000006
-longitude: 9.9871502
-postcode: 21107
+latitude: 53.553822600000004
+longitude: 10.085480200000001
+postcode: "22111"
 city: Hamburg
-street: "Veringstraße"
-housenumber: 31
+street: "Rennbahnstraße"
+housenumber: 28a
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00, Sa 06:00-17:00, Su 08:00-16:00"
-website: "http://www.nur-hier.de"
+opening_hours: "Mo-Fr 05:00-19:00; Sa 06:00-19:00, Su 06:00-18:00"
+website: ""

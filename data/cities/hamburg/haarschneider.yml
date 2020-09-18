@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5795365
 longitude: 9.9446808
-postcode: 20257
+postcode: "20257"
 city: Hamburg
 street: "Müggenkampstraße"
 housenumber: 

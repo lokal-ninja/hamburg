@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.6480608
 longitude: 10.0112185
-postcode: 22415
+postcode: "22415"
 city: Hamburg
 street: "Langenhorner Chaussee"
 housenumber: 190

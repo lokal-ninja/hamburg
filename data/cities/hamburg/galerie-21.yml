@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 53.55955
 longitude: 9.9704397
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Vorwerkstraße"
 housenumber: 21

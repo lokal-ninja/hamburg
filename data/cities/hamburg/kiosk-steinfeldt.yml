@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.546751500000006
 longitude: 10.099116
-postcode: 
+postcode: ""
 city: Hamburg
 street: "Steinfeldtstraße"
 housenumber: 4a

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.550051100000005
 longitude: 9.9549942
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Nobistor"
 housenumber: 27

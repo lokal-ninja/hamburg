@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.5909902
 longitude: 9.929881100000001
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Kieler Straße"
 housenumber: 397

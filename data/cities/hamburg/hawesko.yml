@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 53.557718400000006
 longitude: 9.9085775
-postcode: 22763
+postcode: "22763"
 city: Hamburg
 street: "Friesenweg"
 housenumber: 4 Haus 12

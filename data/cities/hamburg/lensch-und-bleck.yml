@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.5855511
 longitude: 10.0179255
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Barmbeker Straße"
 housenumber: 35-37

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.561914
 longitude: 9.8197949
-postcode: 22587
+postcode: "22587"
 city: Hamburg
 street: "Dockenhudener Straße"
 housenumber: 4-6

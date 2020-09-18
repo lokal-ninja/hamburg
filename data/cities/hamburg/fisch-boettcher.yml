@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.580752700000005
 longitude: 10.0119589
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Mühlenkamp"
 housenumber: 17

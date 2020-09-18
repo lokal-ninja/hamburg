@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.457495
 longitude: 9.987201200000001
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Seeveplatz"
 housenumber: 1

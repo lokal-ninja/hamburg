@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.625944000000004
 longitude: 10.108906600000001
-postcode: 22175
+postcode: "22175"
 city: Hamburg
 street: "Karlshöhe"
 housenumber: 27

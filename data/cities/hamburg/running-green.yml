@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.546465700000006
 longitude: 9.9420836
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Palmaille"
 housenumber: 64

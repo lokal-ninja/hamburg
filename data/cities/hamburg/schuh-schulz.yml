@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 53.6601791
 longitude: 10.0842919
-postcode: 22399
+postcode: "22399"
 city: Hamburg
 street: "Harksheider Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.635297300000005
 longitude: 9.942965000000001
-postcode: 22453
+postcode: "22453"
 city: Hamburg
 street: "Gottschalkweg"
 housenumber: 2

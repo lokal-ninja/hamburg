@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.552841
 longitude: 9.942835
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Lornsenstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 53.5835598
 longitude: 9.7940055
-postcode: 22589
+postcode: "22589"
 city: Hamburg
 street: "Sülldorfer Kirchenweg"
 housenumber: 237

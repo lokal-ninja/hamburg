@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.5625906
 longitude: 9.9609901
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Schulterblatt"
 housenumber: 79

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.653545300000005
 longitude: 10.113311600000001
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Saseler Markt"
 housenumber: 12

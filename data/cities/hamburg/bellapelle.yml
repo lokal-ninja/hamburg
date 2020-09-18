@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.5593474
 longitude: 9.9637702
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Schulterblatt"
 housenumber: 3

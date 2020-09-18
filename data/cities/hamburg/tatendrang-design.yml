@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.5537125
 longitude: 9.929227500000001
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Kleine Rainstraße"
 housenumber: 6

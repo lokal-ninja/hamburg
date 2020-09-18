@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.533619900000005
 longitude: 10.0386295
-postcode: 20539
+postcode: "20539"
 city: Hamburg
 street: "Rothenburgsorter Marktplatz"
 housenumber: 1

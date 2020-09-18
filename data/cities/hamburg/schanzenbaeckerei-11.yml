@@ -1,12 +1,12 @@
-id: 1912195656
+id: 6724013129
 type: node
 shop: Bäckerei
-latitude: 53.5558283
-longitude: 9.9829942
-postcode: 20355
+latitude: 53.549955100000005
+longitude: 9.9838619
+postcode: "20459"
 city: Hamburg
-street: "Valentinskamp"
-housenumber: 63
-phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-14:00"
-website: ""
+street: "Düsternstraße"
+housenumber: 18
+phone: "+49 40 325 249 73"
+opening_hours: "Mo-Fr 07:00-19:00; Sa,Su 08:00-16:00"
+website: "https://www.schanzenbaeckerei.de/filialen/nedderfeld"

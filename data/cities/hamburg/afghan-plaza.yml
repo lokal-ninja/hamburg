@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.5399242
 longitude: 10.044896600000001
-postcode: 20539
+postcode: "20539"
 city: Hamburg
 street: "Ausschläger Billdeich"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Töpferei
 latitude: 53.5676001
 longitude: 9.9173547
-postcode: 22761
+postcode: "22761"
 city: Hamburg
 street: "Boschstraße"
 housenumber: 2

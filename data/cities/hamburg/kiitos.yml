@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5574182
 longitude: 9.9752148
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Karolinenstraße"
 housenumber: 5

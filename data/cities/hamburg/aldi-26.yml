@@ -1,12 +1,12 @@
-id: 5296442235
+id: 5221302937
 type: node
 shop: Supermarkt
-latitude: 53.5574249
-longitude: 10.102973700000002
-postcode: 22119
+latitude: 53.497907700000006
+longitude: 10.208847800000001
+postcode: "21031"
 city: Hamburg
-street: "Querkamp"
-housenumber: 69
+street: "Am Beckerkamp"
+housenumber: 29
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: "Mo-Sa 08:00-21:00"
 website: ""

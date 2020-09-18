@@ -3,7 +3,7 @@ type: way
 shop: Nähzubehör
 latitude: 53.629460800000004
 longitude: 9.943834500000001
-postcode: 22459
+postcode: "22459"
 city: Hamburg
 street: "Wendlohstraße"
 housenumber: 80a

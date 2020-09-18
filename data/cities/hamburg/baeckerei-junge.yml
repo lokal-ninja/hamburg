@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.58196160000001
 longitude: 9.9714661
-postcode: 20253
+postcode: "20253"
 city: Hamburg
 street: "Hoheluftchaussee"
 housenumber: 91-93

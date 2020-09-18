@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 53.5647298
 longitude: 9.9654307
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Schanzenstraße"
 housenumber: 117

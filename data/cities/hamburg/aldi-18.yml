@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5999751
 longitude: 9.958163800000001
-postcode: 22529
+postcode: "22529"
 city: Hamburg
 street: "Grelckstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.587959500000004
 longitude: 9.850558600000001
-postcode: 22549
+postcode: "22549"
 city: Hamburg
 street: "Bornheide"
 housenumber: 57e

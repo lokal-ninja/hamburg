@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5678004
 longitude: 9.9807828
-postcode: 20146
+postcode: "20146"
 city: Hamburg
 street: "Grindelallee"
 housenumber: 

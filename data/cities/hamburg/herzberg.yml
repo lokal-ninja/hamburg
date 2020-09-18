@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.551117600000005
 longitude: 9.932188400000001
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Erzbergerstraße"
 housenumber: 19

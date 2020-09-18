@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.464042500000005
 longitude: 9.9558665
-postcode: 21075
+postcode: "21075"
 city: Hamburg
 street: "Heimfelder Straße"
 housenumber: 42a

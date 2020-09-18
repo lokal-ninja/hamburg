@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 53.5602035
 longitude: 10.064248300000001
-postcode: 20535
+postcode: "20535"
 city: Hamburg
 street: "Sievekingsallee"
 housenumber: 105

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.5498381
 longitude: 10.080126400000001
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Horner Landstraße"
 housenumber: 193a

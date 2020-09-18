@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.5809665
 longitude: 10.1240006
-postcode: 22045
+postcode: "22045"
 city: Hamburg
 street: "Kuehnstraße"
 housenumber: 91

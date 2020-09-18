@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6283371
 longitude: 10.0123976
-postcode: 22335
+postcode: "22335"
 city: Hamburg
 street: "Alsterkrugchaussee"
 housenumber: 535

@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 53.554501200000004
 longitude: 10.0105555
-postcode: 20099
+postcode: "20099"
 city: Hamburg
 street: "Ellmenreichstraße"
 housenumber: 26

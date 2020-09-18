@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5774697
 longitude: 9.9416892
-postcode: 20257
+postcode: "20257"
 city: Hamburg
 street: "Lappenbergsallee"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.580954000000006
 longitude: 10.0607047
-postcode: 22049
+postcode: "22049"
 city: Hamburg
 street: "Straßburger Straße"
 housenumber: 15

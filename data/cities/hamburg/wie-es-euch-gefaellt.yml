@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.5612502
 longitude: 9.960474300000001
-postcode: 22769
+postcode: "22769"
 city: Hamburg
 street: "Juliusstraße"
 housenumber: 16

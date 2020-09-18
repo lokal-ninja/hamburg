@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.479402300000004
 longitude: 9.874703100000001
-postcode: 21147
+postcode: "21147"
 city: Hamburg
 street: "Rehrstieg"
 housenumber: 50

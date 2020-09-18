@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.648118700000005
 longitude: 10.1636427
-postcode: 22359
+postcode: "22359"
 city: Hamburg
 street: "Weiße Rose"
 housenumber: 17

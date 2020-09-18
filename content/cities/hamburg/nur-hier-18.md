@@ -1,4 +1,4 @@
 ---
-title: "NUR HIER"
+title: "Nur hier"
 url: /hamburg/nur-hier-18/
 ---

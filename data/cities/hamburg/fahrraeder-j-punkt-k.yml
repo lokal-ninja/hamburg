@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5712307
 longitude: 10.1164612
-postcode: 22043
+postcode: "22043"
 city: Hamburg
 street: "Rodigallee"
 housenumber: 167

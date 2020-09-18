@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.5333417
 longitude: 10.0868467
-postcode: 22113
+postcode: "22113"
 city: Hamburg
 street: "Liebigstraße"
 housenumber: 40

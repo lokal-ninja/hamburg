@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.556156400000006
 longitude: 9.988129200000001
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Dammtorstraße"
 housenumber: 30

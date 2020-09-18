@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.580211600000005
 longitude: 10.0813134
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Holzmühlenstraße"
 housenumber: 31

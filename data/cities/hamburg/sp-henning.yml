@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.5755204
 longitude: 9.955579
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Osterstraße"
 housenumber: 72

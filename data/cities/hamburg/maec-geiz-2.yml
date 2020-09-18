@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.6193791
 longitude: 9.9509941
-postcode: 22459
+postcode: "22459"
 city: Hamburg
 street: "Tibarg"
 housenumber: 7-9

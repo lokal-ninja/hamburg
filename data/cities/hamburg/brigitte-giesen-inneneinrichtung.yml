@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.6485324
 longitude: 10.1674833
-postcode: 22359
+postcode: "22359"
 city: Hamburg
 street: "Wiesenhöfen"
 housenumber: 4

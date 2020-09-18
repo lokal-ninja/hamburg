@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.57939390000001
 longitude: 10.071997600000001
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Walddörferstraße"
 housenumber: 47b

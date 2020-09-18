@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.566437
 longitude: 9.980502300000001
-postcode: 
+postcode: ""
 city: Hamburg
 street: "Rentzelstraße"
 housenumber: 7

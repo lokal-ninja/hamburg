@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.6021524
 longitude: 10.0411119
-postcode: 22309
+postcode: "22309"
 city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 394

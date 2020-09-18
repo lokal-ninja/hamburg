@@ -1,4 +1,4 @@
 ---
-title: "PRIMARK"
+title: "Primark"
 url: /hamburg/primark/
 ---

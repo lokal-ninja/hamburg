@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 53.551366800000004
 longitude: 9.9479848
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Große Bergstraße"
 housenumber: 141

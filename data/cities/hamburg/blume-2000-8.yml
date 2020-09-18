@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.5418558
 longitude: 10.106438500000001
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Billstedter Platz"
 housenumber: 34k

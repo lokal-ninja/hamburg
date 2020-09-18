@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.489477
 longitude: 10.019378300000001
-postcode: 21109
+postcode: "21109"
 city: Hamburg
 street: "Otto-Brenner-Straße"
 housenumber: 8

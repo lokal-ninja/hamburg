@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.5613487
 longitude: 9.962291
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Schulterblatt"
 housenumber: 57

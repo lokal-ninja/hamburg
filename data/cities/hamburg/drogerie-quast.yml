@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5186154
 longitude: 9.811390000000001
-postcode: 21129
+postcode: "21129"
 city: Hamburg
 street: "Arp-Schnitger-Stieg"
 housenumber: 123

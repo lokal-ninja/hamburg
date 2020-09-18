@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5169263
 longitude: 9.987707700000001
-postcode: 21107
+postcode: "21107"
 city: Hamburg
 street: "Veringstraße"
 housenumber: 16

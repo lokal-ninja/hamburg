@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.579740900000004
 longitude: 9.943276000000001
-postcode: 20257
+postcode: "20257"
 city: Hamburg
 street: "Müggenkampstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.609902100000006
 longitude: 9.9577644
-postcode: 22453
+postcode: "22453"
 city: Hamburg
 street: "Kollaustraße"
 housenumber: 129-135

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.45605930000001
 longitude: 9.9877607
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Hannoversche Straße"
 housenumber: 86

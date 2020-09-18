@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 53.5694669
 longitude: 9.949007700000001
-postcode: 22769
+postcode: "22769"
 city: Hamburg
 street: "Eimsbütteler Straße"
 housenumber: 139

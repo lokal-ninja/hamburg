@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 53.589292
 longitude: 9.8545286
-postcode: 22549
+postcode: "22549"
 city: Hamburg
 street: "Bornheide"
 housenumber: 76b

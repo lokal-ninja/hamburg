@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.576385800000004
 longitude: 10.0148299
-postcode: 22085
+postcode: "22085"
 city: Hamburg
 street: "Hofweg"
 housenumber: 81

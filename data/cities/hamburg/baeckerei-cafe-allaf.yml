@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5601227
 longitude: 10.0293458
-postcode: 22087
+postcode: "22087"
 city: Hamburg
 street: "Lübecker Straße"
 housenumber: 72

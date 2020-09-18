@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.586294
 longitude: 10.0173672
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Barmbeker Straße"
 housenumber: 45

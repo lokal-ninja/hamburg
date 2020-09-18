@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5662152
 longitude: 10.0579367
-postcode: 22089
+postcode: "22089"
 city: Hamburg
 street: "Pappelallee"
 housenumber: 8

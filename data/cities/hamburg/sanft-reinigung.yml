@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.4609225
 longitude: 9.980201500000002
-postcode: 21073
+postcode: "21073"
 city: Hamburg
 street: "Harburger Ring"
 housenumber: 23

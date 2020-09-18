@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 53.5470388
 longitude: 9.962590500000001
-postcode: 20359
+postcode: "20359"
 city: Hamburg
 street: "Bernhard-Nocht-Straße"
 housenumber: 95

@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 53.62497990000001
 longitude: 10.113810800000001
-postcode: 22175
+postcode: "22175"
 city: Hamburg
 street: "Pezolddamm"
 housenumber: 143
-phone: ""
-opening_hours: "Mo-Th 08:30-18:00; Fr 08:30-18:30; Sa 08:00-13:00; PH off"
-website: ""
+phone: "+49 40 6440628"
+opening_hours: "Tu-Th 08:30-18:00; Fr 08:30-18:30; Sa 08:00-13:00"
+website: "https://friseur.salonsavvas.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5489254
 longitude: 9.9253412
-postcode: 22763
+postcode: "22763"
 city: Hamburg
 street: "Arnoldstraße"
 housenumber: 52-54

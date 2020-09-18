@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 53.602098500000004
 longitude: 9.9703453
-postcode: 22529
+postcode: "22529"
 city: Hamburg
 street: "Nedderfeld"
 housenumber: 32

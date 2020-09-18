@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.4927873
 longitude: 10.2070494
-postcode: 21031
+postcode: "21031"
 city: Hamburg
 street: "Alte Holstenstraße"
 housenumber: 24

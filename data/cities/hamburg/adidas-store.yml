@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.5507865
 longitude: 10.000181000000001
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Mönckebergstraße"
 housenumber: 13

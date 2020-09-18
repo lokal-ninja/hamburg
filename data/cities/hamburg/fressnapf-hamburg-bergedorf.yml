@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 53.491093400000004
 longitude: 10.2056848
-postcode: 21031
+postcode: "21031"
 city: Hamburg
 street: "Ludwig-Rosenberg-Ring"
 housenumber: 51

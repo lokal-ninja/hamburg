@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5939519
 longitude: 9.9999461
-postcode: 22299
+postcode: "22299"
 city: Hamburg
 street: "Barmbeker Straße"
 housenumber: 189

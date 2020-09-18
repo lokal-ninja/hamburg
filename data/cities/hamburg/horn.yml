@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.6007419
 longitude: 9.956687800000001
-postcode: 22529
+postcode: "22529"
 city: Hamburg
 street: "Grelckstraße"
 housenumber: 10a

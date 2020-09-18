@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.581777100000004
 longitude: 9.7616387
-postcode: 22559
+postcode: "22559"
 city: Hamburg
 street: "Grete-Nevermann-Weg"
 housenumber: 26

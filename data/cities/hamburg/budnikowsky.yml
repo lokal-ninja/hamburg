@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5329648
 longitude: 9.8793023
-postcode: 21129
+postcode: "21129"
 city: Hamburg
 street: "Steendiek"
 housenumber: 43

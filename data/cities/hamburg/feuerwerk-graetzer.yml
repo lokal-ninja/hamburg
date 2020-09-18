@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 53.445612100000005
 longitude: 9.9564035
-postcode: 21077
+postcode: "21077"
 city: Hamburg
 street: "Bremer Straße"
 housenumber: 243

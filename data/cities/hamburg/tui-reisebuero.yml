@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.5801451
 longitude: 10.012892
-postcode: 22303
+postcode: "22303"
 city: Hamburg
 street: "Mühlenkamp"
 housenumber: 6a

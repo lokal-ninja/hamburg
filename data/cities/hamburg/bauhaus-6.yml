@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.603817500000005
 longitude: 9.9659932
-postcode: 22529
+postcode: "22529"
 city: Hamburg
 street: "Alte Kollaustraße"
 housenumber: 44

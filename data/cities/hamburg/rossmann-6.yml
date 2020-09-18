@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.552570200000005
 longitude: 10.0043722
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Spitalerstraße"
 housenumber: 4

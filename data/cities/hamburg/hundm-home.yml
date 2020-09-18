@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.5509585
 longitude: 10.0011843
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Mönckebergstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.54001340000001
 longitude: 10.104800200000001
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Möllner Landstraße"
 housenumber: 3

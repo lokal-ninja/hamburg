@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 53.655585
 longitude: 10.0975873
-postcode: 22395
+postcode: "22395"
 city: Hamburg
 street: "Saseler Damm"
 housenumber: 31

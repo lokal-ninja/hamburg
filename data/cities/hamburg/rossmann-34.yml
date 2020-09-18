@@ -1,12 +1,12 @@
-id: 445922045
+id: 343467777
 type: way
 shop: Drogerie
-latitude: 53.612173000000006
-longitude: 10.076275200000001
-postcode: 22177
+latitude: 53.5536936
+longitude: 10.0060417
+postcode: "20099"
 city: Hamburg
-street: "Bramfelder Chaussee"
-housenumber: 230
+street: "Kirchenallee"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: "PH,Mo-Su 07:00-23:00"
 website: ""

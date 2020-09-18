@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.562463900000004
 longitude: 9.931288400000001
-postcode: 22761
+postcode: "22761"
 city: Hamburg
 street: "Taşköprüstraße"
 housenumber: 10

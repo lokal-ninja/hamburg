@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.540172000000005
 longitude: 10.102299200000001
-postcode: 22111
+postcode: "22111"
 city: Hamburg
 street: "Billstedter Hauptstraße"
 housenumber: 51

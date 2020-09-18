@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.551694100000006
 longitude: 9.9432454
-postcode: 22767
+postcode: "22767"
 city: Hamburg
 street: "Große Bergstraße"
 housenumber: 160

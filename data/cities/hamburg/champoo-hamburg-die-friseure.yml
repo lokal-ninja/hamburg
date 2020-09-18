@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5835146
 longitude: 9.9792582
-postcode: 20251
+postcode: "20251"
 city: Hamburg
 street: "Löwenstraße"
 housenumber: 12

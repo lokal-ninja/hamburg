@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5753464
 longitude: 9.9547121
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Osterstraße"
 housenumber: 81

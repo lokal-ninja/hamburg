@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.571142800000004
 longitude: 9.995502100000001
-postcode: 20148
+postcode: "20148"
 city: Hamburg
 street: "Mittelweg"
 housenumber: 130

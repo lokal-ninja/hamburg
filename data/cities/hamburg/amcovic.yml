@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.5628363
 longitude: 9.945058900000001
-postcode: 22769
+postcode: "22769"
 city: Hamburg
 street: "Stresemannstraße"
 housenumber: 202

@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 53.5736125
 longitude: 10.0160671
-postcode: 22085
+postcode: "22085"
 city: Hamburg
 street: "Hofweg"
 housenumber: 62

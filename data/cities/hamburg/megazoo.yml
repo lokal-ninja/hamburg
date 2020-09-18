@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.486478500000004
 longitude: 10.2060548
-postcode: 21029
+postcode: "21029"
 city: Hamburg
 street: "Stuhlrohrstraße"
 housenumber: 10

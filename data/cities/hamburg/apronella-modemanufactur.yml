@@ -3,10 +3,10 @@ type: node
 shop: Schneiderei
 latitude: 53.5587055
 longitude: 10.0480312
-postcode: 20535
+postcode: "20535"
 city: Hamburg
 street: "Sievekingdamm"
 housenumber: 40
 phone: "+49 (0) 176 83409773"
-opening_hours: ""
+opening_hours: "Tu-Th,Sa 09:00-12:00, Th,Fr 15:00-18:00"
 website: "https://www.apronella.de"

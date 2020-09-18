@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 53.5934566
 longitude: 9.988422100000001
-postcode: 20251
+postcode: "20251"
 city: Hamburg
 street: "Eppendorfer Landstraße"
 housenumber: 128

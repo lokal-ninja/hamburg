@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.6534903
 longitude: 10.1134222
-postcode: 22393
+postcode: "22393"
 city: Hamburg
 street: "Saseler Markt"
 housenumber: 12

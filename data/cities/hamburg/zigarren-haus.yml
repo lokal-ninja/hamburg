@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 53.5978409
 longitude: 9.930927500000001
-postcode: 22527
+postcode: "22527"
 city: Hamburg
 street: "Wördemanns Weg"
 housenumber: 12

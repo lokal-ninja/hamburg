@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.5557657
 longitude: 9.9325905
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Gaußstraße"
 housenumber: 19b

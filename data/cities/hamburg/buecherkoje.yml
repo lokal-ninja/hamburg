@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.5503452
 longitude: 10.0017934
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Jakobikirchhof"
 housenumber: 8

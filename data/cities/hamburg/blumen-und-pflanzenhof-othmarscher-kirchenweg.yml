@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.5520355
 longitude: 9.9068857
-postcode: 22763
+postcode: "22763"
 city: Hamburg
 street: "Othmarscher Kirchenweg"
 housenumber: 116-118

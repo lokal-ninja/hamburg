@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.589490000000005
 longitude: 10.0032367
-postcode: 22299
+postcode: "22299"
 city: Hamburg
 street: "Dorotheenstraße"
 housenumber: 131

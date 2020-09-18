@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.5907229
 longitude: 9.899284100000001
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Hellgrundweg"
 housenumber: 50

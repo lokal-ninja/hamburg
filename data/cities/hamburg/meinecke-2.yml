@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5513272
 longitude: 9.9962411
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Ballindamm"
 housenumber: 40

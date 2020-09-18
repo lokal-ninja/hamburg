@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 53.575154100000006
 longitude: 9.957431300000001
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Osterstraße"
 housenumber: 48
 phone: "+49 40 36 93 00 10"
-opening_hours: ""
+opening_hours: "We-Mo 12:00-16:00,18:00-23:00"
 website: "http://www.kosmetik-für-die-sinne.de/"

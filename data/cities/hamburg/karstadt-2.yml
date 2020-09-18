@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 53.572457500000006
 longitude: 10.0642814
-postcode: 22041
+postcode: "22041"
 city: Hamburg
 street: "Wandsbeker Marktstraße"
 housenumber: 65

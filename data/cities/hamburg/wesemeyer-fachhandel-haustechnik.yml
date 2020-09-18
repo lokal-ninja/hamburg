@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 53.5715002
 longitude: 9.9211831
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Holstenkamp"
 housenumber: 54-56

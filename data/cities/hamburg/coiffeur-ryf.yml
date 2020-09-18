@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.582168700000004
 longitude: 9.9713857
-postcode: 20253
+postcode: "20253"
 city: Hamburg
 street: "Hoheluftchaussee"
 housenumber: 91

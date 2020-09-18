@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5555863
 longitude: 9.9884304
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Gänsemarkt"
 housenumber: 44

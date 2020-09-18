@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.572351600000005
 longitude: 9.9503461
-postcode: 20259
+postcode: "20259"
 city: Hamburg
 street: "Fruchtallee"
 housenumber: 123

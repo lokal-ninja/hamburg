@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.580279700000006
 longitude: 9.9494203
-postcode: 20255
+postcode: "20255"
 city: Hamburg
 street: "Hellkamp"
 housenumber: 60

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.5621262
 longitude: 9.9626914
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Susannenstraße"
 housenumber: 39

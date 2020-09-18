@@ -3,7 +3,7 @@ type: way
 shop: Glaserei
 latitude: 53.635794000000004
 longitude: 9.9187902
-postcode: 22457
+postcode: "22457"
 city: Hamburg
 street: "Am Dorfteich"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 53.5747688
 longitude: 9.9265513
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Marlowring"
 housenumber: 7

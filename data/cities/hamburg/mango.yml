@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.5514529
 longitude: 10.0004221
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Spitalerstraße"
 housenumber: 22-26

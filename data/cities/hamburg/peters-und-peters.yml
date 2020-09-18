@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.5812442
 longitude: 10.137435
-postcode: 22045
+postcode: "22045"
 city: Hamburg
 street: "Kurt-Oldenburg-Straße"
 housenumber: 1

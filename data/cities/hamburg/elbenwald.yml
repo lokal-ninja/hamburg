@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 53.551419700000004
 longitude: 9.9967591
-postcode: 20095
+postcode: "20095"
 city: Hamburg
 street: "Ballindamm"
 housenumber: 40

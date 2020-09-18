@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 53.5632577
 longitude: 9.9365056
-postcode: 22769
+postcode: "22769"
 city: Hamburg
 street: "Stresemannstraße"
 housenumber: 268

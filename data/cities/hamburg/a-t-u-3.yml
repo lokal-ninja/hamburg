@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.606112700000004
 longitude: 9.9008559
-postcode: 22523
+postcode: "22523"
 city: Hamburg
 street: "Elbgaustraße"
 housenumber: 35

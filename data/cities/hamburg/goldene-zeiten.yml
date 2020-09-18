@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.5548744
 longitude: 9.989216800000001
-postcode: 20354
+postcode: "20354"
 city: Hamburg
 street: "Gerhofstraße"
 housenumber: 40

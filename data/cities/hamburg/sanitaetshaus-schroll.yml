@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.572473800000004
 longitude: 9.846328
-postcode: 22549
+postcode: "22549"
 city: Hamburg
 street: "Langelohstraße"
 housenumber: 151

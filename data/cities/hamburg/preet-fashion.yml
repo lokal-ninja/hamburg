@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.6499461
 longitude: 10.015249800000001
-postcode: 22415
+postcode: "22415"
 city: Hamburg
 street: "Langenhorner Markt"
 housenumber: 2 a

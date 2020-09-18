@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.625981200000005
 longitude: 10.0233922
-postcode: 22335
+postcode: "22335"
 city: Hamburg
 street: "Fuhlsbütteler Damm"
 housenumber: 118

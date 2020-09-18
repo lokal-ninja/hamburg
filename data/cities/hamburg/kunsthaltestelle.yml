@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.558475900000005
 longitude: 9.9746009
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Marktstraße"
 housenumber: 147

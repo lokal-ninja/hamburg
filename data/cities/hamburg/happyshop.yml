@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 53.5921796
 longitude: 10.075436
-postcode: 22049
+postcode: "22049"
 city: Hamburg
 street: "Lesserstraße"
 housenumber: 203

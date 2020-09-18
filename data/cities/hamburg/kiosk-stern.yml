@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.562239500000004
 longitude: 9.963498900000001
-postcode: 20357
+postcode: "20357"
 city: Hamburg
 street: "Susannenstraße"
 housenumber: 13

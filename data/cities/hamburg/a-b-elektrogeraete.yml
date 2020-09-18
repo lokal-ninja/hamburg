@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 53.5546902
 longitude: 9.929276300000001
-postcode: 22765
+postcode: "22765"
 city: Hamburg
 street: "Hohenesch"
 housenumber: 1

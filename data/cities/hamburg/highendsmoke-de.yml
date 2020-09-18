@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 53.5826311
 longitude: 9.9359902
-postcode: 22525
+postcode: "22525"
 city: Hamburg
 street: "Langenfelder Damm"
 housenumber: 82
