@@ -1,12 +1,12 @@
-id: 1897701703
+id: 2012113690
 type: node
 shop: Supermarkt
-latitude: 53.629547
-longitude: 9.929929900000001
-postcode: "22459"
+latitude: 53.5904949
+longitude: 9.9856808
+postcode: "20249"
 city: Hamburg
-street: "Frohmestraße"
-housenumber: 99
+street: "Kümmellstraße"
+housenumber: 4-8
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
 website: ""

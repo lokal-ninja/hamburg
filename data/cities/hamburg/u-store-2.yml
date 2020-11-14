@@ -1,12 +1,12 @@
-id: 6619072755
+id: 3817441721
 type: node
 shop: Kiosk
-latitude: 53.538695700000005
-longitude: 10.126064600000001
-postcode: "22117"
+latitude: 53.59977670000001
+longitude: 9.9948829
+postcode: "22299"
 city: Hamburg
-street: "Möllner Landstraße"
-housenumber: 150
+street: "Lattenkamp"
+housenumber: 33
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
+opening_hours: "Mo-Th 06:00-22:00; Fr 06:00-23:00; Sa 07:00-23:00; PH,Su 08:00-22:00"
 website: ""

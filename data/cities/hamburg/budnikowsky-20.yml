@@ -1,12 +1,12 @@
-id: 1234673445
+id: 1291498819
 type: node
 shop: Drogerie
-latitude: 53.624216100000005
-longitude: 10.1407325
-postcode: "22147"
+latitude: 53.551174800000005
+longitude: 9.982548600000001
+postcode: "20355"
 city: Hamburg
-street: "Hermann-Balk-Straße"
-housenumber: 110
+street: "Wexstraße"
+housenumber: 25
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
-website: "https://www.budni.de/filialen/22147-hermann-balk-str.-110/"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.budni.de/filialen/20355-wexstrasse-25/"

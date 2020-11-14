@@ -1,12 +1,12 @@
-id: 3402364032
-type: node
+id: 50671639
+type: way
 shop: Getränke
-latitude: 53.443525
-longitude: 9.9546496
-postcode: "21077"
+latitude: 53.500077100000006
+longitude: 9.999361200000001
+postcode: "21109"
 city: Hamburg
-street: "Beutnerring"
-housenumber: 10
+street: "Dratelnstraße"
+housenumber: 31
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-14:00"
 website: ""

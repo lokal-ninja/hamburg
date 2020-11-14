@@ -1,12 +1,12 @@
-id: 2288805588
+id: 2351693286
 type: node
 shop: Drogerie
-latitude: 53.5333898
-longitude: 10.0383838
-postcode: "20539"
+latitude: 53.601378800000006
+longitude: 9.887531800000001
+postcode: "22547"
 city: Hamburg
-street: "Rothenburgsorter Marktplatz"
-housenumber: 1b
+street: "Elbgaustraße"
+housenumber: 128
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: "https://www.budni.de/filialen/22547-elbgaustrasse-128/"

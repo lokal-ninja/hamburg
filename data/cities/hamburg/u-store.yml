@@ -1,12 +1,12 @@
-id: 3817441721
+id: 3076523674
 type: node
 shop: Kiosk
-latitude: 53.59977670000001
-longitude: 9.9948829
-postcode: "22299"
+latitude: 53.5531458
+longitude: 10.022263500000001
+postcode: "20097"
 city: Hamburg
-street: "Lattenkamp"
-housenumber: 33
+street: "Beim Strohhause"
+housenumber: 24a
 phone: ""
-opening_hours: "Mo-Th 06:00-22:00; Fr 06:00-23:00; Sa 07:00-23:00; PH,Su 08:00-22:00"
+opening_hours: "Mo-Fr 06:00-20:00"
 website: ""

@@ -1,12 +1,12 @@
-id: 40437060
-type: way
-shop: Lebensmittel
-latitude: 53.644398900000006
-longitude: 10.1218775
-postcode: "22393"
+id: 5496882595
+type: node
+shop: Allgemein
+latitude: 53.5459449
+longitude: 10.015196300000001
+postcode: "20097"
 city: Hamburg
-street: "Meiendorfer Mühlenweg"
-housenumber: 6a
+street: "Amsinckstraße"
+housenumber: 48
 phone: ""
-opening_hours: ""
+opening_hours: "24/7"
 website: ""

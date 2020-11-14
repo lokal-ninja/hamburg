@@ -1,12 +1,12 @@
 id: 48337477
 type: way
 shop: Supermarkt
-latitude: 53.602539500000006
-longitude: 10.0627286
+latitude: 53.602523000000005
+longitude: 10.062766100000001
 postcode: "22177"
 city: Hamburg
 street: "Fabriciusstraße"
 housenumber: 99
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 40 613081"
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
+website: "https://www.edeka.de/eh/nord/e-aktiv-markt-seipel-fabriciusstr.-99/index.jsp"

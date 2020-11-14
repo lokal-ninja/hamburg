@@ -1,12 +1,12 @@
-id: 7040999401
-type: node
+id: 445928832
+type: way
 shop: Schuhe
-latitude: 53.4577864
-longitude: 9.987372200000001
-postcode: "21073"
+latitude: 53.6125254
+longitude: 10.0759016
+postcode: "22177"
 city: Hamburg
-street: "Seeveplatz"
-housenumber: 1
+street: "Bramfelder Chaussee"
+housenumber: 230
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00; PH off"
-website: ""
+opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-20:00; PH off"
+website: "https://stores.deichmann.com/hamburg/hamburg/bramfelder-chaussee-230.html"

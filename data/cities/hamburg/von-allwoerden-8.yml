@@ -1,12 +1,12 @@
-id: 7231278316
-type: node
+id: 446849045
+type: way
 shop: Bäckerei
-latitude: 53.4884635
-longitude: 10.2000088
-postcode: "21033"
+latitude: 53.5882535
+longitude: 9.8502734
+postcode: "22549"
 city: Hamburg
-street: "Kurt-A.-Körber-Chaussee"
-housenumber: 9
-phone: ""
-opening_hours: ""
-website: ""
+street: "Kroonhorst"
+housenumber: 1
+phone: "+49 40 82296606"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://von-allwoerden.de/"

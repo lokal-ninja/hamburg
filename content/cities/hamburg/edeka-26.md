@@ -1,4 +1,4 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /hamburg/edeka-26/
 ---

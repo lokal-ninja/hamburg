@@ -1,12 +1,12 @@
-id: 2923471606
+id: 2923485301
 type: node
 shop: Drogerie
-latitude: 53.6043862
-longitude: 10.155361800000001
-postcode: "22143"
+latitude: 53.5711905
+longitude: 9.9957489
+postcode: "20148"
 city: Hamburg
-street: "Rahlstedter Bahnhofstraße"
-housenumber: 17
+street: "Milchstraße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-18:30; PH off"
-website: "https://www.budni.de/filialen/22143-rahlstedter-bahnhofstrasse-17/"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: "https://www.budni.de/filialen/20148-milchstrasse-1/"
