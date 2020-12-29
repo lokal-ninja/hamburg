@@ -1,12 +1,12 @@
-id: 6199529205
-type: node
+id: 77302967
+type: way
 shop: Bäckerei
-latitude: 53.628017
-longitude: 10.0128421
-postcode: "22335"
+latitude: 53.580534500000006
+longitude: 10.0185124
+postcode: "22085"
 city: Hamburg
-street: "Alsterkrugchaussee"
-housenumber: 535
-phone: "+49 40 89721128"
-opening_hours: "Mo-Sa 07:00-19:00, Su 08:00-12:00"
-website: "https://datbackhus.de/Fachgeschaefte/Alsterkrugchaussee/"
+street: "Grillparzerstraße"
+housenumber: 45
+phone: ""
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-14:00; Su 08:00-14:00"
+website: ""

@@ -1,12 +1,12 @@
-id: 268813827
+id: 258329459
 type: node
 shop: Supermarkt
-latitude: 53.5529553
-longitude: 9.9597393
-postcode: "22767"
+latitude: 53.5703703
+longitude: 10.063340100000001
+postcode: "22041"
 city: Hamburg
-street: "Paul-Roosen-Straße"
-housenumber: 8
+street: "Knutzenweg"
+housenumber: 22
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 07:30-22:00; PH off"
 website: ""

@@ -1,12 +1,12 @@
-id: 1364120967
+id: 1393512183
 type: node
-shop: Autohaus
-latitude: 53.5855511
-longitude: 10.0179255
+shop: Autowerkstatt
+latitude: 53.585403400000004
+longitude: 10.0173404
 postcode: "22303"
 city: Hamburg
 street: "Barmbeker Straße"
 housenumber: 35-37
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00, Sa 09:00-13:00"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
 website: ""

@@ -1,12 +1,12 @@
-id: 4100013663
+id: 3968043968
 type: node
 shop: Drogerie
-latitude: 53.58666040000001
-longitude: 10.086479
-postcode: "22047"
+latitude: 53.660796000000005
+longitude: 10.086033500000001
+postcode: "22399"
 city: Hamburg
-street: "Friedrich-Ebert-Damm"
-housenumber: 79-85
+street: "Moorhof"
+housenumber: 7a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.budni.de/filialen/22047-friedrich-ebert-damm-79-85/"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; PH off"
+website: "https://www.budni.de/filialen/22399-moorhof-7a/"

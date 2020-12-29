@@ -1,12 +1,12 @@
-id: 199767534
+id: 165731196
 type: way
 shop: Supermarkt
-latitude: 53.589303400000006
-longitude: 10.0511181
-postcode: "22305"
+latitude: 53.6349151
+longitude: 10.0147379
+postcode: "22335"
 city: Hamburg
-street: "Bramfelder Straße"
-housenumber: 103
+street: "Erdkampsweg"
+housenumber: 134
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/barmbek-nord/bramfelder-strasse-103.html"
+opening_hours: "Mo-Sa 07:00-21:00"
+website: ""

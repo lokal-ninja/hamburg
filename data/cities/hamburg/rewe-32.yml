@@ -1,12 +1,12 @@
-id: 4848520
-type: way
+id: 7967120281
+type: node
 shop: Supermarkt
-latitude: 53.477482900000005
-longitude: 9.884093
-postcode: "21147"
+latitude: 53.563392
+longitude: 9.943786000000001
+postcode: "22769"
 city: Hamburg
-street: "Hardauring"
-housenumber: 34
+street: "Stresemannstraße"
+housenumber: 197-221
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; PH closed"
+opening_hours: "Mo-Sa 07:00-23:00; PH off"
 website: ""

@@ -1,12 +1,12 @@
-id: 253697921
+id: 244145013
 type: way
 shop: Supermarkt
-latitude: 53.508870900000005
-longitude: 10.1848687
-postcode: "21031"
+latitude: 53.6064311
+longitude: 9.9811343
+postcode: "22453"
 city: Hamburg
-street: "Weberade"
-housenumber: 21-23
+street: "Borsteler Chaussee"
+housenumber: 86
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/lohbruegge.html"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

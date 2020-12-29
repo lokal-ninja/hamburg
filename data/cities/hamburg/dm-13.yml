@@ -1,12 +1,12 @@
-id: 445461503
-type: way
+id: 8238402321
+type: node
 shop: Drogerie
-latitude: 53.571257
-longitude: 10.0609275
-postcode: "22041"
+latitude: 53.563374100000004
+longitude: 9.9440187
+postcode: "22769"
 city: Hamburg
-street: "Wandsbeker Marktstraße"
-housenumber: 1
+street: "Stresemannstraße"
+housenumber: 213
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
 website: ""

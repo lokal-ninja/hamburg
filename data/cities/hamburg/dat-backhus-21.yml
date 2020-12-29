@@ -1,12 +1,12 @@
-id: 4155915042
+id: 5131084028
 type: node
 shop: Bäckerei
-latitude: 53.456557000000004
-longitude: 9.987003600000001
-postcode: "21079"
+latitude: 53.541865900000005
+longitude: 10.1061244
+postcode: "22111"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 76755773"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dat-backhus.de/"
+street: "Billstedter Platz"
+housenumber: 42c
+phone: ""
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: ""

@@ -1,12 +1,12 @@
-id: 79311663
-type: way
+id: 7798832962
+type: node
 shop: Drogerie
-latitude: 53.5796633
-longitude: 9.9453669
-postcode: "20257"
+latitude: 53.581886700000005
+longitude: 10.015123
+postcode: "22303"
 city: Hamburg
-street: "Müggenkampstraße"
-housenumber: 4
+street: "Gertigstraße"
+housenumber: 24
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:30"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

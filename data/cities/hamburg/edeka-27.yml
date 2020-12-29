@@ -1,12 +1,12 @@
-id: 241158220
+id: 155167738
 type: way
 shop: Supermarkt
-latitude: 53.5980465
-longitude: 10.066787900000001
-postcode: "22177"
+latitude: 53.5764074
+longitude: 9.8218899
+postcode: "22589"
 city: Hamburg
-street: "Bramfelder Chaussee"
-housenumber: 82-84
-phone: "+49 40 69702386"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.edeka-struve.de/filialen/e_center_bramfeld.php"
+street: "Sülldorfer Landstraße"
+housenumber: 3
+phone: ""
+opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-14:00; PH off"
+website: ""

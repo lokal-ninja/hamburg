@@ -1,12 +1,12 @@
-id: 7393156689
+id: 6321524796
 type: node
 shop: Supermarkt
-latitude: 53.578987000000005
-longitude: 10.128826
-postcode: "22043"
+latitude: 53.5846621
+longitude: 10.143598800000001
+postcode: "22045"
 city: Hamburg
-street: "Jenfelder Allee"
-housenumber: 70
+street: "Berliner Platz"
+housenumber: 21
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Sa 08:00-21:00; PH off"
 website: ""

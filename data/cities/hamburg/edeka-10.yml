@@ -1,12 +1,12 @@
-id: 553103996
+id: 475040822
 type: node
 shop: Supermarkt
-latitude: 53.5481885
-longitude: 9.9890077
-postcode: "20457"
+latitude: 53.489311900000004
+longitude: 10.157577900000001
+postcode: "21035"
 city: Hamburg
-street: "Großer Burstah"
-housenumber: 31
-phone: "+49 40 364737"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:30-16:00; PH off"
-website: "https://edeka-struve.de/de/Marktdetailseite/Schlemmer-Markt-Struve-am-Grossen-Burstah-2"
+street: "Fleetplatz"
+housenumber: 2-4
+phone: ""
+opening_hours: "Mo-Sa 07:00-21:00; PH off"
+website: ""

@@ -1,12 +1,12 @@
-id: 22762263
-type: way
+id: 7503730790
+type: node
 shop: Supermarkt
-latitude: 53.5839481
-longitude: 9.872618600000001
-postcode: "22549"
+latitude: 53.5885164
+longitude: 9.9223434
+postcode: "22525"
 city: Hamburg
-street: "Kressenweg"
-housenumber: 24
+street: "Randstraße"
+housenumber: 77
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-21:00; PH off"
 website: ""

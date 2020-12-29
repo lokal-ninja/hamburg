@@ -1,12 +1,12 @@
-id: 253659936
+id: 253378795
 type: node
 shop: Supermarkt
-latitude: 53.581313800000004
-longitude: 10.0637257
-postcode: "22049"
+latitude: 53.5813008
+longitude: 10.1034035
+postcode: "22047"
 city: Hamburg
-street: "Straßburger Straße"
-housenumber: 34
-phone: "+49 40 685924"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "http://mein.edeka.de/eh/de/nord/1602/index.jsp"
+street: "Ölmühlenweg"
+housenumber: 4
+phone: ""
+opening_hours: "Mo-Sa 07:00-21:00; PH off"
+website: ""

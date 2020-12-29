@@ -1,12 +1,12 @@
-id: 258329459
+id: 253659936
 type: node
 shop: Supermarkt
-latitude: 53.5703703
-longitude: 10.063340100000001
-postcode: "22041"
+latitude: 53.581313800000004
+longitude: 10.0637257
+postcode: "22049"
 city: Hamburg
-street: "Knutzenweg"
-housenumber: 22
-phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; PH off"
-website: ""
+street: "Straßburger Straße"
+housenumber: 34
+phone: "+49 40 685924"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "http://mein.edeka.de/eh/de/nord/1602/index.jsp"

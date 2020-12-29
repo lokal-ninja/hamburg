@@ -1,12 +1,12 @@
-id: 446849039
+id: 446175620
 type: way
 shop: Supermarkt
-latitude: 53.5883126
-longitude: 9.8513284
-postcode: "22549"
+latitude: 53.5711494
+longitude: 10.0609759
+postcode: "22041"
 city: Hamburg
-street: "Kroonhorst"
+street: "Wandsbeker Marktstraße"
 housenumber: 1
-phone: "+49 40 21988238"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+phone: ""
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
+website: ""

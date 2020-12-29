@@ -1,12 +1,12 @@
-id: 5131084028
-type: node
+id: 49923607
+type: way
 shop: Bäckerei
-latitude: 53.541865900000005
-longitude: 10.1061244
-postcode: "22111"
+latitude: 53.6531603
+longitude: 10.1133363
+postcode: "22393"
 city: Hamburg
-street: "Billstedter Platz"
-housenumber: 42c
+street: "Saseler Markt"
+housenumber: 13
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: ""
 website: ""

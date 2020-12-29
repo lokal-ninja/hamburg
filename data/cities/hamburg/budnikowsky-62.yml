@@ -1,12 +1,12 @@
-id: 4519240504
+id: 4456763868
 type: node
 shop: Drogerie
-latitude: 53.59161460000001
-longitude: 10.0356582
-postcode: "22303"
+latitude: 53.600555500000006
+longitude: 10.137696100000001
+postcode: "22147"
 city: Hamburg
-street: "Alter Güterbahnhof"
-housenumber: 2
-phone: ""
-opening_hours: "Mo-Sa 08:00-20:30"
-website: "https://www.budni.de/filialen/22303-alter-gueterbahnhof-2/"
+street: "Scharbeutzer Straße"
+housenumber: 102
+phone: "+49 40 80603030"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: "https://www.budni.de/filialen/22147-scharbeutzer-strasse-102-a-c/"

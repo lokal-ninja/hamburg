@@ -1,12 +1,12 @@
-id: 59995600
-type: way
+id: 7745531183
+type: node
 shop: Drogerie
-latitude: 53.621942700000005
-longitude: 10.1645451
-postcode: "22145"
+latitude: 53.551432000000005
+longitude: 9.93877
+postcode: "22767"
 city: Hamburg
-street: "Meiendorfer Straße"
-housenumber: 89
+street: "Neue Große Bergstraße"
+housenumber: 18
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.budni.de/filialen/22145-meiendorfer-str.-89/"
+opening_hours: "Mo-Sa 08:00-20:30"
+website: ""

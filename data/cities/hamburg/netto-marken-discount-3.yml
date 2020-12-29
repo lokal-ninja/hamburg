@@ -1,12 +1,12 @@
-id: 6125050111
-type: node
+id: 30143273
+type: way
 shop: Supermarkt
-latitude: 53.6500488
-longitude: 10.0122236
-postcode: "22415"
+latitude: 53.647429200000005
+longitude: 10.1614824
+postcode: "22359"
 city: Hamburg
-street: "Langenhorner Markt"
-housenumber: 11-13
+street: "Groten Hoff"
+housenumber: 21
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: ""
+website: ""
