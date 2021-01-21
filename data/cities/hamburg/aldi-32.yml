@@ -1,12 +1,11 @@
-id: 7393156689
-type: node
-shop: Supermarkt
-latitude: 53.578987000000005
-longitude: 10.128826
-postcode: "22043"
+id: 22762263
+type: way
+latitude: 53.5839481
+longitude: 9.872618600000001
+postcode: "22549"
 city: Hamburg
-street: "Jenfelder Allee"
-housenumber: 70
+street: "Kressenweg"
+housenumber: 24
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

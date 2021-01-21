@@ -1,12 +1,11 @@
-id: 50055154
+id: 52879273
 type: way
-shop: Supermarkt
-latitude: 53.582666
-longitude: 10.115692600000001
-postcode: "22045"
+latitude: 53.5431825
+longitude: 10.101474300000001
+postcode: "22111"
 city: Hamburg
-street: "Tonndorfer Hauptstraße"
-housenumber: 28
+street: "Schiffbeker Weg"
+housenumber: 27
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/tonndorf/tonndorfer-hauptstrasse-28.html"
+opening_hours: "Mo-Sa 08:00-21:00"
+website: ""

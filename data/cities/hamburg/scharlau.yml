@@ -1,12 +1,11 @@
-id: 110807957
-type: way
-shop: Kopieren
-latitude: 53.5750614
-longitude: 10.021736800000001
-postcode: "22085"
+id: 3897260648
+type: node
+latitude: 53.6551187
+longitude: 10.095180200000001
+postcode: "22391"
 city: Hamburg
-street: "Winterhuder Weg"
-housenumber: 88
-phone: "+49 40 2272410"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00"
-website: "https://www.scharlau.de/cms/standorte/"
+street: "Saseler Damm"
+housenumber: 39a
+phone: "+49 40 61163960"
+opening_hours: "Mo-Fr 08:00-17:00"
+website: "https://scharlau.de/"

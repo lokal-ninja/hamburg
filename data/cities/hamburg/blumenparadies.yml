@@ -1,6 +1,5 @@
 id: 7448935570
 type: node
-shop: Blumen
 latitude: 53.597676500000006
 longitude: 10.101942300000001
 postcode: "22159"
@@ -8,5 +7,5 @@ city: Hamburg
 street: "Traberweg"
 housenumber: 2-4
 phone: "+49 40 64509041"
-opening_hours: "Mo-Sa 08:00–19:00 Su,PH 09:00–15:00"
+opening_hours: "Mo-Sa 08:00-19:00; Su,PH 09:00-15:00"
 website: ""

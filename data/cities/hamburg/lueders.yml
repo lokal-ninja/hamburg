@@ -1,6 +1,5 @@
 id: 393212789
 type: node
-shop: Bücher
 latitude: 53.576624200000005
 longitude: 9.9515335
 postcode: "20255"
@@ -8,5 +7,5 @@ city: Hamburg
 street: "Heußweg"
 housenumber: 33
 phone: "+49-40-405727"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-19:00"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
 website: "https://www.buchhandlunglueders.de/"

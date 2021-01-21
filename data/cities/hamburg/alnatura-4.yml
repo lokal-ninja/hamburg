@@ -1,12 +1,11 @@
-id: 6577264718
+id: 4963464189
 type: node
-shop: Supermarkt
-latitude: 53.607181700000005
-longitude: 9.9055776
-postcode: "22523"
+latitude: 53.541637400000006
+longitude: 9.998182
+postcode: "20457"
 city: Hamburg
-street: "Alte Elbgaustraße"
-housenumber: 1
+street: "Überseeboulevard"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
 website: ""

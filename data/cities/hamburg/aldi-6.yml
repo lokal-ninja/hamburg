@@ -1,12 +1,11 @@
-id: 276951054
+id: 282860692
 type: node
-shop: Supermarkt
-latitude: 53.551163300000006
-longitude: 10.0749052
-postcode: "22111"
+latitude: 53.5843464
+longitude: 10.0177036
+postcode: "22303"
 city: Hamburg
-street: "Horner Landstraße"
-housenumber: 110
+street: "Barmbeker Straße"
+housenumber: 17-25
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: "Mo-Sa 08:00-21:00"
 website: ""

@@ -1,12 +1,11 @@
-id: 48358213
+id: 50055154
 type: way
-shop: Supermarkt
-latitude: 53.6078897
-longitude: 10.0558435
-postcode: "22309"
+latitude: 53.582666
+longitude: 10.115692600000001
+postcode: "22045"
 city: Hamburg
-street: "Steilshooper Straße"
-housenumber: 317
+street: "Tonndorfer Hauptstraße"
+housenumber: 28
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-21:00; PH off"
+website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/tonndorf/tonndorfer-hauptstrasse-28.html"

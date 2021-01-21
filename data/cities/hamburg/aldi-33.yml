@@ -1,12 +1,11 @@
-id: 7503730790
-type: node
-shop: Supermarkt
-latitude: 53.5885164
-longitude: 9.9223434
-postcode: "22525"
+id: 23559864
+type: way
+latitude: 53.5197298
+longitude: 9.9850831
+postcode: ""
 city: Hamburg
-street: "Randstraße"
-housenumber: 77
+street: "Ernst-August-Stieg"
+housenumber: 7
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: "Mo-Sa 07:00-21:00; PH off"
 website: ""

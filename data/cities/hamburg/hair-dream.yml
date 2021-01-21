@@ -1,6 +1,5 @@
 id: 735861760
 type: node
-shop: Friseur
 latitude: 53.6060875
 longitude: 10.039079300000001
 postcode: "22309"
@@ -8,5 +7,5 @@ city: Hamburg
 street: "Fuhlsbüttler Straße"
 housenumber: 419
 phone: "+49 40 63972719"
-opening_hours: ""
+opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
 website: "http://www.hairdream-hamburg.de/"

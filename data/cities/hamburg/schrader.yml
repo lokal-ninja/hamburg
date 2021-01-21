@@ -1,6 +1,5 @@
 id: 1391523621
 type: node
-shop: Eisenwaren
 latitude: 53.5690067
 longitude: 9.9799436
 postcode: "20146"
@@ -8,5 +7,5 @@ city: Hamburg
 street: "Grindelallee"
 housenumber: 136
 phone: ""
-opening_hours: "Mo-Fr: 11:00-18:00; Sa 11:00-14:00"
+opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-14:00"
 website: ""

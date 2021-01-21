@@ -1,12 +1,11 @@
-id: 282860692
+id: 288249885
 type: node
-shop: Supermarkt
-latitude: 53.5843464
-longitude: 10.0177036
-postcode: "22303"
+latitude: 53.612410600000004
+longitude: 10.024801
+postcode: "22297"
 city: Hamburg
-street: "Barmbeker Straße"
-housenumber: 17-25
+street: "Alsterdorfer Markt"
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 08:00-21:00; PH off"
 website: ""

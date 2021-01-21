@@ -1,12 +1,11 @@
-id: 199767534
+id: 244145013
 type: way
-shop: Supermarkt
-latitude: 53.589303400000006
-longitude: 10.0511181
-postcode: "22305"
+latitude: 53.6064311
+longitude: 9.9811343
+postcode: "22453"
 city: Hamburg
-street: "Bramfelder Straße"
-housenumber: 103
+street: "Borsteler Chaussee"
+housenumber: 86
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/barmbek-nord/bramfelder-strasse-103.html"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

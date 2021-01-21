@@ -1,6 +1,5 @@
 id: 7849184587
 type: node
-shop: Friseur
 latitude: 53.560082400000006
 longitude: 10.029183
 postcode: "22087"
@@ -8,5 +7,5 @@ city: Hamburg
 street: "Lübecker Straße"
 housenumber: 70
 phone: "+49 40 254 3009"
-opening_hours: ""
+opening_hours: "Mo 13:00-19:00; Tu-Fr 09:30-19:00; Sa 09:00-16:00"
 website: ""

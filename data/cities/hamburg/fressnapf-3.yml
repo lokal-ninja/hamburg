@@ -1,12 +1,11 @@
-id: 4142824834
-type: node
-shop: Tiere
-latitude: 53.599026
-longitude: 9.915663200000001
-postcode: "22525"
+id: 48989382
+type: way
+latitude: 53.6047414
+longitude: 10.1155261
+postcode: "22159"
 city: Hamburg
-street: "Kieler Straße"
-housenumber: 573
+street: "An der Walddörferbahn"
+housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; PH off"
 website: ""

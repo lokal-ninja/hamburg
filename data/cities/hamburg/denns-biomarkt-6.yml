@@ -1,12 +1,11 @@
-id: 35063809
-type: way
-shop: Supermarkt
-latitude: 53.565917400000004
-longitude: 9.976865400000001
-postcode: "20146"
+id: 8285098570
+type: node
+latitude: 53.599773400000004
+longitude: 9.9154727
+postcode: "22525"
 city: Hamburg
-street: "Rentzelstraße"
-housenumber: 
-phone: "+49 40 41308888"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: ""
+street: "Kieler Straße"
+housenumber: 577d
+phone: "+49 40 54709858"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.denns-biomarkt.de/hamburg-kieler-str-561-573-b/marktseite/"

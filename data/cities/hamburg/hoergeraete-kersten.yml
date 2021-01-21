@@ -1,6 +1,5 @@
 id: 7889918520
 type: node
-shop: Hörgeräte
 latitude: 53.515924500000004
 longitude: 9.9868287
 postcode: "21107"
@@ -8,5 +7,5 @@ city: Hamburg
 street: "Fährstraße"
 housenumber: 69
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00 / 14:00-18:00"
+opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
 website: ""

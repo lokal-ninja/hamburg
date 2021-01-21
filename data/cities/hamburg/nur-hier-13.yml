@@ -1,12 +1,11 @@
-id: 2035393295
+id: 2035479569
 type: node
-shop: Bäckerei
-latitude: 53.55332730000001
-longitude: 9.9888606
-postcode: "20354"
+latitude: 53.549889400000005
+longitude: 9.993180800000001
+postcode: "20095"
 city: Hamburg
-street: "Große Bleichen"
-housenumber: 36
-phone: "+49 40 340049"
-opening_hours: "Mo-Sa 06:00-20:00; PH off"
+street: "Rathausmarkt"
+housenumber: 19
+phone: "+49 40 32025797"
+opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-18:00; PH closed"
 website: ""

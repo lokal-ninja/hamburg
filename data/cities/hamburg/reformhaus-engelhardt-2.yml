@@ -1,12 +1,11 @@
-id: 2035393313
+id: 2224388157
 type: node
-shop: Supermarkt
-latitude: 53.5529809
-longitude: 9.989182300000001
-postcode: "20354"
+latitude: 53.5747129
+longitude: 10.0341924
+postcode: "22083"
 city: Hamburg
-street: "Große Bleichen"
-housenumber: 36
-phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
+street: "Hamburger Straße"
+housenumber: 47-49
+phone: "+49 40 2277913"
+opening_hours: "Mo-Fr 09:30-20:00; Sa 10:00-20:00"
 website: ""

@@ -1,12 +1,11 @@
-id: 5245811661
-type: node
-shop: Möbel
-latitude: 53.486753400000005
-longitude: 10.206268900000001
-postcode: "21029"
+id: 73107130
+type: way
+latitude: 53.511684900000006
+longitude: 10.0878995
+postcode: "22113"
 city: Hamburg
-street: "Stuhlrohrstraße"
-housenumber: 10
+street: "Andreas-Meyer-Straße"
+housenumber: 62
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 09:30-18:00;PH off"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"
 website: ""

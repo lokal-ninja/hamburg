@@ -1,6 +1,5 @@
 id: 5661002826
 type: node
-shop: Wäscherei
 latitude: 53.5804424
 longitude: 10.0380921
 postcode: "22083"
@@ -8,5 +7,5 @@ city: Hamburg
 street: "Weidestraße"
 housenumber: 20a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-18:00"
 website: "http://www.waescherei-ross.de/"

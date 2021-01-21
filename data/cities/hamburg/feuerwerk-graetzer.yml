@@ -1,6 +1,5 @@
 id: 3914415524
 type: node
-shop: Eisenwaren
 latitude: 53.445612100000005
 longitude: 9.9564035
 postcode: "21077"
@@ -8,5 +7,5 @@ city: Hamburg
 street: "Bremer Straße"
 housenumber: 243
 phone: ""
-opening_hours: "Dec 29-Dec 31"
+opening_hours: "Dec 29-31"
 website: "http://www.graetzer-einzelhandel.de/"

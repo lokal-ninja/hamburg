@@ -1,12 +1,11 @@
-id: 34329634
-type: way
-shop: Tiere
-latitude: 53.576222
-longitude: 9.937242600000001
-postcode: "22525"
+id: 7472046341
+type: node
+latitude: 53.6370415
+longitude: 9.9106982
+postcode: "22457"
 city: Hamburg
-street: "Kieler Straße"
-housenumber: 185
+street: "Holsteiner Chaussee"
+housenumber: 303
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
 website: ""

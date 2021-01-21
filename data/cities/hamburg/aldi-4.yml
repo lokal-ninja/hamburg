@@ -1,12 +1,11 @@
-id: 268808768
+id: 269056222
 type: node
-shop: Supermarkt
-latitude: 53.5477452
-longitude: 9.9658498
-postcode: "20359"
+latitude: 53.5745547
+longitude: 10.098863000000001
+postcode: "22043"
 city: Hamburg
-street: "Zirkusweg"
-housenumber: 4-6
+street: "Gustav-Adolf-Straße"
+housenumber: 92
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"
 website: ""

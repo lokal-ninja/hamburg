@@ -1,6 +1,5 @@
 id: 5661094823
 type: node
-shop: Friseur
 latitude: 53.580445600000004
 longitude: 10.037862800000001
 postcode: "22083"
@@ -8,5 +7,5 @@ city: Hamburg
 street: "Weidestraße"
 housenumber: 22
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-18:30"
 website: "https://romeos-barbershop.de/"

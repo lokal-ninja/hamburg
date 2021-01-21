@@ -1,6 +1,5 @@
 id: 6369677238
 type: node
-shop: Bäckerei
 latitude: 53.573683800000005
 longitude: 9.9613899
 postcode: "20259"
@@ -8,5 +7,5 @@ city: Hamburg
 street: "Osterstraße"
 housenumber: 9
 phone: "+49 40 82313630"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 08:00-16:00"
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 07:30-16:00"
 website: "https://www.jb.de/"
