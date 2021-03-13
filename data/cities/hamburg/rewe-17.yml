@@ -1,11 +1,11 @@
-id: 1123244429
+id: 1539751231
 type: node
-latitude: 53.6536326
-longitude: 10.0900797
-postcode: "22391"
+latitude: 53.6017671
+longitude: 10.040567000000001
+postcode: "22309"
 city: Hamburg
-street: "Heegbarg"
-housenumber: 31
+street: "Fuhlsbüttler Straße"
+housenumber: 387
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; PH,Su off"
-website: ""
+opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30; PH off"
+website: "https://www.rewe.de/marktseite/rewe-markt-hamburg-fuhlsb%C3%BCttler-stra%C3%9Fe-387/"

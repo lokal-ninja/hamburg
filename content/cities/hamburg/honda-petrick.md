@@ -1,5 +1,5 @@
 ---
 title: "Honda Petrick"
 url: /hamburg/honda-petrick/
-shop: Autohaus
+shop: Motorrad
 ---
