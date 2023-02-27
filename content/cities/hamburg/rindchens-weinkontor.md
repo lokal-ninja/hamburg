@@ -1,5 +1,5 @@
 ---
-title: "Rindchen's  Weinkontor"
+title: "Rindchen's Weinkontor"
 url: /hamburg/rindchens-weinkontor/
 shop: Wein
 ---
