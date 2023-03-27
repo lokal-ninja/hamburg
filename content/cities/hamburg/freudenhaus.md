@@ -1,5 +1,5 @@
 ---
-title: "Freudenhaus"
+title: "Freudenhaus!"
 url: /hamburg/freudenhaus/
 shop: Kleidung
 ---
