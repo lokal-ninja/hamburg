@@ -1,6 +1,6 @@
 ---
 title: Hamburg
 url: /hamburg/
-latitude: 53.546
-longitude: 9.977
+latitude: 53.559
+longitude: 9.929
 ---

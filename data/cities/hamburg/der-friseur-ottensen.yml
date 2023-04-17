@@ -7,5 +7,5 @@ city: Hamburg
 street: "Planckstraße"
 housenumber: 21
 phone: "+49 40 3901869"
-opening_hours: "Tu-Fr 08:00-19:00;Sa 08:00-15:00"
+opening_hours: "We 08:00-19:00; Sa 08:00-15:00; Tu,Th,Fr 09:00-18:00"
 website: ""
