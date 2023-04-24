@@ -1,5 +1,5 @@
 ---
 title: "Wolsdorff Tobacco"
 url: /hamburg/wolsdorff-tobacco/
-shop: Zeitungen
+shop: Kiosk
 ---
