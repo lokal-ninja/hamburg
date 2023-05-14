@@ -7,5 +7,5 @@ city: Hamburg
 street: "Kattrepelsbrücke"
 housenumber: 1
 phone: "+49 40 326602"
-opening_hours: "Mo-Do 9:00-18:00, Fr 9:00-16:00, Sa 11:00-16:00, So geschlossen"
+opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-16:00; Sa 11:00-16:00; Su off"
 website: "https://teezwanck.de/"

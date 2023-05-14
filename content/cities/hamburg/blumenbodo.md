@@ -1,5 +1,5 @@
 ---
-title: ".blumenbodo"
+title: "Blumenbodo"
 url: /hamburg/blumenbodo/
 shop: Blumen
 ---
