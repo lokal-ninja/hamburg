@@ -1,5 +1,5 @@
 ---
-title: "TEDi"
+title: "Tedi"
 url: /hamburg/tedi/
 shop: Kramladen
 ---

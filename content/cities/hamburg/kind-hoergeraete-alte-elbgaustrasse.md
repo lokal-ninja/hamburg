@@ -1,5 +1,5 @@
 ---
-title: "KIND Hörgeräte"
+title: "Kind Hörgeräte"
 url: /hamburg/kind-hoergeraete/
 shop: Hörgeräte
 ---

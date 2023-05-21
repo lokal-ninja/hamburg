@@ -1,5 +1,5 @@
 ---
-title: "McTREK"
+title: "McTrek"
 url: /hamburg/mctrek/
 shop: Outdoor
 ---
