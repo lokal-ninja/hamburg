@@ -1,5 +1,5 @@
 ---
 title: "Tiger"
 url: /hamburg/tiger/
-shop: Andenken
+shop: Haushaltsartikel
 ---

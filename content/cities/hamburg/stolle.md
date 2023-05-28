@@ -1,5 +1,5 @@
 ---
-title: "STOLLE"
+title: "Stolle"
 url: /hamburg/stolle/
 shop: Sanitätshaus
 ---
