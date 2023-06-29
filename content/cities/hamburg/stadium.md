@@ -1,5 +1,5 @@
 ---
 title: "Stadium"
 url: /hamburg/stadium/
-shop: Kleidung
+shop: Sport
 ---
