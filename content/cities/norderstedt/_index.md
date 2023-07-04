@@ -1,6 +1,6 @@
 ---
 title: Norderstedt
 url: /norderstedt/
-latitude: 53.683
-longitude: 10.032
+latitude: 53.682
+longitude: 9.998
 ---
