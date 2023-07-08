@@ -1,11 +1,11 @@
-id: 867269873
-type: way
-latitude: 53.59912
-longitude: 9.91383
-postcode: "22525"
+id: 312715645
+type: node
+latitude: 53.59177
+longitude: 9.92848
+postcode: ""
 city: Hamburg
 street: "Kieler Straße"
-housenumber: 579
+housenumber: 415
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: "Mo-Sa 7:00-22:00"
 website: ""
