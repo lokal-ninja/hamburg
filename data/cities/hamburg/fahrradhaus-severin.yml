@@ -6,6 +6,6 @@ postcode: "22391"
 city: Hamburg
 street: "Saseler Chaussee"
 housenumber: 61
-phone: "+49 40 6406064"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00; Mo off"
-website: "http://www.fahrrad-cohrt.de/"
+phone: ""
+opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00; Su,Mo off"
+website: ""
