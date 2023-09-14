@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
-url: /hamburg/swarovski/
+url: /hamburg/swarovski-heegbarg/
 shop: Schmuck
 ---

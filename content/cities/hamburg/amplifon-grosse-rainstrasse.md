@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
-url: /hamburg/amplifon/
+url: /hamburg/amplifon-grosse-rainstrasse/
 shop: Hörgeräte
 ---

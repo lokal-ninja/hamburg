@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /hamburg/hunkemoeller/
+url: /hamburg/hunkemoeller-hannoversche-strasse/
 shop: Kleidung
 ---

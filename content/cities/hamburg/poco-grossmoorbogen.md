@@ -1,5 +1,5 @@
 ---
 title: "POCO"
-url: /hamburg/poco/
+url: /hamburg/poco-grossmoorbogen/
 shop: Möbel
 ---

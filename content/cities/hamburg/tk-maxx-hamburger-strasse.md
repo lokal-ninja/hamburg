@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
-url: /hamburg/tk-maxx/
+url: /hamburg/tk-maxx-hamburger-strasse/
 shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /hamburg/vodafone/
+url: /hamburg/vodafone-bramfelder-chaussee/
 shop: Handy
 ---

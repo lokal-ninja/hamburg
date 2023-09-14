@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /hamburg/thalia/
+url: /hamburg/thalia-quarree/
 shop: Bücher
 ---

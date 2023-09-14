@@ -1,5 +1,5 @@
 ---
 title: "REWE Getränkemarkt"
-url: /hamburg/rewe-getraenkemarkt/
+url: /hamburg/rewe-getraenkemarkt-poppenbuetteler-chaussee/
 shop: Getränke
 ---

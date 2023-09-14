@@ -1,5 +1,5 @@
 ---
 title: "WaxCat"
-url: /hamburg/waxcat/
+url: /hamburg/waxcat-osterstrasse/
 shop: Kosmetik
 ---

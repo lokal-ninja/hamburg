@@ -1,5 +1,5 @@
 ---
 title: "Dello"
-url: /hamburg/dello/
+url: /hamburg/dello-august-krogmann-strasse/
 shop: Autohaus
 ---

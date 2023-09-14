@@ -1,5 +1,5 @@
 ---
 title: "PitStop"
-url: /hamburg/pitstop/
+url: /hamburg/pitstop-stader-strasse/
 shop: Autowerkstatt
 ---

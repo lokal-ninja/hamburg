@@ -1,5 +1,5 @@
 ---
 title: "Marks"
-url: /hamburg/marks/
+url: /hamburg/marks-am-brink/
 shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hillert"
-url: /hamburg/hillert/
+url: /hamburg/hillert-cuxhavener-strasse/
 shop: Bäckerei
 ---

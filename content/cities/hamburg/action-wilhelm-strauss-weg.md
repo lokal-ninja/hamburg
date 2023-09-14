@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /hamburg/action/
+url: /hamburg/action-wilhelm-strauss-weg/
 shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ditsch"
-url: /hamburg/ditsch/
+url: /hamburg/ditsch-hannoversche-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wempe"
-url: /hamburg/wempe/
+url: /hamburg/wempe-moenckebergstrasse/
 shop: Schmuck
 ---

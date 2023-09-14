@@ -1,5 +1,5 @@
 ---
 title: "Heymann"
-url: /hamburg/heymann/
+url: /hamburg/heymann-schweriner-strasse/
 shop: Bücher
 ---

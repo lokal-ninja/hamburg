@@ -1,5 +1,5 @@
 ---
 title: "Kiosk"
-url: /hamburg/kiosk/
+url: /hamburg/kiosk-falkensteiner-ufer/
 shop: Kiosk
 ---

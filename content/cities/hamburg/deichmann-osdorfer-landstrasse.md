@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /hamburg/deichmann/
+url: /hamburg/deichmann-osdorfer-landstrasse/
 shop: Schuhe
 ---

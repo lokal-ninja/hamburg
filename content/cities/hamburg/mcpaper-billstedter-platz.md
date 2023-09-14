@@ -1,5 +1,5 @@
 ---
 title: "McPaper"
-url: /hamburg/mcpaper/
+url: /hamburg/mcpaper-billstedter-platz/
 shop: Schreibwaren
 ---

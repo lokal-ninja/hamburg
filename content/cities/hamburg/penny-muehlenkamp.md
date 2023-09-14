@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /hamburg/penny/
+url: /hamburg/penny-muehlenkamp/
 shop: Supermarkt
 ---

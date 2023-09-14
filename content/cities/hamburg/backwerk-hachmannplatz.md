@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /hamburg/backwerk/
+url: /hamburg/backwerk-hachmannplatz/
 shop: Bäckerei
 ---

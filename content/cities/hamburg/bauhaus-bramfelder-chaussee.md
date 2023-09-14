@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /hamburg/bauhaus/
+url: /hamburg/bauhaus-bramfelder-chaussee/
 shop: Baumarkt
 ---

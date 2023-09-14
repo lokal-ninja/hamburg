@@ -1,5 +1,5 @@
 ---
 title: "Reiseland"
-url: /hamburg/reiseland/
+url: /hamburg/reiseland-hannoversche-strasse/
 shop: Reisebüro
 ---

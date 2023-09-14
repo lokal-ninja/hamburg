@@ -1,5 +1,5 @@
 ---
 title: "Lina Automobile"
-url: /hamburg/lina-automobile/
+url: /hamburg/lina-automobile-werner-otto-strasse/
 shop: Autohaus
 ---

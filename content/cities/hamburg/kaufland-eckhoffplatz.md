@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /hamburg/kaufland/
+url: /hamburg/kaufland-eckhoffplatz/
 shop: Supermarkt
 ---

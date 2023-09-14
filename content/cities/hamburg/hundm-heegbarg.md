@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /hamburg/hundm/
+url: /hamburg/hundm-heegbarg/
 shop: Kleidung
 ---

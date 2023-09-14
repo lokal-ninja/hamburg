@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /hamburg/dm/
+url: /hamburg/dm-hamburger-strasse/
 shop: Drogerie
 ---

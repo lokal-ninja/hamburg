@@ -1,5 +1,5 @@
 ---
 title: "Springer"
-url: /hamburg/springer/
+url: /hamburg/springer-alte-holstenstrasse/
 shop: Bäckerei
 ---

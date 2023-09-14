@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /hamburg/mueller/
+url: /hamburg/mueller-ottenser-hauptstrasse/
 shop: Drogerie
 ---

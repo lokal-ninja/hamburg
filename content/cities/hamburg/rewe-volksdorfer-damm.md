@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /hamburg/rewe/
+url: /hamburg/rewe-volksdorfer-damm/
 shop: Supermarkt
 ---

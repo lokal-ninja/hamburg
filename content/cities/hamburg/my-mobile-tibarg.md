@@ -1,5 +1,5 @@
 ---
 title: "My-Mobile"
-url: /hamburg/my-mobile/
+url: /hamburg/my-mobile-tibarg/
 shop: Handy
 ---

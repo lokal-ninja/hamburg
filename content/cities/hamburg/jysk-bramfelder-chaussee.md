@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /hamburg/jysk/
+url: /hamburg/jysk-bramfelder-chaussee/
 shop: Möbel
 ---

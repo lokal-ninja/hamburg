@@ -1,5 +1,5 @@
 ---
 title: "Kolls"
-url: /hamburg/kolls/
+url: /hamburg/kolls-stresemannallee/
 shop: Bäckerei
 ---

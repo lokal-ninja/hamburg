@@ -1,5 +1,5 @@
 ---
 title: "Stilbruch"
-url: /hamburg/stilbruch/
+url: /hamburg/stilbruch-helbingstrasse/
 shop: Möbel
 ---

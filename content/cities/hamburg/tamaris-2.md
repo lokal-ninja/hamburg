@@ -1,5 +1,5 @@
 ---
 title: "Tamaris"
-url: /hamburg/tamaris/
+url: /hamburg/tamaris-2/
 shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /hamburg/woolworth/
+url: /hamburg/woolworth-bornheide/
 shop: Warenhaus
 ---

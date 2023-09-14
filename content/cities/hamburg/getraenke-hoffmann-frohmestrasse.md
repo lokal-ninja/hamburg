@@ -1,5 +1,5 @@
 ---
 title: "Getränke Hoffmann"
-url: /hamburg/getraenke-hoffmann/
+url: /hamburg/getraenke-hoffmann-frohmestrasse/
 shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OBI"
-url: /hamburg/obi/
+url: /hamburg/obi-nedderfeld/
 shop: Baumarkt
 ---

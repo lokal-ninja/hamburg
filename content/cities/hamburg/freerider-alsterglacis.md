@@ -1,5 +1,5 @@
 ---
 title: "Freerider"
-url: /hamburg/freerider/
+url: /hamburg/freerider-alsterglacis/
 shop: Sport
 ---

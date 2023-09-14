@@ -1,5 +1,5 @@
 ---
 title: "Budni"
-url: /hamburg/budni/
+url: /hamburg/budni-bellealliancestrasse/
 shop: Drogerie
 ---

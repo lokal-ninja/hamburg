@@ -1,5 +1,5 @@
 ---
 title: "Daube"
-url: /hamburg/daube/
+url: /hamburg/daube-hamburger-strasse/
 shop: Bäckerei
 ---

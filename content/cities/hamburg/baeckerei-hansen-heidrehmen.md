@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Hansen"
-url: /hamburg/baeckerei-hansen/
+url: /hamburg/baeckerei-hansen-heidrehmen/
 shop: Bäckerei
 ---

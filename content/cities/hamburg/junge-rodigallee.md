@@ -1,5 +1,5 @@
 ---
 title: "Junge"
-url: /hamburg/junge/
+url: /hamburg/junge-rodigallee/
 shop: Bäckerei
 ---

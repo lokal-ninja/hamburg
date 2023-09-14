@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /hamburg/jysk/
+url: /hamburg/jysk-hamburger-strasse/
 shop: Möbel
 ---

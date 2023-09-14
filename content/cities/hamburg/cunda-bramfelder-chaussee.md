@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /hamburg/cunda/
+url: /hamburg/cunda-bramfelder-chaussee/
 shop: Kleidung
 ---

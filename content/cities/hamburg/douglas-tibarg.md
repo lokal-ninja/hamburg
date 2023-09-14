@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /hamburg/douglas/
+url: /hamburg/douglas-tibarg/
 shop: Parfümerie
 ---

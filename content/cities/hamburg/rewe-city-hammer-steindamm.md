@@ -1,5 +1,5 @@
 ---
 title: "REWE City"
-url: /hamburg/rewe-city/
+url: /hamburg/rewe-city-hammer-steindamm/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Onur"
-url: /hamburg/onur/
+url: /hamburg/onur-schiffbeker-weg/
 shop: Supermarkt
 ---

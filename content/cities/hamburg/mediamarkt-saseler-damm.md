@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /hamburg/mediamarkt/
+url: /hamburg/mediamarkt-saseler-damm/
 shop: Elektronik
 ---

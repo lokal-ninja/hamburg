@@ -1,5 +1,5 @@
 ---
 title: "Orion"
-url: /hamburg/orion/
+url: /hamburg/orion-seeveplatz/
 shop: Erotik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /hamburg/bauhaus/
+url: /hamburg/bauhaus-rugenbarg/
 shop: Baumarkt
 ---

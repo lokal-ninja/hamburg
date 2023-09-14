@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /hamburg/rewe/
+url: /hamburg/rewe-tonndorfer-hauptstrasse/
 shop: Supermarkt
 ---

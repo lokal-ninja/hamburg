@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /hamburg/netto-marken-discount/
+url: /hamburg/netto-marken-discount-luedersring/
 shop: Supermarkt
 ---

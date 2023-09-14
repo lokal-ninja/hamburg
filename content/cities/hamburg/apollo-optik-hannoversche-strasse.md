@@ -1,5 +1,5 @@
 ---
 title: "Apollo Optik"
-url: /hamburg/apollo-optik/
+url: /hamburg/apollo-optik-hannoversche-strasse/
 shop: Optiker
 ---

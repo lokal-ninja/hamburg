@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /hamburg/aldi/
+url: /hamburg/aldi-bahrenfelder-kirchenweg/
 shop: Supermarkt
 ---

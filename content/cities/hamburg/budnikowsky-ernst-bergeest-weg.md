@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /hamburg/budnikowsky/
+url: /hamburg/budnikowsky-ernst-bergeest-weg/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pit Stop"
-url: /hamburg/pit-stop/
+url: /hamburg/pit-stop-saseler-chaussee/
 shop: Autowerkstatt
 ---

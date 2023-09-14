@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Michael"
-url: /hamburg/autohaus-michael/
+url: /hamburg/autohaus-michael-holstenhofweg/
 shop: Autohaus
 ---

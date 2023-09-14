@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /hamburg/rossmann/
+url: /hamburg/rossmann-bramfelder-chaussee/
 shop: Drogerie
 ---

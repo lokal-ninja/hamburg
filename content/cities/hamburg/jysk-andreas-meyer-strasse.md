@@ -1,5 +1,5 @@
 ---
 title: "Jysk"
-url: /hamburg/jysk/
+url: /hamburg/jysk-andreas-meyer-strasse/
 shop: Möbel
 ---

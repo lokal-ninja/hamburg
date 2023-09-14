@@ -1,5 +1,5 @@
 ---
 title: "Eco-Express"
-url: /hamburg/eco-express/
+url: /hamburg/eco-express-mundsburger-damm/
 shop: Wäscherei
 ---

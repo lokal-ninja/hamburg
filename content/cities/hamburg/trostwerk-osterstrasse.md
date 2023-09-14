@@ -1,5 +1,5 @@
 ---
 title: "Trostwerk"
-url: /hamburg/trostwerk/
+url: /hamburg/trostwerk-osterstrasse/
 shop: Bestattungen
 ---

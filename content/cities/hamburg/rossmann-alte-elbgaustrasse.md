@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /hamburg/rossmann/
+url: /hamburg/rossmann-alte-elbgaustrasse/
 shop: Drogerie
 ---

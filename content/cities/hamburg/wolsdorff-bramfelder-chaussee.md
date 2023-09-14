@@ -1,5 +1,5 @@
 ---
 title: "Wolsdorff"
-url: /hamburg/wolsdorff/
+url: /hamburg/wolsdorff-bramfelder-chaussee/
 shop: Tabak
 ---

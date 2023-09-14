@@ -1,5 +1,5 @@
 ---
 title: "AMC Krüll"
-url: /hamburg/amc-kruell/
+url: /hamburg/amc-kruell-ruhrstrasse/
 shop: Autohaus
 ---

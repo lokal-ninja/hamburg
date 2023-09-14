@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /hamburg/tedi/
+url: /hamburg/tedi-kieler-strasse/
 shop: Kramladen
 ---

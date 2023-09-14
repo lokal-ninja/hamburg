@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /hamburg/aldi-nord/
+url: /hamburg/aldi-nord-bramfelder-strasse/
 shop: Supermarkt
 ---

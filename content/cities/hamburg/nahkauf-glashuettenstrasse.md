@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /hamburg/nahkauf/
+url: /hamburg/nahkauf-glashuettenstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Horn"
-url: /hamburg/horn/
+url: /hamburg/horn-papenreye/
 shop: Bäckerei
 ---

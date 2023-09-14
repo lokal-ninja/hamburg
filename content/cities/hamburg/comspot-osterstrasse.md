@@ -1,5 +1,5 @@
 ---
 title: "Comspot"
-url: /hamburg/comspot/
+url: /hamburg/comspot-osterstrasse/
 shop: Elektronik
 ---

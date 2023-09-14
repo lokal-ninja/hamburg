@@ -1,5 +1,5 @@
 ---
 title: "Görtz"
-url: /hamburg/goertz/
+url: /hamburg/goertz-heegbarg/
 shop: Schuhe
 ---

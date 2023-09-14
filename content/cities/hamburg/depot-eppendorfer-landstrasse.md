@@ -1,5 +1,5 @@
 ---
 title: "Depot"
-url: /hamburg/depot/
+url: /hamburg/depot-eppendorfer-landstrasse/
 shop: Raumausstattung
 ---

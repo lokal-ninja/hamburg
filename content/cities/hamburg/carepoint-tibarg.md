@@ -1,5 +1,5 @@
 ---
 title: "Carepoint"
-url: /hamburg/carepoint/
+url: /hamburg/carepoint-tibarg/
 shop: Sanitätshaus
 ---

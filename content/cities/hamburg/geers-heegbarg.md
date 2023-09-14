@@ -1,5 +1,5 @@
 ---
 title: "GEERS"
-url: /hamburg/geers/
+url: /hamburg/geers-heegbarg/
 shop: Hörgeräte
 ---

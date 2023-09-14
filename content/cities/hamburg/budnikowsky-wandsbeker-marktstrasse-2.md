@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /hamburg/budnikowsky/
+url: /hamburg/budnikowsky-wandsbeker-marktstrasse-2/
 shop: Drogerie
 ---

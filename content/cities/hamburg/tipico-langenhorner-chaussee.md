@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /hamburg/tipico/
+url: /hamburg/tipico-langenhorner-chaussee/
 shop: Wettbüro
 ---

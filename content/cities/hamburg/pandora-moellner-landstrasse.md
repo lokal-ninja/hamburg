@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
-url: /hamburg/pandora/
+url: /hamburg/pandora-moellner-landstrasse/
 shop: Schmuck
 ---

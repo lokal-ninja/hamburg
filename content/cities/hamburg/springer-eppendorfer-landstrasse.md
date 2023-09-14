@@ -1,5 +1,5 @@
 ---
 title: "Springer"
-url: /hamburg/springer/
+url: /hamburg/springer-eppendorfer-landstrasse/
 shop: Bäckerei
 ---

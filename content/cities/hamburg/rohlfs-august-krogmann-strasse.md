@@ -1,5 +1,5 @@
 ---
 title: "Rohlfs"
-url: /hamburg/rohlfs/
+url: /hamburg/rohlfs-august-krogmann-strasse/
 shop: Bäckerei
 ---

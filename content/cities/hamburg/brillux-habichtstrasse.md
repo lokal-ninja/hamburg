@@ -1,5 +1,5 @@
 ---
 title: "Brillux"
-url: /hamburg/brillux/
+url: /hamburg/brillux-habichtstrasse/
 shop: Farben
 ---

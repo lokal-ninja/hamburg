@@ -1,5 +1,5 @@
 ---
 title: "BabyOne"
-url: /hamburg/babyone/
+url: /hamburg/babyone-grossmoorbogen/
 shop: Babysachen
 ---

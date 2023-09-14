@@ -1,5 +1,5 @@
 ---
 title: "Ryf"
-url: /hamburg/ryf/
+url: /hamburg/ryf-moellner-landstrasse/
 shop: Friseur
 ---

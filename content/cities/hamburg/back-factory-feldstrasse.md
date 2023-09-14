@@ -1,5 +1,5 @@
 ---
 title: "Back-Factory"
-url: /hamburg/back-factory/
+url: /hamburg/back-factory-feldstrasse/
 shop: Bäckerei
 ---

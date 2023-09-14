@@ -1,5 +1,5 @@
 ---
 title: "Erdkorn"
-url: /hamburg/erdkorn/
+url: /hamburg/erdkorn-groten-hoff/
 shop: Supermarkt
 ---

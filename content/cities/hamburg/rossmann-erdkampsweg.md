@@ -1,5 +1,5 @@
 ---
 title: "ROSSMANN"
-url: /hamburg/rossmann/
+url: /hamburg/rossmann-erdkampsweg/
 shop: Drogerie
 ---

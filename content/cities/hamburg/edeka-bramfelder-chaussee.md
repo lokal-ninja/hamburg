@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /hamburg/edeka/
+url: /hamburg/edeka-bramfelder-chaussee/
 shop: Supermarkt
 ---

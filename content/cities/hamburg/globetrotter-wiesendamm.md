@@ -1,5 +1,5 @@
 ---
 title: "Globetrotter"
-url: /hamburg/globetrotter/
+url: /hamburg/globetrotter-wiesendamm/
 shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /hamburg/penny/
+url: /hamburg/penny-fuhlsbuettler-strasse-2/
 shop: Supermarkt
 ---

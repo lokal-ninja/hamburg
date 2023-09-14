@@ -1,5 +1,5 @@
 ---
 title: "Schanzenbäckerei"
-url: /hamburg/schanzenbaeckerei/
+url: /hamburg/schanzenbaeckerei-burchardplatz/
 shop: Bäckerei
 ---

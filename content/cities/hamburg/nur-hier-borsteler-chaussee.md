@@ -1,5 +1,5 @@
 ---
 title: "Nur Hier"
-url: /hamburg/nur-hier/
+url: /hamburg/nur-hier-borsteler-chaussee/
 shop: Bäckerei
 ---

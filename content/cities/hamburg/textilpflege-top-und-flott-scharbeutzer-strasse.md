@@ -1,5 +1,5 @@
 ---
 title: "Textilpflege Top & Flott"
-url: /hamburg/textilpflege-top-und-flott/
+url: /hamburg/textilpflege-top-und-flott-scharbeutzer-strasse/
 shop: Schneiderei
 ---

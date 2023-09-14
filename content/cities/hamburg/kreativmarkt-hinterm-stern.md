@@ -1,5 +1,5 @@
 ---
 title: "Kreativmarkt"
-url: /hamburg/kreativmarkt/
+url: /hamburg/kreativmarkt-hinterm-stern/
 shop: Kunst
 ---

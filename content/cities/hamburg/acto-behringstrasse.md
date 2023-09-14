@@ -1,5 +1,5 @@
 ---
 title: "ACTO"
-url: /hamburg/acto/
+url: /hamburg/acto-behringstrasse/
 shop: Sanitätshaus
 ---

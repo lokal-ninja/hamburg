@@ -1,5 +1,5 @@
 ---
 title: "EuroShop"
-url: /hamburg/euroshop/
+url: /hamburg/euroshop-wandsbeker-marktstrasse/
 shop: Kramladen
 ---

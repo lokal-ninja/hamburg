@@ -1,5 +1,5 @@
 ---
 title: "Markant"
-url: /hamburg/markant/
+url: /hamburg/markant-gordonstrasse/
 shop: Supermarkt
 ---

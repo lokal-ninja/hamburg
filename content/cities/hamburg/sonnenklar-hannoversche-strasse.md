@@ -1,5 +1,5 @@
 ---
 title: "Sonnenklar"
-url: /hamburg/sonnenklar/
+url: /hamburg/sonnenklar-hannoversche-strasse/
 shop: Reisebüro
 ---

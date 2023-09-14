@@ -1,5 +1,5 @@
 ---
 title: "Hagebaumarkt"
-url: /hamburg/hagebaumarkt/
+url: /hamburg/hagebaumarkt-bargteheider-strasse/
 shop: Baumarkt
 ---

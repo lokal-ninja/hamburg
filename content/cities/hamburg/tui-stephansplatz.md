@@ -1,5 +1,5 @@
 ---
 title: "TUI"
-url: /hamburg/tui/
+url: /hamburg/tui-stephansplatz/
 shop: Reisebüro
 ---

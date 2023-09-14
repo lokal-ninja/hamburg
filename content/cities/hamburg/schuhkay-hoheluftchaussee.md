@@ -1,5 +1,5 @@
 ---
 title: "Schuhkay"
-url: /hamburg/schuhkay/
+url: /hamburg/schuhkay-hoheluftchaussee/
 shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tan Reisen"
-url: /hamburg/tan-reisen/
+url: /hamburg/tan-reisen-moorstrasse/
 shop: Reisebüro
 ---

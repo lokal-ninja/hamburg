@@ -1,5 +1,5 @@
 ---
 title: "Goldig"
-url: /hamburg/goldig/
+url: /hamburg/goldig-grosse-rainstrasse/
 shop: Kleidung
 ---

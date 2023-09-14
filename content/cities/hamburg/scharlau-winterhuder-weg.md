@@ -1,5 +1,5 @@
 ---
 title: "Scharlau"
-url: /hamburg/scharlau/
+url: /hamburg/scharlau-winterhuder-weg/
 shop: Kopieren
 ---

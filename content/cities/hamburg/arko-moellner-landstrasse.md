@@ -1,5 +1,5 @@
 ---
 title: "arko"
-url: /hamburg/arko/
+url: /hamburg/arko-moellner-landstrasse/
 shop: Süßwaren
 ---

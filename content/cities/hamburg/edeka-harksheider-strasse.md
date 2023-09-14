@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /hamburg/edeka/
+url: /hamburg/edeka-harksheider-strasse/
 shop: Supermarkt
 ---

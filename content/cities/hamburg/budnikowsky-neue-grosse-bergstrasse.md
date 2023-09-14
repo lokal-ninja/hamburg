@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /hamburg/budnikowsky/
+url: /hamburg/budnikowsky-neue-grosse-bergstrasse/
 shop: Drogerie
 ---

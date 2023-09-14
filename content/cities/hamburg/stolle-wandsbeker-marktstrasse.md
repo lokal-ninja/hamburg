@@ -1,5 +1,5 @@
 ---
 title: "Stolle"
-url: /hamburg/stolle/
+url: /hamburg/stolle-wandsbeker-marktstrasse/
 shop: Sanitätshaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Inez"
-url: /hamburg/inez/
+url: /hamburg/inez-erdkampsweg/
 shop: Friseur
 ---

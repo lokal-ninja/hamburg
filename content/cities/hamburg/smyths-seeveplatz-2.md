@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
-url: /hamburg/smyths/
+url: /hamburg/smyths-seeveplatz-2/
 shop: Spielzeug
 ---

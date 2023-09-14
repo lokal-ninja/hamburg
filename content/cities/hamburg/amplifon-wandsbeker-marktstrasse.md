@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
-url: /hamburg/amplifon/
+url: /hamburg/amplifon-wandsbeker-marktstrasse/
 shop: Hörgeräte
 ---

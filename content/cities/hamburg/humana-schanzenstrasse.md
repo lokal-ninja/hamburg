@@ -1,5 +1,5 @@
 ---
 title: "Humana"
-url: /hamburg/humana/
+url: /hamburg/humana-schanzenstrasse/
 shop: Kleidung
 ---

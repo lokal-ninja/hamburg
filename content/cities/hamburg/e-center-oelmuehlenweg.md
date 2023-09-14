@@ -1,5 +1,5 @@
 ---
 title: "E-Center"
-url: /hamburg/e-center/
+url: /hamburg/e-center-oelmuehlenweg/
 shop: Supermarkt
 ---

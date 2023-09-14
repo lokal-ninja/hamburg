@@ -1,5 +1,5 @@
 ---
 title: "Bestattungsinstitut Ihlenfeld"
-url: /hamburg/bestattungsinstitut-ihlenfeld/
+url: /hamburg/bestattungsinstitut-ihlenfeld-kapellenstrasse/
 shop: Bestattungen
 ---

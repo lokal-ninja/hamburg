@@ -1,5 +1,5 @@
 ---
 title: "Effenberger"
-url: /hamburg/effenberger/
+url: /hamburg/effenberger-neuer-kamp/
 shop: Bäckerei
 ---

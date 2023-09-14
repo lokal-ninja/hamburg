@@ -1,5 +1,5 @@
 ---
 title: "Lotto"
-url: /hamburg/lotto/
+url: /hamburg/lotto-neusurenland/
 shop: Kiosk
 ---

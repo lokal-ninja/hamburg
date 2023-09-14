@@ -1,5 +1,5 @@
 ---
 title: "von Allwörden"
-url: /hamburg/von-allwoerden/
+url: /hamburg/von-allwoerden-kroonhorst/
 shop: Bäckerei
 ---

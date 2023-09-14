@@ -1,5 +1,5 @@
 ---
 title: "Reno"
-url: /hamburg/reno/
+url: /hamburg/reno-hannoversche-strasse/
 shop: Schuhe
 ---

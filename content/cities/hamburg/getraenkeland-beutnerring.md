@@ -1,5 +1,5 @@
 ---
 title: "Getränkeland"
-url: /hamburg/getraenkeland/
+url: /hamburg/getraenkeland-beutnerring/
 shop: Getränke
 ---

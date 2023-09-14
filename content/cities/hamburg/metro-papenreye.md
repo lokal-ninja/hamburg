@@ -1,5 +1,5 @@
 ---
 title: "METRO"
-url: /hamburg/metro/
+url: /hamburg/metro-papenreye/
 shop: Großhandel
 ---

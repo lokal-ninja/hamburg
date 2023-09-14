@@ -1,5 +1,5 @@
 ---
 title: "Meinecke"
-url: /hamburg/meinecke/
+url: /hamburg/meinecke-tibarg/
 shop: Friseur
 ---

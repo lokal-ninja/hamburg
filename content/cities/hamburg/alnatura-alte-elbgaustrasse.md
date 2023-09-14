@@ -1,5 +1,5 @@
 ---
 title: "Alnatura"
-url: /hamburg/alnatura/
+url: /hamburg/alnatura-alte-elbgaustrasse/
 shop: Supermarkt
 ---

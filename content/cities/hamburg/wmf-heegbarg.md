@@ -1,5 +1,5 @@
 ---
 title: "WMF"
-url: /hamburg/wmf/
+url: /hamburg/wmf-heegbarg/
 shop: Haushaltsartikel
 ---

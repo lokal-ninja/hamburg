@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei"
-url: /hamburg/aenderungsschneiderei/
+url: /hamburg/aenderungsschneiderei-vierlaender-damm/
 shop: Schneiderei
 ---

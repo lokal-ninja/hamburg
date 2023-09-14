@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /hamburg/mediamarkt/
+url: /hamburg/mediamarkt-friedrich-ebert-damm/
 shop: Elektronik
 ---

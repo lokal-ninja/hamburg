@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /hamburg/kik/
+url: /hamburg/kik-kieler-strasse/
 shop: Kleidung
 ---

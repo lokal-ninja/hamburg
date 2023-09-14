@@ -1,5 +1,5 @@
 ---
 title: "Dat Backhus"
-url: /hamburg/dat-backhus/
+url: /hamburg/dat-backhus-weidenbaumsweg/
 shop: Bäckerei
 ---

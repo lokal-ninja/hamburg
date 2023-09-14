@@ -1,5 +1,5 @@
 ---
 title: "BONITA"
-url: /hamburg/bonita/
+url: /hamburg/bonita-hannoversche-strasse/
 shop: Kleidung
 ---

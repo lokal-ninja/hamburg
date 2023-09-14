@@ -1,5 +1,5 @@
 ---
 title: "TUI ReiseCenter"
-url: /hamburg/tui-reisecenter/
+url: /hamburg/tui-reisecenter-rolfinckstrasse/
 shop: Reisebüro
 ---

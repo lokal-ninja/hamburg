@@ -1,5 +1,5 @@
 ---
 title: "Camp David"
-url: /hamburg/camp-david/
+url: /hamburg/camp-david-hannoversche-strasse/
 shop: Kleidung
 ---

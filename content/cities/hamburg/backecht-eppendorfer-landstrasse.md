@@ -1,5 +1,5 @@
 ---
 title: "Backecht"
-url: /hamburg/backecht/
+url: /hamburg/backecht-eppendorfer-landstrasse/
 shop: Bäckerei
 ---

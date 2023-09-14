@@ -1,5 +1,5 @@
 ---
 title: "Netto City"
-url: /hamburg/netto-city/
+url: /hamburg/netto-city-grindelallee/
 shop: Supermarkt
 ---

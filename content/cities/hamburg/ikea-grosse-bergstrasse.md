@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
-url: /hamburg/ikea/
+url: /hamburg/ikea-grosse-bergstrasse/
 shop: Möbel
 ---

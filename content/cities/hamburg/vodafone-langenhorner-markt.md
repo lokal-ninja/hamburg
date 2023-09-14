@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /hamburg/vodafone/
+url: /hamburg/vodafone-langenhorner-markt/
 shop: Handy
 ---

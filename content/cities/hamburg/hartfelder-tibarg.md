@@ -1,5 +1,5 @@
 ---
 title: "HARTFELDER"
-url: /hamburg/hartfelder/
+url: /hamburg/hartfelder-tibarg/
 shop: Spielzeug
 ---

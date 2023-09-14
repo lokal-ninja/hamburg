@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /hamburg/fressnapf/
+url: /hamburg/fressnapf-grossmoorbogen/
 shop: Tiere
 ---

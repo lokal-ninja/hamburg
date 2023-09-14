@@ -1,5 +1,5 @@
 ---
 title: "Rohlfs"
-url: /hamburg/rohlfs/
+url: /hamburg/rohlfs-bramfelder-chaussee/
 shop: Bäckerei
 ---

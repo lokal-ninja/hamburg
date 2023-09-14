@@ -1,5 +1,5 @@
 ---
 title: "Backgeschwister"
-url: /hamburg/backgeschwister/
+url: /hamburg/backgeschwister-eppendorfer-landstrasse/
 shop: Bäckerei
 ---

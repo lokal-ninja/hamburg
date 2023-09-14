@@ -1,5 +1,5 @@
 ---
 title: "Hagelstein"
-url: /hamburg/hagelstein/
+url: /hamburg/hagelstein-siemersplatz/
 shop: Bäckerei
 ---
