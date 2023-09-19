@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
 url: /hamburg/woolworth-fuhlsbuettler-strasse/
-shop: Haushaltsartikel
+shop: Warenhaus
 ---
