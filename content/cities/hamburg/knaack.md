@@ -1,5 +1,5 @@
 ---
-title: "Knaack"
+title: "KNAACK"
 url: /hamburg/knaack/
 shop: Bäckerei
 ---
