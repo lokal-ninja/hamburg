@@ -1,5 +1,5 @@
 ---
 title: "JET"
 url: /hamburg/jet/
-shop: Kiosk
+shop: Allgemein
 ---
