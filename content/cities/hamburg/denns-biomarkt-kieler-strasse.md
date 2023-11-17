@@ -1,5 +1,5 @@
 ---
-title: "denn's Biomarkt"
+title: "Denns BioMarkt"
 url: /hamburg/denns-biomarkt-kieler-strasse/
 shop: Supermarkt
 ---

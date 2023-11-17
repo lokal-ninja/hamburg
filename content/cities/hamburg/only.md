@@ -1,5 +1,5 @@
 ---
-title: "ONLY"
+title: "Only"
 url: /hamburg/only/
 shop: Kleidung
 ---
