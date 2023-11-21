@@ -7,5 +7,5 @@ city: Hamburg
 street: "Leverkusenstraße"
 housenumber: 27
 phone: "+4940546251"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-15:30"
+opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:30"
 website: "https://www.kfz-weitze.de/"
