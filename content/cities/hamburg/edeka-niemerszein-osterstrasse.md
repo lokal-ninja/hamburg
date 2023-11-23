@@ -1,5 +1,5 @@
 ---
 title: "EDEKA Niemerszein"
-url: /hamburg/edeka-niemerszein-muehlenkamp/
+url: /hamburg/edeka-niemerszein-osterstrasse/
 shop: Supermarkt
 ---
