@@ -1,5 +1,5 @@
 ---
 title: "Moi-Memel"
 url: /hamburg/moi-memel/
-shop: Allgemein
+shop: Tattoo
 ---

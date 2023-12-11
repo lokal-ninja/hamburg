@@ -1,5 +1,5 @@
 ---
 title: "Mooxibike"
 url: /hamburg/mooxibike/
-shop: Allgemein
+shop: Fahrrad
 ---
