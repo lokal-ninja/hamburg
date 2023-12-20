@@ -1,5 +1,5 @@
 ---
 title: "Die kleine Konditorei"
-url: /hamburg/die-kleine-konditorei-osterstrasse/
+url: /hamburg/die-kleine-konditorei-lutterothstrasse/
 shop: Bäckerei
 ---
