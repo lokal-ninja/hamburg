@@ -1,5 +1,5 @@
 ---
 title: "Chapeau St. Georg"
 url: /hamburg/chapeau-st-georg/
-shop: Hüte
+shop: Kleidung
 ---
