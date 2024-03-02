@@ -7,5 +7,5 @@ city: Hamburg
 street: "Lagerstraße"
 housenumber: 30a
 phone: "+49 40 38072892-0"
-opening_hours: "Tu-Sa 12:00-20:00; Su,Mo OFF"
+opening_hours: "Su,Mo off; Tu-Th 12:00-19:00; Fr,Sa 12:00-20:00"
 website: "https://shop.ratsherrn.de/"

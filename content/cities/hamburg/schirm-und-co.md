@@ -1,5 +1,5 @@
 ---
 title: "Schirm & Co"
 url: /hamburg/schirm-und-co/
-shop: Allgemein
+shop: Modehaus
 ---
