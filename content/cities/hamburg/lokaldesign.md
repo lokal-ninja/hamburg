@@ -1,5 +1,5 @@
 ---
-title: "LokalDesign"
+title: "Lokaldesign"
 url: /hamburg/lokaldesign/
 shop: Raumausstattung
 ---
