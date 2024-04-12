@@ -7,5 +7,5 @@ city: Hamburg
 street: "Ottenser Hauptstraße"
 housenumber: 9
 phone: ""
-opening_hours: "PH,Su off; Tu-Sa 12:00-20:00"
+opening_hours: "Su,PH off; Tu-Sa 12:00-20:00; Mo 12:00-20:00"
 website: ""
