@@ -1,11 +1,11 @@
-id: 189024094
-type: way
-latitude: 53.56342
-longitude: 9.93341
-postcode: "22761"
+id: 11829081114
+type: node
+latitude: 53.61281
+longitude: 9.95432
+postcode: "22453"
 city: Hamburg
-street: "Stresemannstraße"
-housenumber: 290
-phone: ""
-opening_hours: "PH,Mo-Su 06:00-22:00"
-website: "https://www.myplace.de/standorte/hamburg/altona.html"
+street: "Kollaustraße"
+housenumber: 162-164
+phone: "+49 40 299 96606"
+opening_hours: "Mo-Su 06:00-22:00"
+website: ""

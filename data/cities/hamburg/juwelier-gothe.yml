@@ -7,5 +7,5 @@ city: Hamburg
 street: "Beselerstraße"
 housenumber: 25
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00, Mo,Tu 14:30-18:00, We,Sa 09:00-13:00"
+opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:30-18:00; We,Sa 09:00-13:00"
 website: ""
