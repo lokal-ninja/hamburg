@@ -1,11 +1,11 @@
-id: 3694147676
-type: node
-latitude: 53.57057
-longitude: 9.99576
-postcode: "20148"
+id: 251156188
+type: way
+latitude: 53.57058
+longitude: 9.8627
+postcode: ""
 city: Hamburg
-street: "Milchstraße"
-housenumber: 1
+street: "Osdorfer Landstraße"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00; PH off"
+opening_hours: "Mo-Sa 10:00-20:00"
 website: ""
