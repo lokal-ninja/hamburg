@@ -1,5 +1,5 @@
 ---
 title: "OIL!"
 url: /hamburg/oil/
-shop: Kiosk
+shop: Allgemein
 ---
