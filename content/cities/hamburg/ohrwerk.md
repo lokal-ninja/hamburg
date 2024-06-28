@@ -1,5 +1,5 @@
 ---
-title: "OHRWERK"
+title: "Ohrwerk"
 url: /hamburg/ohrwerk/
 shop: Hörgeräte
 ---

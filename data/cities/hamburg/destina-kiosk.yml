@@ -7,5 +7,5 @@ city: Hamburg
 street: "Horner Weg"
 housenumber: 228
 phone: "+49 1590 6434367"
-opening_hours: "Mo-Th 07:00-21:00; Fr 07:00-22:00; Sa 08:00-22:00; Su 10:00-22:00"
+opening_hours: "Mo-Fr 08:00-22:00; Sa,Su,PH 10:00-22:00"
 website: ""
