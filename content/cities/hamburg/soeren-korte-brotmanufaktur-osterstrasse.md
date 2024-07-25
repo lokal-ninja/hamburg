@@ -1,5 +1,5 @@
 ---
 title: "Sören Korte Brotmanufaktur"
-url: /hamburg/soeren-korte-brotmanufaktur-weidenallee/
+url: /hamburg/soeren-korte-brotmanufaktur-osterstrasse/
 shop: Bäckerei
 ---

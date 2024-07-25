@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /hamburg/rossmann-rugenbarg/
+url: /hamburg/rossmann-heussweg/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /hamburg/budnikowsky-pezolddamm/
+url: /hamburg/budnikowsky-luett-enn/
 shop: Drogerie
 ---
