@@ -1,5 +1,5 @@
 ---
 title: "Hagel"
-url: /hamburg/hagel-bergstrasse/
+url: /hamburg/hagel-mittelweg/
 shop: Friseur
 ---
