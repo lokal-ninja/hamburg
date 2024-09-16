@@ -1,11 +1,11 @@
 id: 30129808
-type: way
+type: node
 latitude: 53.60284
 longitude: 10.18014
 postcode: "22143"
 city: Hamburg
-street: "Stapelfelder Straße"
-housenumber: 86
+street: Stapelfelder Straße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00"
-website: "https://www.rewe.de/marktseite/hamburg-rahlstedt/540642/rewe-markt-stapelfelder-str-86-104"
+opening_hours: Mo-Sa 06:00-23:00
+website: https://www.rewe.de/marktseite/hamburg-rahlstedt/540642/rewe-markt-stapelfelder-str-86-104

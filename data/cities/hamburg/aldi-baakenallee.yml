@@ -4,8 +4,8 @@ latitude: 53.53722
 longitude: 10.01265
 postcode: "20457"
 city: Hamburg
-street: "Baakenallee"
-housenumber: 38
-phone: "+49 800 7234870"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/hamburg/baakenallee-lola-rogge-platz-38/3181517"
+street: Baakenallee
+housenumber: "38"
+phone: +49 800 7234870
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/hamburg/baakenallee-lola-rogge-platz-38/3181517

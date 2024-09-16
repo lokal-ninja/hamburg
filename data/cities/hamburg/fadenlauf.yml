@@ -4,8 +4,8 @@ latitude: 53.58633
 longitude: 10.12597
 postcode: "22045"
 city: Hamburg
-street: "Tonndorfer Hauptstraße"
-housenumber: 88
-phone: "+49 40 6771555"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "http://www.fadenlauf-hamburg.de"
+street: Tonndorfer Hauptstraße
+housenumber: "88"
+phone: +49 40 6771555
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: http://www.fadenlauf-hamburg.de

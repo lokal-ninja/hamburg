@@ -4,8 +4,8 @@ latitude: 53.45594
 longitude: 9.96176
 postcode: "21073"
 city: Hamburg
-street: "Hoppenstedtstraße"
-housenumber: 80
-phone: "+49 40 94366220"
-opening_hours: "Sa 10:00-14:00; Mo-Fr 13:00-19:00"
+street: Hoppenstedtstraße
+housenumber: "80"
+phone: +49 40 94366220
+opening_hours: Sa 10:00-14:00; Mo-Fr 13:00-19:00
 website: ""

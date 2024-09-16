@@ -4,8 +4,8 @@ latitude: 53.60138
 longitude: 9.88747
 postcode: "22547"
 city: Hamburg
-street: "Elbgaustraße"
-housenumber: 128
+street: Elbgaustraße
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.budni.de/filialen/22547-elbgaustrasse-128/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.budni.de/filialen/22547-elbgaustrasse-128/

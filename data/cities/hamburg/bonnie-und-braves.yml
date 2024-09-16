@@ -4,8 +4,8 @@ latitude: 53.55304
 longitude: 9.95914
 postcode: "22767"
 city: Hamburg
-street: "Paul-Roosen-Straße"
-housenumber: 12
+street: Paul-Roosen-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:30; Sa 11:00-19:30; Su off"
+opening_hours: Mo-Fr 11:00-18:30; Sa 11:00-19:30; Su off
 website: ""

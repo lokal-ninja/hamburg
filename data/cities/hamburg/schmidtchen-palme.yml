@@ -1,11 +1,11 @@
 id: 224146491
-type: way
+type: node
 latitude: 53.56135
 longitude: 9.86085
 postcode: "22609"
 city: Hamburg
-street: "Ohnhorststraße"
-housenumber: 
+street: Ohnhorststraße
+housenumber: ""
 phone: ""
-opening_hours: "Sa,Su,PH 11:00-17:00; Mo-Fr off"
+opening_hours: Sa,Su,PH 11:00-17:00; Mo-Fr off
 website: ""

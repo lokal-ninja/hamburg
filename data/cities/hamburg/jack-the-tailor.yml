@@ -4,8 +4,8 @@ latitude: 53.55091
 longitude: 9.96211
 postcode: "20359"
 city: Hamburg
-street: "Hein-Hoyer-Straße"
-housenumber: 21
+street: Hein-Hoyer-Straße
+housenumber: "21"
 phone: "+491637292669"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-14:00"
-website: "http://www.jackthetailor.de/"
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-14:00
+website: http://www.jackthetailor.de/

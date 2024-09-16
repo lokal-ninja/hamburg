@@ -1,11 +1,11 @@
 id: 37970474
-type: way
+type: node
 latitude: 53.58733
 longitude: 9.931
 postcode: "22525"
 city: Hamburg
-street: "Kieler Straße"
-housenumber: 339
+street: Kieler Straße
+housenumber: "339"
 phone: "+494054754696"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-15:00; Su off"
-website: "https://www.shurgard.de/lagerraum-mieten-in-Deutschland/Hamburg/Hamburg-Stellingen"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-15:00; Su off
+website: https://www.shurgard.de/lagerraum-mieten-in-Deutschland/Hamburg/Hamburg-Stellingen

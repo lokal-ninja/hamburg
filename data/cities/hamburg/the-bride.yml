@@ -4,8 +4,8 @@ latitude: 53.55004
 longitude: 10.07846
 postcode: "22111"
 city: Hamburg
-street: "Bauerbergweg"
-housenumber: 1
+street: Bauerbergweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 11:00-19:00; Fr,Sa 10:00-20:00; PH off"
+opening_hours: Mo-Th 11:00-19:00; Fr,Sa 10:00-20:00; PH off
 website: ""

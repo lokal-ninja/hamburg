@@ -4,8 +4,8 @@ latitude: 53.54763
 longitude: 9.95989
 postcode: "20359"
 city: Hamburg
-street: "Balduinstraße"
-housenumber: 16
-phone: "0800 2428300"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.jezzit.de/"
+street: Balduinstraße
+housenumber: "16"
+phone: 0800 2428300
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.jezzit.de/

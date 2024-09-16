@@ -1,11 +1,11 @@
 id: 51302433
-type: way
+type: node
 latitude: 53.55715
 longitude: 10.10343
 postcode: "22119"
 city: Hamburg
-street: "Querkamp"
-housenumber: 69
+street: Querkamp
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

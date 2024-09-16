@@ -4,8 +4,8 @@ latitude: 53.53688
 longitude: 10.03743
 postcode: "20539"
 city: Hamburg
-street: "Marckmannstraße"
-housenumber: 29
+street: Marckmannstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-14:00"
-website: "https://northe.de/hamburg/"
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-14:00
+website: https://northe.de/hamburg/

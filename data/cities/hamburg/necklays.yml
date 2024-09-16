@@ -4,8 +4,8 @@ latitude: 53.56197
 longitude: 9.96604
 postcode: "20357"
 city: Hamburg
-street: "Schanzenstraße"
-housenumber: 70
+street: Schanzenstraße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Th 11:00-19:00, Fr,Sa 11:00-20:00; PH off"
-website: "https://www.necklays.de/"
+opening_hours: Mo-Th 11:00-19:00, Fr,Sa 11:00-20:00; PH off
+website: https://www.necklays.de/

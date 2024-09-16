@@ -4,8 +4,8 @@ latitude: 53.60643
 longitude: 10.03954
 postcode: "22309"
 city: Hamburg
-street: "Fuhlsbüttler Straße"
-housenumber: 468
-phone: "+49 40 33989021"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Fuhlsbüttler Straße
+housenumber: "468"
+phone: +49 40 33989021
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

@@ -1,11 +1,12 @@
 id: 463282411
-type: way
+type: node
 latitude: 53.55909
 longitude: 10.05993
 postcode: "20535"
 city: Hamburg
-street: "Caspar-Voght-Straße"
+street: Caspar-Voght-Straße
 housenumber: 35c
 phone: ""
-opening_hours: "Apr-Aug Tu-Fr 14:00-20:00; Apr-Aug PH,Sa,Su 12:00-20:00; Sep-Oct Tu-Fr 14:00-18:00; Sep-Oct PH,Sa,Su 12:00-18:00"
+opening_hours: Apr-Aug Tu-Fr 14:00-20:00; Apr-Aug PH,Sa,Su 12:00-20:00; Sep-Oct Tu-Fr
+    14:00-18:00; Sep-Oct PH,Sa,Su 12:00-18:00
 website: ""

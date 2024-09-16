@@ -4,8 +4,8 @@ latitude: 53.56946
 longitude: 9.97899
 postcode: "20146"
 city: Hamburg
-street: "Grindelallee"
-housenumber: 131
+street: Grindelallee
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-13:00"
-website: "http://www.druckertanke-hamburg.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-13:00
+website: http://www.druckertanke-hamburg.de/

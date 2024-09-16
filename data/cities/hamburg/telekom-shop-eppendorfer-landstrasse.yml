@@ -4,8 +4,8 @@ latitude: 53.59064
 longitude: 9.98677
 postcode: "20249"
 city: Hamburg
-street: "Eppendorfer Landstraße"
-housenumber: 77
-phone: "+49 40 40187346"
-opening_hours: "Mo off; Tu-Fr 10:00-18:00; Sa 10:00-15:00; Su off"
-website: "https://shopseite.telekom.de/nord-ost/hamburg/eppendorfer-landstr-77"
+street: Eppendorfer Landstraße
+housenumber: "77"
+phone: +49 40 40187346
+opening_hours: Mo off; Tu-Fr 10:00-18:00; Sa 10:00-15:00; Su off
+website: https://shopseite.telekom.de/nord-ost/hamburg/eppendorfer-landstr-77

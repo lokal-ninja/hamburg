@@ -4,8 +4,8 @@ latitude: 53.56222
 longitude: 10.04791
 postcode: "20535"
 city: Hamburg
-street: "Griesstraße"
-housenumber: 1
+street: Griesstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 06:00-15:00; Sa,Su 07:00-13:00"
+opening_hours: Tu-Fr 06:00-15:00; Sa,Su 07:00-13:00
 website: ""

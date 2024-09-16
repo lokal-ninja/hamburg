@@ -4,8 +4,8 @@ latitude: 53.55853
 longitude: 9.97289
 postcode: "20357"
 city: Hamburg
-street: "Marktstraße"
-housenumber: 131
+street: Marktstraße
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-Fr 16:00-19:00; Sa 11:00-17:00; Su 14:00-17:00"
-website: "https://www.schlumper.de/"
+opening_hours: Mo-Fr 16:00-19:00; Sa 11:00-17:00; Su 14:00-17:00
+website: https://www.schlumper.de/

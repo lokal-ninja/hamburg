@@ -1,11 +1,11 @@
 id: 52902070
-type: way
+type: node
 latitude: 53.54276
 longitude: 10.14143
 postcode: "22117"
 city: Hamburg
-street: "Möllner Landstraße"
-housenumber: 250
+street: Möllner Landstraße
+housenumber: "250"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

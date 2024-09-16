@@ -1,11 +1,11 @@
 id: 69921203
-type: way
+type: node
 latitude: 53.60611
 longitude: 9.90086
 postcode: "22523"
 city: Hamburg
-street: "Elbgaustraße"
-housenumber: 35
+street: Elbgaustraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00; PH,Su off"
-website: "https://www.atu.de/pages/service/filialen/f_detail.html?lkz=DE&nr=515"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00; PH,Su off
+website: https://www.atu.de/pages/service/filialen/f_detail.html?lkz=DE&nr=515

@@ -1,11 +1,11 @@
 id: 297797873
-type: way
+type: node
 latitude: 53.66437
 longitude: 9.99725
 postcode: "22419"
 city: Hamburg
-street: "Tarpenring"
-housenumber: 10
-phone: "+49 40 50726582"
-opening_hours: "Mo-Th 07:45-09:30,10:00-13:30,14:00-18:00; Fr 07:45-09:30,10:00-13:00"
-website: "https://db-krull.de/"
+street: Tarpenring
+housenumber: "10"
+phone: +49 40 50726582
+opening_hours: Mo-Th 07:45-09:30,10:00-13:30,14:00-18:00; Fr 07:45-09:30,10:00-13:00
+website: https://db-krull.de/

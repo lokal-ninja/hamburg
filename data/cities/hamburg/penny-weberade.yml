@@ -1,11 +1,11 @@
 id: 257061943
-type: way
+type: node
 latitude: 53.50744
 longitude: 10.18332
 postcode: "21031"
 city: Hamburg
-street: "Weberade"
+street: Weberade
 housenumber: 3-5
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

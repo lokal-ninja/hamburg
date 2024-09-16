@@ -1,11 +1,11 @@
 id: 125449142
-type: way
+type: node
 latitude: 53.46976
 longitude: 9.96317
 postcode: "21073"
 city: Hamburg
-street: "Buxtehuder Straße"
-housenumber: 112
+street: Buxtehuder Straße
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

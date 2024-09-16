@@ -1,11 +1,11 @@
 id: 73240369
-type: way
+type: node
 latitude: 53.64517
 longitude: 10.12961
 postcode: "22393"
 city: Hamburg
-street: "Volksdorfer Weg"
-housenumber: 194
+street: Volksdorfer Weg
+housenumber: "194"
 phone: ""
 opening_hours: ""
-website: "http://www.lott-baustoffe.de"
+website: http://www.lott-baustoffe.de

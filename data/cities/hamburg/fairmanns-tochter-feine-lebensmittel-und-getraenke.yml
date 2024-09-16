@@ -4,8 +4,8 @@ latitude: 53.551
 longitude: 9.91197
 postcode: "22763"
 city: Hamburg
-street: "Bleickenallee"
-housenumber: 43
-phone: "+49 40 88 91 34 05"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
-website: "https://fairmanns-tochter.de/oeffnungszeiten/"
+street: Bleickenallee
+housenumber: "43"
+phone: +49 40 88 91 34 05
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00
+website: https://fairmanns-tochter.de/oeffnungszeiten/

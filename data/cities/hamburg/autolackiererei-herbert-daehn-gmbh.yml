@@ -1,11 +1,11 @@
 id: 89615792
-type: way
+type: node
 latitude: 53.61775
 longitude: 10.00269
 postcode: "22297"
 city: Hamburg
-street: "Hindenburgstraße"
-housenumber: 169
+street: Hindenburgstraße
+housenumber: "169"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:00"
-website: "https://www.daehn-hamburg.de/"
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-17:00
+website: https://www.daehn-hamburg.de/

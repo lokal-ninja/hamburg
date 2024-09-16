@@ -4,8 +4,8 @@ latitude: 53.54736
 longitude: 9.98059
 postcode: "20459"
 city: Hamburg
-street: "Martin-Luther-Straße"
-housenumber: 21
-phone: "+49 40 364312"
-opening_hours: "Tu-Fr 10:00-14:00,15:00-18:30; Sa 10:00-16:00"
-website: "http://www.galerie-maritim.de"
+street: Martin-Luther-Straße
+housenumber: "21"
+phone: +49 40 364312
+opening_hours: Tu-Fr 10:00-14:00,15:00-18:30; Sa 10:00-16:00
+website: http://www.galerie-maritim.de

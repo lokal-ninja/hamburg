@@ -1,11 +1,11 @@
 id: 32843901
-type: way
+type: node
 latitude: 53.60709
 longitude: 9.90578
 postcode: "22523"
 city: Hamburg
-street: "Alte Elbgaustraße"
-housenumber: 1
+street: Alte Elbgaustraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH,Su off"
-website: "https://www.eidelstedtcenter.de/"
+opening_hours: Mo-Sa 09:00-20:00; PH,Su off
+website: https://www.eidelstedtcenter.de/

@@ -1,11 +1,11 @@
 id: 102792854
-type: way
+type: node
 latitude: 53.64158
 longitude: 10.08129
 postcode: "22391"
 city: Hamburg
-street: "Rolfinckstraße"
-housenumber: 3
-phone: "+49 40 5361688"
-opening_hours: "Mo, We, Fr 08:00-18:30; Th 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.flowers-and-more.com/"
+street: Rolfinckstraße
+housenumber: "3"
+phone: +49 40 5361688
+opening_hours: Mo, We, Fr 08:00-18:30; Th 09:00-18:30; Sa 09:00-14:00
+website: https://www.flowers-and-more.com/

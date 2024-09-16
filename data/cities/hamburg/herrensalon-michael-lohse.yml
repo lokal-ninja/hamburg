@@ -4,8 +4,8 @@ latitude: 53.58044
 longitude: 10.03848
 postcode: "22083"
 city: Hamburg
-street: "Weidestraße"
-housenumber: 16
-phone: "+49 40 2993882"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00"
+street: Weidestraße
+housenumber: "16"
+phone: +49 40 2993882
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:00
 website: ""

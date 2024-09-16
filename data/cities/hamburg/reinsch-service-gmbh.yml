@@ -1,11 +1,11 @@
 id: 1103674227
-type: way
+type: node
 latitude: 53.58028
 longitude: 9.92577
 postcode: "22525"
 city: Hamburg
-street: "Försterweg"
-housenumber: 67
+street: Försterweg
+housenumber: "67"
 phone: "+494056195770"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.reinschservicegmbh.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.reinschservicegmbh.de/

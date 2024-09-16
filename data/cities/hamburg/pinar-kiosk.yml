@@ -4,8 +4,8 @@ latitude: 53.5585
 longitude: 9.97257
 postcode: "20357"
 city: Hamburg
-street: "Marktstraße"
-housenumber: 129
+street: Marktstraße
+housenumber: "129"
 phone: ""
-opening_hours: "Mo-Su 11:00-23:00"
+opening_hours: Mo-Su 11:00-23:00
 website: ""

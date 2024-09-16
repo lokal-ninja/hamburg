@@ -4,8 +4,8 @@ latitude: 53.57926
 longitude: 10.04012
 postcode: "22083"
 city: Hamburg
-street: "Hamburger Straße"
-housenumber: 206
-phone: "+49 40 292919"
-opening_hours: "Mo-Fr 06:00-18:00; Sa,Su 07:00-16:00"
-website: "https://www.daube-backt.de/seite/584949/hamburger-stra%C3%9Fe-206.html"
+street: Hamburger Straße
+housenumber: "206"
+phone: +49 40 292919
+opening_hours: Mo-Fr 06:00-18:00; Sa,Su 07:00-16:00
+website: https://www.daube-backt.de/seite/584949/hamburger-stra%C3%9Fe-206.html

@@ -4,8 +4,8 @@ latitude: 53.57776
 longitude: 9.97792
 postcode: "20144"
 city: Hamburg
-street: "Oberstraße"
-housenumber: 1
-phone: "+49 40 20947176"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.goldankauf-frisch.de/"
+street: Oberstraße
+housenumber: "1"
+phone: +49 40 20947176
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.goldankauf-frisch.de/

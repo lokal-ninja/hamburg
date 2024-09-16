@@ -4,8 +4,8 @@ latitude: 53.58023
 longitude: 10.01869
 postcode: "22085"
 city: Hamburg
-street: "Herderstraße"
-housenumber: 41
+street: Herderstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "http://www.bluetenrausch.com"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: http://www.bluetenrausch.com

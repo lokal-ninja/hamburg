@@ -1,11 +1,11 @@
 id: 307268670
-type: way
+type: node
 latitude: 53.51331
 longitude: 10.20617
 postcode: "21031"
 city: Hamburg
-street: "Reinbeker Redder"
-housenumber: 255
-phone: "+49 40 7384550"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su off"
-website: "https://kaehler-gartenbaumschule.de/"
+street: Reinbeker Redder
+housenumber: "255"
+phone: +49 40 7384550
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su off
+website: https://kaehler-gartenbaumschule.de/

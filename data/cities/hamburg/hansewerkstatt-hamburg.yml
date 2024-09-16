@@ -1,11 +1,11 @@
 id: 104107607
-type: way
+type: node
 latitude: 53.5797
 longitude: 9.8515
 postcode: "22549"
 city: Hamburg
-street: "Brandstücken"
-housenumber: 17
+street: Brandstücken
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:00, 13:30-17:00; Sa,Su,PH off"
-website: "https://www.hansewerkstatt.de/"
+opening_hours: Mo-Fr 08:30-13:00, 13:30-17:00; Sa,Su,PH off
+website: https://www.hansewerkstatt.de/

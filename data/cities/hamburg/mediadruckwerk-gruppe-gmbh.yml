@@ -1,11 +1,11 @@
 id: 33567942
-type: way
+type: node
 latitude: 53.57306
 longitude: 9.92638
 postcode: "22525"
 city: Hamburg
-street: "Rondenbarg"
-housenumber: 6
+street: Rondenbarg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

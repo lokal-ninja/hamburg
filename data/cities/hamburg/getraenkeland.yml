@@ -1,11 +1,11 @@
 id: 50671639
-type: way
+type: node
 latitude: 53.50008
 longitude: 9.99936
 postcode: "21109"
 city: Hamburg
-street: "Dratelnstraße"
-housenumber: 31
+street: Dratelnstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.5499
 longitude: 10.07991
 postcode: "22111"
 city: Hamburg
-street: "Horner Landstraße"
-housenumber: 191
+street: Horner Landstraße
+housenumber: "191"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; PH off; Sa 09:00-13:00"
-website: "https://fahrrad-pagels.de/"
+opening_hours: Mo-Fr 09:00-18:00; PH off; Sa 09:00-13:00
+website: https://fahrrad-pagels.de/

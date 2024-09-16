@@ -4,8 +4,8 @@ latitude: 53.59187
 longitude: 10.04458
 postcode: "22305"
 city: Hamburg
-street: "Fuhlsbüttler Straße"
-housenumber: 164
+street: Fuhlsbüttler Straße
+housenumber: "164"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00; PH off"
-website: "https://www.biomarkt-hamburg-barmbek.de/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-16:00; PH off
+website: https://www.biomarkt-hamburg-barmbek.de/

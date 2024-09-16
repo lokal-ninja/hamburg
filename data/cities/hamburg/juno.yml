@@ -4,8 +4,8 @@ latitude: 53.55853
 longitude: 9.97334
 postcode: "20357"
 city: Hamburg
-street: "Marktstraße"
-housenumber: 136
-phone: "+49 40 3866 4617"
-opening_hours: "Tu-Fr 12:00-19:00; Sa 12:00-18:00 und nach Vereinbarung"
-website: "http://www.juno-nord.de"
+street: Marktstraße
+housenumber: "136"
+phone: +49 40 3866 4617
+opening_hours: Tu-Fr 12:00-19:00; Sa 12:00-18:00 "und nach Vereinbarung"
+website: http://www.juno-nord.de

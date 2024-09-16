@@ -1,11 +1,11 @@
 id: 445461518
-type: way
+type: node
 latitude: 53.57108
 longitude: 10.06077
 postcode: "22041"
 city: Hamburg
-street: "Wandsbeker Marktstraße"
-housenumber: 1
+street: Wandsbeker Marktstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-16:00
 website: ""

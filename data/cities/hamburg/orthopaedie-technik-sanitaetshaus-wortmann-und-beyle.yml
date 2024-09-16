@@ -4,8 +4,8 @@ latitude: 53.63642
 longitude: 9.91743
 postcode: "22457"
 city: Hamburg
-street: "Oldesloer Straße"
-housenumber: 43
+street: Oldesloer Straße
+housenumber: "43"
 phone: ""
-opening_hours: "We,Fr 09:00-13:00; Mo,Tu,Th 09:00-13:00,14:00-18:00"
-website: "https://www.wortmann-beyle-sanitaetshaus.de/"
+opening_hours: We,Fr 09:00-13:00; Mo,Tu,Th 09:00-13:00,14:00-18:00
+website: https://www.wortmann-beyle-sanitaetshaus.de/

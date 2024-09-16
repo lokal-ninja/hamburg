@@ -4,8 +4,8 @@ latitude: 53.55741
 longitude: 10.0512
 postcode: "20535"
 city: Hamburg
-street: "Carl-Petersen-Straße"
-housenumber: 116
-phone: "+49 40 64 22 64 54"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.hanse-fahrradservice.de/"
+street: Carl-Petersen-Straße
+housenumber: "116"
+phone: +49 40 64 22 64 54
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.hanse-fahrradservice.de/

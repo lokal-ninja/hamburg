@@ -1,11 +1,11 @@
 id: 221203274
-type: way
+type: node
 latitude: 53.51222
 longitude: 9.98571
 postcode: "21107"
 city: Hamburg
-street: "Am Veringhof"
-housenumber: 6
+street: Am Veringhof
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

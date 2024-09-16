@@ -4,8 +4,8 @@ latitude: 53.55479
 longitude: 9.84446
 postcode: "22609"
 city: Hamburg
-street: "Nienstedtener Straße"
-housenumber: 11
-phone: "+49 40 829169"
-opening_hours: "Mo-Fr 08:00-13:00,15:00-18:00; Sa 08:00-13:00"
+street: Nienstedtener Straße
+housenumber: "11"
+phone: +49 40 829169
+opening_hours: Mo-Fr 08:00-13:00,15:00-18:00; Sa 08:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.61937
 longitude: 10.08045
 postcode: "22175"
 city: Hamburg
-street: "Bramfelder Chaussee"
-housenumber: 343
-phone: "+49 40 6428836"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-13:00"
-website: "http://www.haarstudio-swiss.de/"
+street: Bramfelder Chaussee
+housenumber: "343"
+phone: +49 40 6428836
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-13:00
+website: http://www.haarstudio-swiss.de/

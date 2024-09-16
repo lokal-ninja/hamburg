@@ -4,8 +4,8 @@ latitude: 53.55374
 longitude: 10.01393
 postcode: "20099"
 city: Hamburg
-street: "Pulverteich"
-housenumber: 8
+street: Pulverteich
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 11:00-23:00; Su 14:00-22:00"
+opening_hours: Mo-Sa 11:00-23:00; Su 14:00-22:00
 website: ""

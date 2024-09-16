@@ -4,8 +4,8 @@ latitude: 53.61688
 longitude: 10.07705
 postcode: "22177"
 city: Hamburg
-street: "Bramfelder Chaussee"
-housenumber: 285
-phone: "+49 40 641 76 98"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-18:30; Sa 09:00-13:00; PH off"
+street: Bramfelder Chaussee
+housenumber: "285"
+phone: +49 40 641 76 98
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-18:30; Sa 09:00-13:00; PH off
 website: ""

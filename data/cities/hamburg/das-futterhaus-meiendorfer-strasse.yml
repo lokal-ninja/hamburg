@@ -1,11 +1,11 @@
 id: 265528252
-type: way
+type: node
 latitude: 53.6249
 longitude: 10.16823
 postcode: ""
 city: Hamburg
-street: "Meiendorfer Straße"
-housenumber: 117
+street: Meiendorfer Straße
+housenumber: "117"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
+opening_hours: Mo-Sa 09:00-19:00; PH off
 website: ""

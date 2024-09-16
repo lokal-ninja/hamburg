@@ -4,8 +4,8 @@ latitude: 53.45695
 longitude: 9.98764
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 65588890"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.adameve-hamburg.de/"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 65588890
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.adameve-hamburg.de/

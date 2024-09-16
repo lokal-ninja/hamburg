@@ -4,8 +4,8 @@ latitude: 53.58258
 longitude: 9.95615
 postcode: "22529"
 city: Hamburg
-street: "Stresemannallee"
-housenumber: 118
-phone: "+49 40 225409"
-opening_hours: "Mo-Th 11:00-19:00; Fr 10:00-19:00; Sa 10:00-14:00"
-website: "https://www.ludwig-von-kapff.de/weinladen-eimsbuettel"
+street: Stresemannallee
+housenumber: "118"
+phone: +49 40 225409
+opening_hours: Mo-Th 11:00-19:00; Fr 10:00-19:00; Sa 10:00-14:00
+website: https://www.ludwig-von-kapff.de/weinladen-eimsbuettel

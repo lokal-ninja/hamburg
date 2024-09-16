@@ -4,8 +4,8 @@ latitude: 53.45751
 longitude: 9.98563
 postcode: "21073"
 city: Hamburg
-street: "Rieckhoffstraße"
-housenumber: 8
+street: Rieckhoffstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:30"
+opening_hours: Mo-Sa 07:00-20:30
 website: ""

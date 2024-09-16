@@ -4,8 +4,8 @@ latitude: 53.56506
 longitude: 9.959
 postcode: "20357"
 city: Hamburg
-street: "Schulterblatt"
-housenumber: 133
-phone: "+49 40 210 577 06"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-19:00; Sa off"
-website: "http://leder-luis.de/"
+street: Schulterblatt
+housenumber: "133"
+phone: +49 40 210 577 06
+opening_hours: Mo-Fr 10:00-13:00,15:00-19:00; Sa off
+website: http://leder-luis.de/

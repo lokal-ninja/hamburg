@@ -4,8 +4,8 @@ latitude: 53.59235
 longitude: 10.07609
 postcode: "22049"
 city: Hamburg
-street: "Lesserstraße"
-housenumber: 158
+street: Lesserstraße
+housenumber: "158"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
+opening_hours: Mo-Sa 09:00-19:30
 website: ""

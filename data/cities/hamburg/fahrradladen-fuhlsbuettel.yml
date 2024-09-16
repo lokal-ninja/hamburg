@@ -4,8 +4,8 @@ latitude: 53.62997
 longitude: 10.02193
 postcode: "22335"
 city: Hamburg
-street: "Erdkampsweg"
-housenumber: 57
-phone: "+49 40 29856833"
-opening_hours: "Mo-Tu 10:00-18:30; We 12:00-18:30; Th-Fr 10:00-18:30; Sa 10:00-13:00"
+street: Erdkampsweg
+housenumber: "57"
+phone: +49 40 29856833
+opening_hours: Mo-Tu 10:00-18:30; We 12:00-18:30; Th-Fr 10:00-18:30; Sa 10:00-13:00
 website: ""

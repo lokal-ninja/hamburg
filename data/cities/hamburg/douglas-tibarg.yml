@@ -1,11 +1,11 @@
 id: 1158265348
-type: way
+type: node
 latitude: 53.62239
 longitude: 9.95247
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
-housenumber: 41
-phone: "+49 40 58976560"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00"
-website: "https://www.douglas.de/de/l/hamburg/tibarg/00020279"
+street: Tibarg
+housenumber: "41"
+phone: +49 40 58976560
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-18:00
+website: https://www.douglas.de/de/l/hamburg/tibarg/00020279

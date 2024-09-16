@@ -4,8 +4,8 @@ latitude: 53.58317
 longitude: 10.07082
 postcode: "22049"
 city: Hamburg
-street: "Straßburger Straße"
-housenumber: 83
+street: Straßburger Straße
+housenumber: "83"
 phone: "+494069454883"
-opening_hours: "Mo-Fr 10:00-13:00,14:30-18:00; Sa 10:00-13:00"
-website: "https://www.sueshi-express.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:30-18:00; Sa 10:00-13:00
+website: https://www.sueshi-express.de/

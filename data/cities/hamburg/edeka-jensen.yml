@@ -1,11 +1,11 @@
 id: 965322752
-type: way
+type: node
 latitude: 53.60167
 longitude: 9.88829
 postcode: "22547"
 city: Hamburg
-street: "Elbgaustraße"
+street: Elbgaustraße
 housenumber: 118b
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

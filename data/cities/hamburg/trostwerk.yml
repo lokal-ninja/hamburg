@@ -4,8 +4,9 @@ latitude: 53.59272
 longitude: 9.98753
 postcode: "20251"
 city: Hamburg
-street: "Erikastraße"
-housenumber: 42
+street: Erikastraße
+housenumber: "42"
 phone: ""
-opening_hours: "Wir sind nicht immer vor Ort. Telefonisch erreichen Sie uns ... Mo-Fr 10-16 Uhr Tel. 43 27 44 11"
-website: "https://www.trostwerk.de/"
+opening_hours: '"Wir sind nicht immer vor Ort. Telefonisch erreichen Sie uns ... Mo-Fr
+    10-16 Uhr Tel. 43 27 44 11"'
+website: https://www.trostwerk.de/

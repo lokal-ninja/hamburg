@@ -1,11 +1,11 @@
 id: 90442827
-type: way
+type: node
 latitude: 53.45665
 longitude: 10.01062
 postcode: "21079"
 city: Hamburg
-street: "Großmoorbogen"
+street: Großmoorbogen
 housenumber: 13a
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
 website: ""

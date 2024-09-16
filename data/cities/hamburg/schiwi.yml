@@ -4,8 +4,8 @@ latitude: 53.59421
 longitude: 9.9975
 postcode: "22299"
 city: Hamburg
-street: "Hudtwalckerstraße"
-housenumber: 24
-phone: "+49 40 4804503"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH,Su off"
-website: "https://www.schiwi.de"
+street: Hudtwalckerstraße
+housenumber: "24"
+phone: +49 40 4804503
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH,Su off
+website: https://www.schiwi.de

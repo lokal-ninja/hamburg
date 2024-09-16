@@ -4,8 +4,8 @@ latitude: 53.62088
 longitude: 9.95737
 postcode: "22453"
 city: Hamburg
-street: "Garstedter Weg"
-housenumber: 14
+street: Garstedter Weg
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"
-website: "https://www.tom-tailor.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off
+website: https://www.tom-tailor.de/

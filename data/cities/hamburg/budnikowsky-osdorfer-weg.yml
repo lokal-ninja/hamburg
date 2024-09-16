@@ -4,8 +4,8 @@ latitude: 53.56923
 longitude: 9.88102
 postcode: "22607"
 city: Hamburg
-street: "Osdorfer Weg"
-housenumber: 106
+street: Osdorfer Weg
+housenumber: "106"
 phone: ""
-opening_hours: "PH off; Mo-Sa 08:00-20:00"
-website: "https://www.budni.de/filialen/22607-osdorfer-weg-106/"
+opening_hours: PH off; Mo-Sa 08:00-20:00
+website: https://www.budni.de/filialen/22607-osdorfer-weg-106/

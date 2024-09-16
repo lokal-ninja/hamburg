@@ -4,8 +4,8 @@ latitude: 53.63341
 longitude: 10.05391
 postcode: "22337"
 city: Hamburg
-street: "Stübeheide"
-housenumber: 155
-phone: "+49 40 592563"
-opening_hours: "Tu-Sa 09:00-13:00, Tu,Th 15:00-18:00"
-website: "https://www.malereibetrieb-rb.de/"
+street: Stübeheide
+housenumber: "155"
+phone: +49 40 592563
+opening_hours: Tu-Sa 09:00-13:00, Tu,Th 15:00-18:00
+website: https://www.malereibetrieb-rb.de/

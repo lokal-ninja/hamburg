@@ -1,11 +1,11 @@
 id: 894757714
-type: way
+type: node
 latitude: 53.55311
 longitude: 9.98967
 postcode: "20354"
 city: Hamburg
-street: "Große Bleichen"
+street: Große Bleichen
 housenumber: 30/36
-phone: "+49 40 57308637"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.paperandtea.de/"
+phone: +49 40 57308637
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.paperandtea.de/

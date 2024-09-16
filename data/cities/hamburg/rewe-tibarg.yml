@@ -1,11 +1,11 @@
 id: 1158265379
-type: way
+type: node
 latitude: 53.6227
 longitude: 9.95241
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
-housenumber: 32
-phone: "+49 40 58910311"
-opening_hours: "Mo-Sa 07:00-23:00; PH off"
-website: "https://www.rewe.de/marktseite/hamburg/540557/rewe-markt-tibarg-32/"
+street: Tibarg
+housenumber: "32"
+phone: +49 40 58910311
+opening_hours: Mo-Sa 07:00-23:00; PH off
+website: https://www.rewe.de/marktseite/hamburg/540557/rewe-markt-tibarg-32/

@@ -4,8 +4,8 @@ latitude: 53.63531
 longitude: 10.01576
 postcode: "22335"
 city: Hamburg
-street: "Langenhorner Chaussee"
-housenumber: 3
-phone: "+49 40 33420369"
-opening_hours: "Buche uns 24/7 online auf treatwell.de"
+street: Langenhorner Chaussee
+housenumber: "3"
+phone: +49 40 33420369
+opening_hours: '"Buche uns 24/7 online auf treatwell.de"'
 website: ""

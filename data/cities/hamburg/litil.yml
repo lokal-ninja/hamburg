@@ -4,8 +4,8 @@ latitude: 53.55372
 longitude: 9.92931
 postcode: "22765"
 city: Hamburg
-street: "Kleine Rainstraße"
-housenumber: 6
+street: Kleine Rainstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-17:00"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 137652574
-type: way
+type: node
 latitude: 53.5493
 longitude: 9.94495
 postcode: "22767"
 city: Hamburg
-street: "Elmenhorststraße"
-housenumber: 10
+street: Elmenhorststraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

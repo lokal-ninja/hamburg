@@ -1,11 +1,11 @@
 id: 26104078
-type: way
+type: node
 latitude: 53.58516
 longitude: 10.0506
 postcode: "22305"
 city: Hamburg
-street: "Bramfelder Straße"
-housenumber: 58
+street: Bramfelder Straße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

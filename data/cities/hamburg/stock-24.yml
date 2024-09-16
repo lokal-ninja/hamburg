@@ -4,8 +4,8 @@ latitude: 53.5546
 longitude: 9.98935
 postcode: "20354"
 city: Hamburg
-street: "Gerhofstraße"
-housenumber: 38
+street: Gerhofstraße
+housenumber: "38"
 phone: ""
-opening_hours: "We-Sa 12:00-18:00"
+opening_hours: We-Sa 12:00-18:00
 website: ""

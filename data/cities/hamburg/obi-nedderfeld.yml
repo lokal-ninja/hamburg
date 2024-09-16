@@ -1,11 +1,11 @@
 id: 418400385
-type: way
+type: node
 latitude: 53.60131
 longitude: 9.97795
 postcode: "22529"
 city: Hamburg
-street: "Nedderfeld"
-housenumber: 100
+street: Nedderfeld
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00
 website: ""

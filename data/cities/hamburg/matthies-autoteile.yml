@@ -1,11 +1,11 @@
 id: 25066452
-type: way
+type: node
 latitude: 53.58067
 longitude: 9.91756
 postcode: "22525"
 city: Hamburg
-street: "Schnackenburgallee"
-housenumber: 49
-phone: "+49 40 23721 0"
+street: Schnackenburgallee
+housenumber: "49"
+phone: +49 40 23721 0
 opening_hours: ""
-website: "https://www.matthies.de"
+website: https://www.matthies.de

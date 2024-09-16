@@ -1,11 +1,11 @@
 id: 241158220
-type: way
+type: node
 latitude: 53.59805
 longitude: 10.06679
 postcode: "22177"
 city: Hamburg
-street: "Bramfelder Chaussee"
+street: Bramfelder Chaussee
 housenumber: 82-84
-phone: "+49 40 69702386"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.edeka-struve.de/filialen/e_center_bramfeld.php"
+phone: +49 40 69702386
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.edeka-struve.de/filialen/e_center_bramfeld.php

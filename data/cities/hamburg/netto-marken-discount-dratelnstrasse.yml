@@ -1,11 +1,11 @@
 id: 201884021
-type: way
+type: node
 latitude: 53.50054
 longitude: 9.99893
 postcode: "21109"
 city: Hamburg
-street: "Dratelnstraße"
-housenumber: 27
+street: Dratelnstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.netto-online.de/filialen/hamburg/dratelnstr-27/2124"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.netto-online.de/filialen/hamburg/dratelnstr-27/2124

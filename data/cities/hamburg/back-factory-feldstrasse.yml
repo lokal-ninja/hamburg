@@ -4,8 +4,8 @@ latitude: 53.55711
 longitude: 9.9683
 postcode: "20359"
 city: Hamburg
-street: "Feldstraße"
-housenumber: 67
+street: Feldstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 05:00-19:00; Su 06:30-18:00"
+opening_hours: Mo-Sa 05:00-19:00; Su 06:30-18:00
 website: ""

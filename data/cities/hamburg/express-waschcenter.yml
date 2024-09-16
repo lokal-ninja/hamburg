@@ -4,8 +4,8 @@ latitude: 53.55539
 longitude: 10.01203
 postcode: "20099"
 city: Hamburg
-street: "Zimmerpforte"
-housenumber: 6
-phone: "+49 40 280 46 55"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "http://express-waschcenter.de/"
+street: Zimmerpforte
+housenumber: "6"
+phone: +49 40 280 46 55
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: http://express-waschcenter.de/

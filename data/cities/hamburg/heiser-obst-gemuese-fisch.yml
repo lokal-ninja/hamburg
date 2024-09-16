@@ -1,11 +1,11 @@
 id: 304383508
-type: way
+type: node
 latitude: 53.55277
 longitude: 9.94285
 postcode: "22767"
 city: Hamburg
-street: "Lornsenstraße"
-housenumber: 11
+street: Lornsenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,15:00-20:00; Sa 08:00-15:00"
+opening_hours: Mo-Fr 08:00-13:00,15:00-20:00; Sa 08:00-15:00
 website: ""

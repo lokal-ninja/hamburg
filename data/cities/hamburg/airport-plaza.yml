@@ -1,11 +1,11 @@
 id: 149993620
-type: way
+type: node
 latitude: 53.63248
 longitude: 10.00466
 postcode: "22335"
 city: Hamburg
-street: "Flughafenstraße"
-housenumber: 3
+street: Flughafenstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 82221116
-type: way
+type: node
 latitude: 53.65406
 longitude: 10.11141
 postcode: "22393"
 city: Hamburg
-street: "Saseler Markt"
-housenumber: 2
+street: Saseler Markt
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
 website: ""

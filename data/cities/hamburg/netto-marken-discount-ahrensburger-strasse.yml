@@ -1,11 +1,11 @@
 id: 220912898
-type: way
+type: node
 latitude: 53.58254
 longitude: 10.10708
 postcode: "22045"
 city: Hamburg
-street: "Ahrensburger Straße"
-housenumber: 150
+street: Ahrensburger Straße
+housenumber: "150"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-22:00; PH off"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-22:00; PH off
 website: ""

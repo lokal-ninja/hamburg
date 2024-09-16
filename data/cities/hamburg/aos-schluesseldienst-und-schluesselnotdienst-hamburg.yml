@@ -4,8 +4,8 @@ latitude: 53.54324
 longitude: 10.00267
 postcode: "20457"
 city: Hamburg
-street: "Shanghaiallee"
-housenumber: 9
-phone: "+49 40 41343666"
-opening_hours: "24/7"
-website: "https://www.schluesselnotdienst.hamburg"
+street: Shanghaiallee
+housenumber: "9"
+phone: +49 40 41343666
+opening_hours: 24/7
+website: https://www.schluesselnotdienst.hamburg

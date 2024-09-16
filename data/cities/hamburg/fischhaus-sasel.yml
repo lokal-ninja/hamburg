@@ -4,8 +4,9 @@ latitude: 53.65355
 longitude: 10.11331
 postcode: "22393"
 city: Hamburg
-street: "Saseler Markt"
-housenumber: 12
+street: Saseler Markt
+housenumber: "12"
 phone: ""
-opening_hours: "Tu 08:00-13:00,14:30-18:00; We 08:00-13:00, Th-Fr 08:00-13:00,14:30-18:00; Sa 08:00-13:00; PH off"
-website: "https://www.veldhoen-fischfeinkost.de/"
+opening_hours: Tu 08:00-13:00,14:30-18:00; We 08:00-13:00, Th-Fr 08:00-13:00,14:30-18:00;
+    Sa 08:00-13:00; PH off
+website: https://www.veldhoen-fischfeinkost.de/

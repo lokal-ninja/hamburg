@@ -4,8 +4,8 @@ latitude: 53.56221
 longitude: 10.03666
 postcode: "22087"
 city: Hamburg
-street: "Landwehr"
-housenumber: 29
-phone: "+49 40 255260"
-opening_hours: "Tu-Th 09:00-13:00,15:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.hesse-hamburg.de/"
+street: Landwehr
+housenumber: "29"
+phone: +49 40 255260
+opening_hours: Tu-Th 09:00-13:00,15:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.hesse-hamburg.de/

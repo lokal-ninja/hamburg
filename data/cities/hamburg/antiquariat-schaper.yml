@@ -1,11 +1,11 @@
 id: 36906462
-type: way
+type: node
 latitude: 53.55973
 longitude: 9.98906
 postcode: ""
 city: Hamburg
-street: "Dammtordamm"
-housenumber: 4
-phone: "+49 40 345016"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://antiquariat-schaper.de"
+street: Dammtordamm
+housenumber: "4"
+phone: +49 40 345016
+opening_hours: Mo-Fr 10:00-17:00
+website: https://antiquariat-schaper.de

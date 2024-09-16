@@ -4,8 +4,8 @@ latitude: 53.60511
 longitude: 10.05322
 postcode: "22309"
 city: Hamburg
-street: "Steilshooper Straße"
-housenumber: 281
-phone: "+49 40 80603030"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.budni.de/filialen/22309-steilshooper-str.-281/"
+street: Steilshooper Straße
+housenumber: "281"
+phone: +49 40 80603030
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.budni.de/filialen/22309-steilshooper-str.-281/

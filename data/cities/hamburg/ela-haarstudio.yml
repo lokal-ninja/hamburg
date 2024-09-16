@@ -4,8 +4,8 @@ latitude: 53.55101
 longitude: 10.0754
 postcode: "22111"
 city: Hamburg
-street: "Horner Landstraße"
-housenumber: 112
-phone: "+49 40 57017847"
-opening_hours: "Tu-Fr 10:00-19:30; Sa 09:00-16:00"
+street: Horner Landstraße
+housenumber: "112"
+phone: +49 40 57017847
+opening_hours: Tu-Fr 10:00-19:30; Sa 09:00-16:00
 website: ""

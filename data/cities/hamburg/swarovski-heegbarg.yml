@@ -4,8 +4,8 @@ latitude: 53.65401
 longitude: 10.09033
 postcode: "22391"
 city: Hamburg
-street: "Heegbarg"
-housenumber: 31
-phone: "+49 40 60682042"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.alstertal-einkaufszentrum.de/shops/swarovski/"
+street: Heegbarg
+housenumber: "31"
+phone: +49 40 60682042
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.alstertal-einkaufszentrum.de/shops/swarovski/

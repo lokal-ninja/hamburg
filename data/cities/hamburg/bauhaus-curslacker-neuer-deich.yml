@@ -1,11 +1,11 @@
 id: 24691546
-type: way
+type: node
 latitude: 53.48105
 longitude: 10.20914
 postcode: "21029"
 city: Hamburg
-street: "Curslacker Neuer Deich"
-housenumber: 45
+street: Curslacker Neuer Deich
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

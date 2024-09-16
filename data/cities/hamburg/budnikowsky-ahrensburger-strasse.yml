@@ -1,11 +1,11 @@
 id: 220912897
-type: way
+type: node
 latitude: 53.58264
 longitude: 10.10746
 postcode: "22045"
 city: Hamburg
-street: "Ahrensburger Straße"
+street: Ahrensburger Straße
 housenumber: 150-152
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-20:00; PH off"
-website: "https://www.budni.de/filialen/22045-ahrensburger-str.-150-152/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-20:00; PH off
+website: https://www.budni.de/filialen/22045-ahrensburger-str.-150-152/

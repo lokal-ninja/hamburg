@@ -4,8 +4,8 @@ latitude: 53.60161
 longitude: 9.99882
 postcode: "22297"
 city: Hamburg
-street: "Braamkamp"
-housenumber: 20
+street: Braamkamp
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00, Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-20:00, Sa 10:00-17:00
 website: ""

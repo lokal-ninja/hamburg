@@ -4,8 +4,8 @@ latitude: 53.62572
 longitude: 10.11728
 postcode: "22175"
 city: Hamburg
-street: "Pezolddamm"
-housenumber: 161
-phone: "+49 40 64080111"
-opening_hours: "Mo-Sa 07:00-23:00; PH,Su off"
-website: "https://www.rewe.de/marktseite/hamburg/540676/rewe-markt-pezolddamm-161/"
+street: Pezolddamm
+housenumber: "161"
+phone: +49 40 64080111
+opening_hours: Mo-Sa 07:00-23:00; PH,Su off
+website: https://www.rewe.de/marktseite/hamburg/540676/rewe-markt-pezolddamm-161/

@@ -1,11 +1,11 @@
-id: 258087597
+id: 293952484
 type: node
-latitude: 53.575
-longitude: 10.04339
-postcode: "22081"
+latitude: 53.62433
+longitude: 10.1152
+postcode: "22159"
 city: Hamburg
-street: "Holsteinischer Kamp"
-housenumber: 65
+street: Pezolddamm
+housenumber: "156"
 phone: ""
-opening_hours: "PH off; Mo-Sa 7:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/barmbek/holsteinischer-kamp-65.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: ""

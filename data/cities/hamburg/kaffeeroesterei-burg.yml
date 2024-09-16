@@ -4,8 +4,8 @@ latitude: 53.58348
 longitude: 9.9771
 postcode: "20251"
 city: Hamburg
-street: "Eppendorfer Weg"
-housenumber: 252
-phone: "+49 40 4221172"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 09:00-18:00"
-website: "https://kaffeeroesterei-burg.de/"
+street: Eppendorfer Weg
+housenumber: "252"
+phone: +49 40 4221172
+opening_hours: Mo-Fr 08:00-19:00, Sa 09:00-18:00
+website: https://kaffeeroesterei-burg.de/

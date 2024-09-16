@@ -4,8 +4,8 @@ latitude: 53.6553
 longitude: 10.09244
 postcode: "22391"
 city: Hamburg
-street: "Heegbarg"
-housenumber: 31
-phone: "+49 40 80603030"
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
-website: "https://www.budni.de/filialen/22391-heegbarg-31/"
+street: Heegbarg
+housenumber: "31"
+phone: +49 40 80603030
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
+website: https://www.budni.de/filialen/22391-heegbarg-31/

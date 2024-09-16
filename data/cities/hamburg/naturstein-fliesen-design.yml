@@ -4,8 +4,9 @@ latitude: 53.61857
 longitude: 9.95153
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
-housenumber: 18
-phone: "+49 40 359 617 87"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-19:00 Nur nach telefonischer Vereinbarung;Sa 09:30-13:00"
-website: "https://www.nfd-gmbh.de/content/"
+street: Tibarg
+housenumber: "18"
+phone: +49 40 359 617 87
+opening_hours: Mo-Fr 08:00-12:00, 13:00-19:00 "Nur nach telefonischer Vereinbarung";Sa
+    09:30-13:00
+website: https://www.nfd-gmbh.de/content/

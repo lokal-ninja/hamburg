@@ -4,8 +4,8 @@ latitude: 53.57558
 longitude: 10.0368
 postcode: "22083"
 city: Hamburg
-street: "Hamburger Straße"
-housenumber: 134
-phone: "+49 1525 8510084"
-opening_hours: "Tu-Th 14:00-18:00; Sa 11:00-16:00; Fr 14:00-18:00"
-website: "https://www.steinzeit-hamburg.de/"
+street: Hamburger Straße
+housenumber: "134"
+phone: +49 1525 8510084
+opening_hours: Tu-Fr 14:00-18:00; Sa 11:00-16:00
+website: https://www.steinzeit-hamburg.de/

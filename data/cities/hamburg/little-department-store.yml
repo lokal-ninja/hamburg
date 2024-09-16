@@ -4,8 +4,8 @@ latitude: 53.58426
 longitude: 9.98048
 postcode: "20251"
 city: Hamburg
-street: "Lehmweg"
-housenumber: 42
-phone: "+49 40 18 08 70 65"
-opening_hours: "Tu-Fr 11:00-18:30, Sa 11:00-17:00"
-website: "https://littledepartmentstore-hamburg.de"
+street: Lehmweg
+housenumber: "42"
+phone: +49 40 18 08 70 65
+opening_hours: Tu-Fr 11:00-18:30, Sa 11:00-17:00
+website: https://littledepartmentstore-hamburg.de

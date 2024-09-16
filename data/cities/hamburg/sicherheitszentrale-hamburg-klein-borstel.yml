@@ -4,8 +4,8 @@ latitude: 53.63333
 longitude: 10.05354
 postcode: "22337"
 city: Hamburg
-street: "Stübeheide"
-housenumber: 153
-phone: "+49 40 25491232"
-opening_hours: "24/7"
-website: "https://www.sicherheitszentralekleinborstel.de/"
+street: Stübeheide
+housenumber: "153"
+phone: +49 40 25491232
+opening_hours: 24/7
+website: https://www.sicherheitszentralekleinborstel.de/

@@ -4,8 +4,8 @@ latitude: 53.6404
 longitude: 10.01893
 postcode: "22415"
 city: Hamburg
-street: "Flughafenstraße"
-housenumber: 81
-phone: "+49 40 6725295"
+street: Flughafenstraße
+housenumber: "81"
+phone: +49 40 6725295
 opening_hours: ""
-website: "http://www.historische-klavierinstrumente.de/"
+website: http://www.historische-klavierinstrumente.de/

@@ -4,8 +4,8 @@ latitude: 53.58865
 longitude: 10.12378
 postcode: "22045"
 city: Hamburg
-street: "Sonnenweg"
-housenumber: 17
+street: Sonnenweg
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 06:00-12:00; Su 08:00-11:00"
+opening_hours: Mo-Sa 06:00-12:00; Su 08:00-11:00
 website: ""

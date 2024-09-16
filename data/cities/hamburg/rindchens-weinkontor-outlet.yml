@@ -4,8 +4,8 @@ latitude: 53.54446
 longitude: 9.93861
 postcode: "22767"
 city: Hamburg
-street: "Große Elbstraße"
-housenumber: 135
-phone: "+49 40 30060900"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-16:00"
-website: "https://www.rindchen.de/kontore/rindchens-weinkontor-outlet"
+street: Große Elbstraße
+housenumber: "135"
+phone: +49 40 30060900
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-16:00
+website: https://www.rindchen.de/kontore/rindchens-weinkontor-outlet

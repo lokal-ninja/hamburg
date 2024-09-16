@@ -4,8 +4,8 @@ latitude: 53.45603
 longitude: 9.98703
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 33319703"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.douglas.de/"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 33319703
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.douglas.de/

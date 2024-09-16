@@ -1,11 +1,11 @@
 id: 82221156
-type: way
+type: node
 latitude: 53.60378
 longitude: 9.96062
 postcode: "22529"
 city: Hamburg
-street: "Kollaustraße"
+street: Kollaustraße
 housenumber: 41-63
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-16:00; Su 11:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-16:00; Su 11:00-17:00
 website: ""

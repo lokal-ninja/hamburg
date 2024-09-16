@@ -4,8 +4,8 @@ latitude: 53.60522
 longitude: 10.05333
 postcode: "22309"
 city: Hamburg
-street: "Steilshooper Straße"
-housenumber: 281
-phone: "+49 40 64424696"
-opening_hours: "Mo-Fr 11:00-16:00"
-website: "https://www.kmcomputer.de/filiale/info/id/11"
+street: Steilshooper Straße
+housenumber: "281"
+phone: +49 40 64424696
+opening_hours: Mo-Fr 11:00-16:00
+website: https://www.kmcomputer.de/filiale/info/id/11

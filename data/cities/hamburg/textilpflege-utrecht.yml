@@ -1,11 +1,11 @@
 id: 112289968
-type: way
+type: node
 latitude: 53.56605
 longitude: 9.88004
 postcode: "22607"
 city: Hamburg
-street: "Milcherstraße"
-housenumber: 2
+street: Milcherstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00"
+opening_hours: Mo-Fr 07:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.54018
 longitude: 10.10468
 postcode: "22111"
 city: Hamburg
-street: "Möllner Landstraße"
-housenumber: 1
-phone: "+49 40 81973105"
-opening_hours: "Mo-Sa 09:30-20:00; PH off"
-website: "https://cubus.com/de/corporate/geschafte/Germany/C10/"
+street: Möllner Landstraße
+housenumber: "1"
+phone: +49 40 81973105
+opening_hours: Mo-Sa 09:30-20:00; PH off
+website: https://cubus.com/de/corporate/geschafte/Germany/C10/

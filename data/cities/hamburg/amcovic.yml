@@ -1,11 +1,11 @@
 id: 203438547
-type: way
+type: node
 latitude: 53.56284
 longitude: 9.94507
 postcode: "22769"
 city: Hamburg
-street: "Stresemannstraße"
-housenumber: 202
-phone: "+49 40 8506810"
+street: Stresemannstraße
+housenumber: "202"
+phone: +49 40 8506810
 opening_hours: ""
 website: ""

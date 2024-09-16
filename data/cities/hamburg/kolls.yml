@@ -4,8 +4,8 @@ latitude: 53.64048
 longitude: 9.94724
 postcode: "22455"
 city: Hamburg
-street: "Rudolf-Klug-Weg"
-housenumber: 7
-phone: "+49 40 57002995"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 08:00-13:00"
-website: "https://www.baeckerei-kolls.de/unsere-filialen/niendorf-rudolf-klug-weg.html"
+street: Rudolf-Klug-Weg
+housenumber: "7"
+phone: +49 40 57002995
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 08:00-13:00
+website: https://www.baeckerei-kolls.de/unsere-filialen/niendorf-rudolf-klug-weg.html

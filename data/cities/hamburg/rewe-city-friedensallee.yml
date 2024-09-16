@@ -4,8 +4,8 @@ latitude: 53.55457
 longitude: 9.92695
 postcode: "22765"
 city: Hamburg
-street: "Friedensallee"
-housenumber: 9
+street: Friedensallee
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

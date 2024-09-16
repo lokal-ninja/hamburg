@@ -4,8 +4,8 @@ latitude: 53.54574
 longitude: 9.97596
 postcode: "20459"
 city: Hamburg
-street: "Rambachstraße"
-housenumber: 13
+street: Rambachstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo 17:00-21:00; Tu-Fr 15:00-21:00; Sa 12:00-21:00; Su off"
-website: "http://weinkost-portugal.de/"
+opening_hours: Mo 17:00-21:00; Tu-Fr 15:00-21:00; Sa 12:00-21:00; Su off
+website: http://weinkost-portugal.de/

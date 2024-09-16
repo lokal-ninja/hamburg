@@ -4,8 +4,8 @@ latitude: 53.56363
 longitude: 9.92297
 postcode: "22761"
 city: Hamburg
-street: "Stresemannstraße"
-housenumber: 362
-phone: "+49 40 8507662"
-opening_hours: "Mo-Fr 08:00-18:00; PH off; Sa 08:00-13:00"
-website: "https://www.pitstop.de/werkstatt/hamburg/"
+street: Stresemannstraße
+housenumber: "362"
+phone: +49 40 8507662
+opening_hours: Mo-Fr 08:00-18:00; PH off; Sa 08:00-13:00
+website: https://www.pitstop.de/werkstatt/hamburg/

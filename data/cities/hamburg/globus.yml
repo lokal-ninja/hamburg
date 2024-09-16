@@ -1,11 +1,11 @@
 id: 27782232
-type: way
+type: node
 latitude: 53.58453
 longitude: 9.87182
 postcode: "22549"
 city: Hamburg
-street: "Grandkuhlenweg"
-housenumber: 11
-phone: "+49 40 83381 0"
-opening_hours: "Mo-Sa 08:00-21:00;PH off"
-website: "https://www.globus.de/hamburg-lurup/index.php"
+street: Grandkuhlenweg
+housenumber: "11"
+phone: +49 40 83381 0
+opening_hours: Mo-Sa 08:00-21:00;PH off
+website: https://www.globus.de/hamburg-lurup/index.php

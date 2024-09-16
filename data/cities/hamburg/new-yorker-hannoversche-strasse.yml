@@ -4,8 +4,8 @@ latitude: 53.45659
 longitude: 9.98631
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 76758328"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "http://www.newyorker.de"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 76758328
+opening_hours: Mo-Sa 09:30-20:00
+website: http://www.newyorker.de

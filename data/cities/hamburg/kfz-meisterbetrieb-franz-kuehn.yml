@@ -1,11 +1,11 @@
 id: 379566681
-type: way
+type: node
 latitude: 53.58496
 longitude: 9.9546
 postcode: "22529"
 city: Hamburg
-street: "Deepenstöcken"
-housenumber: 4
+street: Deepenstöcken
+housenumber: "4"
 phone: "+4940562696"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-13:00; Sa off"
-website: "https://www.kfzkuehn.de/"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-13:00; Sa off
+website: https://www.kfzkuehn.de/

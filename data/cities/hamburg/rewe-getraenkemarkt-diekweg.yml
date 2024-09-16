@@ -1,11 +1,11 @@
 id: 33872285
-type: way
+type: node
 latitude: 53.57393
 longitude: 9.84601
 postcode: "22549"
 city: Hamburg
-street: "Diekweg"
-housenumber: 5
+street: Diekweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

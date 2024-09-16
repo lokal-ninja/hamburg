@@ -4,8 +4,8 @@ latitude: 53.45709
 longitude: 9.96917
 postcode: "21073"
 city: Hamburg
-street: "Hirschfeldplatz"
-housenumber: 5
+street: Hirschfeldplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:30-22:00; Sa 07:30-14:00; Su 10:30-22:00"
+opening_hours: Mo-Fr 07:30-22:00; Sa 07:30-14:00; Su 10:30-22:00
 website: ""

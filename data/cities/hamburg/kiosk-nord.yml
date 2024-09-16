@@ -4,8 +4,8 @@ latitude: 53.62614
 longitude: 10.02406
 postcode: "22335"
 city: Hamburg
-street: "Ratsmühlendamm"
-housenumber: 31
+street: Ratsmühlendamm
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; PH,Su off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; PH,Su off
 website: ""

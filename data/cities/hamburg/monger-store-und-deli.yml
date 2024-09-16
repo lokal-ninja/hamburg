@@ -4,8 +4,8 @@ latitude: 53.58268
 longitude: 9.96642
 postcode: "20253"
 city: Hamburg
-street: "Wrangelstraße"
-housenumber: 100
+street: Wrangelstraße
+housenumber: "100"
 phone: "+494043197850"
-opening_hours: "Mo-Fr 08:30-19:00, Sa 09:00-16:00"
-website: "https://monger.de"
+opening_hours: Mo-Fr 08:30-19:00, Sa 09:00-16:00
+website: https://monger.de

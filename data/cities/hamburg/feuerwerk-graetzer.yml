@@ -4,8 +4,8 @@ latitude: 53.44561
 longitude: 9.9564
 postcode: "21077"
 city: Hamburg
-street: "Bremer Straße"
-housenumber: 243
+street: Bremer Straße
+housenumber: "243"
 phone: ""
-opening_hours: "Dec 29-31"
-website: "https://www.graetzer-einzelhandel.de/"
+opening_hours: Dec 29-31
+website: https://www.graetzer-einzelhandel.de/

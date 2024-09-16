@@ -4,8 +4,8 @@ latitude: 53.66309
 longitude: 10.07724
 postcode: "22399"
 city: Hamburg
-street: "Harksheider Straße"
-housenumber: 41
-phone: "+49 40 6021303"
-opening_hours: "Mo-Sa 07:00-19:00; PH off"
-website: "https://www.rohlfs-baeckerei.de/filialen/"
+street: Harksheider Straße
+housenumber: "41"
+phone: +49 40 6021303
+opening_hours: Mo-Sa 07:00-19:00; PH off
+website: https://www.rohlfs-baeckerei.de/filialen/

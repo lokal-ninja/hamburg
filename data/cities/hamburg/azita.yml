@@ -4,8 +4,8 @@ latitude: 53.55893
 longitude: 9.81162
 postcode: "22587"
 city: Hamburg
-street: "Blankeneser Bahnhofstraße"
-housenumber: 1
-phone: "+49 40 864900"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-15:00"
+street: Blankeneser Bahnhofstraße
+housenumber: "1"
+phone: +49 40 864900
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-15:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.65317
 longitude: 10.11161
 postcode: "22393"
 city: Hamburg
-street: "Saseler Markt"
-housenumber: 19
-phone: "+49 40 6010853"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.rohlfs-baeckerei.de/filialen/"
+street: Saseler Markt
+housenumber: "19"
+phone: +49 40 6010853
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.rohlfs-baeckerei.de/filialen/

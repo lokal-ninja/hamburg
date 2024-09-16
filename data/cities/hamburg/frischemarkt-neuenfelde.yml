@@ -1,11 +1,11 @@
 id: 271023507
-type: way
+type: node
 latitude: 53.52528
 longitude: 9.7809
 postcode: "21129"
 city: Hamburg
-street: "Seehofring"
-housenumber: 1
+street: Seehofring
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

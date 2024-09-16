@@ -4,8 +4,8 @@ latitude: 53.57617
 longitude: 10.02403
 postcode: "22083"
 city: Hamburg
-street: "Beethovenstraße"
-housenumber: 20
+street: Beethovenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 06:30-21:00"
+opening_hours: Mo-Sa 06:30-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.64214
 longitude: 9.91583
 postcode: "22457"
 city: Hamburg
-street: "Burgwedel"
-housenumber: 67
-phone: "+49 40 5503685"
-opening_hours: "10:00-22:00"
-website: "http://ichliebeeis.de/"
+street: Burgwedel
+housenumber: "67"
+phone: +49 40 5503685
+opening_hours: 10:00-22:00
+website: http://ichliebeeis.de/

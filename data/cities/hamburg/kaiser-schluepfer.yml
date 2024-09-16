@@ -1,11 +1,11 @@
 id: 111701765
-type: way
+type: node
 latitude: 53.56463
 longitude: 9.88067
 postcode: "22607"
 city: Hamburg
-street: "Beselerstraße"
-housenumber: 44
+street: Beselerstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00"
+opening_hours: Mo-Fr 10:00-14:00
 website: ""

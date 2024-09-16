@@ -1,11 +1,11 @@
 id: 313450543
-type: way
+type: node
 latitude: 53.57151
 longitude: 9.86842
 postcode: "22549"
 city: Hamburg
-street: "Osdorfer Landstraße"
-housenumber: 50
-phone: "+49  4081979986"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-14:00"
+street: Osdorfer Landstraße
+housenumber: "50"
+phone: +49  4081979986
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-14:00
 website: ""

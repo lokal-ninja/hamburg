@@ -1,11 +1,11 @@
 id: 47185101
-type: way
+type: node
 latitude: 53.61827
 longitude: 10.08061
 postcode: "22175"
 city: Hamburg
-street: "Berner Chaussee"
-housenumber: 10
+street: Berner Chaussee
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.62194
 longitude: 9.95207
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
-housenumber: 37
-phone: "+49 40 58917904"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off"
-website: "https://sanitaetshaus-schroll.de"
+street: Tibarg
+housenumber: "37"
+phone: +49 40 58917904
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off
+website: https://sanitaetshaus-schroll.de

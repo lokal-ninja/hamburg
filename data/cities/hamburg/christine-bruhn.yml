@@ -4,8 +4,8 @@ latitude: 53.55132
 longitude: 9.93004
 postcode: "22765"
 city: Hamburg
-street: "Bahrenfelder Straße"
-housenumber: 71
-phone: "+49 40 3900099"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00"
-website: "https://www.christinebruhn.de/"
+street: Bahrenfelder Straße
+housenumber: "71"
+phone: +49 40 3900099
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-16:00
+website: https://www.christinebruhn.de/

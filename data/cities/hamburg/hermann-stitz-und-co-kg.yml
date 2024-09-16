@@ -1,11 +1,11 @@
 id: 34328994
-type: way
+type: node
 latitude: 53.57239
 longitude: 9.93594
 postcode: "22769"
 city: Hamburg
-street: "Haferweg"
+street: Haferweg
 housenumber: 42-44
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00, Fr 07:00-14:00;Sa,Su off"
+opening_hours: Mo-Th 07:00-17:00, Fr 07:00-14:00;Sa,Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.55322
 longitude: 9.98313
 postcode: "20355"
 city: Hamburg
-street: "Kaiser-Wilhelm-Straße"
-housenumber: 47
+street: Kaiser-Wilhelm-Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-16:00; Mo off"
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-16:00; Mo off
 website: ""

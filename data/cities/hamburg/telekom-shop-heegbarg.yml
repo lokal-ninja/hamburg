@@ -4,8 +4,8 @@ latitude: 53.65502
 longitude: 10.09148
 postcode: "22391"
 city: Hamburg
-street: "Heegbarg"
-housenumber: 33
-phone: "+49 40 60679644"
-opening_hours: "Mo off; Tu-Sa 09:30-20:00; Su off"
-website: "https://shopseite.telekom.de/nord-ost/hamburg/heegbarg-33"
+street: Heegbarg
+housenumber: "33"
+phone: +49 40 60679644
+opening_hours: Mo off; Tu-Sa 09:30-20:00; Su off
+website: https://shopseite.telekom.de/nord-ost/hamburg/heegbarg-33

@@ -1,11 +1,11 @@
 id: 23386017
-type: way
+type: node
 latitude: 53.60444
 longitude: 10.07309
 postcode: "22177"
 city: Hamburg
-street: "Bramfelder Chaussee"
-housenumber: 136
+street: Bramfelder Chaussee
+housenumber: "136"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 240322653
-type: way
+type: node
 latitude: 53.49
 longitude: 10.18811
 postcode: "21033"
 city: Hamburg
-street: "Oberer Landweg"
-housenumber: 7
+street: Oberer Landweg
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

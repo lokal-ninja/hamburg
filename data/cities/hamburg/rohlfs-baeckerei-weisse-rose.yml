@@ -4,8 +4,8 @@ latitude: 53.64805
 longitude: 10.16374
 postcode: "22359"
 city: Hamburg
-street: "Weiße Rose"
-housenumber: 1
-phone: "+49 40 64422722"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-16:00; PH off"
-website: "https://www.rohlfs-baeckerei.de/filialen/"
+street: Weiße Rose
+housenumber: "1"
+phone: +49 40 64422722
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-16:00; PH off
+website: https://www.rohlfs-baeckerei.de/filialen/

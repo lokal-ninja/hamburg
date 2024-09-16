@@ -1,11 +1,11 @@
 id: 51453927
-type: way
+type: node
 latitude: 53.55725
 longitude: 10.10105
 postcode: "22119"
 city: Hamburg
-street: "Manshardtstraße"
-housenumber: 74
+street: Manshardtstraße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.60339
 longitude: 10.15444
 postcode: "22143"
 city: Hamburg
-street: "Rahlstedter Bahnhofstraße"
-housenumber: 14
+street: Rahlstedter Bahnhofstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-We 10:00-16:00; Th 10:00-16:00; Sa 09:30-13:30"
-website: "https://www.lederwaren-niederstadt.de/"
+opening_hours: Mo-We 10:00-16:00; Th 10:00-16:00; Sa 09:30-13:30
+website: https://www.lederwaren-niederstadt.de/

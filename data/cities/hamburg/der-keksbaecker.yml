@@ -4,8 +4,8 @@ latitude: 53.58365
 longitude: 9.95493
 postcode: "22529"
 city: Hamburg
-street: "Sorthmannweg"
-housenumber: 10
-phone: "+49 40 5605006"
-opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-16:00"
-website: "https://www.der-keksbaecker-hamburg.de/"
+street: Sorthmannweg
+housenumber: "10"
+phone: +49 40 5605006
+opening_hours: Tu-Th 09:00-18:00; Fr 09:00-16:00
+website: https://www.der-keksbaecker-hamburg.de/

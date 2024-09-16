@@ -4,8 +4,8 @@ latitude: 53.57092
 longitude: 9.98052
 postcode: "20146"
 city: Hamburg
-street: "Heinrich-Barth-Straße"
-housenumber: 15
-phone: "+49 40 4102920"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.benvenuto-hamburg.de/"
+street: Heinrich-Barth-Straße
+housenumber: "15"
+phone: +49 40 4102920
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.benvenuto-hamburg.de/

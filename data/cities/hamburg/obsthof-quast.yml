@@ -4,8 +4,8 @@ latitude: 53.50833
 longitude: 9.86708
 postcode: "21129"
 city: Hamburg
-street: "Hohenwischer Straße"
-housenumber: 141
+street: Hohenwischer Straße
+housenumber: "141"
 phone: ""
-opening_hours: "Mo, We-Sa 09:00-18:00; Su 10:00-15:00"
-website: "https://www.obsthof-quast-francop.de"
+opening_hours: Mo, We-Sa 09:00-18:00; Su 10:00-15:00
+website: https://www.obsthof-quast-francop.de

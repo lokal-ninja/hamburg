@@ -4,8 +4,8 @@ latitude: 53.44312
 longitude: 9.98944
 postcode: "21077"
 city: Hamburg
-street: "Kapellenweg"
-housenumber: 107
-phone: "+49 40 70385540"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "http://www.verena-schmidt.de/"
+street: Kapellenweg
+housenumber: "107"
+phone: +49 40 70385540
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: http://www.verena-schmidt.de/

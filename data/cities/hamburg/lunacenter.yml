@@ -1,11 +1,11 @@
 id: 174612646
-type: way
+type: node
 latitude: 53.49793
 longitude: 10.00733
 postcode: "21109"
 city: Hamburg
-street: "Wilhelm-Strauß-Weg"
-housenumber: 4
+street: Wilhelm-Strauß-Weg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.lunacenter-wg.de/willkommen-im-lunacenter.html"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.lunacenter-wg.de/willkommen-im-lunacenter.html

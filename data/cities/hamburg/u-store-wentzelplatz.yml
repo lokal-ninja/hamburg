@@ -1,11 +1,11 @@
 id: 126714564
-type: way
+type: node
 latitude: 53.652
 longitude: 10.09282
 postcode: "22391"
 city: Hamburg
-street: "Wentzelplatz"
-housenumber: 2
+street: Wentzelplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa,Su 07:00-21:00; PH 08:00-21:00"
+opening_hours: Mo-Fr 06:00-21:00; Sa,Su 07:00-21:00; PH 08:00-21:00
 website: ""

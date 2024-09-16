@@ -1,11 +1,11 @@
 id: 96927123
-type: way
+type: node
 latitude: 53.65371
 longitude: 10.08978
 postcode: "22391"
 city: Hamburg
-street: "Heegbarg"
-housenumber: 
+street: Heegbarg
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.alstertal-einkaufszentrum.de/"
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.alstertal-einkaufszentrum.de/

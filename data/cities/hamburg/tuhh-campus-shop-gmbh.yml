@@ -4,8 +4,9 @@ latitude: 53.46104
 longitude: 9.96934
 postcode: "21073"
 city: Hamburg
-street: "Denickestraße"
-housenumber: 22
-phone: "+49 40 25487818"
-opening_hours: "Mo-Fr 09:30-16:00; Mar Mo-Fr 11:00-15:30; Sep Mo-Fr 11:00-15:30; PH off"
-website: "https://tuhh-campus-shop.de/"
+street: Denickestraße
+housenumber: "22"
+phone: +49 40 25487818
+opening_hours: Mo-Fr 09:30-16:00; Mar Mo-Fr 11:00-15:30; Sep Mo-Fr 11:00-15:30; PH
+    off
+website: https://tuhh-campus-shop.de/

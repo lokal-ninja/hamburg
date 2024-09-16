@@ -4,8 +4,8 @@ latitude: 53.61908
 longitude: 10.01464
 postcode: "22335"
 city: Hamburg
-street: "Sengelmannstraße"
-housenumber: 100
+street: Sengelmannstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

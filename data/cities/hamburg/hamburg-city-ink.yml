@@ -4,8 +4,8 @@ latitude: 53.56822
 longitude: 9.95105
 postcode: "22769"
 city: Hamburg
-street: "Eimsbütteler Straße"
-housenumber: 98
+street: Eimsbütteler Straße
+housenumber: "98"
 phone: ""
-opening_hours: "Nur mit Termin"
-website: "https://hamburg-city-ink.de/"
+opening_hours: '"Nur mit Termin"'
+website: https://hamburg-city-ink.de/

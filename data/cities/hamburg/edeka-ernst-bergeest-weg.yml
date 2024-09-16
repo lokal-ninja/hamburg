@@ -1,11 +1,11 @@
 id: 107816782
-type: way
+type: node
 latitude: 53.44149
 longitude: 9.95998
 postcode: "21077"
 city: Hamburg
-street: "Ernst-Bergeest-Weg"
-housenumber: 53
+street: Ernst-Bergeest-Weg
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00, Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-20:00, Sa 07:30-18:00
 website: ""

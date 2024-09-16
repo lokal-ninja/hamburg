@@ -4,8 +4,8 @@ latitude: 53.45655
 longitude: 9.98744
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 76755634"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "http://www.campdavid.de/"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 76755634
+opening_hours: Mo-Sa 09:30-20:00
+website: http://www.campdavid.de/

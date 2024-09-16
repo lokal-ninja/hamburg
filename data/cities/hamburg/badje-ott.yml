@@ -1,11 +1,11 @@
 id: 70526736
-type: way
+type: node
 latitude: 53.64812
 longitude: 10.16364
 postcode: "22359"
 city: Hamburg
-street: "Weiße Rose"
-housenumber: 17
-phone: "+49 40 6034849"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; PH,Su off"
-website: "https://www.mediaathome.de/hamburg-badje-ott/"
+street: Weiße Rose
+housenumber: "17"
+phone: +49 40 6034849
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00; PH,Su off
+website: https://www.mediaathome.de/hamburg-badje-ott/

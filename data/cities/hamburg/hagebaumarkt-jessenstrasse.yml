@@ -1,11 +1,11 @@
 id: 24733145
-type: way
+type: node
 latitude: 53.55038
 longitude: 9.9446
 postcode: "22767"
 city: Hamburg
-street: "Jessenstraße"
-housenumber: 11
-phone: "+49 40 3808359-0"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.hagebaumarkt-hamburg.de/"
+street: Jessenstraße
+housenumber: "11"
+phone: +49 40 3808359-0
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.hagebaumarkt-hamburg.de/

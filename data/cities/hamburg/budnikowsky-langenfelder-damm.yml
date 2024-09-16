@@ -4,8 +4,8 @@ latitude: 53.5818
 longitude: 9.93749
 postcode: "22525"
 city: Hamburg
-street: "Langenfelder Damm"
-housenumber: 62
+street: Langenfelder Damm
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:30"
-website: "https://www.budni.de/filialen/22525-langenfelder-damm-62/"
+opening_hours: Mo-Sa 08:00-20:30
+website: https://www.budni.de/filialen/22525-langenfelder-damm-62/

@@ -4,8 +4,8 @@ latitude: 53.55281
 longitude: 9.93149
 postcode: "22765"
 city: Hamburg
-street: "Ottenser Hauptstraße"
-housenumber: 10
-phone: "+49 40 410 07 347"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.hermann-juergensen.de/"
+street: Ottenser Hauptstraße
+housenumber: "10"
+phone: +49 40 410 07 347
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.hermann-juergensen.de/

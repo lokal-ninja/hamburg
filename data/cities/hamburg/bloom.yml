@@ -4,8 +4,8 @@ latitude: 53.57208
 longitude: 9.95943
 postcode: "20259"
 city: Hamburg
-street: "Eppendorfer Weg"
-housenumber: 56
-phone: "+49 40 43179984"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-16:00"
-website: "https://bloom-hamburg.de"
+street: Eppendorfer Weg
+housenumber: "56"
+phone: +49 40 43179984
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-16:00
+website: https://bloom-hamburg.de

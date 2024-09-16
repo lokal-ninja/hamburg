@@ -4,8 +4,8 @@ latitude: 53.55558
 longitude: 9.94825
 postcode: "22767"
 city: Hamburg
-street: "Virchowstraße"
-housenumber: 81
+street: Virchowstraße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00, Sa 07:00-13:00, Su 08:00-13:00"
-website: "https://ankiosk.eatbu.com/"
+opening_hours: Mo-Fr 06:00-18:00, Sa 07:00-13:00, Su 08:00-13:00
+website: https://ankiosk.eatbu.com/

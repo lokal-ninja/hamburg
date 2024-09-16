@@ -4,8 +4,8 @@ latitude: 53.5155
 longitude: 10.16507
 postcode: "21031"
 city: Hamburg
-street: "Heidhorst"
-housenumber: 5
-phone: "+49 40 42944545"
-opening_hours: "Mo-Fr 11:00-20:00; Sa 10:00-16:00"
-website: "https://www.rindchen.de/kontore/kontor-hamburg-boberg"
+street: Heidhorst
+housenumber: "5"
+phone: +49 40 42944545
+opening_hours: Mo-Fr 11:00-20:00; Sa 10:00-16:00
+website: https://www.rindchen.de/kontore/kontor-hamburg-boberg

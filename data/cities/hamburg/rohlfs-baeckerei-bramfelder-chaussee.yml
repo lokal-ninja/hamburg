@@ -4,8 +4,8 @@ latitude: 53.61878
 longitude: 10.08066
 postcode: "22177"
 city: Hamburg
-street: "Bramfelder Chaussee"
-housenumber: 324
-phone: "+49 40 6426887"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.rohlfs-baeckerei.de/filialen/"
+street: Bramfelder Chaussee
+housenumber: "324"
+phone: +49 40 6426887
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.rohlfs-baeckerei.de/filialen/

@@ -1,11 +1,11 @@
 id: 697324290
-type: way
+type: node
 latitude: 53.60171
 longitude: 10.11354
 postcode: "22159"
 city: Hamburg
-street: "Ivo-Hauptmann-Ring"
-housenumber: 4
-phone: "+49 40 413030 0"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "https://www.harley-hh.de/"
+street: Ivo-Hauptmann-Ring
+housenumber: "4"
+phone: +49 40 413030 0
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
+website: https://www.harley-hh.de/

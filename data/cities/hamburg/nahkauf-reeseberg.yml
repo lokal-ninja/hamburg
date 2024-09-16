@@ -4,8 +4,8 @@ latitude: 53.44627
 longitude: 9.99389
 postcode: "21079"
 city: Hamburg
-street: "Reeseberg"
-housenumber: 62
+street: Reeseberg
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00;PH off"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00;PH off
 website: ""

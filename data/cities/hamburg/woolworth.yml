@@ -4,8 +4,8 @@ latitude: 53.62099
 longitude: 9.95243
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
-housenumber: 42
+street: Tibarg
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH,Su off"
-website: "https://woolworth.de/filialen/filiale/woolworth-hamburg-niendorf/"
+opening_hours: Mo-Sa 09:00-20:00; PH,Su off
+website: https://woolworth.de/filialen/filiale/woolworth-hamburg-niendorf/

@@ -1,11 +1,11 @@
 id: 253697921
-type: way
+type: node
 latitude: 53.50888
 longitude: 10.18487
 postcode: "21031"
 city: Hamburg
-street: "Mendelstraße"
-housenumber: 47
-phone: "+49 800 7234870"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/hamburg/mendelstrasse-47/3182040"
+street: Mendelstraße
+housenumber: "47"
+phone: +49 800 7234870
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/hamburg/mendelstrasse-47/3182040

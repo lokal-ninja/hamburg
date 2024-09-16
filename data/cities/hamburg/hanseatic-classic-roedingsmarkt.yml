@@ -4,8 +4,8 @@ latitude: 53.54558
 longitude: 9.98493
 postcode: "20459"
 city: Hamburg
-street: "Rödingsmarkt"
-housenumber: 47
+street: Rödingsmarkt
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off
 website: ""

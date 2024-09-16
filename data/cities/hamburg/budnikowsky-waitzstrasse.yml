@@ -4,8 +4,8 @@ latitude: 53.55933
 longitude: 9.88187
 postcode: "22607"
 city: Hamburg
-street: "Waitzstraße"
-housenumber: 29
+street: Waitzstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-18:30"
-website: "https://www.budni.de/filialen/22607-waitzstrasse-29?"
+opening_hours: Mo-Fr 08:00-19:30; Sa 08:00-18:30
+website: https://www.budni.de/filialen/22607-waitzstrasse-29?

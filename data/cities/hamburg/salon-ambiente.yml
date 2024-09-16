@@ -4,8 +4,8 @@ latitude: 53.5678
 longitude: 9.98078
 postcode: "20146"
 city: Hamburg
-street: "Grindelallee"
-housenumber: 
+street: Grindelallee
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

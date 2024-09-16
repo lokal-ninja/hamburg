@@ -4,8 +4,8 @@ latitude: 53.61873
 longitude: 10.08071
 postcode: "22177"
 city: Hamburg
-street: "Bramfelder Chaussee"
-housenumber: 322
-phone: "+49 40 20974519"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/eh/nord/edeka-woytke-bramfelder-chaussee-312-326/index.jsp"
+street: Bramfelder Chaussee
+housenumber: "322"
+phone: +49 40 20974519
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka.de/eh/nord/edeka-woytke-bramfelder-chaussee-312-326/index.jsp

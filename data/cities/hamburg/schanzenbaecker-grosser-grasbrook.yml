@@ -4,8 +4,8 @@ latitude: 53.54179
 longitude: 9.99382
 postcode: "20457"
 city: Hamburg
-street: "Großer Grasbrook"
-housenumber: 9
+street: Großer Grasbrook
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 06:30-18:00; Su 07:00-17:00"
-website: "https://www.schanzenbaeckerei.de/filialen/grosser-grasbrook"
+opening_hours: Mo-Sa 06:30-18:00; Su 07:00-17:00
+website: https://www.schanzenbaeckerei.de/filialen/grosser-grasbrook

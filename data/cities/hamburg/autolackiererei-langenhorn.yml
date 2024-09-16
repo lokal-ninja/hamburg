@@ -4,8 +4,8 @@ latitude: 53.6598
 longitude: 10.00396
 postcode: "22419"
 city: Hamburg
-street: "Oehleckerring"
-housenumber: 2
-phone: "+49 40 5321313"
-opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-14:00"
-website: "https://www.autolackiererei-langenhorn.de/"
+street: Oehleckerring
+housenumber: "2"
+phone: +49 40 5321313
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-14:00
+website: https://www.autolackiererei-langenhorn.de/

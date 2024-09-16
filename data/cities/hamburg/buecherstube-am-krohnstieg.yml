@@ -4,8 +4,8 @@ latitude: 53.6492
 longitude: 10.01551
 postcode: "22415"
 city: Hamburg
-street: "Tangstedter Landstraße"
-housenumber: 53
-phone: "+49 40 46652716"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-14:00"
-website: "http://www.buecherstube-krohnstieg.de"
+street: Tangstedter Landstraße
+housenumber: "53"
+phone: +49 40 46652716
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-14:00
+website: http://www.buecherstube-krohnstieg.de

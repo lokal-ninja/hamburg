@@ -1,11 +1,11 @@
 id: 1158265391
-type: way
+type: node
 latitude: 53.62279
 longitude: 9.95201
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
-housenumber: 41
-phone: "+49 40 35018475"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-18:00"
-website: "https://elara-online.de/"
+street: Tibarg
+housenumber: "41"
+phone: +49 40 35018475
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:30-18:00
+website: https://elara-online.de/

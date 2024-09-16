@@ -1,11 +1,11 @@
 id: 1171321753
-type: way
+type: node
 latitude: 53.62275
 longitude: 9.95229
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
-housenumber: 41
-phone: "+49 40 54007471"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00; PH off"
-website: "https://www.optik-ruge.de/tibarg.php"
+street: Tibarg
+housenumber: "41"
+phone: +49 40 54007471
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-18:00; PH off
+website: https://www.optik-ruge.de/tibarg.php

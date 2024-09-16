@@ -4,8 +4,8 @@ latitude: 53.54279
 longitude: 10.09626
 postcode: "22111"
 city: Hamburg
-street: "Washingtonallee"
-housenumber: 113
+street: Washingtonallee
+housenumber: "113"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off
 website: ""

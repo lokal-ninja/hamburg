@@ -4,8 +4,8 @@ latitude: 53.55259
 longitude: 9.93249
 postcode: "22765"
 city: Hamburg
-street: "Ottenser Hauptstraße"
-housenumber: 10
-phone: "+49 40 39899357"
-opening_hours: "Mo-We,Sa 10:00-20:00; Th,Fr 10:00-21:00"
-website: "https://www.hartfelder-spiel.de/"
+street: Ottenser Hauptstraße
+housenumber: "10"
+phone: +49 40 39899357
+opening_hours: Mo-We,Sa 10:00-20:00; Th,Fr 10:00-21:00
+website: https://www.hartfelder-spiel.de/

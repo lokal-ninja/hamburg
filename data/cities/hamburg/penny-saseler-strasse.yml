@@ -1,11 +1,11 @@
 id: 334901152
-type: way
+type: node
 latitude: 53.62913
 longitude: 10.15017
 postcode: "22145"
 city: Hamburg
-street: "Saseler Straße"
+street: Saseler Straße
 housenumber: 136a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

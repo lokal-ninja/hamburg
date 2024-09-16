@@ -1,11 +1,11 @@
 id: 40963556
-type: way
+type: node
 latitude: 53.65368
 longitude: 10.11368
 postcode: "22393"
 city: Hamburg
-street: "Waldweg"
+street: Waldweg
 housenumber: 1a
-phone: "+49 40 63649394"
-opening_hours: "Mo-Fr 11:00-20:00; Sa 10:00-16:00"
-website: "https://www.rindchen.de/kontore/kontor-hamburg-sasel"
+phone: +49 40 63649394
+opening_hours: Mo-Fr 11:00-20:00; Sa 10:00-16:00
+website: https://www.rindchen.de/kontore/kontor-hamburg-sasel

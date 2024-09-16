@@ -4,8 +4,8 @@ latitude: 53.57791
 longitude: 10.01463
 postcode: "22085"
 city: Hamburg
-street: "Hofweg"
-housenumber: 96
+street: Hofweg
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://peco-sport.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://peco-sport.de/

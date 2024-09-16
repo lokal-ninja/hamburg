@@ -4,8 +4,8 @@ latitude: 53.55133
 longitude: 9.99515
 postcode: "20095"
 city: Hamburg
-street: "Bergstraße"
-housenumber: 16
-phone: "+49 40 42932035"
-opening_hours: "Mo-Fr 07:00-20:00; PH off; Sa 08:00-20:00"
-website: "https://www.baecker-gaues.de/unsere-standorte.html"
+street: Bergstraße
+housenumber: "16"
+phone: +49 40 42932035
+opening_hours: Mo-Fr 07:00-20:00; PH off; Sa 08:00-20:00
+website: https://www.baecker-gaues.de/unsere-standorte.html

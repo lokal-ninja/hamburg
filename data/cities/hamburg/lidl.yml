@@ -4,8 +4,8 @@ latitude: 53.53955
 longitude: 10.11144
 postcode: "22111"
 city: Hamburg
-street: "Reclamstraße"
-housenumber: 19
+street: Reclamstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

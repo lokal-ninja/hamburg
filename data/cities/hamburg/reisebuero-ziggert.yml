@@ -4,8 +4,8 @@ latitude: 53.65318
 longitude: 10.11255
 postcode: "22393"
 city: Hamburg
-street: "Saseler Markt"
-housenumber: 15
-phone: "+49 40 47114815"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.reisebuero-ziggert.de/"
+street: Saseler Markt
+housenumber: "15"
+phone: +49 40 47114815
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.reisebuero-ziggert.de/

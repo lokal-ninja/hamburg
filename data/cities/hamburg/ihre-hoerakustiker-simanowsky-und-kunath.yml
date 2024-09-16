@@ -4,8 +4,8 @@ latitude: 53.60231
 longitude: 10.15398
 postcode: "22143"
 city: Hamburg
-street: "Rahlstedter Bahnhofstraße"
-housenumber: 22
-phone: "+49 40 50064969"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Rahlstedter Bahnhofstraße
+housenumber: "22"
+phone: +49 40 50064969
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

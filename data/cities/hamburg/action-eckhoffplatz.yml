@@ -4,8 +4,8 @@ latitude: 53.59178
 longitude: 9.87355
 postcode: "22547"
 city: Hamburg
-street: "Eckhoffplatz"
-housenumber: 1
+street: Eckhoffplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.com/de-de/laden/hamburg-altona/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.com/de-de/laden/hamburg-altona/

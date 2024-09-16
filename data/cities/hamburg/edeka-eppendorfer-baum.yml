@@ -1,11 +1,11 @@
 id: 55462625
-type: way
+type: node
 latitude: 53.58426
 longitude: 9.98228
 postcode: "20249"
 city: Hamburg
-street: "Eppendorfer Baum"
-housenumber: 35
+street: Eppendorfer Baum
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH,Su off"
+opening_hours: Mo-Sa 08:00-21:00; PH,Su off
 website: ""

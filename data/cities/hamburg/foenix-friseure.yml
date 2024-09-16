@@ -4,8 +4,8 @@ latitude: 53.58404
 longitude: 10.01151
 postcode: "22303"
 city: Hamburg
-street: "Semperstraße"
-housenumber: 8
-phone: "+49 40 27 09 83 83"
-opening_hours: "Mo 09:00-18:00; Tu-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://foenix-friseure.de/"
+street: Semperstraße
+housenumber: "8"
+phone: +49 40 27 09 83 83
+opening_hours: Mo 09:00-18:00; Tu-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://foenix-friseure.de/

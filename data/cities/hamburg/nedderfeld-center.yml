@@ -1,11 +1,11 @@
 id: 29089908
-type: way
+type: node
 latitude: 53.60105
 longitude: 9.97506
 postcode: "22529"
 city: Hamburg
-street: "Nedderfeld"
-housenumber: 70
+street: Nedderfeld
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"
-website: "https://www.nedderfeldcenter.de/"
+opening_hours: Mo-Sa 07:00-22:00; PH,Su off
+website: https://www.nedderfeldcenter.de/

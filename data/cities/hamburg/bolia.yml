@@ -4,8 +4,8 @@ latitude: 53.55616
 longitude: 9.98813
 postcode: "20354"
 city: Hamburg
-street: "Dammtorstraße"
-housenumber: 30
+street: Dammtorstraße
+housenumber: "30"
 phone: "+491729429526"
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
+opening_hours: Mo-Sa 10:00-19:00; Su off
 website: ""

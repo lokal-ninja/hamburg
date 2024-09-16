@@ -4,8 +4,8 @@ latitude: 53.58192
 longitude: 10.01081
 postcode: "22303"
 city: Hamburg
-street: "Mühlenkamp"
-housenumber: 39
-phone: "+49 40 2700472"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:30"
-website: "https://www.douglas.de/douglas/Parf%C3%BCmerie/Hamburg/0281/0002/vst.html"
+street: Mühlenkamp
+housenumber: "39"
+phone: +49 40 2700472
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:30
+website: https://www.douglas.de/douglas/Parf%C3%BCmerie/Hamburg/0281/0002/vst.html

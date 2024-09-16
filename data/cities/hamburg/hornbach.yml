@@ -1,11 +1,11 @@
 id: 32592335
-type: way
+type: node
 latitude: 53.61504
 longitude: 9.90328
 postcode: "22523"
 city: Hamburg
-street: "Holsteiner Chaussee"
-housenumber: 49
+street: Holsteiner Chaussee
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

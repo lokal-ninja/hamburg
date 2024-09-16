@@ -1,11 +1,11 @@
 id: 107819822
-type: way
+type: node
 latitude: 53.4253
 longitude: 9.99021
 postcode: "21079"
 city: Hamburg
-street: "Meckelfelder Weg"
-housenumber: 47
+street: Meckelfelder Weg
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

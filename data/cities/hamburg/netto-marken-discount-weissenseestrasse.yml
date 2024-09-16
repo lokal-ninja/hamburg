@@ -1,11 +1,11 @@
 id: 53615635
-type: way
+type: node
 latitude: 53.58526
 longitude: 10.15115
 postcode: "22149"
 city: Hamburg
-street: "Weißenseestraße"
+street: Weißenseestraße
 housenumber: 5c
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

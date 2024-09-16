@@ -4,8 +4,8 @@ latitude: 53.63308
 longitude: 9.95731
 postcode: "22459"
 city: Hamburg
-street: "Krähenweg"
-housenumber: 19
+street: Krähenweg
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.werkerswelt-niendorf.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.werkerswelt-niendorf.de

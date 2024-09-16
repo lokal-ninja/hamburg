@@ -4,8 +4,8 @@ latitude: 53.54763
 longitude: 9.96588
 postcode: "20359"
 city: Hamburg
-street: "Hopfenstraße"
-housenumber: 5
+street: Hopfenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:30-15:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 06:30-15:00; Sa 08:00-12:00
 website: ""

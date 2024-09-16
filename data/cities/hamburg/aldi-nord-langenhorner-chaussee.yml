@@ -1,11 +1,11 @@
 id: 545689478
-type: way
+type: node
 latitude: 53.67283
 longitude: 10.00121
 postcode: "22419"
 city: Hamburg
-street: "Langenhorner Chaussee"
-housenumber: 579
+street: Langenhorner Chaussee
+housenumber: "579"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/langenhorn/langenhorner-chaussee-579.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/langenhorn/langenhorner-chaussee-579.html

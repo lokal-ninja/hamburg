@@ -1,11 +1,11 @@
 id: 32525976
-type: way
+type: node
 latitude: 53.59971
 longitude: 9.97353
 postcode: "22529"
 city: Hamburg
-street: "Osterfeldstraße"
-housenumber: 30
+street: Osterfeldstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

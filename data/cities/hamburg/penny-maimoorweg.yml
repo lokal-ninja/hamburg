@@ -1,11 +1,11 @@
 id: 47657054
-type: way
+type: node
 latitude: 53.60614
 longitude: 10.07687
 postcode: "22179"
 city: Hamburg
-street: "Maimoorweg"
-housenumber: 46
+street: Maimoorweg
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:30-21:00; Su,PH off
 website: ""

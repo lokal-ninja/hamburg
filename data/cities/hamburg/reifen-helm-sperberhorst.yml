@@ -4,8 +4,8 @@ latitude: 53.63418
 longitude: 9.95789
 postcode: "22459"
 city: Hamburg
-street: "Sperberhorst"
-housenumber: 15
-phone: "+49 40 5515011"
-opening_hours: "Mo-Fr 08:00-17:00; PH off"
-website: "https://www.reifenhelm.de/standort/hamburg-niendorf"
+street: Sperberhorst
+housenumber: "15"
+phone: +49 40 5515011
+opening_hours: Mo-Fr 08:00-17:00; PH off
+website: https://www.reifenhelm.de/standort/hamburg-niendorf

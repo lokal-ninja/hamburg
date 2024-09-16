@@ -4,8 +4,8 @@ latitude: 53.57159
 longitude: 9.96023
 postcode: "20259"
 city: Hamburg
-street: "Weidenstieg"
-housenumber: 11
+street: Weidenstieg
+housenumber: "11"
 phone: "04032960806"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 11:00-17:00"
-website: "https://hello-mode.de"
+opening_hours: Mo-Fr 10:00-19:00; Sa 11:00-17:00
+website: https://hello-mode.de

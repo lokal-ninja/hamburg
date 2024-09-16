@@ -4,8 +4,8 @@ latitude: 53.61241
 longitude: 9.96199
 postcode: "22453"
 city: Hamburg
-street: "Papenreye"
-housenumber: 18
-phone: "+49 40 526783625"
-opening_hours: "Mo-Fr 06:00-13:00; Sa 06:00-13:00"
-website: "https://www.baeckerei-hoenig.de/shops"
+street: Papenreye
+housenumber: "18"
+phone: +49 40 526783625
+opening_hours: Mo-Fr 06:00-13:00; Sa 06:00-13:00
+website: https://www.baeckerei-hoenig.de/shops

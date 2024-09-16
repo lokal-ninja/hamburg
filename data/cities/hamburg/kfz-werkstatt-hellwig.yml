@@ -4,8 +4,8 @@ latitude: 53.6088
 longitude: 10.03796
 postcode: "22337"
 city: Hamburg
-street: "Fuhlsbüttler Straße"
-housenumber: 527
-phone: "+49 40 6319289"
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-15:00"
-website: "https://www.kfz-werkstatt-hellwig.de"
+street: Fuhlsbüttler Straße
+housenumber: "527"
+phone: +49 40 6319289
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-15:00
+website: https://www.kfz-werkstatt-hellwig.de

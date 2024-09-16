@@ -4,8 +4,8 @@ latitude: 53.57929
 longitude: 9.94966
 postcode: "20255"
 city: Hamburg
-street: "Stellinger Weg"
-housenumber: 26
-phone: "+49 40 43183766"
-opening_hours: "Mo-Fr 11:00-20:00; Sa 10:00-16:00"
-website: "https://www.rindchen.de/kontore/kontor-hamburg-eimsbuettel"
+street: Stellinger Weg
+housenumber: "26"
+phone: +49 40 43183766
+opening_hours: Mo-Fr 11:00-20:00; Sa 10:00-16:00
+website: https://www.rindchen.de/kontore/kontor-hamburg-eimsbuettel

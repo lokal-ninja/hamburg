@@ -1,11 +1,11 @@
 id: 264862950
-type: way
+type: node
 latitude: 53.44483
 longitude: 10.23033
 postcode: "21039"
 city: Hamburg
-street: "Neuengammer Hausdeich"
-housenumber: 205
+street: Neuengammer Hausdeich
+housenumber: "205"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

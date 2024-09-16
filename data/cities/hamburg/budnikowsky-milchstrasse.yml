@@ -4,8 +4,8 @@ latitude: 53.57119
 longitude: 9.99575
 postcode: "20148"
 city: Hamburg
-street: "Milchstraße"
-housenumber: 1
+street: Milchstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.budni.de/filialen/20148-milchstrasse-1/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.budni.de/filialen/20148-milchstrasse-1/

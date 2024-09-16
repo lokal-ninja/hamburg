@@ -4,8 +4,8 @@ latitude: 53.56561
 longitude: 9.95918
 postcode: "20357"
 city: Hamburg
-street: "Schulterblatt"
-housenumber: 132
-phone: "+49 40 22626811"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-18:00"
-website: "https://www.humanempireshop.com/custom/index/sCustom/46"
+street: Schulterblatt
+housenumber: "132"
+phone: +49 40 22626811
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-18:00
+website: https://www.humanempireshop.com/custom/index/sCustom/46

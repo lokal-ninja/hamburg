@@ -4,8 +4,8 @@ latitude: 53.55685
 longitude: 9.98955
 postcode: "20354"
 city: Hamburg
-street: "Große Theaterstraße"
-housenumber: 35
-phone: "+49 40 46777755"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off"
-website: "https://www.meister-camera.com/"
+street: Große Theaterstraße
+housenumber: "35"
+phone: +49 40 46777755
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off
+website: https://www.meister-camera.com/

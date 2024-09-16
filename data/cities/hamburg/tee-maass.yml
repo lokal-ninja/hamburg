@@ -4,8 +4,8 @@ latitude: 53.4566
 longitude: 9.98754
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 23840152"
-opening_hours: "Tu-Sa 10:00-14:00"
-website: "https://www.tee-maass.de/"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 23840152
+opening_hours: Tu-Sa 10:00-14:00
+website: https://www.tee-maass.de/

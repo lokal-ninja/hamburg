@@ -1,11 +1,11 @@
 id: 175802655
-type: way
+type: node
 latitude: 53.57359
 longitude: 10.09476
 postcode: "22043"
 city: Hamburg
-street: "Gustav-Adolf-Straße"
-housenumber: 104
+street: Gustav-Adolf-Straße
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

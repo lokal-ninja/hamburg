@@ -4,8 +4,8 @@ latitude: 53.58512
 longitude: 10.12274
 postcode: "22045"
 city: Hamburg
-street: "Tonndorfer Hauptstraße"
-housenumber: 66
-phone: "+49 40 66935430"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/98/"
+street: Tonndorfer Hauptstraße
+housenumber: "66"
+phone: +49 40 66935430
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.mixmarkt.eu/de/germany/maerkte/98/

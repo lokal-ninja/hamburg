@@ -4,8 +4,8 @@ latitude: 53.56093
 longitude: 9.96266
 postcode: "20357"
 city: Hamburg
-street: "Schulterblatt"
-housenumber: 45
-phone: "+49 40 80603030"
-opening_hours: "Mo-Fr 08:30-20:30; Sa 09:00-20:30"
-website: "https://www.budni.de/filialen/20357-schulterblatt-45/"
+street: Schulterblatt
+housenumber: "45"
+phone: +49 40 80603030
+opening_hours: Mo-Fr 08:30-20:30; Sa 09:00-20:30
+website: https://www.budni.de/filialen/20357-schulterblatt-45/

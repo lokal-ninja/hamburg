@@ -1,11 +1,11 @@
 id: 133376047
-type: way
+type: node
 latitude: 53.64042
 longitude: 10.08311
 postcode: "22391"
 city: Hamburg
-street: "Rolfinckstraße"
-housenumber: 12
-phone: "+49 40 5369920"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"
+street: Rolfinckstraße
+housenumber: "12"
+phone: +49 40 5369920
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00
 website: ""

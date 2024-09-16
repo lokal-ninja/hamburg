@@ -4,8 +4,8 @@ latitude: 53.57168
 longitude: 9.97737
 postcode: "20144"
 city: Hamburg
-street: "Beim Schlump"
-housenumber: 5
-phone: "+49 40 44809337"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-17:00"
-website: "https://marlowe-nature.de/"
+street: Beim Schlump
+housenumber: "5"
+phone: +49 40 44809337
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-17:00
+website: https://marlowe-nature.de/

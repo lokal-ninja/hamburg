@@ -4,8 +4,8 @@ latitude: 53.65487
 longitude: 10.09213
 postcode: "22391"
 city: Hamburg
-street: "Heegbarg"
-housenumber: 31
-phone: "+49 40 60682806"
-opening_hours: "Mo-Sa 09:30-20:00; PH,Su off"
+street: Heegbarg
+housenumber: "31"
+phone: +49 40 60682806
+opening_hours: Mo-Sa 09:30-20:00; PH,Su off
 website: ""

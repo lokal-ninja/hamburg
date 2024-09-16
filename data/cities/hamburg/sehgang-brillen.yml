@@ -4,8 +4,8 @@ latitude: 53.55152
 longitude: 9.93007
 postcode: "22765"
 city: Hamburg
-street: "Bahrenfelder Straße"
-housenumber: 77
-phone: "+49 40 30603566"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off"
-website: "https://www.sehgang-brillen.de/"
+street: Bahrenfelder Straße
+housenumber: "77"
+phone: +49 40 30603566
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off
+website: https://www.sehgang-brillen.de/

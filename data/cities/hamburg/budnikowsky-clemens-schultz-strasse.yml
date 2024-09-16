@@ -4,8 +4,8 @@ latitude: 53.55234
 longitude: 9.96252
 postcode: "20359"
 city: Hamburg
-street: "Clemens-Schultz-Straße"
-housenumber: 38
+street: Clemens-Schultz-Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su off"
-website: "https://www.budni.de/filialen/20359-clemens-schultz-str.-38/"
+opening_hours: Mo-Sa 08:00-21:00; Su off
+website: https://www.budni.de/filialen/20359-clemens-schultz-str.-38/

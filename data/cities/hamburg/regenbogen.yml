@@ -4,8 +4,8 @@ latitude: 53.54753
 longitude: 9.98596
 postcode: "20459"
 city: Hamburg
-street: "Ludwig-Erhard-Straße"
-housenumber: 1
-phone: "+49 40 401 191 38"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://regenbogen-leuchten.de/"
+street: Ludwig-Erhard-Straße
+housenumber: "1"
+phone: +49 40 401 191 38
+opening_hours: Mo-Sa 10:00-19:00
+website: https://regenbogen-leuchten.de/

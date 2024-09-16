@@ -1,11 +1,11 @@
 id: 218657619
-type: way
+type: node
 latitude: 53.44608
 longitude: 10.22225
 postcode: "21039"
 city: Hamburg
-street: "Neuengammer Hausdeich"
-housenumber: 260
-phone: "040 68894168"
-opening_hours: "Di-Fr 09:30-18:00"
+street: Neuengammer Hausdeich
+housenumber: "260"
+phone: 040 68894168
+opening_hours: Di-Fr 09:30-18:00
 website: ""

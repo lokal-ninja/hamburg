@@ -1,11 +1,11 @@
 id: 126616669
-type: way
+type: node
 latitude: 53.55534
 longitude: 9.90836
 postcode: "22763"
 city: Hamburg
-street: "Behringstraße"
-housenumber: 118
+street: Behringstraße
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

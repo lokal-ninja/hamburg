@@ -4,8 +4,8 @@ latitude: 53.59925
 longitude: 10.04169
 postcode: "22307"
 city: Hamburg
-street: "Fuhlsbüttler Straße"
-housenumber: 306
-phone: "+49 (0)40 6422 3603"
-opening_hours: "Mo-Fr 08:00-20:00"
-website: "http://www.odr-friseurhandwerk.com/"
+street: Fuhlsbüttler Straße
+housenumber: "306"
+phone: +49 (0)40 6422 3603
+opening_hours: Mo-Fr 08:00-20:00
+website: http://www.odr-friseurhandwerk.com/

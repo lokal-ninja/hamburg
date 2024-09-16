@@ -4,8 +4,8 @@ latitude: 53.62662
 longitude: 10.02347
 postcode: "22335"
 city: Hamburg
-street: "Ratsmühlendamm"
-housenumber: 28
-phone: "+49 40 597228"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-13:00; PH off"
-website: "https://luehmann-alstertal.de/"
+street: Ratsmühlendamm
+housenumber: "28"
+phone: +49 40 597228
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-13:00; PH off
+website: https://luehmann-alstertal.de/

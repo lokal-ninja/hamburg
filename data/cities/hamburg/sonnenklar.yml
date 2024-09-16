@@ -4,8 +4,8 @@ latitude: 53.59216
 longitude: 9.87364
 postcode: "22547"
 city: Hamburg
-street: "Eckhoffplatz"
-housenumber: 1
-phone: "+49 40 87974155"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.sonnenklartv-reisebuero.de/hamburg-lurup"
+street: Eckhoffplatz
+housenumber: "1"
+phone: +49 40 87974155
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.sonnenklartv-reisebuero.de/hamburg-lurup

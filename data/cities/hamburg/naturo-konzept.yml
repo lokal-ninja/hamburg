@@ -4,8 +4,8 @@ latitude: 53.55145
 longitude: 9.98286
 postcode: "20355"
 city: Hamburg
-street: "Wexstraße"
-housenumber: 26
+street: Wexstraße
+housenumber: "26"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

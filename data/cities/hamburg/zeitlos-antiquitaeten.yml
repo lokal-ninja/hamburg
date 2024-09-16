@@ -4,8 +4,8 @@ latitude: 53.5632
 longitude: 9.81051
 postcode: "22587"
 city: Hamburg
-street: "Blankeneser Landstraße"
-housenumber: 11
-phone: "+49 40 86642424"
-opening_hours: "Mo-Fr 10:00-19:00;Sa 10:00-16:00"
-website: "https://www.zeitlos-antiquitaeten.de/"
+street: Blankeneser Landstraße
+housenumber: "11"
+phone: +49 40 86642424
+opening_hours: Mo-Fr 10:00-19:00;Sa 10:00-16:00
+website: https://www.zeitlos-antiquitaeten.de/

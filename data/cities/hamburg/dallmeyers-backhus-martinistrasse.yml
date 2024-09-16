@@ -4,8 +4,8 @@ latitude: 53.58988
 longitude: 9.97374
 postcode: "20251"
 city: Hamburg
-street: "Martinistraße"
-housenumber: 64
-phone: "+49 40 30031658"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-18:30"
+street: Martinistraße
+housenumber: "64"
+phone: +49 40 30031658
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-18:30
 website: ""

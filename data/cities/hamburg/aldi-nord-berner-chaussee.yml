@@ -1,11 +1,11 @@
 id: 131405971
-type: way
+type: node
 latitude: 53.61837
 longitude: 10.08249
 postcode: "22175"
 city: Hamburg
-street: "Berner Chaussee"
-housenumber: 16
+street: Berner Chaussee
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/bramfeld/berner-chaussee-16.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/bramfeld/berner-chaussee-16.html

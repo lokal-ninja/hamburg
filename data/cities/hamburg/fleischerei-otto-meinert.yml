@@ -4,8 +4,8 @@ latitude: 53.56133
 longitude: 9.82023
 postcode: "22587"
 city: Hamburg
-street: "Elbchaussee"
-housenumber: 530
-phone: "+49 40 860921"
-opening_hours: "Mo 07:00-13:00; Tu-Fr 07:00-13:00,14:30-18:00; Sa 07:00-12:30; PH off"
-website: "https://www.fleischereimeinert.de"
+street: Elbchaussee
+housenumber: "530"
+phone: +49 40 860921
+opening_hours: Mo 07:00-13:00; Tu-Fr 07:00-13:00,14:30-18:00; Sa 07:00-12:30; PH off
+website: https://www.fleischereimeinert.de

@@ -4,8 +4,8 @@ latitude: 53.61343
 longitude: 10.07596
 postcode: "22177"
 city: Hamburg
-street: "Bramfelder Chaussee"
-housenumber: 248
+street: Bramfelder Chaussee
+housenumber: "248"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00, Sa 09:30-13:00; PH off"
-website: "https://www.kind.com/de-de/fachgeschaefte/hoergeraete-hamburg-bramfeld"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00, Sa 09:30-13:00; PH off
+website: https://www.kind.com/de-de/fachgeschaefte/hoergeraete-hamburg-bramfeld

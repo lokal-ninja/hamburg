@@ -4,8 +4,8 @@ latitude: 53.51481
 longitude: 10.16782
 postcode: "21031"
 city: Hamburg
-street: "Heidhorst"
-housenumber: 4
+street: Heidhorst
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

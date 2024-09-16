@@ -4,8 +4,8 @@ latitude: 53.45693
 longitude: 9.9881
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 46000811"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.pandora.net/de-de"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 46000811
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.pandora.net/de-de

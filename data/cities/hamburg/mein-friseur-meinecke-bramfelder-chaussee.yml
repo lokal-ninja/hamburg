@@ -1,11 +1,11 @@
 id: 445928839
-type: way
+type: node
 latitude: 53.61218
 longitude: 10.07576
 postcode: "22177"
 city: Hamburg
-street: "Bramfelder Chaussee"
-housenumber: 230
-phone: "+49 40 87085350"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.meinfriseur.de/"
+street: Bramfelder Chaussee
+housenumber: "230"
+phone: +49 40 87085350
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.meinfriseur.de/

@@ -4,8 +4,8 @@ latitude: 53.55944
 longitude: 9.94865
 postcode: "22765"
 city: Hamburg
-street: "Holstenstraße"
-housenumber: 160
-phone: "+49 40 8907193"
-opening_hours: "Mo-Fr 11:00-19:00"
-website: "https://www.lundia-nord.com/"
+street: Holstenstraße
+housenumber: "160"
+phone: +49 40 8907193
+opening_hours: Mo-Fr 11:00-19:00
+website: https://www.lundia-nord.com/

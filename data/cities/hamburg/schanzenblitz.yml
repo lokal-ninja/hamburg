@@ -4,8 +4,8 @@ latitude: 53.56176
 longitude: 9.96475
 postcode: "20357"
 city: Hamburg
-street: "Bartelsstraße"
-housenumber: 21
+street: Bartelsstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Sa 11:00-17:00; Tu-Fr 11:00-19:00; Mo 20:00-22:00"
+opening_hours: Sa 11:00-17:00; Tu-Fr 11:00-19:00; Mo 20:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.60756
 longitude: 10.05223
 postcode: "22309"
 city: Hamburg
-street: "Schwarzer Weg"
-housenumber: 13
-phone: "+49 40 518800"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.my-cake.com/"
+street: Schwarzer Weg
+housenumber: "13"
+phone: +49 40 518800
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.my-cake.com/

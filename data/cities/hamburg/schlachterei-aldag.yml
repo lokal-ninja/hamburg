@@ -1,11 +1,11 @@
 id: 19065077
-type: way
+type: node
 latitude: 53.47158
 longitude: 9.83072
 postcode: "21149"
 city: Hamburg
-street: "Cuxhavener Straße"
-housenumber: 460
+street: Cuxhavener Straße
+housenumber: "460"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
 website: ""

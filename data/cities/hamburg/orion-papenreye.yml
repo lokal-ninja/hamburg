@@ -4,8 +4,8 @@ latitude: 53.61243
 longitude: 9.96317
 postcode: "22453"
 city: Hamburg
-street: "Papenreye"
-housenumber: 22
-phone: "+49 40 52105443"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00; PH off"
-website: "https://www.orion-store.de"
+street: Papenreye
+housenumber: "22"
+phone: +49 40 52105443
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00; PH off
+website: https://www.orion-store.de

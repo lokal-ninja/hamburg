@@ -1,11 +1,11 @@
 id: 75745859
-type: way
+type: node
 latitude: 53.64693
 longitude: 10.03306
 postcode: "22339"
 city: Hamburg
-street: "Wilhelm-Stein-Weg"
-housenumber: 25
+street: Wilhelm-Stein-Weg
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:45; Sa 10:00-16:00"
-website: "https://www.jarke-teak.de/"
+opening_hours: Mo-Fr 10:00-17:45; Sa 10:00-16:00
+website: https://www.jarke-teak.de/

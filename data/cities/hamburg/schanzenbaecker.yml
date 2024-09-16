@@ -4,8 +4,8 @@ latitude: 53.54499
 longitude: 10.02267
 postcode: "20097"
 city: Hamburg
-street: "Sachsenfeld"
-housenumber: 2
+street: Sachsenfeld
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-14:00; PH off"
+opening_hours: Mo-Fr 06:00-14:00; PH off
 website: ""

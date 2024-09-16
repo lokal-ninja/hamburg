@@ -4,8 +4,8 @@ latitude: 53.55941
 longitude: 9.88335
 postcode: "22607"
 city: Hamburg
-street: "Waitzstraße"
-housenumber: 21
+street: Waitzstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.tchibo.de/tchibo-filiale-waitzstrasse-21-22607-hamburg-a1422472.html"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.tchibo.de/tchibo-filiale-waitzstrasse-21-22607-hamburg-a1422472.html

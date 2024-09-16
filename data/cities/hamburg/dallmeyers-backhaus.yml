@@ -4,8 +4,8 @@ latitude: 53.61249
 longitude: 10.02504
 postcode: "22297"
 city: Hamburg
-street: "Alsterdorfer Markt"
-housenumber: 8
-phone: "+49 40 50090134"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://dallmeyers.de/unsere-filialen/"
+street: Alsterdorfer Markt
+housenumber: "8"
+phone: +49 40 50090134
+opening_hours: Mo-Sa 07:00-21:00
+website: https://dallmeyers.de/unsere-filialen/

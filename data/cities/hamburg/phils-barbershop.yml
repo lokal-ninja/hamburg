@@ -4,8 +4,8 @@ latitude: 53.54865
 longitude: 9.99983
 postcode: "20095"
 city: Hamburg
-street: "Kattrepelsbrücke"
-housenumber: 1
-phone: "+49 40 326906"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00"
-website: "https://www.phils-barbershop.de/"
+street: Kattrepelsbrücke
+housenumber: "1"
+phone: +49 40 326906
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-16:00
+website: https://www.phils-barbershop.de/

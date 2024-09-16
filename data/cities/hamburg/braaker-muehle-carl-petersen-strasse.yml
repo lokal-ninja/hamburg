@@ -4,8 +4,8 @@ latitude: 53.55788
 longitude: 10.04774
 postcode: "20535"
 city: Hamburg
-street: "Carl-Petersen-Straße"
-housenumber: 80
-phone: "+49 40 2501047"
-opening_hours: "Mo-Fr 07:08-20:08; Sa 07:08-18:08; Su 07:08-12:08"
+street: Carl-Petersen-Straße
+housenumber: "80"
+phone: +49 40 2501047
+opening_hours: Mo-Fr 07:08-20:08; Sa 07:08-18:08; Su 07:08-12:08
 website: ""

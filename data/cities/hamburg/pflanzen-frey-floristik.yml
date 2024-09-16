@@ -1,11 +1,12 @@
 id: 44672328
-type: way
+type: node
 latitude: 53.66436
 longitude: 10.07363
 postcode: "22399"
 city: Hamburg
-street: "Harksheider Straße"
-housenumber: 51
-phone: "+49 40 6022801"
-opening_hours: "Mo 07:30-13:00,14:00-18:00; Tu,Th 08:00-13:00,14:00-18:00; Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.frey-floristik.de/"
+street: Harksheider Straße
+housenumber: "51"
+phone: +49 40 6022801
+opening_hours: Mo 07:30-13:00,14:00-18:00; Tu,Th 08:00-13:00,14:00-18:00; Fr 08:00-18:00;
+    Sa 08:00-13:00
+website: https://www.frey-floristik.de/

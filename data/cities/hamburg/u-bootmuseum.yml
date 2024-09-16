@@ -1,11 +1,11 @@
 id: 308783604
-type: way
+type: node
 latitude: 53.5452
 longitude: 9.95524
 postcode: "20359"
 city: Hamburg
-street: "St. Pauli Fischmarkt"
-housenumber: 10
+street: St. Pauli Fischmarkt
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00; Su 11:00-20:00
 website: ""

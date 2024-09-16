@@ -1,11 +1,11 @@
 id: 37590690
-type: way
+type: node
 latitude: 53.57958
 longitude: 9.97664
 postcode: "20251"
 city: Hamburg
-street: "Lehmweg"
-housenumber: 7
+street: Lehmweg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

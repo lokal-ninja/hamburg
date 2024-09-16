@@ -4,8 +4,8 @@ latitude: 53.553
 longitude: 9.93166
 postcode: "22765"
 city: Hamburg
-street: "Ottenser Hauptstraße"
-housenumber: 10
-phone: "+49 40 39884910"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.funke-ticket.de/"
+street: Ottenser Hauptstraße
+housenumber: "10"
+phone: +49 40 39884910
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.funke-ticket.de/

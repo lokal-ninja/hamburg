@@ -1,11 +1,11 @@
 id: 132161450
-type: way
+type: node
 latitude: 53.66185
 longitude: 10.08624
 postcode: "22399"
 city: Hamburg
-street: "Poppenbüttler Hauptstraße"
-housenumber: 11
-phone: "+49 40 6022241"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
+street: Poppenbüttler Hauptstraße
+housenumber: "11"
+phone: +49 40 6022241
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
 website: ""

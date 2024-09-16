@@ -4,8 +4,8 @@ latitude: 53.61997
 longitude: 9.95185
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
-housenumber: 32
-phone: "+49 40 53309803"
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "https://www.von-allwoerden.de"
+street: Tibarg
+housenumber: "32"
+phone: +49 40 53309803
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: https://www.von-allwoerden.de

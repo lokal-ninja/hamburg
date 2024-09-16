@@ -4,8 +4,8 @@ latitude: 53.64318
 longitude: 10.04634
 postcode: "22339"
 city: Hamburg
-street: "Hummelsbütteler Markt"
-housenumber: 11
-phone: "+49 40 538 61 14"
-opening_hours: "Mo-Fr 09:00-18:00; Tu off; Sa 08:00-13:00"
+street: Hummelsbütteler Markt
+housenumber: "11"
+phone: +49 40 538 61 14
+opening_hours: Mo-Fr 09:00-18:00; Tu off; Sa 08:00-13:00
 website: ""

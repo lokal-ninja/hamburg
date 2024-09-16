@@ -4,8 +4,9 @@ latitude: 53.59463
 longitude: 10.04366
 postcode: "22307"
 city: Hamburg
-street: "Fuhlsbüttler Straße"
-housenumber: 177
-phone: "+49 40 63669288"
-opening_hours: "Mo-Fr 07:00-18:30, Sa 07:00-17:30, Su,PH 08:00-17:30; Jan 1,easter + 1 day,Dec 25-26 off"
-website: "https://www.rohlfs-baeckerei.de/filialen/"
+street: Fuhlsbüttler Straße
+housenumber: "177"
+phone: +49 40 63669288
+opening_hours: Mo-Fr 07:00-18:30, Sa 07:00-17:30, Su,PH 08:00-17:30; Jan 1,easter
+    + 1 day,Dec 25-26 off
+website: https://www.rohlfs-baeckerei.de/filialen/

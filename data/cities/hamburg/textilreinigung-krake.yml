@@ -4,8 +4,8 @@ latitude: 53.55999
 longitude: 10.10658
 postcode: "22119"
 city: Hamburg
-street: "Graßmannweg"
-housenumber: 12
+street: Graßmannweg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; PH off"
+opening_hours: Mo-Sa 09:00-18:00; PH off
 website: ""

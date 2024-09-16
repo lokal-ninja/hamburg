@@ -1,11 +1,11 @@
 id: 129137129
-type: way
+type: node
 latitude: 53.45818
 longitude: 10.00942
 postcode: "21079"
 city: Hamburg
-street: "Großmoorring"
-housenumber: 2
+street: Großmoorring
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

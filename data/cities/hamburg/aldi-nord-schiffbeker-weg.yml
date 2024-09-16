@@ -1,11 +1,11 @@
 id: 52879273
-type: way
+type: node
 latitude: 53.54318
 longitude: 10.10147
 postcode: "22111"
 city: Hamburg
-street: "Schiffbeker Weg"
-housenumber: 27
+street: Schiffbeker Weg
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

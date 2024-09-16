@@ -4,8 +4,8 @@ latitude: 53.57747
 longitude: 9.94169
 postcode: "20257"
 city: Hamburg
-street: "Lappenbergsallee"
-housenumber: 41
+street: Lappenbergsallee
+housenumber: "41"
 phone: "+49408501818"
-opening_hours: "Tu-Fr 16:00-22:00"
-website: "https://hairfrick.de/"
+opening_hours: Tu-Fr 16:00-22:00
+website: https://hairfrick.de/

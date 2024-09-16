@@ -4,8 +4,8 @@ latitude: 53.56762
 longitude: 9.98678
 postcode: "20146"
 city: Hamburg
-street: "Schlüterstraße"
-housenumber: 44
+street: Schlüterstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00"
+opening_hours: Mo-Fr 11:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 50365251
-type: way
+type: node
 latitude: 53.57425
 longitude: 10.10462
 postcode: "22043"
 city: Hamburg
-street: "Holstenhofweg"
-housenumber: 55
+street: Holstenhofweg
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

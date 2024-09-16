@@ -4,8 +4,8 @@ latitude: 53.57511
 longitude: 9.95584
 postcode: "20259"
 city: Hamburg
-street: "Osterstraße"
-housenumber: 67
-phone: "+49 40 43180360"
-opening_hours: "Mo-Fr 11:00-14:00, 14:30-18:00; Sa 11:00-14:00"
-website: "https://www.copyart-hh.de/home/"
+street: Osterstraße
+housenumber: "67"
+phone: +49 40 43180360
+opening_hours: Mo-Fr 11:00-14:00, 14:30-18:00; Sa 11:00-14:00
+website: https://www.copyart-hh.de/home/

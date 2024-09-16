@@ -1,11 +1,11 @@
 id: 208235118
-type: way
+type: node
 latitude: 53.61616
 longitude: 10.13612
 postcode: "22147"
 city: Hamburg
-street: "Bekassinenau"
-housenumber: 86
+street: Bekassinenau
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

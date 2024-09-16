@@ -4,8 +4,8 @@ latitude: 53.55961
 longitude: 10.08074
 postcode: "22111"
 city: Hamburg
-street: "Rennbahnstraße"
-housenumber: 91
+street: Rennbahnstraße
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Fr 06:30-20:00; Sa 08:30-20:00; Su 10:00-20:00"
+opening_hours: Mo-Fr 06:30-20:00; Sa 08:30-20:00; Su 10:00-20:00
 website: ""

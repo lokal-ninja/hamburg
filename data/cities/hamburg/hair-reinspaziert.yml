@@ -4,8 +4,8 @@ latitude: 53.56352
 longitude: 10.02438
 postcode: "22087"
 city: Hamburg
-street: "Mühlendamm"
-housenumber: 59
-phone: "+49 40 2276150"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 09:00-15:00"
-website: "https://www.hairreinspaziert.de"
+street: Mühlendamm
+housenumber: "59"
+phone: +49 40 2276150
+opening_hours: Tu-Fr 10:00-18:00; Sa 09:00-15:00
+website: https://www.hairreinspaziert.de

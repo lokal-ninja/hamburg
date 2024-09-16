@@ -4,8 +4,8 @@ latitude: 53.65129
 longitude: 10.0957
 postcode: "22393"
 city: Hamburg
-street: "Frahmredder"
-housenumber: 8
+street: Frahmredder
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-13:30"
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-13:30
 website: ""

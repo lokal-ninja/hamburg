@@ -1,11 +1,11 @@
 id: 29378993
-type: way
+type: node
 latitude: 53.43934
 longitude: 9.98848
 postcode: "21079"
 city: Hamburg
-street: "Trelder Weg"
-housenumber: 10
+street: Trelder Weg
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

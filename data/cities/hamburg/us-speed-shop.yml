@@ -1,11 +1,11 @@
 id: 258270026
-type: way
+type: node
 latitude: 53.5833
 longitude: 10.07724
 postcode: "22041"
 city: Hamburg
-street: "Hinschenfelder Stieg"
-housenumber: 12
+street: Hinschenfelder Stieg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:15"
-website: "https://www.usspeed.de/"
+opening_hours: Mo-Fr 08:30-17:15
+website: https://www.usspeed.de/

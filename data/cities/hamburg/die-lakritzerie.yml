@@ -4,8 +4,8 @@ latitude: 53.59402
 longitude: 9.99991
 postcode: "22299"
 city: Hamburg
-street: "Barmbeker Straße"
-housenumber: 189
-phone: "+49 40 38 63 21 13"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
-website: "https://www.lakritzerie.com"
+street: Barmbeker Straße
+housenumber: "189"
+phone: +49 40 38 63 21 13
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
+website: https://www.lakritzerie.com

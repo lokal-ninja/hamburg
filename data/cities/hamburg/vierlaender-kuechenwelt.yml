@@ -1,11 +1,11 @@
 id: 236775953
-type: way
+type: node
 latitude: 53.48753
 longitude: 10.20236
 postcode: "21035"
 city: Hamburg
-street: "Weidenbaumsweg"
-housenumber: 44
+street: Weidenbaumsweg
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

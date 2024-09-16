@@ -4,8 +4,8 @@ latitude: 53.58161
 longitude: 9.75838
 postcode: "22559"
 city: Hamburg
-street: "Wedeler Landstraße"
-housenumber: 25
-phone: "+49 40 74023600"
-opening_hours: "Tu,We,Fr 09:00-18:30; Th 09:00-20:00"
-website: "https://www.meisterschnitte.com/"
+street: Wedeler Landstraße
+housenumber: "25"
+phone: +49 40 74023600
+opening_hours: Tu,We,Fr 09:00-18:30; Th 09:00-20:00
+website: https://www.meisterschnitte.com/

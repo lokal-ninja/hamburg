@@ -4,8 +4,8 @@ latitude: 53.48787
 longitude: 10.21278
 postcode: "21029"
 city: Hamburg
-street: "Sachsentor"
-housenumber: 22
-phone: "+49 40 721 31 13"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-18:00"
-website: "https://www.herrenausstatter-willhoeft.de"
+street: Sachsentor
+housenumber: "22"
+phone: +49 40 721 31 13
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-18:00
+website: https://www.herrenausstatter-willhoeft.de

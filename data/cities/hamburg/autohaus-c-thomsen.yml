@@ -1,11 +1,11 @@
 id: 50055532
-type: way
+type: node
 latitude: 53.58097
 longitude: 10.124
 postcode: "22045"
 city: Hamburg
-street: "Kuehnstraße"
-housenumber: 91
+street: Kuehnstraße
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.auto-thomsen.de/hamburg-wandsbek"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off
+website: https://www.auto-thomsen.de/hamburg-wandsbek

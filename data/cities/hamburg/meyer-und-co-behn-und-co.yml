@@ -4,8 +4,8 @@ latitude: 53.55326
 longitude: 9.93134
 postcode: "22765"
 city: Hamburg
-street: "Große Rainstraße"
-housenumber: 27
-phone: "+49 40 397240"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.meyer-behn.de/"
+street: Große Rainstraße
+housenumber: "27"
+phone: +49 40 397240
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.meyer-behn.de/

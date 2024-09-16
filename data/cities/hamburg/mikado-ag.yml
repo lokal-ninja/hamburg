@@ -1,11 +1,11 @@
 id: 41752621
-type: way
+type: node
 latitude: 53.57494
 longitude: 9.99402
 postcode: "20149"
 city: Hamburg
-street: "Mittelweg"
+street: Mittelweg
 housenumber: 111a
-phone: "+49-40-8222720"
+phone: +49-40-8222720
 opening_hours: ""
 website: ""

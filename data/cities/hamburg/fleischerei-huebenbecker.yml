@@ -4,8 +4,8 @@ latitude: 53.55944
 longitude: 9.88399
 postcode: "22607"
 city: Hamburg
-street: "Waitzstraße"
-housenumber: 17
-phone: "+49 40 894400"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 08:00-13:00"
-website: "https://www.fleischerei-huebenbecker.de/"
+street: Waitzstraße
+housenumber: "17"
+phone: +49 40 894400
+opening_hours: Mo-Fr 09:00-18:00;Sa 08:00-13:00
+website: https://www.fleischerei-huebenbecker.de/

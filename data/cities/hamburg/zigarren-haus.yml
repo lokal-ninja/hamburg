@@ -1,11 +1,11 @@
 id: 277218950
-type: way
+type: node
 latitude: 53.59784
 longitude: 9.93093
 postcode: "22527"
 city: Hamburg
-street: "Wördemanns Weg"
-housenumber: 12
+street: Wördemanns Weg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-15:00; Su 07:00-15:00"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-15:00; Su 07:00-15:00
 website: ""

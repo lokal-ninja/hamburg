@@ -1,11 +1,11 @@
 id: 1269138396
-type: way
+type: node
 latitude: 53.63989
 longitude: 9.94638
 postcode: "22455"
 city: Hamburg
-street: "Wagrierweg"
+street: Wagrierweg
 housenumber: 2-4
-phone: "+49 40 80603030"
-opening_hours: "Mo-Sa 08:00-19:00; PH off"
-website: "https://www.budni.de/filialen/22455-wagrierweg-2-8"
+phone: +49 40 80603030
+opening_hours: Mo-Sa 08:00-19:00; PH off
+website: https://www.budni.de/filialen/22455-wagrierweg-2-8

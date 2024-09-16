@@ -4,8 +4,8 @@ latitude: 53.47091
 longitude: 9.82455
 postcode: "21149"
 city: Hamburg
-street: "Cuxhavener Straße"
-housenumber: 480
+street: Cuxhavener Straße
+housenumber: "480"
 phone: ""
-opening_hours: "Mo-Th 15:00-19:00; Fr 13:00-20:00; Sa 10:00-16:00"
-website: "https://www.jacques.de/"
+opening_hours: Mo-Th 15:00-19:00; Fr 13:00-20:00; Sa 10:00-16:00
+website: https://www.jacques.de/

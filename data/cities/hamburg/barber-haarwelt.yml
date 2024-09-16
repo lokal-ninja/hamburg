@@ -4,8 +4,8 @@ latitude: 53.58761
 longitude: 10.00506
 postcode: "22301"
 city: Hamburg
-street: "Dorotheenstraße"
-housenumber: 132
+street: Dorotheenstraße
+housenumber: "132"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
 website: ""

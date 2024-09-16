@@ -1,11 +1,11 @@
 id: 1000656423
-type: way
+type: node
 latitude: 53.55176
 longitude: 9.9956
 postcode: "20095"
 city: Hamburg
-street: "Ballindamm"
-housenumber: 40
+street: Ballindamm
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
+opening_hours: Mo-Sa 09:00-20:00; PH off
 website: ""

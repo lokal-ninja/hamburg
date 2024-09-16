@@ -4,8 +4,8 @@ latitude: 53.54242
 longitude: 10.12746
 postcode: "22117"
 city: Hamburg
-street: "Merkenstraße"
-housenumber: 31
+street: Merkenstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Th 08:30-17:00; PH off"
+opening_hours: Mo-Th 08:30-17:00; PH off
 website: ""

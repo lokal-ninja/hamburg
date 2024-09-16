@@ -1,11 +1,11 @@
 id: 33568201
-type: way
+type: node
 latitude: 53.57446
 longitude: 9.92926
 postcode: "22525"
 city: Hamburg
-street: "Marlowring"
-housenumber: 17
-phone: "+49 40 8417600"
-opening_hours: "Mo-Th 07:00-15:45; Fr 07:00-12:30"
-website: "https://www.baltzer-schrauben.de"
+street: Marlowring
+housenumber: "17"
+phone: +49 40 8417600
+opening_hours: Mo-Th 07:00-15:45; Fr 07:00-12:30
+website: https://www.baltzer-schrauben.de

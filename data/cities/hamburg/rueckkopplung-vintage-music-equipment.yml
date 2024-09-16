@@ -4,8 +4,8 @@ latitude: 53.55517
 longitude: 9.96429
 postcode: "20359"
 city: Hamburg
-street: "Budapester Straße"
-housenumber: 44
+street: Budapester Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Tu-Th 13:00-19:30"
-website: "https://www.rueckkopplunghamburg.de/"
+opening_hours: Tu-Th 13:00-19:30
+website: https://www.rueckkopplunghamburg.de/

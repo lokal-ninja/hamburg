@@ -1,11 +1,11 @@
 id: 306373141
-type: way
+type: node
 latitude: 53.50314
 longitude: 10.19272
 postcode: "21031"
 city: Hamburg
-street: "Lohbrügger Landstraße"
-housenumber: 123
-phone: "+49 40 55286260"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
+street: Lohbrügger Landstraße
+housenumber: "123"
+phone: +49 40 55286260
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
 website: ""

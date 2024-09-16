@@ -1,11 +1,11 @@
 id: 33872286
-type: way
+type: node
 latitude: 53.57368
 longitude: 9.84612
 postcode: "22549"
 city: Hamburg
-street: "Rugenbarg"
-housenumber: 7
-phone: "+49 40 80781521"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/hamburg/540725/rewe-markt-rugenbarg-7/"
+street: Rugenbarg
+housenumber: "7"
+phone: +49 40 80781521
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/hamburg/540725/rewe-markt-rugenbarg-7/

@@ -1,11 +1,11 @@
 id: 175468220
-type: way
+type: node
 latitude: 53.63965
 longitude: 9.94658
 postcode: "22455"
 city: Hamburg
-street: "Nordalbingerweg"
-housenumber: 11
+street: Nordalbingerweg
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.penny.de/marktsuche/"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.penny.de/marktsuche/

@@ -4,8 +4,8 @@ latitude: 53.57969
 longitude: 9.95585
 postcode: "20255"
 city: Hamburg
-street: "Heußweg"
-housenumber: 95
+street: Heußweg
+housenumber: "95"
 phone: ""
-opening_hours: "Tu-Fr 10:00-14:00,15:00-18:00; Sa 10:00-14:00; Su-Mo off; PH off"
+opening_hours: Tu-Fr 10:00-14:00,15:00-18:00; Sa 10:00-14:00; Su-Mo off; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 361772266
-type: way
-latitude: 53.55249
-longitude: 10.13534
+type: node
+latitude: 53.55251
+longitude: 10.13532
 postcode: "22117"
 city: Hamburg
-street: "Grootmoorredder"
-housenumber: 1
+street: Grootmoorredder
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

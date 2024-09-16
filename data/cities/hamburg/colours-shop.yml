@@ -4,8 +4,8 @@ latitude: 53.57159
 longitude: 10.07012
 postcode: "22041"
 city: Hamburg
-street: "Schloßstraße"
-housenumber: 52
+street: Schloßstraße
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://colours-shop.de/"
+website: https://colours-shop.de/

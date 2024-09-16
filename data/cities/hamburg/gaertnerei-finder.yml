@@ -1,11 +1,11 @@
 id: 40422895
-type: way
+type: node
 latitude: 53.64217
 longitude: 10.10705
 postcode: "22393"
 city: Hamburg
-street: "Volksdorfer Weg"
-housenumber: 67
+street: Volksdorfer Weg
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-16:00"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-16:00
 website: ""

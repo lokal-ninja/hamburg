@@ -4,8 +4,8 @@ latitude: 53.65961
 longitude: 10.08407
 postcode: "22399"
 city: Hamburg
-street: "Harksheider Straße"
-housenumber: 3
-phone: "+49 40 6024219"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-12:00"
-website: "https://www.briefmarken-hamburg.de/"
+street: Harksheider Straße
+housenumber: "3"
+phone: +49 40 6024219
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-12:00
+website: https://www.briefmarken-hamburg.de/

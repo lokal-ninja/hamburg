@@ -4,8 +4,8 @@ latitude: 53.55297
 longitude: 9.93351
 postcode: "22765"
 city: Hamburg
-street: "Hahnenkamp"
-housenumber: 1
-phone: "+49 40 23803896"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.alnatura.de/"
+street: Hahnenkamp
+housenumber: "1"
+phone: +49 40 23803896
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.alnatura.de/

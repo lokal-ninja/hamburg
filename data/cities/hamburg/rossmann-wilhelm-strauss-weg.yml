@@ -4,8 +4,8 @@ latitude: 53.49809
 longitude: 10.00808
 postcode: "21109"
 city: Hamburg
-street: "Wilhelm-Strauß-Weg"
-housenumber: 8
+street: Wilhelm-Strauß-Weg
+housenumber: "8"
 phone: ""
-opening_hours: "PH off; Mo-Sa 08:00-20:00"
+opening_hours: PH off; Mo-Sa 08:00-20:00
 website: ""

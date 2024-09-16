@@ -4,8 +4,8 @@ latitude: 53.63502
 longitude: 9.91767
 postcode: "22457"
 city: Hamburg
-street: "Glißmannweg"
-housenumber: 7
-phone: "+49 40 5592531"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://schnelsener-buechereck.buchhandlung.de"
+street: Glißmannweg
+housenumber: "7"
+phone: +49 40 5592531
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://schnelsener-buechereck.buchhandlung.de

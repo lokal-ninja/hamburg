@@ -1,11 +1,11 @@
 id: 73107130
-type: way
+type: node
 latitude: 53.51168
 longitude: 10.0879
 postcode: "22113"
 city: Hamburg
-street: "Andreas-Meyer-Straße"
-housenumber: 62
+street: Andreas-Meyer-Straße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-18:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 148977183
-type: way
+type: node
 latitude: 53.57299
 longitude: 9.88537
 postcode: "22607"
 city: Hamburg
-street: "Notkestraße"
+street: Notkestraße
 housenumber: 23a
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
 website: ""

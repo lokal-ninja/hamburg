@@ -1,11 +1,11 @@
 id: 51346040
-type: way
+type: node
 latitude: 53.57154
 longitude: 10.12352
 postcode: "22043"
 city: Hamburg
-street: "Rodigallee"
-housenumber: 217
+street: Rodigallee
+housenumber: "217"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

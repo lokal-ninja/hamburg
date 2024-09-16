@@ -1,11 +1,11 @@
 id: 64161064
-type: way
+type: node
 latitude: 53.63009
 longitude: 9.9292
 postcode: "22459"
 city: Hamburg
-street: "Frohmestraße"
-housenumber: 97
-phone: "+49 40 5502060"
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:30; PH off"
-website: "https://www.atr-service.de"
+street: Frohmestraße
+housenumber: "97"
+phone: +49 40 5502060
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-17:30; PH off
+website: https://www.atr-service.de

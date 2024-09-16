@@ -1,11 +1,11 @@
 id: 733946180
-type: way
+type: node
 latitude: 53.55917
 longitude: 9.93682
 postcode: "22765"
 city: Hamburg
-street: "Harkortstraße"
+street: Harkortstraße
 housenumber: 81e
-phone: "+4940999996690"
-opening_hours: "Mo-Sa 08:00-20:00"
+phone: +49 40 999996690
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

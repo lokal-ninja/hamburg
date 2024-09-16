@@ -1,11 +1,11 @@
 id: 39779205
-type: way
+type: node
 latitude: 53.65161
 longitude: 10.10537
 postcode: "22393"
 city: Hamburg
-street: "Saseler Chaussee"
-housenumber: 189
+street: Saseler Chaussee
+housenumber: "189"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; PH off"
+opening_hours: Mo-Fr 08:00-18:00; PH off
 website: ""

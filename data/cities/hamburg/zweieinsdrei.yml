@@ -4,8 +4,8 @@ latitude: 53.55197
 longitude: 9.94274
 postcode: "22767"
 city: Hamburg
-street: "Große Bergstraße"
-housenumber: 213
-phone: "+49 40 38086805"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.genialokal.de/buchhandlung/hamburg/buchzweieinsdrei/"
+street: Große Bergstraße
+housenumber: "213"
+phone: +49 40 38086805
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.genialokal.de/buchhandlung/hamburg/buchzweieinsdrei/

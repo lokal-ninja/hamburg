@@ -4,8 +4,8 @@ latitude: 53.48718
 longitude: 10.18069
 postcode: "21035"
 city: Hamburg
-street: "Edith-Stein-Platz"
-housenumber: 5
+street: Edith-Stein-Platz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Tu, Th-Fr 09:00-13:00, 14:30-18:30; We 09:00-13:00; Sa 09:00-13:00"
+opening_hours: Mo-Tu, Th-Fr 09:00-13:00, 14:30-18:30; We 09:00-13:00; Sa 09:00-13:00
 website: ""

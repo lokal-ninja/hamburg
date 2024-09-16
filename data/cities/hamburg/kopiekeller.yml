@@ -4,8 +4,8 @@ latitude: 53.55632
 longitude: 10.0068
 postcode: "20099"
 city: Hamburg
-street: "St. Georgstraße"
-housenumber: 8
+street: St. Georgstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 11:00-16:00"
-website: "http://www.KopieKeller.de"
+opening_hours: Mo-Fr 10:00-18:30; Sa 11:00-16:00
+website: http://www.KopieKeller.de

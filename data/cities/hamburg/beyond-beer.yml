@@ -4,8 +4,8 @@ latitude: 53.56783
 longitude: 9.96426
 postcode: "20357"
 city: Hamburg
-street: "Weidenallee"
+street: Weidenallee
 housenumber: 53-55
-phone: "+49 40 44465424"
-opening_hours: "Mo-Fr 13:00-20:00; Sa 10:00-20:00; Su,PH off"
-website: "https://www.beyondbeer.de/store-hamburg/"
+phone: +49 40 44465424
+opening_hours: Mo-Fr 13:00-20:00; Sa 10:00-20:00; Su,PH off
+website: https://www.beyondbeer.de/store-hamburg/

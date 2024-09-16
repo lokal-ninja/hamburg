@@ -4,8 +4,8 @@ latitude: 53.544
 longitude: 9.97912
 postcode: "20459"
 city: Hamburg
-street: "Vorsetzen"
-housenumber: 31
-phone: "+49 40 319916170"
-opening_hours: "Mo-Su 11:00-18:00"
-website: "https://barkassen-centrale.de/"
+street: Vorsetzen
+housenumber: "31"
+phone: +49 40 319916170
+opening_hours: Mo-Su 11:00-18:00
+website: https://barkassen-centrale.de/

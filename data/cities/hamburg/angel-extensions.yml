@@ -4,8 +4,8 @@ latitude: 53.59831
 longitude: 10.04172
 postcode: "22307"
 city: Hamburg
-street: "Fuhlsbüttler Straße"
-housenumber: 279
-phone: "+49 172 6275678"
-opening_hours: "closed || please call us"
-website: "https://www.angel-extensions.de/"
+street: Fuhlsbüttler Straße
+housenumber: "279"
+phone: +49 172 6275678
+opening_hours: closed || "please call us"
+website: https://www.angel-extensions.de/

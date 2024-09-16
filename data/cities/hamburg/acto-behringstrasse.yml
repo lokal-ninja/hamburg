@@ -1,11 +1,11 @@
 id: 126616672
-type: way
+type: node
 latitude: 53.55529
 longitude: 9.90895
 postcode: "22763"
 city: Hamburg
-street: "Behringstraße"
-housenumber: 116
-phone: "+49 40 8891 7915"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-16:45"
+street: Behringstraße
+housenumber: "116"
+phone: +49 40 8891 7915
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-16:45
 website: ""

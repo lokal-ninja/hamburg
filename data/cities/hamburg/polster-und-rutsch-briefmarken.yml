@@ -4,8 +4,8 @@ latitude: 53.54836
 longitude: 9.99987
 postcode: "20457"
 city: Hamburg
-street: "Hopfensack"
-housenumber: 14
-phone: "+49 40 330190"
-opening_hours: "Mo-Fr 10:30-18:00; Sa 10:30-14:00"
-website: "http://www.polster-rutsch.de"
+street: Hopfensack
+housenumber: "14"
+phone: +49 40 330190
+opening_hours: Mo-Fr 10:30-18:00; Sa 10:30-14:00
+website: http://www.polster-rutsch.de

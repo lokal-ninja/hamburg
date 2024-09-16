@@ -4,8 +4,8 @@ latitude: 53.58411
 longitude: 9.9705
 postcode: "20251"
 city: Hamburg
-street: "Breitenfelder Straße"
-housenumber: 4
+street: Breitenfelder Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00; Mo off"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00; Mo off
 website: ""

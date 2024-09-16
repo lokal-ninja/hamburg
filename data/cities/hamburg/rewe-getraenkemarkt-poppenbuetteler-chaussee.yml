@@ -1,11 +1,11 @@
 id: 28945729
-type: way
+type: node
 latitude: 53.70423
 longitude: 10.10425
 postcode: "22397"
 city: Hamburg
-street: "Poppenbütteler Chaussee"
-housenumber: 43
+street: Poppenbütteler Chaussee
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

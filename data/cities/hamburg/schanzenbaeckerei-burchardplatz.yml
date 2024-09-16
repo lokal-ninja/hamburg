@@ -4,8 +4,8 @@ latitude: 53.54899
 longitude: 10.0023
 postcode: "20095"
 city: Hamburg
-street: "Burchardplatz"
-housenumber: 5
-phone: "+49 40 30392186"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-18:00; PHoff"
-website: "https://www.schanzenbaeckerei.de/filialen/burchardplatz"
+street: Burchardplatz
+housenumber: "5"
+phone: +49 40 30392186
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-18:00; PHoff
+website: https://www.schanzenbaeckerei.de/filialen/burchardplatz

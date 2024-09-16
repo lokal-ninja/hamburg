@@ -1,11 +1,11 @@
 id: 30571392
-type: way
+type: node
 latitude: 53.56136
 longitude: 10.0787
 postcode: "22111"
 city: Hamburg
-street: "Rennbahnstraße"
-housenumber: 115
+street: Rennbahnstraße
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

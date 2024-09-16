@@ -1,11 +1,11 @@
 id: 43153222
-type: way
+type: node
 latitude: 53.63911
 longitude: 10.08925
 postcode: "22391"
 city: Hamburg
-street: "Rolfinckstraße"
-housenumber: 48
+street: Rolfinckstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa,Su,PH 07:00-22:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa,Su,PH 07:00-22:00
 website: ""

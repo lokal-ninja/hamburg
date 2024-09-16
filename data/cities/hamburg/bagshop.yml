@@ -1,11 +1,11 @@
 id: 1158265393
-type: way
+type: node
 latitude: 53.62281
 longitude: 9.9522
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
-housenumber: 41
-phone: "+49 40 58951190"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-18:00"
-website: "http://www.bagshop-hamburg.de/"
+street: Tibarg
+housenumber: "41"
+phone: +49 40 58951190
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:30-18:00
+website: http://www.bagshop-hamburg.de/

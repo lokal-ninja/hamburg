@@ -4,8 +4,8 @@ latitude: 53.42786
 longitude: 9.98245
 postcode: "21077"
 city: Hamburg
-street: "Winsener Straße"
-housenumber: 185
-phone: "+49 40 709 734 0"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-14:00"
-website: "https://nord-ostsee-automobile.de"
+street: Winsener Straße
+housenumber: "185"
+phone: +49 40 709 734 0
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-14:00
+website: https://nord-ostsee-automobile.de

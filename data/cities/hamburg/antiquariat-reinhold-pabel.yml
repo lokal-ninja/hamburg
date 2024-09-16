@@ -4,8 +4,8 @@ latitude: 53.54844
 longitude: 9.97792
 postcode: "20459"
 city: Hamburg
-street: "Englische Planke"
-housenumber: 6
+street: Englische Planke
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00; und nach Vereinbarung"
-website: "http://www.antiquariat-pabel.de"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00; "und nach Vereinbarung"
+website: http://www.antiquariat-pabel.de

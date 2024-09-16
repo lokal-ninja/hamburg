@@ -1,11 +1,11 @@
 id: 982084090
-type: way
+type: node
 latitude: 53.55162
 longitude: 9.9997
 postcode: "20095"
 city: Hamburg
-street: "Gerhart-Hauptmann-Platz"
-housenumber: 48
+street: Gerhart-Hauptmann-Platz
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

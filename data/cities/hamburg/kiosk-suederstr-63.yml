@@ -4,8 +4,8 @@ latitude: 53.54452
 longitude: 10.02709
 postcode: "20097"
 city: Hamburg
-street: "Süderstraße"
-housenumber: 63
+street: Süderstraße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Fr 05:00-17:00"
+opening_hours: Mo-Fr 05:00-17:00
 website: ""

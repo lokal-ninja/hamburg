@@ -4,8 +4,8 @@ latitude: 53.64865
 longitude: 10.16739
 postcode: "22359"
 city: Hamburg
-street: "Wiesenhöfen"
-housenumber: 2
+street: Wiesenhöfen
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-14:00"
-website: "https://www.vinum-weinhandel.com"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-14:00
+website: https://www.vinum-weinhandel.com

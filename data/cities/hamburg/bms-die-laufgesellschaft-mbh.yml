@@ -4,8 +4,8 @@ latitude: 53.55601
 longitude: 10.03722
 postcode: "20535"
 city: Hamburg
-street: "Klaus-Groth-Straße"
-housenumber: 95
-phone: "+49-40-371381"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.dielaufgesellschaft.de/"
+street: Klaus-Groth-Straße
+housenumber: "95"
+phone: +49-40-371381
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.dielaufgesellschaft.de/

@@ -4,8 +4,8 @@ latitude: 53.57102
 longitude: 9.99578
 postcode: "20148"
 city: Hamburg
-street: "Milchstraße"
-housenumber: 1
+street: Milchstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

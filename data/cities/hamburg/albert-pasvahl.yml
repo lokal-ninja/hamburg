@@ -1,11 +1,11 @@
 id: 204456533
-type: way
+type: node
 latitude: 53.6626
 longitude: 10.0054
 postcode: "22419"
 city: Hamburg
-street: "Oehleckerring"
-housenumber: 23
-phone: "+49 40 532852-0"
+street: Oehleckerring
+housenumber: "23"
+phone: +49 40 532852-0
 opening_hours: ""
-website: "https://www.pasvahl.de/"
+website: https://www.pasvahl.de/

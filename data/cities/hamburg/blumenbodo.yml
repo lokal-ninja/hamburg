@@ -4,8 +4,8 @@ latitude: 53.62258
 longitude: 9.95202
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
-housenumber: 41
+street: Tibarg
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://blumenbodo.de"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://blumenbodo.de

@@ -1,11 +1,11 @@
 id: 105695647
-type: way
+type: node
 latitude: 53.55072
 longitude: 10.04514
 postcode: "20537"
 city: Hamburg
-street: "Wendenstraße"
-housenumber: 294
+street: Wendenstraße
+housenumber: "294"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; PH off"
+opening_hours: Mo-Fr 07:00-17:00; PH off
 website: ""

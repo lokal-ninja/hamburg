@@ -4,8 +4,8 @@ latitude: 53.56284
 longitude: 10.05612
 postcode: "20535"
 city: Hamburg
-street: "Hammer Steindamm"
-housenumber: 76
+street: Hammer Steindamm
+housenumber: "76"
 phone: ""
-opening_hours: "Tu-Fr 11:00-20:00; Sa 09:00-17:00; Mo off"
+opening_hours: Tu-Fr 11:00-20:00; Sa 09:00-17:00; Mo off
 website: ""

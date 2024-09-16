@@ -4,8 +4,8 @@ latitude: 53.5493
 longitude: 9.92705
 postcode: "22765"
 city: Hamburg
-street: "Arnoldstraße"
-housenumber: 34
-phone: "+49 40 39808686"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00"
+street: Arnoldstraße
+housenumber: "34"
+phone: +49 40 39808686
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00
 website: ""

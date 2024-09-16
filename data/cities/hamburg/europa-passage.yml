@@ -1,11 +1,11 @@
 id: 214840502
-type: way
+type: node
 latitude: 53.55098
 longitude: 9.99711
 postcode: "20095"
 city: Hamburg
-street: "Ballindamm"
-housenumber: 40
-phone: "+49 40 30092640"
-opening_hours: "Mo-Th 10:00-20:00, Fr,Sa 10:00-21:00; PH closed"
-website: "https://m.europa-passage.de/de/?lang=de"
+street: Ballindamm
+housenumber: "40"
+phone: +49 40 30092640
+opening_hours: Mo-Th 10:00-20:00, Fr,Sa 10:00-21:00; PH closed
+website: https://m.europa-passage.de/de/?lang=de

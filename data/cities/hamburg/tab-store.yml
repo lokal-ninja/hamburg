@@ -1,11 +1,11 @@
 id: 446970664
-type: way
+type: node
 latitude: 53.58756
 longitude: 9.85133
 postcode: "22549"
 city: Hamburg
-street: "Bornheide"
+street: Bornheide
 housenumber: 51a
-phone: "+49 40 84054154"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.tab-store.net/"
+phone: +49 40 84054154
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.tab-store.net/

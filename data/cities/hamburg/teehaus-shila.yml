@@ -4,8 +4,8 @@ latitude: 53.56768
 longitude: 10.04596
 postcode: "22089"
 city: Hamburg
-street: "Wandsbeker Chaussee"
-housenumber: 123
+street: Wandsbeker Chaussee
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"
-website: "https://teehaus-shila.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00
+website: https://teehaus-shila.de/

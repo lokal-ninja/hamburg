@@ -4,8 +4,8 @@ latitude: 53.6518
 longitude: 10.09455
 postcode: "22393"
 city: Hamburg
-street: "Stormarnplatz"
-housenumber: 1
+street: Stormarnplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00, Sa 7:00-19:00; PH off"
+opening_hours: Mo-Fr 06:30-19:00, Sa 7:00-19:00; PH off
 website: ""

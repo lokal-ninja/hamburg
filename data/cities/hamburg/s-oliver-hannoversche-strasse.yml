@@ -4,8 +4,8 @@ latitude: 53.45609
 longitude: 9.98815
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 30094705"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "http://www.soliver.com"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 30094705
+opening_hours: Mo-Sa 09:30-20:00
+website: http://www.soliver.com

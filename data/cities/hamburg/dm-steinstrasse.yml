@@ -4,8 +4,8 @@ latitude: 53.55029
 longitude: 10.00465
 postcode: "20095"
 city: Hamburg
-street: "Steinstraße"
-housenumber: 8
+street: Steinstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.dm.de/store/d4ck/hamburg/steinstrasse-8"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.dm.de/store/d4ck/hamburg/steinstrasse-8

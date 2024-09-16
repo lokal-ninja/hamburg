@@ -4,8 +4,8 @@ latitude: 53.55197
 longitude: 9.94291
 postcode: "22767"
 city: Hamburg
-street: "Große Bergstraße"
-housenumber: 213
-phone: "+49 40 39809955"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00, Sa Nach Vereinbarung"
-website: "https://www.ohrwerk-hoergeraete.de/fachgeschaeft/22767-hamburg/"
+street: Große Bergstraße
+housenumber: "213"
+phone: +49 40 39809955
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00, Sa "Nach Vereinbarung"
+website: https://www.ohrwerk-hoergeraete.de/fachgeschaeft/22767-hamburg/

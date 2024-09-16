@@ -1,11 +1,11 @@
 id: 52520522
-type: way
+type: node
 latitude: 53.56748
 longitude: 9.92893
 postcode: "22761"
 city: Hamburg
-street: "Schützenstraße"
-housenumber: 91
+street: Schützenstraße
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:30"
-website: "https://www.calpesa.de/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-14:30
+website: https://www.calpesa.de/

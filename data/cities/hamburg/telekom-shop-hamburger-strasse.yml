@@ -1,11 +1,11 @@
 id: 1111763434
-type: way
+type: node
 latitude: 53.57351
 longitude: 10.03165
 postcode: "22083"
 city: Hamburg
-street: "Hamburger Straße"
-housenumber: 33
-phone: "+49 40 20960633"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://shopseite.telekom.de/nord-ost/hamburg/hamburger-str-33"
+street: Hamburger Straße
+housenumber: "33"
+phone: +49 40 20960633
+opening_hours: Mo-Sa 10:00-20:00
+website: https://shopseite.telekom.de/nord-ost/hamburg/hamburger-str-33

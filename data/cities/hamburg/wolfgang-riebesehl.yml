@@ -4,8 +4,8 @@ latitude: 53.59346
 longitude: 9.98842
 postcode: "20251"
 city: Hamburg
-street: "Eppendorfer Landstraße"
-housenumber: 128
+street: Eppendorfer Landstraße
+housenumber: "128"
 phone: ""
-opening_hours: "Tu-Fr 16:00-19:00; Sa 12:00-17:00"
-website: "https://www.wolfgang-riebesehl.de/"
+opening_hours: Tu-Fr 16:00-19:00; Sa 12:00-17:00
+website: https://www.wolfgang-riebesehl.de/

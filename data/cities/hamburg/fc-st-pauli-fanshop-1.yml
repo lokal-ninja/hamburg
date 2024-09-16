@@ -4,8 +4,8 @@ latitude: 53.55373
 longitude: 9.96753
 postcode: "20359"
 city: Hamburg
-street: "Harald-Stender-Platz"
-housenumber: 1
+street: Harald-Stender-Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo, Tu, Sa 11:00-18:00; We, Th, Fr 11:00-16:00; Su,PH off"
-website: "https://www.fcsp-shop.com/"
+opening_hours: Mo, Tu, Sa 11:00-18:00; We, Th, Fr 11:00-16:00; Su,PH off
+website: https://www.fcsp-shop.com/

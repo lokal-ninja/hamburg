@@ -4,8 +4,8 @@ latitude: 53.56125
 longitude: 9.96047
 postcode: "22769"
 city: Hamburg
-street: "Juliusstraße"
-housenumber: 16
-phone: "+49 40 51 90 99 77"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-18:00"
-website: "https://wieeseuchgefaellt.blogspot.de"
+street: Juliusstraße
+housenumber: "16"
+phone: +49 40 51 90 99 77
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-18:00
+website: https://wieeseuchgefaellt.blogspot.de

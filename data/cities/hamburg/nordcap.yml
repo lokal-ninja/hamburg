@@ -4,8 +4,8 @@ latitude: 53.45947
 longitude: 10.01134
 postcode: "21079"
 city: Hamburg
-street: "Großmoorbogen"
-housenumber: 5
-phone: "+49 40 766183 0"
+street: Großmoorbogen
+housenumber: "5"
+phone: +49 40 766183 0
 opening_hours: ""
-website: "https://www.nordcap.de/Standortsuche/detail/id/HH"
+website: https://www.nordcap.de/Standortsuche/detail/id/HH

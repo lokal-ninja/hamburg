@@ -4,8 +4,8 @@ latitude: 53.57249
 longitude: 9.84485
 postcode: "22549"
 city: Hamburg
-street: "Osdorfer Landstraße"
-housenumber: 233
-phone: "+49 40 87000919"
-opening_hours: "Mo-Fr 11:00-19:00, Sa 10:00-16:00"
-website: "https://langendorfcycles.de"
+street: Osdorfer Landstraße
+housenumber: "233"
+phone: +49 40 87000919
+opening_hours: Mo-Fr 11:00-19:00, Sa 10:00-16:00
+website: https://langendorfcycles.de

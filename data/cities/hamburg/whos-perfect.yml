@@ -4,8 +4,8 @@ latitude: 53.5506
 longitude: 10.02409
 postcode: "20097"
 city: Hamburg
-street: "Nordkanalstraße"
-housenumber: 52
-phone: "+49 40 25333740"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-20:00"
-website: "https://www.whos-perfect.de/hamburg/"
+street: Nordkanalstraße
+housenumber: "52"
+phone: +49 40 25333740
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-20:00
+website: https://www.whos-perfect.de/hamburg/

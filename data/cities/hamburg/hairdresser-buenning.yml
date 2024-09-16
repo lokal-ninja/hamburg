@@ -1,11 +1,11 @@
 id: 53857126
-type: way
+type: node
 latitude: 53.70816
 longitude: 10.10766
 postcode: "22397"
 city: Hamburg
-street: "Duvenstedter Damm"
-housenumber: 47
+street: Duvenstedter Damm
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

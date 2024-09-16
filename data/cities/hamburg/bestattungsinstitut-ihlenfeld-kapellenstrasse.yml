@@ -4,8 +4,8 @@ latitude: 53.53561
 longitude: 10.11957
 postcode: "22117"
 city: Hamburg
-street: "Kapellenstraße"
-housenumber: 31
-phone: "+49 40 7320299"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.bestattungen-ihlenfeld.de/"
+street: Kapellenstraße
+housenumber: "31"
+phone: +49 40 7320299
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.bestattungen-ihlenfeld.de/

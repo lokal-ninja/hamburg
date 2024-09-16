@@ -4,8 +4,8 @@ latitude: 53.53762
 longitude: 10.01213
 postcode: "20457"
 city: Hamburg
-street: "Baakenallee"
-housenumber: 
+street: Baakenallee
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

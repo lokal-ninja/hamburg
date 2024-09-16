@@ -5,7 +5,7 @@ longitude: 9.99384
 postcode: "20095"
 city: Hamburg
 street: ""
-housenumber: 5
-phone: "+49 40 73924738"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-16:00"
-website: "https://roooms-hamburg.de/"
+housenumber: "5"
+phone: +49 40 73924738
+opening_hours: Mo-Fr 09:00-18:00, Sa 10:00-16:00
+website: https://roooms-hamburg.de/

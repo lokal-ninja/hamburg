@@ -4,8 +4,8 @@ latitude: 53.58436
 longitude: 9.99678
 postcode: "22301"
 city: Hamburg
-street: "Maria-Louisen-Straße"
-housenumber: 5
+street: Maria-Louisen-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00 || nach Vereinbarung; PH off"
+opening_hours: Mo-Fr 10:00-17:00 || "nach Vereinbarung"; PH off
 website: ""

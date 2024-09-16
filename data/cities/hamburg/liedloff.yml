@@ -4,8 +4,8 @@ latitude: 53.58379
 longitude: 9.98231
 postcode: "20251"
 city: Hamburg
-street: "Hegestraße"
-housenumber: 19
-phone: "+49 40 477564"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-17:00; Su,PH off"
+street: Hegestraße
+housenumber: "19"
+phone: +49 40 477564
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-17:00; Su,PH off
 website: ""

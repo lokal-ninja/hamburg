@@ -1,11 +1,11 @@
 id: 308059457
-type: way
+type: node
 latitude: 53.67225
 longitude: 10.0021
 postcode: "22419"
 city: Hamburg
-street: "Langenhorner Chaussee"
-housenumber: 575
+street: Langenhorner Chaussee
+housenumber: "575"
 phone: ""
 opening_hours: ""
 website: ""

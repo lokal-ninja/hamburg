@@ -1,11 +1,11 @@
 id: 446849042
-type: way
+type: node
 latitude: 53.58796
 longitude: 9.85067
 postcode: "22549"
 city: Hamburg
-street: "Bornheide"
+street: Bornheide
 housenumber: 57f
-phone: "+49 40 834456"
-opening_hours: "Mo-Fr 09:15-19:00, Sa 09:00-16:00"
+phone: +49 40 834456
+opening_hours: Mo-Fr 09:15-19:00, Sa 09:00-16:00
 website: ""

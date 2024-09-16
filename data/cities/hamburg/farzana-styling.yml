@@ -4,8 +4,8 @@ latitude: 53.59738
 longitude: 10.10201
 postcode: "22159"
 city: Hamburg
-street: "Eckerkoppel"
-housenumber: 121
-phone: "+49 40 64430711"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-14:00"
+street: Eckerkoppel
+housenumber: "121"
+phone: +49 40 64430711
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

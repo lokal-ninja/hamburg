@@ -1,11 +1,11 @@
 id: 1112263658
-type: way
+type: node
 latitude: 53.57242
 longitude: 10.02977
 postcode: ""
 city: Hamburg
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 10:00-20:00; PH,Su off
 website: ""

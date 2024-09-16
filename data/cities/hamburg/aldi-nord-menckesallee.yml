@@ -1,11 +1,11 @@
 id: 29999930
-type: way
+type: node
 latitude: 53.5687
 longitude: 10.05855
 postcode: "22089"
 city: Hamburg
-street: "Menckesallee"
+street: Menckesallee
 housenumber: 24-26
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 36902209
-type: way
+type: node
 latitude: 53.64813
 longitude: 10.01033
 postcode: "22415"
 city: Hamburg
-street: "Krohnstieg"
-housenumber: 55
+street: Krohnstieg
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

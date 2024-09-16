@@ -4,8 +4,8 @@ latitude: 53.57933
 longitude: 9.97459
 postcode: "20253"
 city: Hamburg
-street: "Hoheluftchaussee"
-housenumber: 17
-phone: "+49 40 420 29 16"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "http://www.eisenwaren-harms.de/"
+street: Hoheluftchaussee
+housenumber: "17"
+phone: +49 40 420 29 16
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-14:00
+website: http://www.eisenwaren-harms.de/

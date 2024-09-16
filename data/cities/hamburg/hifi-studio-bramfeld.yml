@@ -4,8 +4,8 @@ latitude: 53.61949
 longitude: 10.08135
 postcode: "22175"
 city: Hamburg
-street: "Bramfelder Chaussee"
-housenumber: 332
-phone: "+49 40 6417641"
-opening_hours: "Tu-Fr 12:00-18:00; Sa 10:00-14:00"
-website: "https://www.hifi-studio-bramfeld.de/"
+street: Bramfelder Chaussee
+housenumber: "332"
+phone: +49 40 6417641
+opening_hours: Tu-Fr 12:00-18:00; Sa 10:00-14:00
+website: https://www.hifi-studio-bramfeld.de/

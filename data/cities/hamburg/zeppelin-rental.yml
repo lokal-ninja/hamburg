@@ -4,8 +4,8 @@ latitude: 53.50702
 longitude: 10.0033
 postcode: "21109"
 city: Hamburg
-street: "Rubbertstraße"
-housenumber: 21
+street: Rubbertstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00, Fr 07:00-16:00"
-website: "https://www.zeppelin-rental.de/ansprechpartner/standorte/hamburg-wilhelmsburg-ii"
+opening_hours: Mo-Th 07:00-17:00, Fr 07:00-16:00
+website: https://www.zeppelin-rental.de/ansprechpartner/standorte/hamburg-wilhelmsburg-ii

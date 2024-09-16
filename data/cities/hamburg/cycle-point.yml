@@ -4,8 +4,8 @@ latitude: 53.5598
 longitude: 9.96436
 postcode: "20357"
 city: Hamburg
-street: "Schanzenstraße"
-housenumber: 3
-phone: "+49 40 434385"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://cycle-point.de/"
+street: Schanzenstraße
+housenumber: "3"
+phone: +49 40 434385
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://cycle-point.de/

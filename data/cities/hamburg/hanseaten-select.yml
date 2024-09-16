@@ -4,8 +4,8 @@ latitude: 53.54595
 longitude: 10.00786
 postcode: "20097"
 city: Hamburg
-street: "Oberhafenstraße"
-housenumber: 1
-phone: "+49 40 323664"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.hanseaten-select.de/"
+street: Oberhafenstraße
+housenumber: "1"
+phone: +49 40 323664
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.hanseaten-select.de/

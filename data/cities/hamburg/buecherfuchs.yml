@@ -4,8 +4,8 @@ latitude: 53.58167
 longitude: 9.76034
 postcode: "22559"
 city: Hamburg
-street: "Wedeler Landstraße"
-housenumber: 14
-phone: "+49 40 81960614"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://buecherfuchs-rissen.buchhandlung.de/shop/"
+street: Wedeler Landstraße
+housenumber: "14"
+phone: +49 40 81960614
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://buecherfuchs-rissen.buchhandlung.de/shop/

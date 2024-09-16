@@ -4,8 +4,8 @@ latitude: 53.45686
 longitude: 9.98742
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 76489757"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.rituals.com"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 76489757
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.rituals.com

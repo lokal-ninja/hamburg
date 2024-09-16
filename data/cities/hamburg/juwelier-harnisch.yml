@@ -4,8 +4,8 @@ latitude: 53.59514
 longitude: 9.99823
 postcode: ""
 city: Hamburg
-street: "Alsterdorfer Straße"
-housenumber: 5
-phone: "+49 40 67309728"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-13:00"
-website: "https://www.juwelier-harnisch.com/startseite.php"
+street: Alsterdorfer Straße
+housenumber: "5"
+phone: +49 40 67309728
+opening_hours: Mo-Fr 11:00-18:00; Sa 10:00-13:00
+website: https://www.juwelier-harnisch.com/startseite.php

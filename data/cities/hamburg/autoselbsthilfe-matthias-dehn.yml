@@ -1,11 +1,11 @@
 id: 51029592
-type: way
+type: node
 latitude: 53.57178
 longitude: 10.08759
 postcode: "22043"
 city: Hamburg
-street: "Gustav-Adolf-Straße"
-housenumber: 15
-phone: "+49 40 6567021"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-19:30; PH off"
-website: "https://dehn2000.de"
+street: Gustav-Adolf-Straße
+housenumber: "15"
+phone: +49 40 6567021
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-19:30; PH off
+website: https://dehn2000.de

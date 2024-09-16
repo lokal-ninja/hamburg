@@ -4,8 +4,8 @@ latitude: 53.60042
 longitude: 10.07839
 postcode: "22179"
 city: Hamburg
-street: "Haldesdorfer Straße"
-housenumber: 109
-phone: "+49 40 55009571"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://auto-technic.de"
+street: Haldesdorfer Straße
+housenumber: "109"
+phone: +49 40 55009571
+opening_hours: Mo-Fr 08:30-18:00
+website: https://auto-technic.de

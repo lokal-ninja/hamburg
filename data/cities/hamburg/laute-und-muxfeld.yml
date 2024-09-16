@@ -4,8 +4,8 @@ latitude: 53.4574
 longitude: 10.00799
 postcode: "21079"
 city: Hamburg
-street: "Großmoorring"
-housenumber: 3
+street: Großmoorring
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Do 6:45-17:00; Fr 6:45-14:00"
-website: "https://laute-muxfeld.de/"
+opening_hours: Mo-Do 6:45-17:00; Fr 6:45-14:00
+website: https://laute-muxfeld.de/

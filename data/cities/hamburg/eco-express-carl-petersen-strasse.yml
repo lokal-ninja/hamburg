@@ -4,8 +4,8 @@ latitude: 53.55783
 longitude: 10.04799
 postcode: ""
 city: Hamburg
-street: "Carl-Petersen-Straße"
-housenumber: 82
-phone: "+49 171 6535210"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.waschsalon-hamburg.de/"
+street: Carl-Petersen-Straße
+housenumber: "82"
+phone: +49 171 6535210
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.waschsalon-hamburg.de/

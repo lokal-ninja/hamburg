@@ -1,11 +1,11 @@
 id: 131835596
-type: way
+type: node
 latitude: 53.45864
 longitude: 10.01142
 postcode: "21079"
 city: Hamburg
-street: "Großmoorbogen"
-housenumber: 7
+street: Großmoorbogen
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

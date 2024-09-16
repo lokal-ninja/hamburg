@@ -4,8 +4,8 @@ latitude: 53.55386
 longitude: 9.92924
 postcode: "22765"
 city: Hamburg
-street: "Kleine Rainstraße"
-housenumber: 3
-phone: "+49 40 43 27 1737"
-opening_hours: "Tu,We 12:00-19:00; Th,Fr 12:00-22:00"
-website: "http://www.oxhoft.de/"
+street: Kleine Rainstraße
+housenumber: "3"
+phone: +49 40 43 27 1737
+opening_hours: Tu,We 12:00-19:00; Th,Fr 12:00-22:00
+website: http://www.oxhoft.de/

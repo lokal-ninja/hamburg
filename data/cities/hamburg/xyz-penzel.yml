@@ -1,11 +1,11 @@
 id: 130304556
-type: way
+type: node
 latitude: 53.46344
 longitude: 9.98176
 postcode: "21073"
 city: Hamburg
-street: "Schloßmühlendamm"
-housenumber: 31
-phone: "+49 40 771 100 11"
-opening_hours: "Mo-fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.xyz-hh.de/index.html"
+street: Schloßmühlendamm
+housenumber: "31"
+phone: +49 40 771 100 11
+opening_hours: Mo-fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.xyz-hh.de/index.html

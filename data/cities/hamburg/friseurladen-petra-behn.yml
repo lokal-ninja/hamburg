@@ -4,8 +4,8 @@ latitude: 53.57952
 longitude: 9.95627
 postcode: "20255"
 city: Hamburg
-street: "Heußweg"
-housenumber: 98
-phone: "+49 40 406017"
-opening_hours: "Mo-Sa 09:00-15:00"
-website: "https://www.friseurladen-petra-behn.de/"
+street: Heußweg
+housenumber: "98"
+phone: +49 40 406017
+opening_hours: Mo-Sa 09:00-15:00
+website: https://www.friseurladen-petra-behn.de/

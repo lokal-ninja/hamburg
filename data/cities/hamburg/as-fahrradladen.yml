@@ -4,8 +4,9 @@ latitude: 53.56856
 longitude: 9.95639
 postcode: "20259"
 city: Hamburg
-street: "Eppendorfer Weg"
-housenumber: 3
-phone: "+49 40 46637947"
-opening_hours: "Nov 01-Mar 31 Mo-Fr 10:00-18:00, Sa 11:00-14:00; Apr 01-Oct 31 Mo-Fr 10:00-19:00, Sa 11:00-16:00"
-website: "https://asfahrradladen.wordpress.com/"
+street: Eppendorfer Weg
+housenumber: "3"
+phone: +49 40 46637947
+opening_hours: Nov 01-Mar 31 Mo-Fr 10:00-18:00, Sa 11:00-14:00; Apr 01-Oct 31 Mo-Fr
+    10:00-19:00, Sa 11:00-16:00
+website: https://asfahrradladen.wordpress.com/

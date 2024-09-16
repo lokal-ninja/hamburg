@@ -1,11 +1,11 @@
 id: 53506634
-type: way
+type: node
 latitude: 53.57111
 longitude: 10.14429
 postcode: "22043"
 city: Hamburg
-street: "Barsbütteler Straße"
-housenumber: 49
-phone: "+49-40-27139999"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.megabike24.de/"
+street: Barsbütteler Straße
+housenumber: "49"
+phone: +49-40-27139999
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.megabike24.de/

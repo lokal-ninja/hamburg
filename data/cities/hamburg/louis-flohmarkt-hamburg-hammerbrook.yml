@@ -1,11 +1,11 @@
 id: 35071667
-type: way
+type: node
 latitude: 53.54581
 longitude: 10.02896
 postcode: "20097"
 city: Hamburg
-street: "Süderstraße"
-housenumber: 83
+street: Süderstraße
+housenumber: "83"
 phone: ""
-opening_hours: "Su-Mo off; Tu-Fr 11:00-19:00, Sa 10:00-16:00"
-website: "https://www.louis.de/filialen/louis-flohmarkt-hamburg-hammerbrook"
+opening_hours: Su-Mo off; Tu-Fr 11:00-19:00, Sa 10:00-16:00
+website: https://www.louis.de/filialen/louis-flohmarkt-hamburg-hammerbrook

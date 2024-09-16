@@ -4,8 +4,8 @@ latitude: 53.6544
 longitude: 10.11264
 postcode: "22393"
 city: Hamburg
-street: "Stratenbarg"
-housenumber: 2
+street: Stratenbarg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

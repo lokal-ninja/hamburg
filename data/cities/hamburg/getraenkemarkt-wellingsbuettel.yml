@@ -1,11 +1,11 @@
 id: 102792826
-type: way
+type: node
 latitude: 53.64201
 longitude: 10.08184
 postcode: "22391"
 city: Hamburg
-street: "Wellingsbüttler Weg"
+street: Wellingsbüttler Weg
 housenumber: 146a
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.55581
 longitude: 9.92576
 postcode: "22765"
 city: Hamburg
-street: "Borselstraße"
-housenumber: 3
-phone: "+49 40 30391710"
-opening_hours: "Mo,Tu,Fr 09:30-14:00; We 09:30-17:30; Th 12:30-17:30"
-website: "https://warengut-sozialkaufhaus.business.site/"
+street: Borselstraße
+housenumber: "3"
+phone: +49 40 30391710
+opening_hours: Mo,Tu,Fr 09:30-14:00; We 09:30-17:30; Th 12:30-17:30
+website: https://warengut-sozialkaufhaus.business.site/

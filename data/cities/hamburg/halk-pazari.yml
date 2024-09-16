@@ -4,8 +4,8 @@ latitude: 53.60846
 longitude: 9.90286
 postcode: "22523"
 city: Hamburg
-street: "Ekenknick"
-housenumber: 3
+street: Ekenknick
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://halk-pazari.edan.io/"
+website: https://halk-pazari.edan.io/

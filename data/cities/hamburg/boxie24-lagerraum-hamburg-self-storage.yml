@@ -4,8 +4,8 @@ latitude: 53.55526
 longitude: 10.00065
 postcode: "20095"
 city: Hamburg
-street: "Ballindamm"
-housenumber: 3
+street: Ballindamm
+housenumber: "3"
 phone: "+494063698127"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.boxie24.com/de-de/lagerraum-mieten-hamburg/"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.boxie24.com/de-de/lagerraum-mieten-hamburg/

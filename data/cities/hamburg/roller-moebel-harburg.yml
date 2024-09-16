@@ -1,11 +1,11 @@
 id: 282872109
-type: way
+type: node
 latitude: 53.46086
 longitude: 10.00891
 postcode: "21079"
 city: Hamburg
-street: "Großmoorbogen"
-housenumber: 6
-phone: "+49 40 57709080"
-opening_hours: "Mo-Sa 10:00-20:00; PH closed"
-website: "https://www.roller.de/"
+street: Großmoorbogen
+housenumber: "6"
+phone: +49 40 57709080
+opening_hours: Mo-Sa 10:00-20:00; PH closed
+website: https://www.roller.de/

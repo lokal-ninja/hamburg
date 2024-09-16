@@ -4,8 +4,8 @@ latitude: 53.45656
 longitude: 9.987
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 76755773"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dat-backhus.de/"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 76755773
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dat-backhus.de/

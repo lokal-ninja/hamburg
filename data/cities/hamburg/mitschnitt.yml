@@ -4,8 +4,8 @@ latitude: 53.56476
 longitude: 9.95916
 postcode: "20357"
 city: Hamburg
-street: "Schulterblatt"
-housenumber: 121
-phone: "+49 40 437802"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00"
-website: "http://www.mitschnitt-online.de"
+street: Schulterblatt
+housenumber: "121"
+phone: +49 40 437802
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-18:00
+website: http://www.mitschnitt-online.de

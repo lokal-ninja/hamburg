@@ -4,8 +4,8 @@ latitude: 53.59604
 longitude: 10.04509
 postcode: "22307"
 city: Hamburg
-street: "Habichtsplatz"
-housenumber: 7
+street: Habichtsplatz
+housenumber: "7"
 phone: "+494032048526"
-opening_hours: "24/7"
-website: "https://www.autoschluessel-hamburg.de"
+opening_hours: 24/7
+website: https://www.autoschluessel-hamburg.de

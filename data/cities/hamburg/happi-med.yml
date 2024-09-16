@@ -4,8 +4,8 @@ latitude: 53.65359
 longitude: 10.10556
 postcode: "22393"
 city: Hamburg
-street: "Stadtbahnstraße"
+street: Stadtbahnstraße
 housenumber: 32a
-phone: "+49 40 6017738"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-15:00; PH off"
-website: "https://www.happimed.de/"
+phone: +49 40 6017738
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-15:00; PH off
+website: https://www.happimed.de/

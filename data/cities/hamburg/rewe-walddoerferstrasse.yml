@@ -1,11 +1,11 @@
 id: 152175621
-type: way
+type: node
 latitude: 53.58079
 longitude: 10.07858
 postcode: "22041"
 city: Hamburg
-street: "Walddörferstraße"
-housenumber: 146
+street: Walddörferstraße
+housenumber: "146"
 phone: ""
-opening_hours: "Mo-Fr 08:00-24:00; Sa 08:00-23:00; PH off"
+opening_hours: Mo-Fr 08:00-24:00; Sa 08:00-23:00; PH off
 website: ""

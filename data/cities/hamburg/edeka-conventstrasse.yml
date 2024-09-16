@@ -1,11 +1,11 @@
 id: 39894960
-type: way
+type: node
 latitude: 53.56438
 longitude: 10.03671
 postcode: "22089"
 city: Hamburg
-street: "Conventstraße"
+street: Conventstraße
 housenumber: 8-10
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.65357
 longitude: 10.1082
 postcode: "22393"
 city: Hamburg
-street: "Stadtbahnstraße"
-housenumber: 15
-phone: "+49 40 5365533"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Stadtbahnstraße
+housenumber: "15"
+phone: +49 40 5365533
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

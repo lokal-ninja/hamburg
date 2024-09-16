@@ -4,8 +4,8 @@ latitude: 53.58652
 longitude: 10.01798
 postcode: "22303"
 city: Hamburg
-street: "Semperstraße"
-housenumber: 56
+street: Semperstraße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 05:56-19:06; Sa 05:56-19:06; Su 06:56-19:06"
+opening_hours: Mo-Fr 05:56-19:06; Sa 05:56-19:06; Su 06:56-19:06
 website: ""

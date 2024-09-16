@@ -4,8 +4,8 @@ latitude: 53.57503
 longitude: 9.95933
 postcode: "20259"
 city: Hamburg
-street: "Schulweg"
-housenumber: 45
-phone: "+49 40 74 10 79 10"
-opening_hours: "Mo-Th 10:00-18:00; Fr 11:00-16:00; Sa 11:00-15:00"
-website: "https://www.nachmacherx.de/"
+street: Schulweg
+housenumber: "45"
+phone: +49 40 74 10 79 10
+opening_hours: Mo-Th 10:00-18:00; Fr 11:00-16:00; Sa 11:00-15:00
+website: https://www.nachmacherx.de/

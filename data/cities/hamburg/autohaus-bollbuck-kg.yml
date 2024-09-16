@@ -1,11 +1,11 @@
 id: 626031594
-type: way
+type: node
 latitude: 53.47182
 longitude: 9.87032
 postcode: "21149"
 city: Hamburg
-street: "Cuxhavener Straße"
+street: Cuxhavener Straße
 housenumber: 256-258
 phone: "+494070103360"
-opening_hours: "Mo-Fr 08:30-18:00,Sa 09:00-13:00"
-website: "https://www.autohaus-bollbuck.de/"
+opening_hours: Mo-Fr 08:30-18:00,Sa 09:00-13:00
+website: https://www.autohaus-bollbuck.de/

@@ -4,8 +4,8 @@ latitude: 53.56259
 longitude: 9.96099
 postcode: "20357"
 city: Hamburg
-street: "Schulterblatt"
-housenumber: 79
-phone: "+49 40 43182108"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.grueneflora.de/"
+street: Schulterblatt
+housenumber: "79"
+phone: +49 40 43182108
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.grueneflora.de/

@@ -4,8 +4,8 @@ latitude: 53.55535
 longitude: 10.00974
 postcode: "20099"
 city: Hamburg
-street: "Baumeisterstraße"
-housenumber: 11
+street: Baumeisterstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

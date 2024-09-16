@@ -4,8 +4,8 @@ latitude: 53.64036
 longitude: 10.01831
 postcode: "22415"
 city: Hamburg
-street: "Flughafenstraße"
-housenumber: 75
-phone: "+49 40 180 677 30"
+street: Flughafenstraße
+housenumber: "75"
+phone: +49 40 180 677 30
 opening_hours: ""
-website: "https://www.wertobjektboden.de/index.php/"
+website: https://www.wertobjektboden.de/index.php/

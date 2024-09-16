@@ -1,11 +1,11 @@
 id: 665857401
-type: way
+type: node
 latitude: 53.51732
 longitude: 9.89048
 postcode: "21129"
 city: Hamburg
-street: "Aluminiumstraße"
-housenumber: 5
+street: Aluminiumstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su,PH 00:00-00:00"
+opening_hours: Mo-Su,PH 00:00-00:00
 website: ""

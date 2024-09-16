@@ -4,8 +4,8 @@ latitude: 53.57258
 longitude: 9.84528
 postcode: "22549"
 city: Hamburg
-street: "Osdorfer Landstraße"
-housenumber: 233
-phone: "+49 172 9074671"
-opening_hours: "Mo,Fr 11:00-18:00"
-website: "http://www.nicole-herrmann.com"
+street: Osdorfer Landstraße
+housenumber: "233"
+phone: +49 172 9074671
+opening_hours: Mo,Fr 11:00-18:00
+website: http://www.nicole-herrmann.com

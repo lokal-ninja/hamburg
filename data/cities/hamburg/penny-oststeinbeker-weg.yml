@@ -4,8 +4,8 @@ latitude: 53.5356
 longitude: 10.13166
 postcode: "22117"
 city: Hamburg
-street: "Oststeinbeker Weg"
-housenumber: 2
+street: Oststeinbeker Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; PH off"
+opening_hours: Mo-Sa 07:00-23:00; PH off
 website: ""

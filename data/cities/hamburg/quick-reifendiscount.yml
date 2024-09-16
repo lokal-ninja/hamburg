@@ -4,8 +4,8 @@ latitude: 53.61176
 longitude: 9.95703
 postcode: "22453"
 city: Hamburg
-street: "Kollaustraße"
-housenumber: 136
-phone: "+49 40 589767-13"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-13:00"
-website: "https://www.quick.de/haendler.php?referenzKZ=QHAMB2"
+street: Kollaustraße
+housenumber: "136"
+phone: +49 40 589767-13
+opening_hours: Mo-Fr 08:00-18:00;Sa 09:00-13:00
+website: https://www.quick.de/haendler.php?referenzKZ=QHAMB2

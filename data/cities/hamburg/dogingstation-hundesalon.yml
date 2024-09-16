@@ -4,8 +4,8 @@ latitude: 53.57746
 longitude: 9.94172
 postcode: "20257"
 city: Hamburg
-street: "Lappenbergsallee"
-housenumber: 41
-phone: "+49 40 68873580"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.dogingstation.de"
+street: Lappenbergsallee
+housenumber: "41"
+phone: +49 40 68873580
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.dogingstation.de

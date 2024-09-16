@@ -4,8 +4,8 @@ latitude: 53.57814
 longitude: 9.94095
 postcode: "20257"
 city: Hamburg
-street: "Langenfelder Damm"
-housenumber: 5
-phone: "+49 40 49 93 37"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-18:00, Sa 10:00-13:00"
-website: "https://www.radwerk-hamburg.de/"
+street: Langenfelder Damm
+housenumber: "5"
+phone: +49 40 49 93 37
+opening_hours: Tu-Fr 10:00-13:00,14:00-18:00, Sa 10:00-13:00
+website: https://www.radwerk-hamburg.de/

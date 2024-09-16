@@ -4,8 +4,8 @@ latitude: 53.62698
 longitude: 10.02548
 postcode: "22335"
 city: Hamburg
-street: "Erdkampsweg"
-housenumber: 8
-phone: "+49 40 22758090"
-opening_hours: "Mo-Th 10:00-17:00; Fr 10:00-15:30; Sa 10:30-13:00"
-website: "http://www.braun-mohrholz.de/"
+street: Erdkampsweg
+housenumber: "8"
+phone: +49 40 22758090
+opening_hours: Mo-Th 10:00-17:00; Fr 10:00-15:30; Sa 10:30-13:00
+website: http://www.braun-mohrholz.de/

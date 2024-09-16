@@ -1,11 +1,11 @@
 id: 49837967
-type: way
+type: node
 latitude: 53.58363
 longitude: 10.07769
 postcode: "22041"
 city: Hamburg
-street: "Hinschenfelder Stieg"
+street: Hinschenfelder Stieg
 housenumber: 12c
-phone: "+49 40 696 515 - 0"
-opening_hours: "Mo-Do 08:00-17:00, Fr 08:00-14:00"
-website: "https://dunekacke.de/"
+phone: +49 40 696 515 - 0
+opening_hours: Mo-Do 08:00-17:00, Fr 08:00-14:00
+website: https://dunekacke.de/

@@ -4,8 +4,8 @@ latitude: 53.54647
 longitude: 9.94208
 postcode: "22767"
 city: Hamburg
-street: "Palmaille"
-housenumber: 64
-phone: "+49 40 36940827"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 10:00-17:00"
-website: "https://www.running-green.de/"
+street: Palmaille
+housenumber: "64"
+phone: +49 40 36940827
+opening_hours: Mo-Fr 12:00-19:00; Sa 10:00-17:00
+website: https://www.running-green.de/

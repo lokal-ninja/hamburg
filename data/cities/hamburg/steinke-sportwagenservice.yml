@@ -4,8 +4,8 @@ latitude: 53.55913
 longitude: 9.9156
 postcode: "22763"
 city: Hamburg
-street: "Friedensallee"
-housenumber: 128
+street: Friedensallee
+housenumber: "128"
 phone: ""
 opening_hours: ""
-website: "http://steinke-sportwagenservice.de/"
+website: http://steinke-sportwagenservice.de/

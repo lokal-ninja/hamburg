@@ -4,8 +4,8 @@ latitude: 53.55377
 longitude: 9.84585
 postcode: "22609"
 city: Hamburg
-street: "Sophie-Rahel-Jansen-Straße"
-housenumber: 118
-phone: "+49 40 49200654"
-opening_hours: "Tu-Fr 14:00-18:00, Sa 9:00-14:00, Mo closed"
-website: "https://www.jerxsen.com/"
+street: Sophie-Rahel-Jansen-Straße
+housenumber: "118"
+phone: +49 40 49200654
+opening_hours: Tu-Fr 14:00-18:00, Sa 9:00-14:00, Mo closed
+website: https://www.jerxsen.com/

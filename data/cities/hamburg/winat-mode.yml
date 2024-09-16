@@ -4,8 +4,8 @@ latitude: 53.64861
 longitude: 10.16408
 postcode: "22359"
 city: Hamburg
-street: "Claus-Ferck-Straße"
-housenumber: 1
-phone: "+49 40 60950089"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; PH,Su off"
-website: "https://winatmode.de/ueber-uns-stores/volksdorf-fashion-store/"
+street: Claus-Ferck-Straße
+housenumber: "1"
+phone: +49 40 60950089
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; PH,Su off
+website: https://winatmode.de/ueber-uns-stores/volksdorf-fashion-store/

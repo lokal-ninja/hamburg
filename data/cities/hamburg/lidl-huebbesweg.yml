@@ -1,11 +1,11 @@
 id: 31094915
-type: way
+type: node
 latitude: 53.55352
 longitude: 10.06022
 postcode: "20537"
 city: Hamburg
-street: "Hübbesweg"
-housenumber: 4
+street: Hübbesweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00;PH off"
+opening_hours: Mo-Sa 07:00-21:00;PH off
 website: ""

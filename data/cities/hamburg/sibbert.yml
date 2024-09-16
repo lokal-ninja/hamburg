@@ -1,11 +1,11 @@
 id: 48988816
-type: way
+type: node
 latitude: 53.5939
 longitude: 10.09941
 postcode: "22047"
 city: Hamburg
-street: "Johannes-Frömming-Straße"
-housenumber: 2
-phone: "+49 40 69643506"
-opening_hours: "Mo-Fr 08:00-18:00; PH off"
-website: "https://www.sibbert.de"
+street: Johannes-Frömming-Straße
+housenumber: "2"
+phone: +49 40 69643506
+opening_hours: Mo-Fr 08:00-18:00; PH off
+website: https://www.sibbert.de

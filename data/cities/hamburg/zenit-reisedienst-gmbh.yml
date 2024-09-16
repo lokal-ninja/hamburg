@@ -4,8 +4,8 @@ latitude: 53.59671
 longitude: 9.99788
 postcode: "22299"
 city: Hamburg
-street: "Himmelstraße"
-housenumber: 42
+street: Himmelstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; PH off"
+opening_hours: Mo-Fr 10:00-17:00; PH off
 website: ""

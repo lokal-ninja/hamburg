@@ -1,11 +1,11 @@
 id: 165731196
-type: way
+type: node
 latitude: 53.63492
 longitude: 10.01474
 postcode: "22335"
 city: Hamburg
-street: "Erdkampsweg"
-housenumber: 134
+street: Erdkampsweg
+housenumber: "134"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

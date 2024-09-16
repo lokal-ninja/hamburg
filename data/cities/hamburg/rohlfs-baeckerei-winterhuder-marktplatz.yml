@@ -4,8 +4,9 @@ latitude: 53.59514
 longitude: 9.99994
 postcode: "22299"
 city: Hamburg
-street: "Winterhuder Marktplatz"
-housenumber: 13
-phone: "+49 40 46009730"
-opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-17:30, Su,PH 08:00-17:30; Jan 1,easter + 1 day,Dec 25-26 off"
-website: "https://www.rohlfs-baeckerei.de/"
+street: Winterhuder Marktplatz
+housenumber: "13"
+phone: +49 40 46009730
+opening_hours: Mo-Fr 07:00-19:00, Sa 07:00-17:30, Su,PH 08:00-17:30; Jan 1,easter
+    + 1 day,Dec 25-26 off
+website: https://www.rohlfs-baeckerei.de/

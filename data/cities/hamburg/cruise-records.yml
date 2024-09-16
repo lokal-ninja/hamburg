@@ -4,8 +4,8 @@ latitude: 53.55052
 longitude: 9.96178
 postcode: "20359"
 city: Hamburg
-street: "Seilerstraße"
-housenumber: 56
+street: Seilerstraße
+housenumber: "56"
 phone: ""
-opening_hours: "Sa 12:00-19:00; PH off; Tu-Fr 14:00-19:00"
+opening_hours: Sa 12:00-19:00; PH off; Tu-Fr 14:00-19:00
 website: ""

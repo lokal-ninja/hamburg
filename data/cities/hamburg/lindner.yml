@@ -4,8 +4,8 @@ latitude: 53.55968
 longitude: 9.88434
 postcode: "22607"
 city: Hamburg
-street: "Waitzstraße"
-housenumber: 13
+street: Waitzstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00;Sa 08:00-14:00;Su,PH off"
-website: "https://www.lindner-esskultur.de/standorte/hamburg/waitzstr-13/"
+opening_hours: Mo-Fr 08:30-18:00;Sa 08:00-14:00;Su,PH off
+website: https://www.lindner-esskultur.de/standorte/hamburg/waitzstr-13/

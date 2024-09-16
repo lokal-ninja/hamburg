@@ -4,8 +4,8 @@ latitude: 53.54904
 longitude: 9.9953
 postcode: "20095"
 city: Hamburg
-street: "Domstraße"
-housenumber: 14
-phone: "+49 40 22898800"
-opening_hours: "Mo-Sa 10:00-19:00; Su 13:00-18:00"
-website: "https://www.foto-gregor.de/"
+street: Domstraße
+housenumber: "14"
+phone: +49 40 22898800
+opening_hours: Mo-Sa 10:00-19:00; Su 13:00-18:00
+website: https://www.foto-gregor.de/

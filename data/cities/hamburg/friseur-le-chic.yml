@@ -4,8 +4,8 @@ latitude: 53.58795
 longitude: 10.04878
 postcode: "22305"
 city: Hamburg
-street: "Drosselstraße"
-housenumber: 13
+street: Drosselstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; PH off"
-website: "https://www.friseur-le-chic.de"
+opening_hours: Mo-Sa 09:00-18:00; PH off
+website: https://www.friseur-le-chic.de

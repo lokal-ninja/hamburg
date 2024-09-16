@@ -1,11 +1,11 @@
 id: 71284147
-type: way
+type: node
 latitude: 53.58414
 longitude: 9.9338
 postcode: "22525"
 city: Hamburg
-street: "Kieler Straße"
-housenumber: 302
-phone: "+49 40 69455380"
-opening_hours: "24/7"
+street: Kieler Straße
+housenumber: "302"
+phone: +49 40 69455380
+opening_hours: 24/7
 website: ""

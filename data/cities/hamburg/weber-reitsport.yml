@@ -1,11 +1,11 @@
 id: 48817774
-type: way
+type: node
 latitude: 53.66011
 longitude: 10.08211
 postcode: "22399"
 city: Hamburg
-street: "Harksheider Straße"
-housenumber: 11
+street: Harksheider Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

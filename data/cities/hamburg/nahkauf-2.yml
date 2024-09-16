@@ -5,7 +5,7 @@ longitude: 10.13246
 postcode: "22045"
 city: Hamburg
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

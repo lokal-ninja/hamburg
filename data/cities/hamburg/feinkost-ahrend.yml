@@ -4,8 +4,8 @@ latitude: 53.56589
 longitude: 9.79866
 postcode: "22587"
 city: Hamburg
-street: "Blankeneser Landstraße"
-housenumber: 81
-phone: "+49 40 860772"
-opening_hours: "Mo-Fr 08:30-13:00 15:00-18:00, Sa 8:00 - 13:00"
-website: "https://feinkost-ahrend.de/"
+street: Blankeneser Landstraße
+housenumber: "81"
+phone: +49 40 860772
+opening_hours: Mo-Fr 08:30-13:00 15:00-18:00, Sa 8:00 - 13:00
+website: https://feinkost-ahrend.de/

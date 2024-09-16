@@ -1,11 +1,11 @@
 id: 37145507
-type: way
+type: node
 latitude: 53.57572
 longitude: 9.97706
 postcode: "20144"
 city: Hamburg
-street: "Grindelberg"
+street: Grindelberg
 housenumber: 53-55
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/filialen/hamburg/harvestehude-grindelberg-53-55.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/filialen/hamburg/harvestehude-grindelberg-53-55.html

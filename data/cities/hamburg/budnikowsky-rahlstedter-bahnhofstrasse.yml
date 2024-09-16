@@ -4,8 +4,8 @@ latitude: 53.60439
 longitude: 10.15536
 postcode: "22143"
 city: Hamburg
-street: "Rahlstedter Bahnhofstraße"
-housenumber: 17
+street: Rahlstedter Bahnhofstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.budni.de/filialen/22143-rahlstedter-bahnhofstrasse-17/"
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.budni.de/filialen/22143-rahlstedter-bahnhofstrasse-17/

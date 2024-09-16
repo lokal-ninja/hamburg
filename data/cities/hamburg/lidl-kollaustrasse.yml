@@ -1,11 +1,11 @@
 id: 53753403
-type: way
+type: node
 latitude: 53.60996
 longitude: 9.95731
 postcode: "22453"
 city: Hamburg
-street: "Kollaustraße"
+street: Kollaustraße
 housenumber: 129-135
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.lidl.de/filialen/hamburg/niendorf-kollaustr-129-135.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.lidl.de/filialen/hamburg/niendorf-kollaustr-129-135.html

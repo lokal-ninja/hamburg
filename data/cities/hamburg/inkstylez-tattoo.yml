@@ -4,8 +4,8 @@ latitude: 53.57892
 longitude: 10.04504
 postcode: "22081"
 city: Hamburg
-street: "Dehnhaide"
-housenumber: 44
+street: Dehnhaide
+housenumber: "44"
 phone: ""
-opening_hours: "Tu-Fr 12:00-18:00; Sa 10:00-16:00; PH,Su off"
+opening_hours: Tu-Fr 12:00-18:00; Sa 10:00-16:00; PH,Su off
 website: ""

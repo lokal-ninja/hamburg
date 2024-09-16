@@ -4,8 +4,8 @@ latitude: 53.45782
 longitude: 9.98692
 postcode: "21073"
 city: Hamburg
-street: "Seeveplatz"
-housenumber: 1
-phone: "+49 40 88175508"
-opening_hours: "Mo-Sa 09:30-20:00; PH off"
-website: "http://www.vodafone-harburg.de/"
+street: Seeveplatz
+housenumber: "1"
+phone: +49 40 88175508
+opening_hours: Mo-Sa 09:30-20:00; PH off
+website: http://www.vodafone-harburg.de/

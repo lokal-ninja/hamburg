@@ -4,8 +4,8 @@ latitude: 53.55725
 longitude: 9.96488
 postcode: "20359"
 city: Hamburg
-street: "Neuer Kamp"
-housenumber: 1
-phone: "+49 40 55775551"
-opening_hours: "Mo-Sa 09:30-19:30; PH,Su off"
-website: "http://www.teletec24.de"
+street: Neuer Kamp
+housenumber: "1"
+phone: +49 40 55775551
+opening_hours: Mo-Sa 09:30-19:30; PH,Su off
+website: http://www.teletec24.de

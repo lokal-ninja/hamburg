@@ -4,8 +4,8 @@ latitude: 53.55112
 longitude: 9.93219
 postcode: "22765"
 city: Hamburg
-street: "Erzbergerstraße"
-housenumber: 19
+street: Erzbergerstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Tu-Fr 12:00-19:00; Sa 12:00-16:00"
-website: "https://www.herzbergdesign.de"
+opening_hours: Tu-Fr 12:00-19:00; Sa 12:00-16:00
+website: https://www.herzbergdesign.de

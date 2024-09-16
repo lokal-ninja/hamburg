@@ -4,8 +4,8 @@ latitude: 53.6403
 longitude: 9.94785
 postcode: "22455"
 city: Hamburg
-street: "Nordalbingerweg"
-housenumber: 15
+street: Nordalbingerweg
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.56326
 longitude: 9.93651
 postcode: "22769"
 city: Hamburg
-street: "Stresemannstraße"
-housenumber: 268
+street: Stresemannstraße
+housenumber: "268"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.lederdetmer.de/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.lederdetmer.de/

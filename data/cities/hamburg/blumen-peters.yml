@@ -1,11 +1,11 @@
 id: 58535347
-type: way
+type: node
 latitude: 53.5913
 longitude: 10.15642
 postcode: "22149"
 city: Hamburg
-street: "Poggfreedweg"
-housenumber: 58
-phone: "+49-40-6724855"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su 10:00-12:00"
-website: "https://www.floristik-peters.de/"
+street: Poggfreedweg
+housenumber: "58"
+phone: +49-40-6724855
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su 10:00-12:00
+website: https://www.floristik-peters.de/

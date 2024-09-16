@@ -4,8 +4,8 @@ latitude: 53.55259
 longitude: 10.00436
 postcode: "20095"
 city: Hamburg
-street: "Spitalerstraße"
-housenumber: 4
+street: Spitalerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; PH off"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-21:00; PH off
 website: ""

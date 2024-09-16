@@ -4,8 +4,8 @@ latitude: 53.5503
 longitude: 10.03874
 postcode: "20537"
 city: Hamburg
-street: "Wendenstraße"
-housenumber: 254
+street: Wendenstraße
+housenumber: "254"
 phone: ""
-opening_hours: "Mo-Fr 06:45-15:00"
+opening_hours: Mo-Fr 06:45-15:00
 website: ""

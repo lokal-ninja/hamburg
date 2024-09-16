@@ -4,8 +4,8 @@ latitude: 53.45873
 longitude: 9.98271
 postcode: "21073"
 city: Hamburg
-street: "Lüneburger Straße"
-housenumber: 25
+street: Lüneburger Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Sa 10:00-14:00; Mo-Fr 10:00-18:00"
+opening_hours: Sa 10:00-14:00; Mo-Fr 10:00-18:00
 website: ""

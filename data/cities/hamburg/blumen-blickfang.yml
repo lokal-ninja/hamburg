@@ -4,8 +4,8 @@ latitude: 53.44843
 longitude: 9.94734
 postcode: "21077"
 city: Hamburg
-street: "Rickelstraße"
-housenumber: 2
-phone: "+49 40 7964313"
-opening_hours: "Mo-Sa 09:00-18:00"
+street: Rickelstraße
+housenumber: "2"
+phone: +49 40 7964313
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

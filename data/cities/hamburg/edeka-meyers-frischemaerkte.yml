@@ -4,8 +4,8 @@ latitude: 53.63303
 longitude: 9.95788
 postcode: "22459"
 city: Hamburg
-street: "Krähenweg"
-housenumber: 19
-phone: "+49 4101 8472401"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.meyer-frischecenter.de/"
+street: Krähenweg
+housenumber: "19"
+phone: +49 4101 8472401
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.meyer-frischecenter.de/

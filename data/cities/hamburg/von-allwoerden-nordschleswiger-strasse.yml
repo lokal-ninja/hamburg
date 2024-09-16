@@ -4,8 +4,8 @@ latitude: 53.58204
 longitude: 10.06691
 postcode: "22049"
 city: Hamburg
-street: "Nordschleswiger Straße"
-housenumber: 68
-phone: "+49 40 28806927"
-opening_hours: "Mo-Sa 06:30-20:00, Su 08:00-13:00"
+street: Nordschleswiger Straße
+housenumber: "68"
+phone: +49 40 28806927
+opening_hours: Mo-Sa 06:30-20:00, Su 08:00-13:00
 website: ""

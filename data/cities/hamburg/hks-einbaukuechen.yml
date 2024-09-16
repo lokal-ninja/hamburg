@@ -4,8 +4,8 @@ latitude: 53.61058
 longitude: 9.95837
 postcode: "22453"
 city: Hamburg
-street: "Kollaustraße"
-housenumber: 118
-phone: "+49 40 587979"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-14:00; PH off"
-website: "https://www.hks-kuechen.de"
+street: Kollaustraße
+housenumber: "118"
+phone: +49 40 587979
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-14:00; PH off
+website: https://www.hks-kuechen.de

@@ -4,8 +4,8 @@ latitude: 53.45878
 longitude: 9.98227
 postcode: "21073"
 city: Hamburg
-street: "Bremer Straße"
-housenumber: 2
+street: Bremer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu 09:30-18:00, We-Fr 09:00-19:30, Sa 09:00-17:00;PH,Su off"
+opening_hours: Mo,Tu 09:30-18:00, We-Fr 09:00-19:30, Sa 09:00-17:00;PH,Su off
 website: ""

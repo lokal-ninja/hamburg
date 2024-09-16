@@ -4,8 +4,8 @@ latitude: 53.55278
 longitude: 10.00486
 postcode: "20095"
 city: Hamburg
-street: "Spitalerstraße"
-housenumber: 2
-phone: "+49 40 419157810"
-opening_hours: "Mo-Sa 10:00-20:00; Th-Fr 10:00-21:00"
-website: "https://www.nike.com/"
+street: Spitalerstraße
+housenumber: "2"
+phone: +49 40 419157810
+opening_hours: Mo-Sa 10:00-20:00; Th-Fr 10:00-21:00
+website: https://www.nike.com/

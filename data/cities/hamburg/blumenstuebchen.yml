@@ -4,8 +4,8 @@ latitude: 53.47818
 longitude: 9.8906
 postcode: "21147"
 city: Hamburg
-street: "Neuwiedenthaler Straße"
-housenumber: 147
-phone: "+49 40 796 74 21"
-opening_hours: "Mo-Fr 09:00-12:30, 14:30-18:00; Sa 08:00-13:00"
+street: Neuwiedenthaler Straße
+housenumber: "147"
+phone: +49 40 796 74 21
+opening_hours: Mo-Fr 09:00-12:30, 14:30-18:00; Sa 08:00-13:00
 website: ""

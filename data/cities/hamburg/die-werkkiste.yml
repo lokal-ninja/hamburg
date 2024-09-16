@@ -4,8 +4,8 @@ latitude: 53.55262
 longitude: 9.94463
 postcode: "22767"
 city: Hamburg
-street: "Schomburgstraße"
-housenumber: 87
-phone: "+49 40 609 440 78"
-opening_hours: "Tu,We 10:00-17:00;Th-Sa 10:00-18:00"
-website: "https://www.die-werkkiste.de/"
+street: Schomburgstraße
+housenumber: "87"
+phone: +49 40 609 440 78
+opening_hours: Tu,We 10:00-17:00;Th-Sa 10:00-18:00
+website: https://www.die-werkkiste.de/

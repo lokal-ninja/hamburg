@@ -4,8 +4,8 @@ latitude: 53.61906
 longitude: 10.00087
 postcode: "22335"
 city: Hamburg
-street: "Sportallee"
-housenumber: 72
+street: Sportallee
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 10:00-15:00"
-website: "https://www.ringeltaube.de/"
+opening_hours: Mo-Fr 09:00-19:00, Sa 10:00-15:00
+website: https://www.ringeltaube.de/

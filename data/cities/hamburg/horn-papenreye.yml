@@ -1,11 +1,11 @@
 id: 59719060
-type: way
+type: node
 latitude: 53.61213
 longitude: 9.959
 postcode: "22453"
 city: Hamburg
-street: "Papenreye"
-housenumber: 6
-phone: "+49 40 53055877"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 07:30-17:00"
-website: "https://konditorei-horn.de"
+street: Papenreye
+housenumber: "6"
+phone: +49 40 53055877
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 07:30-17:00
+website: https://konditorei-horn.de

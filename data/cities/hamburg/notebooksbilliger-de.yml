@@ -4,8 +4,8 @@ latitude: 53.56795
 longitude: 10.02386
 postcode: "22087"
 city: Hamburg
-street: "Mundsburger Damm"
-housenumber: 42
+street: Mundsburger Damm
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.notebooksbilliger.de/hamburg"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.notebooksbilliger.de/hamburg

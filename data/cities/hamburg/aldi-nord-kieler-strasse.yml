@@ -1,11 +1,11 @@
 id: 867269871
-type: way
+type: node
 latitude: 53.59939
 longitude: 9.91444
 postcode: "22525"
 city: Hamburg
-street: "Kieler Straße"
+street: Kieler Straße
 housenumber: 561-573
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/stellingen/kieler-strasse-561-573.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/stellingen/kieler-strasse-561-573.html

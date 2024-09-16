@@ -4,8 +4,8 @@ latitude: 53.55779
 longitude: 9.93999
 postcode: "22765"
 city: Hamburg
-street: "Haubachstraße"
-housenumber: 29
-phone: "+49 40 80603470"
-opening_hours: "Th,Fr 12:00-18:00, Sa 12:00-16:00, Nach Vereinbarung"
-website: "https://www.gronewold-tattoo.de"
+street: Haubachstraße
+housenumber: "29"
+phone: +49 40 80603470
+opening_hours: Th,Fr 12:00-18:00, Sa 12:00-16:00, "Nach Vereinbarung"
+website: https://www.gronewold-tattoo.de

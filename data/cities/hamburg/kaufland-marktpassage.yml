@@ -1,11 +1,11 @@
 id: 96212615
-type: way
+type: node
 latitude: 53.47077
 longitude: 9.85124
 postcode: "21149"
 city: Hamburg
-street: "Marktpassage"
-housenumber: 5
-phone: "+49 40 703858350"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+street: Marktpassage
+housenumber: "5"
+phone: +49 40 703858350
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

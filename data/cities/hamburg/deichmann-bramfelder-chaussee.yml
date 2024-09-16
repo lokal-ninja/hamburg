@@ -1,11 +1,11 @@
 id: 445928832
-type: way
+type: node
 latitude: 53.61261
 longitude: 10.0759
 postcode: "22177"
 city: Hamburg
-street: "Bramfelder Chaussee"
-housenumber: 230
+street: Bramfelder Chaussee
+housenumber: "230"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-20:00; PH off"
-website: "https://stores.deichmann.com/hamburg/hamburg/bramfelder-chaussee-230.html"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:30-20:00; PH off
+website: https://stores.deichmann.com/hamburg/hamburg/bramfelder-chaussee-230.html

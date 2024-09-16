@@ -1,11 +1,11 @@
 id: 251167757
-type: way
+type: node
 latitude: 53.57068
 longitude: 9.86142
 postcode: "22609"
 city: Hamburg
-street: "Osdorfer Landstraße"
-housenumber: 131
+street: Osdorfer Landstraße
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

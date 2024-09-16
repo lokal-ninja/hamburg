@@ -1,11 +1,11 @@
 id: 133758404
-type: way
+type: node
 latitude: 53.63616
 longitude: 10.09215
 postcode: "22391"
 city: Hamburg
-street: "Saseler Chaussee"
-housenumber: 33
-phone: "+49 40 5361336"
-opening_hours: "Mo off, Tu-Fr 08:00-13:00, Tu,Th,Fr 14:30-18:00, Sa 07:00-12:00"
-website: "https://www.fleischerei-warnecke.de"
+street: Saseler Chaussee
+housenumber: "33"
+phone: +49 40 5361336
+opening_hours: Mo off, Tu-Fr 08:00-13:00, Tu,Th,Fr 14:30-18:00, Sa 07:00-12:00
+website: https://www.fleischerei-warnecke.de

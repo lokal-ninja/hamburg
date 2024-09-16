@@ -4,8 +4,8 @@ latitude: 53.46586
 longitude: 9.98749
 postcode: "21079"
 city: Hamburg
-street: "Veritaskai"
-housenumber: 4
-phone: "+49 40 30085532"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.schanzenbaeckerei.de/filialen/veritaskai"
+street: Veritaskai
+housenumber: "4"
+phone: +49 40 30085532
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.schanzenbaeckerei.de/filialen/veritaskai

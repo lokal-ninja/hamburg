@@ -1,11 +1,11 @@
 id: 47473642
-type: way
+type: node
 latitude: 53.61264
 longitude: 10.07525
 postcode: "22177"
 city: Hamburg
-street: "Bramfelder Chaussee"
-housenumber: 230
+street: Bramfelder Chaussee
+housenumber: "230"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-18:00"
-website: "http://www.einkaufszentrum-bramfeld.de"
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-18:00
+website: http://www.einkaufszentrum-bramfeld.de

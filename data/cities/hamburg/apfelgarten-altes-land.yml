@@ -4,8 +4,8 @@ latitude: 53.52595
 longitude: 9.80188
 postcode: "21129"
 city: Hamburg
-street: "Neuenfelder Fährdeich"
-housenumber: 18
+street: Neuenfelder Fährdeich
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Su 09:30-18:00"
-website: "http://apfelgarten-altes-land.de/"
+opening_hours: Mo-Su 09:30-18:00
+website: http://apfelgarten-altes-land.de/

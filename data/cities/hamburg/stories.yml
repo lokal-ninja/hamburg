@@ -4,8 +4,8 @@ latitude: 53.58056
 longitude: 9.97551
 postcode: "20251"
 city: Hamburg
-street: "Straßenbahnring"
-housenumber: 17
+street: Straßenbahnring
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 11:00-17:00; PH off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 11:00-17:00; PH off
 website: ""

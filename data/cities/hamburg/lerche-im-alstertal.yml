@@ -4,8 +4,8 @@ latitude: 53.7085
 longitude: 10.10658
 postcode: "22397"
 city: Hamburg
-street: "Poppenbütteler Chaussee"
-housenumber: 1
-phone: "+49 40 60761080"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.lerche-im-alstertal.de/"
+street: Poppenbütteler Chaussee
+housenumber: "1"
+phone: +49 40 60761080
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.lerche-im-alstertal.de/

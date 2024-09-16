@@ -1,11 +1,12 @@
 id: 16727617
-type: way
+type: node
 latitude: 53.57801
 longitude: 9.83994
 postcode: "22549"
 city: Hamburg
-street: "Am Osdorfer Born"
-housenumber: 52
+street: Am Osdorfer Born
+housenumber: "52"
 phone: ""
-opening_hours: "Jan-Feb: Mo-Fr 08:00-17:00; Jan-Feb: Sa 09:00-13:00; Mar-Dec: Mo-Fr 08:00-18:00; Mar-Dec: Sa 09:00-16:00; Dec 24: closed"
+opening_hours: 'Jan-Feb: Mo-Fr 08:00-17:00; Jan-Feb: Sa 09:00-13:00; Mar-Dec: Mo-Fr
+    08:00-18:00; Mar-Dec: Sa 09:00-16:00; Dec 24: closed'
 website: ""

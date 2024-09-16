@@ -4,8 +4,8 @@ latitude: 53.45663
 longitude: 9.98738
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 76758912"
-opening_hours: "Mo-Sa 09:30-20:00; PH off"
-website: "https://party-helden.de/"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 76758912
+opening_hours: Mo-Sa 09:30-20:00; PH off
+website: https://party-helden.de/

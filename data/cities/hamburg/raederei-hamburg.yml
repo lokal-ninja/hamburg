@@ -4,8 +4,8 @@ latitude: 53.58044
 longitude: 10.03833
 postcode: "22083"
 city: Hamburg
-street: "Weidestraße"
-housenumber: 18
-phone: "+49 40 20973690"
-opening_hours: "Mo-We,Fr 11:00-18:00; Sa 11:00-14:00"
-website: "https://www.raederei-hamburg.de/"
+street: Weidestraße
+housenumber: "18"
+phone: +49 40 20973690
+opening_hours: Mo-We,Fr 11:00-18:00; Sa 11:00-14:00
+website: https://www.raederei-hamburg.de/

@@ -1,11 +1,11 @@
 id: 134198121
-type: way
+type: node
 latitude: 53.64091
 longitude: 10.07954
 postcode: "22391"
 city: Hamburg
-street: "Wellingsbüttler Weg"
-housenumber: 134
-phone: "+49 40 5361098"
+street: Wellingsbüttler Weg
+housenumber: "134"
+phone: +49 40 5361098
 opening_hours: ""
 website: ""

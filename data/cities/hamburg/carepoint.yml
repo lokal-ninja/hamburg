@@ -4,8 +4,8 @@ latitude: 53.56752
 longitude: 10.04723
 postcode: "22089"
 city: Hamburg
-street: "Wandsbeker Chaussee"
-housenumber: 132
+street: Wandsbeker Chaussee
+housenumber: "132"
 phone: "+494020003565"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.carepoint.eu/standorte/sanitaetshaus-in-hamburg-wandsbek/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.carepoint.eu/standorte/sanitaetshaus-in-hamburg-wandsbek/

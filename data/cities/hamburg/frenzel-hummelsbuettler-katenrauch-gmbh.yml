@@ -1,11 +1,11 @@
 id: 75656320
-type: way
+type: node
 latitude: 53.64559
 longitude: 10.03349
 postcode: "22339"
 city: Hamburg
-street: "Lademannbogen"
-housenumber: 20
-phone: "+49 40 538 50 99"
-opening_hours: "Th 08:00-12:15; Fr 08:00-15:00; Sa 08:00-12:00"
-website: "www.Frenzel-Katenrauch.de"
+street: Lademannbogen
+housenumber: "20"
+phone: +49 40 538 50 99
+opening_hours: Th 08:00-12:15; Fr 08:00-15:00; Sa 08:00-12:00
+website: www.Frenzel-Katenrauch.de

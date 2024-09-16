@@ -1,11 +1,11 @@
 id: 68789932
-type: way
+type: node
 latitude: 53.56756
 longitude: 9.95294
 postcode: "20259"
 city: Hamburg
-street: "Doormannsweg"
-housenumber: 45
+street: Doormannsweg
+housenumber: "45"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

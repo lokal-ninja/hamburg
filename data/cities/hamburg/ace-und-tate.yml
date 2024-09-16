@@ -1,11 +1,11 @@
 id: 1082625121
 type: node
-latitude: 53.55259
-longitude: 9.93017
+latitude: 53.55257
+longitude: 9.93016
 postcode: ""
 city: Hamburg
-street: "Bahrenfelder Straße"
-housenumber: 118
+street: Bahrenfelder Straße
+housenumber: "118"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

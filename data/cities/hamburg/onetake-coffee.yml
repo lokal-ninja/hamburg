@@ -4,8 +4,8 @@ latitude: 53.56441
 longitude: 9.92226
 postcode: "22761"
 city: Hamburg
-street: "Beerenweg"
-housenumber: 6
+street: Beerenweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.onetake.coffee/"
+website: https://www.onetake.coffee/

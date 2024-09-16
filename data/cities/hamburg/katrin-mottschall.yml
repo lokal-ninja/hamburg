@@ -4,8 +4,8 @@ latitude: 53.57999
 longitude: 10.01304
 postcode: "22303"
 city: Hamburg
-street: "Mühlenkamp"
-housenumber: 6
-phone: "+49 40 69466656"
+street: Mühlenkamp
+housenumber: "6"
+phone: +49 40 69466656
 opening_hours: ""
-website: "https://katrinmottschall.de/"
+website: https://katrinmottschall.de/

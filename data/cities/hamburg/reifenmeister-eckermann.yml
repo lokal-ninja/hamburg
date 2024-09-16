@@ -4,8 +4,8 @@ latitude: 53.46213
 longitude: 9.98348
 postcode: "21073"
 city: Hamburg
-street: "Küchgarten"
-housenumber: 21
-phone: "+49 40 30709880"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.save-inn-hamburg.de/"
+street: Küchgarten
+housenumber: "21"
+phone: +49 40 30709880
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.save-inn-hamburg.de/

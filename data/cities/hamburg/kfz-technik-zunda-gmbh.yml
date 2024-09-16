@@ -4,8 +4,8 @@ latitude: 53.54901
 longitude: 10.02291
 postcode: "20097"
 city: Hamburg
-street: "Gotenstraße"
-housenumber: 3
+street: Gotenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
-website: "https://za-werkstatt-hamburg.de"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
+website: https://za-werkstatt-hamburg.de

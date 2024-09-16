@@ -4,8 +4,8 @@ latitude: 53.62576
 longitude: 10.13918
 postcode: "22147"
 city: Hamburg
-street: "Hermann-Balk-Straße"
-housenumber: 137
-phone: "+49 40 6448566"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.euronics.de/hamburg-fresemann/ueber-uns/"
+street: Hermann-Balk-Straße
+housenumber: "137"
+phone: +49 40 6448566
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.euronics.de/hamburg-fresemann/ueber-uns/

@@ -1,11 +1,11 @@
 id: 67696895
-type: way
+type: node
 latitude: 53.58123
 longitude: 9.76495
 postcode: "22559"
 city: Hamburg
-street: "Alte Sülldorfer Landstraße"
-housenumber: 416
-phone: "+49 40 814542"
-opening_hours: "Mo-Th 07:30-16:30, Fr 07:30-15:00; PH off"
-website: "https://www.autoservice-wodzak.de"
+street: Alte Sülldorfer Landstraße
+housenumber: "416"
+phone: +49 40 814542
+opening_hours: Mo-Th 07:30-16:30, Fr 07:30-15:00; PH off
+website: https://www.autoservice-wodzak.de

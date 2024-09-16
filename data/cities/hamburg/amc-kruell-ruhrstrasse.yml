@@ -1,11 +1,11 @@
 id: 692640149
-type: way
+type: node
 latitude: 53.56756
 longitude: 9.92612
 postcode: "22761"
 city: Hamburg
-street: "Ruhrstraße"
-housenumber: 100
+street: Ruhrstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 09:00-14:00"
-website: "https://www.kruell.com"
+opening_hours: Mo-Fr 07:00-18:30; Sa 09:00-14:00
+website: https://www.kruell.com

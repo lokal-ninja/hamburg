@@ -1,11 +1,11 @@
 id: 23403003
-type: way
+type: node
 latitude: 53.58149
 longitude: 10.07885
 postcode: "22041"
 city: Hamburg
-street: "Auf dem Königslande"
-housenumber: 51
+street: Auf dem Königslande
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 08:00-24:00; Sa 08:00-23:30"
+opening_hours: Mo-Fr 08:00-24:00; Sa 08:00-23:30
 website: ""

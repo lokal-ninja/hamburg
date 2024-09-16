@@ -4,8 +4,8 @@ latitude: 53.45869
 longitude: 9.98704
 postcode: "21073"
 city: Hamburg
-street: "Seeveplatz"
-housenumber: 1
-phone: "+49 40 7662690"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.marktkauf.de/"
+street: Seeveplatz
+housenumber: "1"
+phone: +49 40 7662690
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.marktkauf.de/

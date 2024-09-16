@@ -4,8 +4,8 @@ latitude: 53.5817
 longitude: 9.93763
 postcode: "22525"
 city: Hamburg
-street: "Langenfelder Damm"
-housenumber: 52
-phone: "+49 40 404871"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.jensandrews.de/"
+street: Langenfelder Damm
+housenumber: "52"
+phone: +49 40 404871
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.jensandrews.de/

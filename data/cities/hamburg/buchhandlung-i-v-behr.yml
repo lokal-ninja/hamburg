@@ -4,8 +4,8 @@ latitude: 53.64893
 longitude: 10.16571
 postcode: "22359"
 city: Hamburg
-street: "Im Alten Dorfe"
-housenumber: 31
-phone: "+49 40 6031286"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "http://www.buecher-behr.com"
+street: Im Alten Dorfe
+housenumber: "31"
+phone: +49 40 6031286
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: http://www.buecher-behr.com

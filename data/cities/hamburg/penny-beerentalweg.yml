@@ -1,11 +1,11 @@
 id: 148054290
-type: way
+type: node
 latitude: 53.44793
 longitude: 9.94409
 postcode: "21077"
 city: Hamburg
-street: "Beerentalweg"
+street: Beerentalweg
 housenumber: 35d
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"
-website: "https://www.penny.de"
+opening_hours: Mo-Sa 07:00-22:00; PH,Su off
+website: https://www.penny.de

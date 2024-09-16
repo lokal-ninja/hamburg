@@ -1,11 +1,11 @@
 id: 166053365
-type: way
+type: node
 latitude: 53.58355
 longitude: 10.05703
 postcode: "22049"
 city: Hamburg
-street: "Alter Teichweg"
-housenumber: 57
+street: Alter Teichweg
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

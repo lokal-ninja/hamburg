@@ -1,11 +1,11 @@
 id: 47057143
-type: way
+type: node
 latitude: 53.62145
 longitude: 9.95202
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
-housenumber: 33
+street: Tibarg
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 827809276
-type: way
+type: node
 latitude: 53.47538
 longitude: 10.00324
 postcode: "21109"
 city: Hamburg
-street: "König-Georg-Deich"
-housenumber: 24
+street: König-Georg-Deich
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; PH,Su 10:00-13:00"
+opening_hours: Mo-Sa 09:00-17:00; PH,Su 10:00-13:00
 website: ""

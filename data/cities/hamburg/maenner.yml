@@ -4,8 +4,8 @@ latitude: 53.59569
 longitude: 9.97773
 postcode: "20251"
 city: Hamburg
-street: "Frickestraße"
-housenumber: 55
-phone: "+49 40 4605557"
-opening_hours: "Mo,Tu,Th,Fr,Sa 08:00-20:00"
+street: Frickestraße
+housenumber: "55"
+phone: +49 40 4605557
+opening_hours: Mo,Tu,Th,Fr,Sa 08:00-20:00
 website: ""

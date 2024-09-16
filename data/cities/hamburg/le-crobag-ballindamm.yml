@@ -4,8 +4,8 @@ latitude: 53.55185
 longitude: 9.99461
 postcode: "20095"
 city: Hamburg
-street: "Ballindamm"
-housenumber: 40
-phone: "+49 40 32527167"
-opening_hours: "Mo-Fr 05:00-20:00; Sa 08:00-20:00; PH off"
+street: Ballindamm
+housenumber: "40"
+phone: +49 40 32527167
+opening_hours: Mo-Fr 05:00-20:00; Sa 08:00-20:00; PH off
 website: ""

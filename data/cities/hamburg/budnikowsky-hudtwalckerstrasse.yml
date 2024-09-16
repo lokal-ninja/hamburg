@@ -4,8 +4,8 @@ latitude: 53.59441
 longitude: 9.99672
 postcode: "22299"
 city: Hamburg
-street: "Hudtwalckerstraße"
-housenumber: 19
+street: Hudtwalckerstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:30; PH,Su off"
-website: "https://www.budni.de/filialen/22299-hudtwalckerstr.-19/"
+opening_hours: Mo-Sa 08:00-20:30; PH,Su off
+website: https://www.budni.de/filialen/22299-hudtwalckerstr.-19/

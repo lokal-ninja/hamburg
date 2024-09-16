@@ -4,8 +4,8 @@ latitude: 53.55959
 longitude: 9.8827
 postcode: "22607"
 city: Hamburg
-street: "Waitzstraße"
-housenumber: 24
+street: Waitzstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-13:00;PH off"
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-13:00;PH off
 website: ""

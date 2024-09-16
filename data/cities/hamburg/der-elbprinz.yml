@@ -4,8 +4,8 @@ latitude: 53.57267
 longitude: 9.95948
 postcode: "20259"
 city: Hamburg
-street: "Henriettenweg"
-housenumber: 1
+street: Henriettenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00"
+opening_hours: Mo-Fr 12:00-19:00
 website: ""

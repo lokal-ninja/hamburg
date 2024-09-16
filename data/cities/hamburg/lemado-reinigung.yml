@@ -4,8 +4,8 @@ latitude: 53.56455
 longitude: 9.95926
 postcode: "20357"
 city: Hamburg
-street: "Schulterblatt"
-housenumber: 115
+street: Schulterblatt
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 10:00-13:00"
-website: "https://lemado.de/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 10:00-13:00
+website: https://lemado.de/

@@ -4,8 +4,8 @@ latitude: 53.63368
 longitude: 9.91971
 postcode: "22457"
 city: Hamburg
-street: "Frohmestraße"
-housenumber: 28
-phone: "+49 40 55 900 430"
-opening_hours: "Mo-Tu 10:00-15:00; We-Sa Nach Terminvereinbarung"
-website: "https://www.reiseboerse-nord.de/"
+street: Frohmestraße
+housenumber: "28"
+phone: +49 40 55 900 430
+opening_hours: Mo-Tu 10:00-15:00; We-Sa "Nach Terminvereinbarung"
+website: https://www.reiseboerse-nord.de/

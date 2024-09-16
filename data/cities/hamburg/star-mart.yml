@@ -1,11 +1,11 @@
 id: 117326389
-type: way
+type: node
 latitude: 53.47854
 longitude: 9.88708
 postcode: "21147"
 city: Hamburg
-street: "Neuwiedenthaler Straße"
-housenumber: 131
+street: Neuwiedenthaler Straße
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

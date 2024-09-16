@@ -4,8 +4,9 @@ latitude: 53.54376
 longitude: 9.98892
 postcode: "20457"
 city: Hamburg
-street: "Kehrwieder"
-housenumber: 2
-phone: "+49 40 300 6 80 0"
-opening_hours: "Mo-Th 09:30-18:00; Tu 09:30-21:00; Fr 09:30-19:00; Sa 08:00-21:00; PH,Su 08:30-20:00"
-website: "https://shop.miniatur-wunderland.de"
+street: Kehrwieder
+housenumber: "2"
+phone: +49 40 300 6 80 0
+opening_hours: Mo-Th 09:30-18:00; Tu 09:30-21:00; Fr 09:30-19:00; Sa 08:00-21:00;
+    PH,Su 08:30-20:00
+website: https://shop.miniatur-wunderland.de

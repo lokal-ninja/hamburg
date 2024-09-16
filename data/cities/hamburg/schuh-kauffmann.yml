@@ -4,8 +4,8 @@ latitude: 53.55263
 longitude: 10.00006
 postcode: "20095"
 city: Hamburg
-street: "Gertrudenstraße"
-housenumber: 3
-phone: "+49 40 32526069"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-16:00"
-website: "https://www.schuh-kauffmann.de/"
+street: Gertrudenstraße
+housenumber: "3"
+phone: +49 40 32526069
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-16:00
+website: https://www.schuh-kauffmann.de/

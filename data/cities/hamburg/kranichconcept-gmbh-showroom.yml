@@ -4,8 +4,8 @@ latitude: 53.48481
 longitude: 10.219
 postcode: "21029"
 city: Hamburg
-street: "Holtenklinker Straße"
-housenumber: 11
-phone: "+49 40 2282 127 20"
-opening_hours: "Mo-Do 09:00-17:00, Fr 09:00 - 14:00"
-website: "https://kranich-care.de/vor-ort-termin/"
+street: Holtenklinker Straße
+housenumber: "11"
+phone: +49 40 2282 127 20
+opening_hours: Mo-Do 09:00-17:00, Fr 09:00 - 14:00
+website: https://kranich-care.de/vor-ort-termin/

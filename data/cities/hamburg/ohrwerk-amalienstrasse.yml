@@ -4,8 +4,8 @@ latitude: 53.4585
 longitude: 9.98436
 postcode: "21073"
 city: Hamburg
-street: "Amalienstraße"
-housenumber: 4
+street: Amalienstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-17:00; PH off"
+opening_hours: Mo-Fr 09:00-13:00,14:00-17:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.63625
 longitude: 9.91809
 postcode: "22457"
 city: Hamburg
-street: "Frohmestraße"
-housenumber: 1
-phone: "+49 40 5508086"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-14:00; PH off"
-website: "https://www.parfuemerie-kaland.de/in-ihrer-naehe/schnelsen/"
+street: Frohmestraße
+housenumber: "1"
+phone: +49 40 5508086
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-14:00; PH off
+website: https://www.parfuemerie-kaland.de/in-ihrer-naehe/schnelsen/

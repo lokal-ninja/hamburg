@@ -4,8 +4,8 @@ latitude: 53.55972
 longitude: 9.88807
 postcode: "22607"
 city: Hamburg
-street: "Beselerplatz"
-housenumber: 11
+street: Beselerplatz
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
 website: ""

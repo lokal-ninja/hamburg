@@ -4,8 +4,8 @@ latitude: 53.58476
 longitude: 9.97058
 postcode: "20251"
 city: Hamburg
-street: "Breitenfelder Straße"
-housenumber: 9
-phone: "+49 40 4806040"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
-website: "https://www.radsportvonhacht.de/"
+street: Breitenfelder Straße
+housenumber: "9"
+phone: +49 40 4806040
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
+website: https://www.radsportvonhacht.de/

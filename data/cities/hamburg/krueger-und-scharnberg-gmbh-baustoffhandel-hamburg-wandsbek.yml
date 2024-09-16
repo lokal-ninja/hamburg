@@ -1,11 +1,11 @@
 id: 621712029
-type: way
+type: node
 latitude: 53.58219
 longitude: 10.11702
 postcode: "22045"
 city: Hamburg
 street: ""
-housenumber: 
-phone: "+49 40 65430 0"
-opening_hours: "Mo-Th 06:30-17:00, Fr 06:30-14:00"
-website: "https://bauking.de"
+housenumber: ""
+phone: +49 40 65430 0
+opening_hours: Mo-Th 06:30-17:00, Fr 06:30-14:00
+website: https://bauking.de

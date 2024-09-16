@@ -1,11 +1,11 @@
 id: 49848172
-type: way
+type: node
 latitude: 53.57727
 longitude: 10.08263
 postcode: "22041"
 city: Hamburg
-street: "Holzmühlenstraße"
-housenumber: 5
+street: Holzmühlenstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

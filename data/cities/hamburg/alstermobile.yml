@@ -1,11 +1,11 @@
 id: 50364439
-type: way
+type: node
 latitude: 53.57643
 longitude: 10.11301
 postcode: "22043"
 city: Hamburg
-street: "Schimmelmannstraße"
-housenumber: 163
+street: Schimmelmannstraße
+housenumber: "163"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.55628
 longitude: 9.99093
 postcode: "20354"
 city: Hamburg
-street: "Große Theaterstraße"
-housenumber: 7
-phone: "+49 40 20943910"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 10:00-19:00"
-website: "https://mantisshop.de"
+street: Große Theaterstraße
+housenumber: "7"
+phone: +49 40 20943910
+opening_hours: Mo-Fr 12:00-19:00; Sa 10:00-19:00
+website: https://mantisshop.de

@@ -1,11 +1,11 @@
 id: 189024094
-type: way
+type: node
 latitude: 53.56342
 longitude: 9.93341
 postcode: "22761"
 city: Hamburg
-street: "Stresemannstraße"
-housenumber: 290
+street: Stresemannstraße
+housenumber: "290"
 phone: ""
-opening_hours: "PH,Mo-Su 06:00-22:00"
-website: "https://www.myplace.de/standorte/hamburg/altona.html"
+opening_hours: PH,Mo-Su 06:00-22:00
+website: https://www.myplace.de/standorte/hamburg/altona.html

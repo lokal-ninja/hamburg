@@ -1,11 +1,11 @@
 id: 1110282512
-type: way
+type: node
 latitude: 53.57479
 longitude: 10.03408
 postcode: "22083"
 city: Hamburg
-street: "Hamburger Straße"
+street: Hamburger Straße
 housenumber: 47-49
-phone: "+49 40 2277913"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-20:00"
+phone: +49 40 2277913
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-20:00
 website: ""

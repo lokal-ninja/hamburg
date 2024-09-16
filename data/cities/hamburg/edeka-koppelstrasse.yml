@@ -1,11 +1,11 @@
 id: 37572043
-type: way
+type: node
 latitude: 53.59322
 longitude: 9.9442
 postcode: "22529"
 city: Hamburg
-street: "Koppelstraße"
+street: Koppelstraße
 housenumber: 47-49
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00; PH off
 website: ""

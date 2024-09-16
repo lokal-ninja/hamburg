@@ -4,8 +4,8 @@ latitude: 53.60231
 longitude: 9.99087
 postcode: "22297"
 city: Hamburg
-street: "Deelböge"
-housenumber: 11
-phone: "+49 40 31108662"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off"
-website: "https://www.pitstop.de/werkstatt/hamburg/"
+street: Deelböge
+housenumber: "11"
+phone: +49 40 31108662
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off
+website: https://www.pitstop.de/werkstatt/hamburg/

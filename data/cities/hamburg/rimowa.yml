@@ -4,8 +4,8 @@ latitude: 53.55241
 longitude: 9.99214
 postcode: "20354"
 city: Hamburg
-street: "Neuer Wall"
-housenumber: 10
+street: Neuer Wall
+housenumber: "10"
 phone: "+494030039160"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.rimowa.com/?utm_source=yext-gmb&utm_medium=referral"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.rimowa.com/?utm_source=yext-gmb&utm_medium=referral

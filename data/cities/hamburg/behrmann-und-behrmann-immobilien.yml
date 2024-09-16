@@ -1,11 +1,11 @@
 id: 39140188
-type: way
+type: node
 latitude: 53.67182
 longitude: 10.0904
 postcode: "22399"
 city: Hamburg
-street: "An der Alsterschleife"
-housenumber: 27
+street: An der Alsterschleife
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.60562
 longitude: 9.96189
 postcode: "22529"
 city: Hamburg
-street: "Kollaustraße"
-housenumber: 68
-phone: "+49 40 582175"
-opening_hours: "PH off; Mo-Th 07:00-18:00"
-website: "https://www.boschcarservice.com/de/de/werkstatt/von-Somm-Hamburg"
+street: Kollaustraße
+housenumber: "68"
+phone: +49 40 582175
+opening_hours: PH off; Mo-Th 07:00-18:00
+website: https://www.boschcarservice.com/de/de/werkstatt/von-Somm-Hamburg

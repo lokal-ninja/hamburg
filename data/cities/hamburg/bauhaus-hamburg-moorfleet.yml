@@ -1,11 +1,11 @@
 id: 159926244
-type: way
+type: node
 latitude: 53.51177
 longitude: 10.09078
 postcode: "22113"
 city: Hamburg
-street: "Unterer Landweg"
-housenumber: 77
+street: Unterer Landweg
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

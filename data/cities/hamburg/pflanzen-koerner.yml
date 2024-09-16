@@ -1,11 +1,13 @@
 id: 39143150
-type: way
+type: node
 latitude: 53.69936
 longitude: 10.10133
 postcode: "22397"
 city: Hamburg
-street: "Poppenbütteler Chaussee"
-housenumber: 92
-phone: "+49 40 6076910"
-opening_hours: "Jan-Mar: Mo-Fr 9:00-18:00; Apr-Oct: Mo-Fr 9:00-18:30; Nov-Dec: Mo-Fr 9:00-18:00;Jan-Feb: Sa 9:00-16:00; Mar-Dec Sa 9:00-17:00; Jan-Feb: Su 11:00-14:00; Mar-Dec Su 11:00-16:00"
-website: "https://www.pflanzen-koerner.de"
+street: Poppenbütteler Chaussee
+housenumber: "92"
+phone: +49 40 6076910
+opening_hours: 'Jan-Mar: Mo-Fr 9:00-18:00; Apr-Oct: Mo-Fr 9:00-18:30; Nov-Dec: Mo-Fr
+    9:00-18:00;Jan-Feb: Sa 9:00-16:00; Mar-Dec Sa 9:00-17:00; Jan-Feb: Su 11:00-14:00;
+    Mar-Dec Su 11:00-16:00'
+website: https://www.pflanzen-koerner.de

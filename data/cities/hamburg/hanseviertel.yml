@@ -1,11 +1,11 @@
 id: 894759082
-type: way
+type: node
 latitude: 53.55386
 longitude: 9.98871
 postcode: ""
 city: Hamburg
-street: "Große Bleichen"
+street: Große Bleichen
 housenumber: 30/36
 phone: "+4940808020220"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.hanseviertel.de/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.hanseviertel.de/

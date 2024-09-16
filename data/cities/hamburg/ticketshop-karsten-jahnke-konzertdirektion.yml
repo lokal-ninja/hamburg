@@ -4,8 +4,8 @@ latitude: 53.55536
 longitude: 9.96414
 postcode: "20359"
 city: Hamburg
-street: "Budapester Straße"
-housenumber: 45
-phone: "+49 40 4132260"
-opening_hours: "Mo-Fr 09:00-18:30"
-website: "https://kj.de"
+street: Budapester Straße
+housenumber: "45"
+phone: +49 40 4132260
+opening_hours: Mo-Fr 09:00-18:30
+website: https://kj.de

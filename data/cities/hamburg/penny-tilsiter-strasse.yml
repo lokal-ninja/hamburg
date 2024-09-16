@@ -1,11 +1,11 @@
 id: 48652256
-type: way
+type: node
 latitude: 53.58905
 longitude: 10.07596
 postcode: "22049"
 city: Hamburg
-street: "Tilsiter Straße"
-housenumber: 2
+street: Tilsiter Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

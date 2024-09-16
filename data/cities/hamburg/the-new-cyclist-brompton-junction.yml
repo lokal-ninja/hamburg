@@ -4,8 +4,8 @@ latitude: 53.58481
 longitude: 9.96726
 postcode: "20253"
 city: Hamburg
-street: "Gärtnerstraße"
+street: Gärtnerstraße
 housenumber: 18e
-phone: "+49 40 334664992"
-opening_hours: "Tu-Fr 11:00-19:00; Sa 10:00-16:00"
-website: "https://hamburg.brompton.de/"
+phone: +49 40 334664992
+opening_hours: Tu-Fr 11:00-19:00; Sa 10:00-16:00
+website: https://hamburg.brompton.de/

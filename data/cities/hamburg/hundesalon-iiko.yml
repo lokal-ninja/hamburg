@@ -4,8 +4,8 @@ latitude: 53.60965
 longitude: 10.03749
 postcode: "22337"
 city: Hamburg
-street: "Fuhlsbüttler Straße"
-housenumber: 543
-phone: "+4940 33 48 24 64"
-opening_hours: "Termine auf Anfrage"
-website: "https://hundesalon-iiko.de/"
+street: Fuhlsbüttler Straße
+housenumber: "543"
+phone: +4940 33 48 24 64
+opening_hours: '"Termine auf Anfrage"'
+website: https://hundesalon-iiko.de/

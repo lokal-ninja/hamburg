@@ -4,8 +4,8 @@ latitude: 53.56266
 longitude: 9.92886
 postcode: "22761"
 city: Hamburg
-street: "Schützenstraße"
-housenumber: 45
+street: Schützenstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Tu-Fr 07:00-17:00; Sa,Su 08:00-14:00; Mo off"
+opening_hours: Tu-Fr 07:00-17:00; Sa,Su 08:00-14:00; Mo off
 website: ""

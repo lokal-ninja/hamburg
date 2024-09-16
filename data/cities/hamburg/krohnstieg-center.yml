@@ -1,11 +1,11 @@
 id: 149767260
-type: way
+type: node
 latitude: 53.64892
 longitude: 10.01178
 postcode: "22415"
 city: Hamburg
-street: "Krohnstieg"
-housenumber: 41
+street: Krohnstieg
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

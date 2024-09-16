@@ -1,11 +1,11 @@
 id: 39698738
-type: way
+type: node
 latitude: 53.65041
 longitude: 10.10505
 postcode: "22393"
 city: Hamburg
-street: "Saseler Chaussee"
-housenumber: 154
-phone: "+49 800 4209050"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://standorte.carglass.de/standorte/hamburg/saseler-chaussee-154.html"
+street: Saseler Chaussee
+housenumber: "154"
+phone: +49 800 4209050
+opening_hours: Mo-Fr 08:00-17:00
+website: https://standorte.carglass.de/standorte/hamburg/saseler-chaussee-154.html

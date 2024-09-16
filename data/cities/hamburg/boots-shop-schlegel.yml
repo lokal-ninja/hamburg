@@ -4,8 +4,8 @@ latitude: 53.64821
 longitude: 10.01105
 postcode: "22415"
 city: Hamburg
-street: "Langenhorner Chaussee"
-housenumber: 198
-phone: "+49 40 5323888"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00; PH off"
-website: "https://www.boots-shop-schlegel.com/"
+street: Langenhorner Chaussee
+housenumber: "198"
+phone: +49 40 5323888
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00; PH off
+website: https://www.boots-shop-schlegel.com/

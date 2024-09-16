@@ -4,8 +4,8 @@ latitude: 53.59781
 longitude: 10.10186
 postcode: "22159"
 city: Hamburg
-street: "Traberweg"
-housenumber: 2
-phone: "+49 40 98232794"
-opening_hours: "Mo- Fr 06:00-20:00; Sa 07:00-20:30"
+street: Traberweg
+housenumber: "2"
+phone: +49 40 98232794
+opening_hours: Mo- Fr 06:00-20:00; Sa 07:00-20:30
 website: ""

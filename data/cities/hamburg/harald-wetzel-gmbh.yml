@@ -4,8 +4,8 @@ latitude: 53.63127
 longitude: 10.0144
 postcode: "22335"
 city: Hamburg
-street: "Alsterkrugchaussee"
-housenumber: 587
+street: Alsterkrugchaussee
+housenumber: "587"
 phone: ""
-opening_hours: "Mo,Tu,Fr 10:00-13:00, Mo,Tu,Th,Fr 14:30-18:00"
-website: "http://www.wetzel-hamburg.de/"
+opening_hours: Mo,Tu,Fr 10:00-13:00, Mo,Tu,Th,Fr 14:30-18:00
+website: http://www.wetzel-hamburg.de/

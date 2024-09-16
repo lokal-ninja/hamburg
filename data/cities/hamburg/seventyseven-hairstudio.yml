@@ -4,8 +4,8 @@ latitude: 53.56433
 longitude: 10.03391
 postcode: "22089"
 city: Hamburg
-street: "Wartenau"
-housenumber: 3
+street: Wartenau
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-16:00
 website: ""

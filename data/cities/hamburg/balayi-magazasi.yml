@@ -4,8 +4,8 @@ latitude: 53.53918
 longitude: 10.03295
 postcode: "20539"
 city: Hamburg
-street: "Billhorner Kanalstraße"
-housenumber: 1
-phone: "+49 40 78089351"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.balayi-brautmoden.de/"
+street: Billhorner Kanalstraße
+housenumber: "1"
+phone: +49 40 78089351
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.balayi-brautmoden.de/

@@ -1,11 +1,11 @@
 id: 909371040
-type: way
+type: node
 latitude: 53.48951
 longitude: 10.11403
 postcode: "21035"
 city: Hamburg
-street: "Wilhelm-Iwan-Ring"
-housenumber: 1
+street: Wilhelm-Iwan-Ring
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

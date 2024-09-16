@@ -4,8 +4,8 @@ latitude: 53.61321
 longitude: 9.95211
 postcode: "22453"
 city: Hamburg
-street: "Kollaustraße"
-housenumber: 189
-phone: "+49 40 5234747"
-opening_hours: "Mo-Th 09:00-18:00, Fr 09:00-14:00; PH off"
-website: "https://www.ehlbeck.de/"
+street: Kollaustraße
+housenumber: "189"
+phone: +49 40 5234747
+opening_hours: Mo-Th 09:00-18:00, Fr 09:00-14:00; PH off
+website: https://www.ehlbeck.de/

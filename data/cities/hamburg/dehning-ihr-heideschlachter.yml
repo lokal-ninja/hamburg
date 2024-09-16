@@ -4,8 +4,8 @@ latitude: 53.62252
 longitude: 9.95199
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
-housenumber: 41
-phone: "+49 40 58978417"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://www.dehning.de/"
+street: Tibarg
+housenumber: "41"
+phone: +49 40 58978417
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off
+website: https://www.dehning.de/

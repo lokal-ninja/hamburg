@@ -4,8 +4,8 @@ latitude: 53.54066
 longitude: 10.1051
 postcode: "22111"
 city: Hamburg
-street: "Möllner Landstraße"
-housenumber: 1
+street: Möllner Landstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.primark.com/de/filiale/hamburg"
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.primark.com/de/filiale/hamburg

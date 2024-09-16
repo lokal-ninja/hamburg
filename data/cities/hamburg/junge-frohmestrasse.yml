@@ -4,8 +4,8 @@ latitude: 53.63448
 longitude: 9.91901
 postcode: "22457"
 city: Hamburg
-street: "Frohmestraße"
-housenumber: 16
-phone: "+49 40 35967285"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 08:00-16:00"
-website: "https://www.jb.de/geschaeftefinder/"
+street: Frohmestraße
+housenumber: "16"
+phone: +49 40 35967285
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 08:00-16:00
+website: https://www.jb.de/geschaeftefinder/

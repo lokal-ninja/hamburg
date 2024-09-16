@@ -1,11 +1,11 @@
 id: 914826110
-type: way
+type: node
 latitude: 53.60129
 longitude: 9.91749
 postcode: "22525"
 city: Hamburg
-street: "Kieler Straße"
-housenumber: 570
+street: Kieler Straße
+housenumber: "570"
 phone: ""
 opening_hours: ""
 website: ""

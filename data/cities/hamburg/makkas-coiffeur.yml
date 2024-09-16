@@ -4,8 +4,8 @@ latitude: 53.60675
 longitude: 10.01164
 postcode: "22297"
 city: Hamburg
-street: "Heubergredder"
-housenumber: 48
-phone: "+49 40 27865682"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+street: Heubergredder
+housenumber: "48"
+phone: +49 40 27865682
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

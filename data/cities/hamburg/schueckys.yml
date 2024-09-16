@@ -4,8 +4,8 @@ latitude: 53.56285
 longitude: 9.95767
 postcode: "22769"
 city: Hamburg
-street: "Max-Brauer-Allee"
-housenumber: 253
+street: Max-Brauer-Allee
+housenumber: "253"
 phone: ""
-opening_hours: "Tu-Fr 10:30-18:00; Sa 10:30-16:00"
+opening_hours: Tu-Fr 10:30-18:00; Sa 10:30-16:00
 website: ""

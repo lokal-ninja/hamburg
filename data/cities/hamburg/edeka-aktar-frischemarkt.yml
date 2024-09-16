@@ -4,8 +4,8 @@ latitude: 53.45803
 longitude: 9.96622
 postcode: "21073"
 city: Hamburg
-street: "Eißendorfer Straße"
-housenumber: 70
-phone: "+49 040 7654243"
-opening_hours: "Mo-Fr 07:00-23:00, Sa 08:00-24:00; PH closed"
+street: Eißendorfer Straße
+housenumber: "70"
+phone: +49 040 7654243
+opening_hours: Mo-Fr 07:00-23:00, Sa 08:00-24:00; PH closed
 website: ""

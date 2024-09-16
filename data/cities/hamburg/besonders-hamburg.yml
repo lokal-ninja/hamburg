@@ -4,8 +4,8 @@ latitude: 53.57318
 longitude: 9.9499
 postcode: "20259"
 city: Hamburg
-street: "Fruchtallee"
-housenumber: 132
+street: Fruchtallee
+housenumber: "132"
 phone: ""
-opening_hours: "We,Th 12:00-18:00; Fr 10:00-18:00"
+opening_hours: We,Th 12:00-18:00; Fr 10:00-18:00
 website: ""

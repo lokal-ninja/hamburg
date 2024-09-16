@@ -4,8 +4,8 @@ latitude: 53.55516
 longitude: 10.03073
 postcode: "20535"
 city: Hamburg
-street: "Klaus-Groth-Straße"
-housenumber: 40
-phone: "+49 40 39990043"
-opening_hours: "Mo, We-Fr 08:00-16:00; Sa 07:30-12:00; Su 09:00-12:00"
-website: "https://rettungsbrot.com"
+street: Klaus-Groth-Straße
+housenumber: "40"
+phone: +49 40 39990043
+opening_hours: Mo, We-Fr 08:00-16:00; Sa 07:30-12:00; Su 09:00-12:00
+website: https://rettungsbrot.com

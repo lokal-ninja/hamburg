@@ -4,8 +4,8 @@ latitude: 53.59631
 longitude: 10.15379
 postcode: "22149"
 city: Hamburg
-street: "Brockdorffstraße"
-housenumber: 8
-phone: "+49 40 6722250"
+street: Brockdorffstraße
+housenumber: "8"
+phone: +49 40 6722250
 opening_hours: ""
-website: "https://www.kleefuw.de/"
+website: https://www.kleefuw.de/

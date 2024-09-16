@@ -4,8 +4,8 @@ latitude: 53.57303
 longitude: 10.06597
 postcode: "22041"
 city: Hamburg
-street: "Quarree"
-housenumber: 8
-phone: "+49 40 53798035"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://www.larima-salon.de"
+street: Quarree
+housenumber: "8"
+phone: +49 40 53798035
+opening_hours: Mo-Sa 10:00-20:00
+website: http://www.larima-salon.de

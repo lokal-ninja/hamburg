@@ -4,8 +4,8 @@ latitude: 53.60587
 longitude: 10.03989
 postcode: "22307"
 city: Hamburg
-street: "Elligersweg"
-housenumber: 1
-phone: "+49-40-18113547"
-opening_hours: "Mo,We,Fr 10:00-19:00; Tu,Th 08:00-17:00"
-website: "https://www.fietes.com/"
+street: Elligersweg
+housenumber: "1"
+phone: +49-40-18113547
+opening_hours: Mo,We,Fr 10:00-19:00; Tu,Th 08:00-17:00
+website: https://www.fietes.com/

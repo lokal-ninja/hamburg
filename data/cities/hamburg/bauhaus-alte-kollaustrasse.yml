@@ -1,11 +1,11 @@
 id: 299599300
-type: way
+type: node
 latitude: 53.60382
 longitude: 9.96599
 postcode: "22529"
 city: Hamburg
-street: "Alte Kollaustraße"
-housenumber: 44
+street: Alte Kollaustraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 118150232
-type: way
+type: node
 latitude: 53.4713
 longitude: 9.94203
 postcode: "21075"
 city: Hamburg
-street: "Stader Straße"
-housenumber: 156
-phone: "+49 40 52982302"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00"
-website: "https://www.pitstop.de/werkstatt/hamburg/"
+street: Stader Straße
+housenumber: "156"
+phone: +49 40 52982302
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00
+website: https://www.pitstop.de/werkstatt/hamburg/

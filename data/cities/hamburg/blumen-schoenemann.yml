@@ -4,8 +4,8 @@ latitude: 53.62628
 longitude: 10.13993
 postcode: "22147"
 city: Hamburg
-street: "Alte Berner Straße"
-housenumber: 1
-phone: "+49 40 6445461"
-opening_hours: "Mo-Sa 09:30-18:30; Su,PH 10:00-14:00"
-website: "https://www.blumen-schoenemann.de/"
+street: Alte Berner Straße
+housenumber: "1"
+phone: +49 40 6445461
+opening_hours: Mo-Sa 09:30-18:30; Su,PH 10:00-14:00
+website: https://www.blumen-schoenemann.de/

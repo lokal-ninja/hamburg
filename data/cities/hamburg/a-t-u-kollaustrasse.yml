@@ -1,11 +1,11 @@
 id: 58922448
-type: way
+type: node
 latitude: 53.6109
 longitude: 9.95338
 postcode: "22453"
 city: Hamburg
-street: "Kollaustraße"
-housenumber: 161
-phone: "+49 40 53009926"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.atu.de/filiale-hamburg---niendorf-267.html"
+street: Kollaustraße
+housenumber: "161"
+phone: +49 40 53009926
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.atu.de/filiale-hamburg---niendorf-267.html

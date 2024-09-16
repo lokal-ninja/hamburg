@@ -4,8 +4,8 @@ latitude: 53.54216
 longitude: 10.00447
 postcode: "20457"
 city: Hamburg
-street: "Yokohamastraße"
-housenumber: 10
+street: Yokohamastraße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 09:00-16:30; Sa-Su 09:00-17:00"
-website: "https://yokohamacoffeebar.de/"
+opening_hours: Tu-Fr 09:00-16:30; Sa-Su 09:00-17:00
+website: https://yokohamacoffeebar.de/

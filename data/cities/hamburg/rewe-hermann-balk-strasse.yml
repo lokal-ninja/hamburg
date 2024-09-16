@@ -4,8 +4,8 @@ latitude: 53.62524
 longitude: 10.13897
 postcode: "22147"
 city: Hamburg
-street: "Hermann-Balk-Straße"
-housenumber: 117
-phone: "+49 40 64420091"
-opening_hours: "Mo-Sa 07:00-23:00"
-website: "https://www.rewe.de/marktseite/hamburg/540520/rewe-markt-hermann-balk-str-117/"
+street: Hermann-Balk-Straße
+housenumber: "117"
+phone: +49 40 64420091
+opening_hours: Mo-Sa 07:00-23:00
+website: https://www.rewe.de/marktseite/hamburg/540520/rewe-markt-hermann-balk-str-117/

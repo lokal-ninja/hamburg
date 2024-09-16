@@ -1,11 +1,11 @@
 id: 37194632
-type: way
+type: node
 latitude: 53.58697
 longitude: 10.00724
 postcode: "22301"
 city: Hamburg
-street: "Krohnskamp"
-housenumber: 25
-phone: "+49 40 6506680"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.hagebaumarkt-hamburg.de/markt_winterhude.html"
+street: Krohnskamp
+housenumber: "25"
+phone: +49 40 6506680
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.hagebaumarkt-hamburg.de/markt_winterhude.html

@@ -1,11 +1,11 @@
 id: 231036568
-type: way
+type: node
 latitude: 53.45786
 longitude: 10.13968
 postcode: "21037"
 city: Hamburg
-street: "Heinrich-Osterath-Straße"
-housenumber: 256
+street: Heinrich-Osterath-Straße
+housenumber: "256"
 phone: "+49407372270"
-opening_hours: "May-Sep: 10:00-18:00"
+opening_hours: 'May-Sep: 10:00-18:00'
 website: ""

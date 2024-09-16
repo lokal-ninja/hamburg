@@ -4,8 +4,8 @@ latitude: 53.55398
 longitude: 9.93313
 postcode: "22765"
 city: Hamburg
-street: "Hahnenkamp"
-housenumber: 12
+street: Hahnenkamp
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
+opening_hours: Mo-Sa 11:00-19:00
 website: ""

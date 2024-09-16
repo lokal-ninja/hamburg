@@ -4,8 +4,8 @@ latitude: 53.56208
 longitude: 10.06001
 postcode: "20535"
 city: Hamburg
-street: "Caspar-Voght-Straße"
-housenumber: 38
-phone: "+49 40 7122282"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00"
-website: "https://www.daube-backt.de/seite/584958/caspar-voght-stra%C3%9Fe-59.html"
+street: Caspar-Voght-Straße
+housenumber: "38"
+phone: +49 40 7122282
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00
+website: https://www.daube-backt.de/seite/584958/caspar-voght-stra%C3%9Fe-59.html

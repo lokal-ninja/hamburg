@@ -4,8 +4,8 @@ latitude: 53.58028
 longitude: 9.94942
 postcode: "20255"
 city: Hamburg
-street: "Hellkamp"
-housenumber: 60
+street: Hellkamp
+housenumber: "60"
 phone: ""
-opening_hours: "nur nach Vereinbarung"
+opening_hours: '"nur nach Vereinbarung"'
 website: ""

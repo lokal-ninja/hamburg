@@ -4,8 +4,8 @@ latitude: 53.54586
 longitude: 9.97665
 postcode: "20459"
 city: Hamburg
-street: "Brauerknechtgraben"
-housenumber: 53
-phone: "+49 40 36008940"
-opening_hours: "Mo-Sa 08:30-18:00"
-website: "https://shehamburg.com/"
+street: Brauerknechtgraben
+housenumber: "53"
+phone: +49 40 36008940
+opening_hours: Mo-Sa 08:30-18:00
+website: https://shehamburg.com/

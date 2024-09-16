@@ -4,8 +4,8 @@ latitude: 53.56091
 longitude: 9.81206
 postcode: "22587"
 city: Hamburg
-street: "Propst-Paulsen-Straße"
-housenumber: 2
+street: Propst-Paulsen-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
-website: "https://www.budni.de/filialen/22587-propst-paulsen-str.-2/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off
+website: https://www.budni.de/filialen/22587-propst-paulsen-str.-2/

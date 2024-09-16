@@ -1,11 +1,11 @@
 id: 122746453
-type: way
+type: node
 latitude: 53.6255
 longitude: 9.90967
 postcode: "22457"
 city: Hamburg
-street: "Holsteiner Chaussee"
-housenumber: 190
+street: Holsteiner Chaussee
+housenumber: "190"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-wichert.de/"
+website: https://www.auto-wichert.de/

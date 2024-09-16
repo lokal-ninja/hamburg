@@ -4,8 +4,8 @@ latitude: 53.47449
 longitude: 9.87604
 postcode: "21147"
 city: Hamburg
-street: "Rehrstieg"
-housenumber: 22
-phone: "040 7013927"
-opening_hours: "Montag:	08:00-14:00 Di-Fr 08:00-18:00 ,Samstag:	08:00-13:00"
-website: "https://xn--margos-fischgeschft-wwb.de/"
+street: Rehrstieg
+housenumber: "22"
+phone: 040 7013927
+opening_hours: "Montag:\t08:00-14:00 Di-Fr 08:00-18:00 ,Samstag:\t08:00-13:00"
+website: https://xn--margos-fischgeschft-wwb.de/

@@ -4,8 +4,8 @@ latitude: 53.64816
 longitude: 10.16419
 postcode: "22359"
 city: Hamburg
-street: "Weiße Rose"
-housenumber: 8
-phone: "+49 40 80603030"
-opening_hours: "Mo-Fr 08:00-19:30; Sa 07:30-18:00; PH,Su off"
-website: "https://www.budni.de/filialen/22359-weisse-rose-8/"
+street: Weiße Rose
+housenumber: "8"
+phone: +49 40 80603030
+opening_hours: Mo-Fr 08:00-19:30; Sa 07:30-18:00; PH,Su off
+website: https://www.budni.de/filialen/22359-weisse-rose-8/

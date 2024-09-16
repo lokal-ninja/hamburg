@@ -4,8 +4,8 @@ latitude: 53.56641
 longitude: 10.02066
 postcode: "22087"
 city: Hamburg
-street: "Mundsburger Damm"
-housenumber: 21
-phone: "+49 40 8663939"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.waschsalon.de/"
+street: Mundsburger Damm
+housenumber: "21"
+phone: +49 40 8663939
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.waschsalon.de/

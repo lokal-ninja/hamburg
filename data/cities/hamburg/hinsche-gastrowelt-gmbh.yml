@@ -4,8 +4,8 @@ latitude: 53.57709
 longitude: 9.9178
 postcode: "22525"
 city: Hamburg
-street: "Schnackenburgallee"
-housenumber: 21
+street: Schnackenburgallee
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30"
+opening_hours: Mo-Fr 09:00-17:30
 website: ""

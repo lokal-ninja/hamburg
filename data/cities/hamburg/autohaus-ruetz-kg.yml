@@ -4,8 +4,8 @@ latitude: 53.54999
 longitude: 10.10031
 postcode: "22119"
 city: Hamburg
-street: "Hermannstal"
-housenumber: 123
+street: Hermannstal
+housenumber: "123"
 phone: ""
 opening_hours: ""
-website: "http://www.autohausruetz.de/"
+website: http://www.autohausruetz.de/

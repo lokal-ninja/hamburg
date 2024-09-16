@@ -1,11 +1,12 @@
 id: 284226640
-type: way
+type: node
 latitude: 53.64324
 longitude: 10.12607
 postcode: "22393"
 city: Hamburg
-street: "Meiendorfer Mühlenweg"
-housenumber: 29
+street: Meiendorfer Mühlenweg
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 9:00-18:30 open Verkauf; Kundendienst 7-18; Teile 7:30-16:30, Sa 9:00-14:00 open Nur Verkauf geöffnet; PH off"
-website: "https://www.kruell.com/"
+opening_hours: Mo-Fr 9:00-18:30 open "Verkauf; Kundendienst 7-18; Teile 7:30-16:30",
+    Sa 9:00-14:00 open "Nur Verkauf geöffnet"; PH off
+website: https://www.kruell.com/

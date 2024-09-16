@@ -4,8 +4,8 @@ latitude: 53.58821
 longitude: 10.00663
 postcode: "22301"
 city: Hamburg
-street: "Dorotheenstraße"
-housenumber: 116
-phone: "+49 40 27880101"
-opening_hours: "Mo-Sa 08:00-18:00; PH off"
-website: "https://www.rohlfs-baeckerei.de/filialen/"
+street: Dorotheenstraße
+housenumber: "116"
+phone: +49 40 27880101
+opening_hours: Mo-Sa 08:00-18:00; PH off
+website: https://www.rohlfs-baeckerei.de/filialen/

@@ -1,11 +1,11 @@
 id: 40431586
-type: way
+type: node
 latitude: 53.66085
 longitude: 10.08119
 postcode: "22399"
 city: Hamburg
-street: "Harksheider Straße"
-housenumber: 17
+street: Harksheider Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.stoltenberg.de"
+website: https://www.stoltenberg.de

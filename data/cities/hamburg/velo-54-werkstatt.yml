@@ -4,8 +4,8 @@ latitude: 53.51389
 longitude: 9.98444
 postcode: "21107"
 city: Hamburg
-street: "Am Veringhof"
-housenumber: 11
-phone: "+4940 881 708 47"
-opening_hours: "Di-Fr 10:00-18:00"
+street: Am Veringhof
+housenumber: "11"
+phone: +4940 881 708 47
+opening_hours: Di-Fr 10:00-18:00
 website: ""

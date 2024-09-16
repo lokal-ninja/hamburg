@@ -1,11 +1,11 @@
 id: 1019193566
-type: way
+type: node
 latitude: 53.57187
 longitude: 9.9388
 postcode: "22769"
 city: Hamburg
-street: "Haferweg"
-housenumber: 30
+street: Haferweg
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00;Fr 07:00-16:00;Sa 09:00-13:00"
-website: "https://www.globus-hamburg.de"
+opening_hours: Mo-Th 07:00-17:00;Fr 07:00-16:00;Sa 09:00-13:00
+website: https://www.globus-hamburg.de

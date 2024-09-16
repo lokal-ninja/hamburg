@@ -4,8 +4,8 @@ latitude: 53.64409
 longitude: 10.09936
 postcode: "22393"
 city: Hamburg
-street: "Saseler Chaussee"
-housenumber: 109
+street: Saseler Chaussee
+housenumber: "109"
 phone: "+49406010414"
 opening_hours: ""
-website: "https://lichtja.de"
+website: https://lichtja.de

@@ -4,8 +4,8 @@ latitude: 53.62469
 longitude: 10.1151
 postcode: "22159"
 city: Hamburg
-street: "Pezolddamm"
-housenumber: 156
+street: Pezolddamm
+housenumber: "156"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00, Sa 09:00-14:00"
-website: "https://taufrisch-reinigung.de/"
+opening_hours: Mo-Fr 08:30-19:00, Sa 09:00-14:00
+website: https://taufrisch-reinigung.de/

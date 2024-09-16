@@ -1,11 +1,11 @@
 id: 287994366
-type: way
+type: node
 latitude: 53.55103
 longitude: 9.94227
 postcode: "22767"
 city: Hamburg
-street: "Große Bergstraße"
-housenumber: 164
-phone: "+49 6192 9399999"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.ikea.com/de/de/stores/hamburg-altona/"
+street: Große Bergstraße
+housenumber: "164"
+phone: +49 6192 9399999
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.ikea.com/de/de/stores/hamburg-altona/

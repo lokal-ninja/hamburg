@@ -1,11 +1,11 @@
 id: 102477980
-type: way
+type: node
 latitude: 53.6329
 longitude: 9.95878
 postcode: "22459"
 city: Hamburg
-street: "Sperberhorst"
-housenumber: 23
-phone: "+49 40 8318037"
-opening_hours: "Mo-Fr 10:00-12:30, Sa 10:00-13:00; PH off, Mo-Fr 13:30-18:00"
-website: "https://www.motorrad-hamburg.de"
+street: Sperberhorst
+housenumber: "23"
+phone: +49 40 8318037
+opening_hours: Mo-Fr 10:00-12:30, Sa 10:00-13:00; PH off, Mo-Fr 13:30-18:00
+website: https://www.motorrad-hamburg.de

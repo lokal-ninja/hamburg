@@ -4,8 +4,8 @@ latitude: 53.62903
 longitude: 10.0583
 postcode: "22337"
 city: Hamburg
-street: "Friedhofsweg"
+street: Friedhofsweg
 housenumber: 5-7
-phone: "+49 40 597332"
-opening_hours: "Mo-Su 10:00-17:00"
-website: "https://www.friedhofsgaertnerei-luelow.de/"
+phone: +49 40 597332
+opening_hours: Mo-Su 10:00-17:00
+website: https://www.friedhofsgaertnerei-luelow.de/

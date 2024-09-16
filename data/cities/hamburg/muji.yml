@@ -1,11 +1,11 @@
 id: 900555438
-type: way
+type: node
 latitude: 53.55251
 longitude: 9.98857
 postcode: "20354"
 city: Hamburg
-street: "Große Bleichen"
-housenumber: 31
-phone: "+49 40 35016332"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://germany.muji.eu"
+street: Große Bleichen
+housenumber: "31"
+phone: +49 40 35016332
+opening_hours: Mo-Sa 10:00-19:00
+website: https://germany.muji.eu

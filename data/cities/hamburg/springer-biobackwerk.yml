@@ -1,11 +1,11 @@
 id: 264215448
-type: way
+type: node
 latitude: 53.5903
 longitude: 10.09686
 postcode: "22047"
 city: Hamburg
-street: "Am Stadtrand"
-housenumber: 45
+street: Am Stadtrand
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 07:00-13:00; Sa 07:00-12:00; Su 08:00-11:00"
+opening_hours: Mo-Fr 07:00-13:00; Sa 07:00-12:00; Su 08:00-11:00
 website: ""

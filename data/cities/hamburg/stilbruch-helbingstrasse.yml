@@ -1,11 +1,11 @@
 id: 210837235
-type: way
+type: node
 latitude: 53.58651
 longitude: 10.09492
 postcode: "22047"
 city: Hamburg
-street: "Helbingstraße"
-housenumber: 63
+street: Helbingstraße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

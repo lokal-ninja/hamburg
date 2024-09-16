@@ -4,8 +4,8 @@ latitude: 53.63215
 longitude: 9.94398
 postcode: "22455"
 city: Hamburg
-street: "Sethweg"
-housenumber: 43
-phone: "+49 40 55289289"
-opening_hours: "Tu,Th 16:30-18:00"
-website: "https://www.kosmetik-niendorf.de"
+street: Sethweg
+housenumber: "43"
+phone: +49 40 55289289
+opening_hours: Tu,Th 16:30-18:00
+website: https://www.kosmetik-niendorf.de

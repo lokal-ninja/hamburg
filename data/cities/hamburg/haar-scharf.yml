@@ -4,8 +4,8 @@ latitude: 53.65156
 longitude: 10.09579
 postcode: "22393"
 city: Hamburg
-street: "Frahmredder"
-housenumber: 1
-phone: "+49 40 6021768"
-opening_hours: "Mo-Fr 8:30-19:30; PH off"
-website: "https://www.haar-scharf.com/salons/"
+street: Frahmredder
+housenumber: "1"
+phone: +49 40 6021768
+opening_hours: Mo-Fr 8:30-19:30; PH off
+website: https://www.haar-scharf.com/salons/

@@ -4,8 +4,8 @@ latitude: 53.56224
 longitude: 10.04782
 postcode: "20535"
 city: Hamburg
-street: "Riesserstraße"
-housenumber: 9
+street: Riesserstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Su 17:00-22:00+"
+opening_hours: Tu-Su 17:00-22:00+
 website: ""

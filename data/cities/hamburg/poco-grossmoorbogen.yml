@@ -1,11 +1,11 @@
 id: 131835632
-type: way
+type: node
 latitude: 53.45596
 longitude: 10.00821
 postcode: "21079"
 city: Hamburg
-street: "Großmoorbogen"
-housenumber: 17
-phone: "+49 40 77117-0"
-opening_hours: "Mo-Sa 10:00-20:00; PH closed"
-website: "https://www.poco.de"
+street: Großmoorbogen
+housenumber: "17"
+phone: +49 40 77117-0
+opening_hours: Mo-Sa 10:00-20:00; PH closed
+website: https://www.poco.de

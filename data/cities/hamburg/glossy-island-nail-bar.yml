@@ -4,8 +4,8 @@ latitude: 53.45672
 longitude: 9.98744
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 32873995"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "http://www.glossyisland.com/"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 32873995
+opening_hours: Mo-Sa 09:30-20:00
+website: http://www.glossyisland.com/

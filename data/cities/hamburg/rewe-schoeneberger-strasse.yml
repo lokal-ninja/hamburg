@@ -1,11 +1,11 @@
 id: 53024581
-type: way
+type: node
 latitude: 53.58412
 longitude: 10.14113
 postcode: "22045"
 city: Hamburg
-street: "Schöneberger Straße"
-housenumber: 31
+street: Schöneberger Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00"
+opening_hours: Mo-Sa 07:00-23:00
 website: ""

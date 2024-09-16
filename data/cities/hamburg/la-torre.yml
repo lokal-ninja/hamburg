@@ -4,8 +4,8 @@ latitude: 53.56257
 longitude: 9.96698
 postcode: "20357"
 city: Hamburg
-street: "Lagerstraße"
-housenumber: 36
+street: Lagerstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Sa 09:00-15:00; PH off; Mo-Th 09:00-18:30; Fr 09:00-19:00"
+opening_hours: Sa 09:00-15:00; PH off; Mo-Th 09:00-18:30; Fr 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 364249996
-type: way
+type: node
 latitude: 53.57659
 longitude: 9.95124
 postcode: "20255"
 city: Hamburg
-street: "Osterstraße"
-housenumber: 120
+street: Osterstraße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

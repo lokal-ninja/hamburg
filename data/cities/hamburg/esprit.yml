@@ -4,8 +4,8 @@ latitude: 53.45689
 longitude: 9.9876
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 30085880"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.esprit.de/"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 30085880
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.esprit.de/

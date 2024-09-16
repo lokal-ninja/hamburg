@@ -1,11 +1,11 @@
 id: 67803113
-type: way
+type: node
 latitude: 53.56362
 longitude: 9.81416
 postcode: "22587"
 city: Hamburg
-street: "Erik-Blumenfeld-Platz"
-housenumber: 2
-phone: "+49 40 24198591"
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-17:00"
-website: "https://www.lamaisondupain.com"
+street: Erik-Blumenfeld-Platz
+housenumber: "2"
+phone: +49 40 24198591
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-17:00
+website: https://www.lamaisondupain.com

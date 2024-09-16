@@ -1,11 +1,11 @@
 id: 32951141
-type: way
+type: node
 latitude: 53.65616
 longitude: 10.09394
 postcode: ""
 city: Hamburg
-street: "Saseler Damm"
-housenumber: 43
+street: Saseler Damm
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
-website: "https://www.mediamarkt.de/de/store/hamburg-poppenbuettel-208"
+opening_hours: Mo-Sa 10:00-19:00; PH off
+website: https://www.mediamarkt.de/de/store/hamburg-poppenbuettel-208

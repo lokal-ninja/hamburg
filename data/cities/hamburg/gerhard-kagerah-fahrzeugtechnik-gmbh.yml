@@ -4,8 +4,8 @@ latitude: 53.5906
 longitude: 9.91274
 postcode: "22525"
 city: Hamburg
-street: "Lederstraße"
-housenumber: 30
-phone: "+49 40 408304"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-15:00"
-website: "https://kagerah.de/"
+street: Lederstraße
+housenumber: "30"
+phone: +49 40 408304
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-15:00
+website: https://kagerah.de/

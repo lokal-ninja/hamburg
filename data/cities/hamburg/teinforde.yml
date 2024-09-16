@@ -1,11 +1,11 @@
 id: 359998773
-type: way
+type: node
 latitude: 53.55044
 longitude: 9.89751
 postcode: "22605"
 city: Hamburg
-street: "Liebermannstraße"
+street: Liebermannstraße
 housenumber: 39a
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00; Su 07:30-19:29"
+opening_hours: Mo-Sa 06:00-20:00; Su 07:30-19:29
 website: ""

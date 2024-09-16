@@ -4,8 +4,8 @@ latitude: 53.55156
 longitude: 9.94671
 postcode: ""
 city: Hamburg
-street: "Große Bergstraße"
-housenumber: 167
+street: Große Bergstraße
+housenumber: "167"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-14:00"
-website: "https://www.primavera-textilreinigung.com/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-14:00
+website: https://www.primavera-textilreinigung.com/

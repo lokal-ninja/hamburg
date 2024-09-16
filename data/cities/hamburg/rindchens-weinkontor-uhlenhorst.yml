@@ -1,11 +1,11 @@
 id: 110460375
-type: way
+type: node
 latitude: 53.57361
 longitude: 10.01607
 postcode: "22085"
 city: Hamburg
-street: "Hofweg"
-housenumber: 62
-phone: "+49 40 22660991"
-opening_hours: "Mo-Fr 11:00-20:00; Sa 10:00-16:00"
-website: "https://www.rindchen.de/kontore/kontor-hamburg-uhlenhorst"
+street: Hofweg
+housenumber: "62"
+phone: +49 40 22660991
+opening_hours: Mo-Fr 11:00-20:00; Sa 10:00-16:00
+website: https://www.rindchen.de/kontore/kontor-hamburg-uhlenhorst

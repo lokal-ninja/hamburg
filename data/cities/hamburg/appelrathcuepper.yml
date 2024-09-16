@@ -4,8 +4,8 @@ latitude: 53.65509
 longitude: 10.09214
 postcode: "22391"
 city: Hamburg
-street: "Heegbarg"
-housenumber: 31
-phone: "+49 40 61168370"
-opening_hours: "Fr,Sa 10:00-20:00; PH,Su off; Mo-Th 10:00-19:00"
-website: "https://www.appelrath.com/Filialen/Hamburg-Alstertal/"
+street: Heegbarg
+housenumber: "31"
+phone: +49 40 61168370
+opening_hours: Fr,Sa 10:00-20:00; PH,Su off; Mo-Th 10:00-19:00
+website: https://www.appelrath.com/Filialen/Hamburg-Alstertal/

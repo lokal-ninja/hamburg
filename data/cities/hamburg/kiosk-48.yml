@@ -4,8 +4,8 @@ latitude: 53.51763
 longitude: 9.98628
 postcode: "21107"
 city: Hamburg
-street: "Vogelhüttendeich"
-housenumber: 48
+street: Vogelhüttendeich
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Th 07:00-23:30, Fr,Sa 07:00-01:00, Su 08:00-24:00"
+opening_hours: Mo-Th 07:00-23:30, Fr,Sa 07:00-01:00, Su 08:00-24:00
 website: ""

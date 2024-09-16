@@ -1,11 +1,11 @@
 id: 1119722342
-type: way
+type: node
 latitude: 53.56274
 longitude: 9.96837
 postcode: "20357"
 city: Hamburg
-street: "Lagerstraße"
+street: Lagerstraße
 housenumber: 30a
-phone: "+49 40 38072892-0"
-opening_hours: "Su,Mo off; Tu-Th 12:00-19:00; Fr,Sa 12:00-20:00"
-website: "https://shop.ratsherrn.de/"
+phone: +49 40 38072892-0
+opening_hours: Su,Mo off; Tu-Th 12:00-19:00; Fr,Sa 12:00-20:00
+website: https://shop.ratsherrn.de/

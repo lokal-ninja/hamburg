@@ -4,8 +4,8 @@ latitude: 53.60326
 longitude: 9.98632
 postcode: "22453"
 city: Hamburg
-street: "Rosenbrook"
-housenumber: 4
-phone: "+49 40 514 99 999"
-opening_hours: "Mo-Fr 08:30-18:00"
+street: Rosenbrook
+housenumber: "4"
+phone: +49 40 514 99 999
+opening_hours: Mo-Fr 08:30-18:00
 website: ""

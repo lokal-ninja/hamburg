@@ -4,8 +4,9 @@ latitude: 53.57353
 longitude: 9.95906
 postcode: "20259"
 city: Hamburg
-street: "Schulweg"
-housenumber: 22
+street: Schulweg
+housenumber: "22"
 phone: ""
-opening_hours: "Mo 10:00-19:00; Tu 08:15-18:00; We 10:00-19:00; Th 08:15-18:00; Fr-Sa 10:00-19:00"
-website: "http://www.eimsbike.de/"
+opening_hours: Mo 10:00-19:00; Tu 08:15-18:00; We 10:00-19:00; Th 08:15-18:00; Fr-Sa
+    10:00-19:00
+website: http://www.eimsbike.de/

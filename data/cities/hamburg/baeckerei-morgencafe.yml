@@ -4,8 +4,8 @@ latitude: 53.66738
 longitude: 10.01094
 postcode: "22419"
 city: Hamburg
-street: "Theodor-Fahr-Straße"
+street: Theodor-Fahr-Straße
 housenumber: 1a
-phone: "+49 40 53931023"
-opening_hours: "Mo-Fr 06:00-16:00, Sa 07:00-14:00, Su 07:00-12:00"
-website: "https://www.baeckerei-morgencafe.de/"
+phone: +49 40 53931023
+opening_hours: Mo-Fr 06:00-16:00, Sa 07:00-14:00, Su 07:00-12:00
+website: https://www.baeckerei-morgencafe.de/

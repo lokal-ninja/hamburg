@@ -1,11 +1,11 @@
 id: 446849057
-type: way
+type: node
 latitude: 53.58797
 longitude: 9.84918
 postcode: "22549"
 city: Hamburg
-street: "Kroonhorst"
-housenumber: 11
+street: Kroonhorst
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-16:00; PH off"
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-16:00; PH off
 website: ""

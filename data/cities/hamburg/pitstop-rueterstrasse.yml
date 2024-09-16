@@ -1,11 +1,11 @@
 id: 147850536
-type: way
+type: node
 latitude: 53.57566
 longitude: 10.07861
 postcode: "22041"
 city: Hamburg
-street: "Rüterstraße"
-housenumber: 45
-phone: "+49 40 687771"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off"
-website: "https://www.pitstop.de/werkstatt/hamburg/"
+street: Rüterstraße
+housenumber: "45"
+phone: +49 40 687771
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off
+website: https://www.pitstop.de/werkstatt/hamburg/

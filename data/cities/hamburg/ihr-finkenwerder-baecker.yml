@@ -4,8 +4,8 @@ latitude: 53.53213
 longitude: 9.88124
 postcode: "21129"
 city: Hamburg
-street: "Müggenburg"
-housenumber: 5
-phone: "+49 40 7428182"
-opening_hours: "Mo-Fr 05:45-13:00; Sa 05:45-12:00"
-website: "https://www.baecker-jan.de/filialen.html"
+street: Müggenburg
+housenumber: "5"
+phone: +49 40 7428182
+opening_hours: Mo-Fr 05:45-13:00; Sa 05:45-12:00
+website: https://www.baecker-jan.de/filialen.html

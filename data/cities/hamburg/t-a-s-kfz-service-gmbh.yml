@@ -4,8 +4,8 @@ latitude: 53.6035
 longitude: 9.98484
 postcode: "22453"
 city: Hamburg
-street: "Borsteler Chaussee"
+street: Borsteler Chaussee
 housenumber: 15c
-phone: "+49 40 515655"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 08:00-14:00"
-website: "https://www.autoservice-tas.de/"
+phone: +49 40 515655
+opening_hours: Mo-Fr 09:00-18:00;Sa 08:00-14:00
+website: https://www.autoservice-tas.de/

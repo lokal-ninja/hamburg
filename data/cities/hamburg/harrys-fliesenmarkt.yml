@@ -1,11 +1,11 @@
 id: 692640133
-type: way
+type: node
 latitude: 53.56767
 longitude: 9.92942
 postcode: "22761"
 city: Hamburg
-street: "Schützenstraße"
-housenumber: 102
+street: Schützenstraße
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-16:00"
-website: "https://www.harrys-fliesenmarkt.net/alle-niederlassungen/niederlassung-hamburg/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-16:00
+website: https://www.harrys-fliesenmarkt.net/alle-niederlassungen/niederlassung-hamburg/

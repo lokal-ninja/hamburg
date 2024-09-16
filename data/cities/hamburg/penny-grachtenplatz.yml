@@ -4,8 +4,8 @@ latitude: 53.48355
 longitude: 10.17596
 postcode: "21035"
 city: Hamburg
-street: "Grachtenplatz"
-housenumber: 7
+street: Grachtenplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

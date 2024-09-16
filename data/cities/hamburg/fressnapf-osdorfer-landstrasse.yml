@@ -1,11 +1,11 @@
 id: 53587006
-type: way
+type: node
 latitude: 53.57548
 longitude: 9.82547
 postcode: ""
 city: Hamburg
-street: "Osdorfer Landstraße"
-housenumber: 393
+street: Osdorfer Landstraße
+housenumber: "393"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.6084
 longitude: 10.0434
 postcode: "22309"
 city: Hamburg
-street: "Eichenlohweg"
-housenumber: 17
+street: Eichenlohweg
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:30-12:00"
+opening_hours: Mo-Sa 07:00-20:00; Su 07:30-12:00
 website: ""

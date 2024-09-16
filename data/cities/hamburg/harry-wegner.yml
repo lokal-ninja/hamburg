@@ -1,11 +1,11 @@
 id: 34916324
-type: way
+type: node
 latitude: 53.54551
 longitude: 10.0386
 postcode: "20537"
 city: Hamburg
-street: "Bullerdeich"
-housenumber: 51
+street: Bullerdeich
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:30, Fr 07:00-14:00"
+opening_hours: Mo-Th 07:00-16:30, Fr 07:00-14:00
 website: ""

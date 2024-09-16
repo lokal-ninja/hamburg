@@ -1,11 +1,11 @@
 id: 375791091
-type: way
+type: node
 latitude: 53.59196
 longitude: 10.05629
 postcode: "22305"
 city: Hamburg
-street: "Bramfelder Straße"
-housenumber: 149
-phone: "+49 40 692140790"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://prime-selfstorage.de/standorte/hamburg-barmbek/"
+street: Bramfelder Straße
+housenumber: "149"
+phone: +49 40 692140790
+opening_hours: Mo-Su 06:00-23:00
+website: https://prime-selfstorage.de/standorte/hamburg-barmbek/

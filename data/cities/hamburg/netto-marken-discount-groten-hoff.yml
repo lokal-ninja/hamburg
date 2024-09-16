@@ -1,11 +1,11 @@
 id: 30143273
-type: way
+type: node
 latitude: 53.64743
 longitude: 10.16148
 postcode: "22359"
 city: Hamburg
-street: "Groten Hoff"
-housenumber: 21
+street: Groten Hoff
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

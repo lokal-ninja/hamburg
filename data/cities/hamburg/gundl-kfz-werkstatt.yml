@@ -1,11 +1,11 @@
 id: 39070733
-type: way
+type: node
 latitude: 53.65365
 longitude: 10.10432
 postcode: "22393"
 city: Hamburg
-street: "Stadtbahnstraße"
-housenumber: 38
+street: Stadtbahnstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

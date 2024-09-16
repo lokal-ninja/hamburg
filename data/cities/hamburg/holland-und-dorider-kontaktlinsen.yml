@@ -4,8 +4,8 @@ latitude: 53.56745
 longitude: 9.98813
 postcode: "20148"
 city: Hamburg
-street: "Rothenbaumchaussee"
-housenumber: 47
-phone: "+49 40 449779"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00, Mo-Fr 14:00-18:00; PH off"
-website: "https://www.hollanddorider.de/"
+street: Rothenbaumchaussee
+housenumber: "47"
+phone: +49 40 449779
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00, Mo-Fr 14:00-18:00; PH off
+website: https://www.hollanddorider.de/

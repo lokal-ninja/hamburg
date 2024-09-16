@@ -4,8 +4,8 @@ latitude: 53.63669
 longitude: 9.91723
 postcode: "22457"
 city: Hamburg
-street: "Burgwedel"
-housenumber: 1
+street: Burgwedel
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr by appointment"
-website: "https://www.struwweldog.de/"
+opening_hours: '"Mo-Fr by appointment"'
+website: https://www.struwweldog.de/

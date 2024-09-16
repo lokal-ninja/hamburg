@@ -4,8 +4,8 @@ latitude: 53.52931
 longitude: 10.11303
 postcode: "22113"
 city: Hamburg
-street: "Billbrookdeich"
-housenumber: 309
-phone: "+49 40 8197340"
+street: Billbrookdeich
+housenumber: "309"
+phone: +49 40 8197340
 opening_hours: ""
-website: "https://www.ludwig-holz.de/"
+website: https://www.ludwig-holz.de/

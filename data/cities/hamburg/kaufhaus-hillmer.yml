@@ -1,11 +1,11 @@
 id: 40151410
-type: way
+type: node
 latitude: 53.67148
 longitude: 10.12617
 postcode: "22395"
 city: Hamburg
-street: "Volksdorfer Damm"
-housenumber: 270
+street: Volksdorfer Damm
+housenumber: "270"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.kaufhaus-hillmer.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.kaufhaus-hillmer.de/

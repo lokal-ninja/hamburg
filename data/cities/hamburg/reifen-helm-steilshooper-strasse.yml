@@ -1,11 +1,11 @@
 id: 48540548
-type: way
+type: node
 latitude: 53.6066
 longitude: 10.05489
 postcode: "22309"
 city: Hamburg
-street: "Steilshooper Straße"
-housenumber: 305
-phone: "+49 40 6302064"
-opening_hours: "Mo-Fr 08:00-17:00, Sa Nach Vereinbarung; PH off"
-website: "https://www.reifenhelm.de/standorte-kontakt/reifen-helm-filiale-hamburg-bramfeld/"
+street: Steilshooper Straße
+housenumber: "305"
+phone: +49 40 6302064
+opening_hours: Mo-Fr 08:00-17:00, Sa "Nach Vereinbarung"; PH off
+website: https://www.reifenhelm.de/standorte-kontakt/reifen-helm-filiale-hamburg-bramfeld/

@@ -4,8 +4,8 @@ latitude: 53.55119
 longitude: 9.92711
 postcode: "22765"
 city: Hamburg
-street: "Rothestraße"
-housenumber: 53
-phone: "+49 40 41111499"
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su 10:00-18:00; PH off"
+street: Rothestraße
+housenumber: "53"
+phone: +49 40 41111499
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su 10:00-18:00; PH off
 website: ""

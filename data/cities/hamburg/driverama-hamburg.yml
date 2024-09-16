@@ -4,8 +4,8 @@ latitude: 53.60081
 longitude: 9.91435
 postcode: "22525"
 city: Hamburg
-street: "Kieler Straße"
-housenumber: 595
-phone: "+800 22557755"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-14:00"
-website: "https://www.driverama.de/"
+street: Kieler Straße
+housenumber: "595"
+phone: +800 22557755
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-14:00
+website: https://www.driverama.de/

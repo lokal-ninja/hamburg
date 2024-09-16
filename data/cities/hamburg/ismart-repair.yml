@@ -4,8 +4,8 @@ latitude: 53.56757
 longitude: 9.98127
 postcode: ""
 city: Hamburg
-street: "Grindelhof"
-housenumber: 7
-phone: "+49 40 57014610"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00; PH,Su off"
-website: "https://www.ismart-repair.de/"
+street: Grindelhof
+housenumber: "7"
+phone: +49 40 57014610
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-18:00; PH,Su off
+website: https://www.ismart-repair.de/

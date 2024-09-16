@@ -4,8 +4,8 @@ latitude: 53.57928
 longitude: 10.04156
 postcode: "22081"
 city: Hamburg
-street: "Dehnhaide"
-housenumber: 4
-phone: "+49 40 299 62 08"
-opening_hours: "Tu-Fr 10:30-18:30; Sa[2,4] 10:30-16:00"
-website: "https://www.diebrillenfreunde.de/"
+street: Dehnhaide
+housenumber: "4"
+phone: +49 40 299 62 08
+opening_hours: Tu-Fr 10:30-18:30; Sa[2,4] 10:30-16:00
+website: https://www.diebrillenfreunde.de/

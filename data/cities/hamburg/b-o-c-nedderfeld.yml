@@ -1,11 +1,11 @@
 id: 88310020
-type: way
+type: node
 latitude: 53.6014
 longitude: 9.9768
 postcode: "22529"
 city: Hamburg
-street: "Nedderfeld"
-housenumber: 98
-phone: "+49 40 413056470"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://boc24.de/pages/hamburg"
+street: Nedderfeld
+housenumber: "98"
+phone: +49 40 413056470
+opening_hours: Mo-Sa 10:00-18:00
+website: https://boc24.de/pages/hamburg

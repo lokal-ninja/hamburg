@@ -4,8 +4,8 @@ latitude: 53.55862
 longitude: 9.96746
 postcode: "20357"
 city: Hamburg
-street: "Sternstraße"
-housenumber: 4
-phone: "+49 40 4397259"
-opening_hours: "Tu,Th 17:00-19:00 || nach Vereinbarung"
-website: "https://mpz-hamburg.de/"
+street: Sternstraße
+housenumber: "4"
+phone: +49 40 4397259
+opening_hours: Tu,Th 17:00-19:00 || "nach Vereinbarung"
+website: https://mpz-hamburg.de/

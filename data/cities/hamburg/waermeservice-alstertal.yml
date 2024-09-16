@@ -1,11 +1,11 @@
 id: 39775566
-type: way
+type: node
 latitude: 53.64832
 longitude: 10.11003
 postcode: "22393"
 city: Hamburg
-street: "Frahmredder"
-housenumber: 93
-phone: "+49 40 6403199"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://www.heizoel-alstertal.de/"
+street: Frahmredder
+housenumber: "93"
+phone: +49 40 6403199
+opening_hours: Mo-Fr 07:30-18:00
+website: https://www.heizoel-alstertal.de/

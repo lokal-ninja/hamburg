@@ -1,11 +1,11 @@
 id: 118924556
-type: way
+type: node
 latitude: 53.57518
 longitude: 10.03807
 postcode: "22081"
 city: Hamburg
-street: "Holsteinischer Kamp"
+street: Holsteinischer Kamp
 housenumber: 19-21
-phone: "+49 40 294425"
-opening_hours: "Mo-Th 07:00-17:30, Fr 07:00-15:30; PH,Sa,Su off"
-website: "https://www.boschcarservice.com/de/de/werkstatt/jebsen-hamburg"
+phone: +49 40 294425
+opening_hours: Mo-Th 07:00-17:30, Fr 07:00-15:30; PH,Sa,Su off
+website: https://www.boschcarservice.com/de/de/werkstatt/jebsen-hamburg

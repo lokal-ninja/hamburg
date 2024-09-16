@@ -4,8 +4,8 @@ latitude: 53.56177
 longitude: 10.03713
 postcode: "22087"
 city: Hamburg
-street: "Landwehr"
-housenumber: 37
+street: Landwehr
+housenumber: "37"
 phone: ""
-opening_hours: "Tu-Fr 12:00-14:30,16:00-19:30; Sa,Su 12:00-18:30"
+opening_hours: Tu-Fr 12:00-14:30,16:00-19:30; Sa,Su 12:00-18:30
 website: ""

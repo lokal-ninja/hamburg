@@ -4,8 +4,8 @@ latitude: 53.55652
 longitude: 9.96668
 postcode: "20359"
 city: Hamburg
-street: "Neuer Kamp"
-housenumber: 31
+street: Neuer Kamp
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
+opening_hours: Mo-Sa 10:00-20:00; PH off
 website: ""

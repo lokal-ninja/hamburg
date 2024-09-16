@@ -1,11 +1,11 @@
 id: 37126384
-type: way
+type: node
 latitude: 53.59281
 longitude: 9.9222
 postcode: "22525"
 city: Hamburg
-street: "Volksparkstraße"
-housenumber: 38
+street: Volksparkstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

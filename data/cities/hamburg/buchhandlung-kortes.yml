@@ -4,8 +4,8 @@ latitude: 53.55864
 longitude: 9.81252
 postcode: "22587"
 city: Hamburg
-street: "Elbchaussee"
-housenumber: 577
-phone: "+49 40 86 29 78"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We 09:00-14:00; Sa 09:00-14:30"
-website: "https://www.kortes-buecher.de/"
+street: Elbchaussee
+housenumber: "577"
+phone: +49 40 86 29 78
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We 09:00-14:00; Sa 09:00-14:30
+website: https://www.kortes-buecher.de/

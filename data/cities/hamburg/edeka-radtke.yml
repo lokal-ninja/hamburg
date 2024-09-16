@@ -1,11 +1,11 @@
 id: 32468681
-type: way
+type: node
 latitude: 53.68671
 longitude: 10.09325
 postcode: "22397"
 city: Hamburg
-street: "Tannenhof"
+street: Tannenhof
 housenumber: 60a
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 894757707
-type: way
+type: node
 latitude: 53.55326
 longitude: 9.98894
 postcode: "20354"
 city: Hamburg
-street: "Große Bleichen"
-housenumber: 36
-phone: "+49 40 340049"
-opening_hours: "Mo-Sa 06:00-20:00; PH off"
+street: Große Bleichen
+housenumber: "36"
+phone: +49 40 340049
+opening_hours: Mo-Sa 06:00-20:00; PH off
 website: ""

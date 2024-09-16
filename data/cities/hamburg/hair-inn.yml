@@ -4,8 +4,8 @@ latitude: 53.55235
 longitude: 9.93868
 postcode: "22767"
 city: Hamburg
-street: "Große Bergstraße"
-housenumber: 259
-phone: "+49 40 388735"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.hairinn.de/"
+street: Große Bergstraße
+housenumber: "259"
+phone: +49 40 388735
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.hairinn.de/

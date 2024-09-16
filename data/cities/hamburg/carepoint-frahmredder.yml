@@ -4,8 +4,8 @@ latitude: 53.65089
 longitude: 10.09707
 postcode: "22393"
 city: Hamburg
-street: "Frahmredder"
-housenumber: 16
+street: Frahmredder
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Th 09:00-13:00,14:00-18:00, Fr 09:00-14:30; PH off"
-website: "https://www.carepoint.eu/standorte/sanitaetshaus-in-hamburg-poppenbuettel/0"
+opening_hours: Mo-Th 09:00-13:00,14:00-18:00, Fr 09:00-14:30; PH off
+website: https://www.carepoint.eu/standorte/sanitaetshaus-in-hamburg-poppenbuettel/0

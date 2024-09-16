@@ -4,8 +4,8 @@ latitude: 53.49813
 longitude: 10.00966
 postcode: "21109"
 city: Hamburg
-street: "Wilhelm-Strauß-Weg"
-housenumber: 10
+street: Wilhelm-Strauß-Weg
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.com/de-de/laden/hamburg-wilhelmsburg-wilhelm-straub-weg/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.com/de-de/laden/hamburg-wilhelmsburg-wilhelm-straub-weg/

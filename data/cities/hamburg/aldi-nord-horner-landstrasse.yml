@@ -1,11 +1,11 @@
 id: 30179666
-type: way
+type: node
 latitude: 53.55126
 longitude: 10.07482
 postcode: "22111"
 city: Hamburg
-street: "Horner Landstraße"
-housenumber: 110
+street: Horner Landstraße
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

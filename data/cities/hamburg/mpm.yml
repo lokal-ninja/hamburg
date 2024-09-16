@@ -4,8 +4,8 @@ latitude: 53.55455
 longitude: 9.92411
 postcode: "22765"
 city: Hamburg
-street: "Behringstraße"
-housenumber: 16
-phone: "+49 40 3808990"
-opening_hours: "Tu-Fr 08:00-17:00; Mo 09:00-18:00"
+street: Behringstraße
+housenumber: "16"
+phone: +49 40 3808990
+opening_hours: Tu-Fr 08:00-17:00; Mo 09:00-18:00
 website: ""

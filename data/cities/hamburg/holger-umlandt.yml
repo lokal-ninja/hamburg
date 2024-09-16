@@ -4,8 +4,8 @@ latitude: 53.55059
 longitude: 9.89785
 postcode: "22605"
 city: Hamburg
-street: "Liebermannstraße"
-housenumber: 50
+street: Liebermannstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00; Sa 08:30-13:00"
+opening_hours: Mo-Fr 08:30-17:00; Sa 08:30-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.54616
 longitude: 9.98945
 postcode: "20459"
 city: Hamburg
-street: "Holzbrücke"
-housenumber: 7
-phone: "+49 40 30095895"
-opening_hours: "Mo-Fr 06:00-16:00"
-website: "https://www.schanzenbaeckerei.de/filialen/holzbruecke"
+street: Holzbrücke
+housenumber: "7"
+phone: +49 40 30095895
+opening_hours: Mo-Fr 06:00-16:00
+website: https://www.schanzenbaeckerei.de/filialen/holzbruecke

@@ -1,11 +1,11 @@
 id: 36001670
-type: way
+type: node
 latitude: 53.55763
 longitude: 10.03659
 postcode: "20535"
 city: Hamburg
-street: "Bürgerweide"
-housenumber: 64
+street: Bürgerweide
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

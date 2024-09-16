@@ -4,8 +4,8 @@ latitude: 53.6211
 longitude: 9.95246
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
-housenumber: 42
+street: Tibarg
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00; PH,Su off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00; PH,Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.61254
 longitude: 10.02519
 postcode: "22297"
 city: Hamburg
-street: "Alsterdorfer Markt"
-housenumber: 8
-phone: "+49 40 50090459"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka-ecks.de/"
+street: Alsterdorfer Markt
+housenumber: "8"
+phone: +49 40 50090459
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka-ecks.de/

@@ -4,8 +4,8 @@ latitude: 53.57578
 longitude: 9.95432
 postcode: "20259"
 city: Hamburg
-street: "Osterstraße"
-housenumber: 84
-phone: "+49 40 4912032"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.pfandkredit.de/"
+street: Osterstraße
+housenumber: "84"
+phone: +49 40 4912032
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.pfandkredit.de/

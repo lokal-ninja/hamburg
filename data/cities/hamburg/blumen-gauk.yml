@@ -4,8 +4,9 @@ latitude: 53.57421
 longitude: 10.07287
 postcode: "22041"
 city: Hamburg
-street: "Wandsbeker Marktstraße"
-housenumber: 177
-phone: "+49 40 6959929"
-opening_hours: "Apr-Sep: Mo-Fr 08:30-18:00; Apr-Sep: Sa 09:00-13:00; Oct-Mar: Mo-Fr 08:30-18:00; Oct-Mar: Sa 10:00-14:00; PH off"
+street: Wandsbeker Marktstraße
+housenumber: "177"
+phone: +49 40 6959929
+opening_hours: 'Apr-Sep: Mo-Fr 08:30-18:00; Apr-Sep: Sa 09:00-13:00; Oct-Mar: Mo-Fr
+    08:30-18:00; Oct-Mar: Sa 10:00-14:00; PH off'
 website: ""

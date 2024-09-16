@@ -4,8 +4,8 @@ latitude: 53.56385
 longitude: 10.03521
 postcode: "22087"
 city: Hamburg
-street: "Landwehr"
-housenumber: 5
+street: Landwehr
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://nyctophilia-shop.de"
+opening_hours: Mo-Sa 11:00-19:00
+website: https://nyctophilia-shop.de

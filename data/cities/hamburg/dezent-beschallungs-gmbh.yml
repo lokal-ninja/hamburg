@@ -4,8 +4,8 @@ latitude: 53.55862
 longitude: 9.9437
 postcode: "22765"
 city: Hamburg
-street: "Bodenstedtstraße"
-housenumber: 16
-phone: "+49 40 386 102 22"
-opening_hours: "Mo-Fr 09:30-17:00"
+street: Bodenstedtstraße
+housenumber: "16"
+phone: +49 40 386 102 22
+opening_hours: Mo-Fr 09:30-17:00
 website: ""

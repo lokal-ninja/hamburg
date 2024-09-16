@@ -4,8 +4,8 @@ latitude: 53.49066
 longitude: 10.20903
 postcode: "21029"
 city: Hamburg
-street: "Reetwerder"
-housenumber: 7
+street: Reetwerder
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-14:00"
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-14:00
 website: ""

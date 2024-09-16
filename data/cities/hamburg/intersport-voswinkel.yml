@@ -4,8 +4,8 @@ latitude: 53.5526
 longitude: 9.93158
 postcode: "22765"
 city: Hamburg
-street: "Ottenser Hauptstraße"
-housenumber: 10
-phone: "+49 40 29812436"
-opening_hours: "Mo-Sa 10:00-20:00"
+street: Ottenser Hauptstraße
+housenumber: "10"
+phone: +49 40 29812436
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

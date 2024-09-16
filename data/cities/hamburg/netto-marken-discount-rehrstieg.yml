@@ -1,11 +1,11 @@
 id: 176857625
-type: way
+type: node
 latitude: 53.48013
 longitude: 9.87474
 postcode: "21147"
 city: Hamburg
-street: "Rehrstieg"
-housenumber: 54
+street: Rehrstieg
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.45638
 longitude: 9.98826
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 3008880"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "http://www.cunda.de/"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 3008880
+opening_hours: Mo-Sa 09:30-20:00
+website: http://www.cunda.de/

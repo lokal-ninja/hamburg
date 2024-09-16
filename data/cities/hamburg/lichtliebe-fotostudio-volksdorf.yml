@@ -4,8 +4,8 @@ latitude: 53.65088
 longitude: 10.16189
 postcode: "22359"
 city: Hamburg
-street: "Halenreie"
-housenumber: 4
-phone: "+49 40 603 51 45"
-opening_hours: "Tu-Fr 09:00-13:00,14:00-18:00; Sa 09:00 - 13:00"
-website: "https://www.lichtliebevolksdorf.de/"
+street: Halenreie
+housenumber: "4"
+phone: +49 40 603 51 45
+opening_hours: Tu-Fr 09:00-13:00,14:00-18:00; Sa 09:00 - 13:00
+website: https://www.lichtliebevolksdorf.de/

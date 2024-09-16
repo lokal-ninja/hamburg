@@ -4,8 +4,8 @@ latitude: 53.58434
 longitude: 10.02308
 postcode: "22303"
 city: Hamburg
-street: "Jarrestraße"
-housenumber: 26
+street: Jarrestraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa 08:00-21:00; Su 09:00-20:00"
+opening_hours: Mo-Fr 06:00-21:00; Sa 08:00-21:00; Su 09:00-20:00
 website: ""

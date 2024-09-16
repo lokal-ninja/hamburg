@@ -4,8 +4,8 @@ latitude: 53.55142
 longitude: 9.98272
 postcode: "20355"
 city: Hamburg
-street: "Wexstraße"
-housenumber: 28
+street: Wexstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Tu-Fr 11:00-19:00, Sa 11:00-16:00"
-website: "https://winkelvansinkel.de"
+opening_hours: Tu-Fr 11:00-19:00, Sa 11:00-16:00
+website: https://winkelvansinkel.de

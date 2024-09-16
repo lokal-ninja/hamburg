@@ -4,8 +4,8 @@ latitude: 53.59765
 longitude: 9.99666
 postcode: "22299"
 city: Hamburg
-street: "Lattenkampstieg"
-housenumber: 6
+street: Lattenkampstieg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

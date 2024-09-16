@@ -1,11 +1,11 @@
 id: 48893421
-type: way
+type: node
 latitude: 53.58781
 longitude: 10.08407
 postcode: "22047"
 city: Hamburg
-street: "Rosmarinstraße"
-housenumber: 26
-phone: "+49 40 6 95 55 94"
-opening_hours: "Mo-Fr 09:00-13:30, 15:00-19:00; Sa 10:00-14:00"
-website: "http://www.bleckys-tauchservice.de"
+street: Rosmarinstraße
+housenumber: "26"
+phone: +49 40 6 95 55 94
+opening_hours: Mo-Fr 09:00-13:30, 15:00-19:00; Sa 10:00-14:00
+website: http://www.bleckys-tauchservice.de

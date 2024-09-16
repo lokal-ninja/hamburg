@@ -1,11 +1,11 @@
 id: 46505917
-type: way
+type: node
 latitude: 53.62445
 longitude: 10.11472
 postcode: "22159"
 city: Hamburg
-street: "Pezolddamm"
-housenumber: 154
+street: Pezolddamm
+housenumber: "154"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

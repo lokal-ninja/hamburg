@@ -4,8 +4,8 @@ latitude: 53.56425
 longitude: 9.91877
 postcode: "22761"
 city: Hamburg
-street: "Bahrenfelder Chaussee"
-housenumber: 2
+street: Bahrenfelder Chaussee
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 14:00-19:00; Sa 12:00-19:00"
-website: "https://stich.hamburg/"
+opening_hours: Tu-Fr 14:00-19:00; Sa 12:00-19:00
+website: https://stich.hamburg/

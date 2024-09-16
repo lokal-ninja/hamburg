@@ -1,11 +1,11 @@
 id: 44172783
-type: way
+type: node
 latitude: 53.55897
 longitude: 9.99186
 postcode: "20354"
 city: Hamburg
-street: "Alsterglacis"
+street: Alsterglacis
 housenumber: 17 B
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 10:00-16:00"
+opening_hours: Mo-Fr 08:00-18:00, Sa 10:00-16:00
 website: ""

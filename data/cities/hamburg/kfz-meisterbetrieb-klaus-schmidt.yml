@@ -1,11 +1,11 @@
 id: 37186503
-type: way
+type: node
 latitude: 53.57711
 longitude: 9.97595
 postcode: "20144"
 city: Hamburg
-street: "Grindelberg"
-housenumber: 83
-phone: "+49 40 4205667"
-opening_hours: "Mo-Fr 07:45-17:00; PH closed"
-website: "https://www.kfz-reparatur-schmidt.de/"
+street: Grindelberg
+housenumber: "83"
+phone: +49 40 4205667
+opening_hours: Mo-Fr 07:45-17:00; PH closed
+website: https://www.kfz-reparatur-schmidt.de/

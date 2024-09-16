@@ -1,11 +1,11 @@
 id: 631279186
-type: way
+type: node
 latitude: 53.60118
 longitude: 9.97995
 postcode: "22529"
 city: Hamburg
-street: "Nedderfeld"
-housenumber: 104
-phone: "+49 40 51300713"
-opening_hours: "Mo-Th 08:00-18:00, Fr 08:00-17:00, Sa 09:00-13:00; PH off"
-website: "https://www.reifenhelm.de/home/"
+street: Nedderfeld
+housenumber: "104"
+phone: +49 40 51300713
+opening_hours: Mo-Th 08:00-18:00, Fr 08:00-17:00, Sa 09:00-13:00; PH off
+website: https://www.reifenhelm.de/home/

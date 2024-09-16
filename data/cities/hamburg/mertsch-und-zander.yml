@@ -1,11 +1,11 @@
 id: 79312032
-type: way
+type: node
 latitude: 53.57993
 longitude: 9.94469
 postcode: "20257"
 city: Hamburg
-street: "Müggenkampstraße"
+street: Müggenkampstraße
 housenumber: 12a
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 08:00-12:00"
+opening_hours: Mo-Th 07:00-17:00; Fr 08:00-12:00
 website: ""

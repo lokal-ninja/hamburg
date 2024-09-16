@@ -4,8 +4,8 @@ latitude: 53.49572
 longitude: 10.20446
 postcode: "21033"
 city: Hamburg
-street: "Höperstieg"
-housenumber: 2
-phone: "+49 40 724 12 20"
-opening_hours: "Mo-Fr 07:15-18:00; Sa 09:00-13:00; Su off"
-website: "https://handel.suzuki.de/hamester"
+street: Höperstieg
+housenumber: "2"
+phone: +49 40 724 12 20
+opening_hours: Mo-Fr 07:15-18:00; Sa 09:00-13:00; Su off
+website: https://handel.suzuki.de/hamester

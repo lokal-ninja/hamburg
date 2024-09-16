@@ -4,8 +4,8 @@ latitude: 53.5612
 longitude: 9.96239
 postcode: "20357"
 city: Hamburg
-street: "Schulterblatt"
-housenumber: 55
-phone: "+49 40 4309 2748"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-16:00"
-website: "http://www.level1shop.com"
+street: Schulterblatt
+housenumber: "55"
+phone: +49 40 4309 2748
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-16:00
+website: http://www.level1shop.com

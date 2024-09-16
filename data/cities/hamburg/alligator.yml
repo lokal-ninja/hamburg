@@ -4,8 +4,8 @@ latitude: 53.55212
 longitude: 9.93264
 postcode: "22765"
 city: Hamburg
-street: "Ottenser Hauptstraße"
-housenumber: 3
-phone: "+49 40 395991"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.alligator-lederwaren.de/"
+street: Ottenser Hauptstraße
+housenumber: "3"
+phone: +49 40 395991
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.alligator-lederwaren.de/

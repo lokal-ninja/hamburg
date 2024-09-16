@@ -4,8 +4,8 @@ latitude: 53.63525
 longitude: 9.91941
 postcode: "22457"
 city: Hamburg
-street: "Frohmestraße"
-housenumber: 11
+street: Frohmestraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

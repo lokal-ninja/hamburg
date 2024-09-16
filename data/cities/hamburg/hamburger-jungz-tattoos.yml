@@ -4,8 +4,8 @@ latitude: 53.60132
 longitude: 10.06216
 postcode: "22177"
 city: Hamburg
-street: "Fabriciusstraße"
-housenumber: 83
+street: Fabriciusstraße
+housenumber: "83"
 phone: ""
-opening_hours: "Termin nach Verreinbarung"
-website: "https://www.hamburgerjungztattoos.de/"
+opening_hours: '"Termin nach Verreinbarung"'
+website: https://www.hamburgerjungztattoos.de/

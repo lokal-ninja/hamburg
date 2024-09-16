@@ -4,8 +4,8 @@ latitude: 53.60658
 longitude: 9.97961
 postcode: "22453"
 city: Hamburg
-street: "Borsteler Chaussee"
-housenumber: 103
-phone: "+49 40 50792867"
-opening_hours: "Mo-Fr 08:00-19:00,Sa 08:00-15:00"
+street: Borsteler Chaussee
+housenumber: "103"
+phone: +49 40 50792867
+opening_hours: Mo-Fr 08:00-19:00,Sa 08:00-15:00
 website: ""

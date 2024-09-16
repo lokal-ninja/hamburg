@@ -1,11 +1,11 @@
 id: 1112295642
-type: way
+type: node
 latitude: 53.57178
 longitude: 10.02885
 postcode: "22083"
 city: Hamburg
-street: "Hamburger Straße"
-housenumber: 19
+street: Hamburger Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 09:00-20:00; PH,Su off
 website: ""

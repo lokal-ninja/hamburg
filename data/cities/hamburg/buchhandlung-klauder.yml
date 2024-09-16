@@ -4,8 +4,8 @@ latitude: 53.70759
 longitude: 10.10863
 postcode: "22397"
 city: Hamburg
-street: "Duvenstedter Damm"
-housenumber: 41
+street: Duvenstedter Damm
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:30; Sa 09:30-13:00"
-website: "https://www.buchhandlung-klauder.de"
+opening_hours: Mo-Fr 09:00-13:00, 14:30-18:30; Sa 09:30-13:00
+website: https://www.buchhandlung-klauder.de

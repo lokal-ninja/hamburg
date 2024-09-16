@@ -1,11 +1,11 @@
 id: 72658262
-type: way
+type: node
 latitude: 53.59579
 longitude: 9.88887
 postcode: "22547"
 city: Hamburg
-street: "Lüdersring"
-housenumber: 70
+street: Lüdersring
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 07:00-24:00"
+opening_hours: Mo-Sa 07:00-24:00
 website: ""

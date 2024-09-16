@@ -4,8 +4,8 @@ latitude: 53.57252
 longitude: 9.84526
 postcode: "22549"
 city: Hamburg
-street: "Osdorfer Landstraße"
-housenumber: 233
-phone: "+49 176 34805877"
-opening_hours: "Mo,We,Fr 11:00-13:00,15:00-17:00"
-website: "https://www.lampenmanufaktur-hertz.de/"
+street: Osdorfer Landstraße
+housenumber: "233"
+phone: +49 176 34805877
+opening_hours: Mo,We,Fr 11:00-13:00,15:00-17:00
+website: https://www.lampenmanufaktur-hertz.de/

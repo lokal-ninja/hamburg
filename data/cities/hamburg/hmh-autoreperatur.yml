@@ -1,11 +1,11 @@
 id: 37572493
-type: way
+type: node
 latitude: 53.59
 longitude: 9.94751
 postcode: "22527"
 city: Hamburg
-street: "Julius-Vosseler-Straße"
+street: Julius-Vosseler-Straße
 housenumber: 107A
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su, PH closed"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su, PH closed
 website: ""

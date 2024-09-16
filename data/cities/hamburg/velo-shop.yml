@@ -4,8 +4,8 @@ latitude: 53.58341
 longitude: 9.97689
 postcode: "20251"
 city: Hamburg
-street: "Eppendorfer Weg"
-housenumber: 250
-phone: "+49 40 4204944"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 11:00-19:00; Sa 11:00-14:00;PH off"
-website: "https://veloshop.de/"
+street: Eppendorfer Weg
+housenumber: "250"
+phone: +49 40 4204944
+opening_hours: Mo 14:00-19:00; Tu-Fr 11:00-19:00; Sa 11:00-14:00;PH off
+website: https://veloshop.de/

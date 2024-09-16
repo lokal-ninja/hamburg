@@ -1,11 +1,11 @@
 id: 196664550
-type: way
+type: node
 latitude: 53.47114
 longitude: 9.86266
 postcode: "21149"
 city: Hamburg
-street: "Cuxhavener Straße"
-housenumber: 293
-phone: "+49 40 7020860"
+street: Cuxhavener Straße
+housenumber: "293"
+phone: +49 40 7020860
 opening_hours: ""
-website: "https://www.kuechenzentrum-suederelbe.de/"
+website: https://www.kuechenzentrum-suederelbe.de/

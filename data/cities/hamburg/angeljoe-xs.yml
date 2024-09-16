@@ -4,8 +4,8 @@ latitude: 53.56015
 longitude: 10.02579
 postcode: "22087"
 city: Hamburg
-street: "Mühlendamm"
-housenumber: 2
+street: Mühlendamm
+housenumber: "2"
 phone: ""
-opening_hours: "Sa 09:00-16:00; Mo-Fr 09:30-19:30"
+opening_hours: Sa 09:00-16:00; Mo-Fr 09:30-19:30
 website: ""

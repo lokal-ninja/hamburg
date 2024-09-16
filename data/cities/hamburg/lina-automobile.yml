@@ -4,8 +4,8 @@ latitude: 53.59763
 longitude: 10.07118
 postcode: "22179"
 city: Hamburg
-street: "Werner-Otto-Straße"
-housenumber: 36
+street: Werner-Otto-Straße
+housenumber: "36"
 phone: "+494073434962"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://lina-automobile.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://lina-automobile.de/

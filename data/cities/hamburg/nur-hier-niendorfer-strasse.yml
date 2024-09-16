@@ -4,8 +4,8 @@ latitude: 53.60417
 longitude: 9.95417
 postcode: "22529"
 city: Hamburg
-street: "Niendorfer Straße"
-housenumber: 25
+street: Niendorfer Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 06:00-18:00; Su 07:00-18:00"
+opening_hours: Mo-Sa 06:00-18:00; Su 07:00-18:00
 website: ""

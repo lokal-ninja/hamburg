@@ -1,11 +1,11 @@
 id: 1180287398
-type: way
+type: node
 latitude: 53.5713
 longitude: 9.92204
 postcode: "22525"
 city: Hamburg
-street: "Holstenkamp"
+street: Holstenkamp
 housenumber: 54-56
 phone: ""
-opening_hours: "Mo-Th 06:30-16:00; Fr 06:30-13:00"
+opening_hours: Mo-Th 06:30-16:00; Fr 06:30-13:00
 website: ""

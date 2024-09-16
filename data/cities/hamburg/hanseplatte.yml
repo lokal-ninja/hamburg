@@ -4,8 +4,8 @@ latitude: 53.55821
 longitude: 9.96846
 postcode: "20357"
 city: Hamburg
-street: "Neuer Kamp"
-housenumber: 32
-phone: "+49 40 28570193"
-opening_hours: "Mo-Sa 12:00-18:00; Su,PH off"
-website: "https://www.hanseplatte.de/"
+street: Neuer Kamp
+housenumber: "32"
+phone: +49 40 28570193
+opening_hours: Mo-Sa 12:00-18:00; Su,PH off
+website: https://www.hanseplatte.de/

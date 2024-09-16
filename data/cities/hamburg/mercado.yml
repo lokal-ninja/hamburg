@@ -1,11 +1,11 @@
 id: 654585054
-type: way
+type: node
 latitude: 53.55326
 longitude: 9.93334
 postcode: "22765"
 city: Hamburg
-street: "Ottenser Hauptstraße"
+street: Ottenser Hauptstraße
 housenumber: 8-14
-phone: "+49 40 3986840"
-opening_hours: "Mo-Sa 10:00-20:00; Su closed"
-website: "https://www.mercado.hamburg"
+phone: +49 40 3986840
+opening_hours: Mo-Sa 10:00-20:00; Su closed
+website: https://www.mercado.hamburg

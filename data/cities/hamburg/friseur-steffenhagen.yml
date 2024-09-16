@@ -4,8 +4,8 @@ latitude: 53.65727
 longitude: 10.08481
 postcode: "22399"
 city: Hamburg
-street: "Poppenbütteler Weg"
-housenumber: 179
-phone: "+49 40 6023819"
-opening_hours: "Tu-Fr 08:30-17:30, Sa 08:30-12:00; PH off"
-website: "https://www.salon-steffenhagen.de"
+street: Poppenbütteler Weg
+housenumber: "179"
+phone: +49 40 6023819
+opening_hours: Tu-Fr 08:30-17:30, Sa 08:30-12:00; PH off
+website: https://www.salon-steffenhagen.de

@@ -4,8 +4,8 @@ latitude: 53.45618
 longitude: 9.9868
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 76752142"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.krass-optik.de/"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 76752142
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.krass-optik.de/

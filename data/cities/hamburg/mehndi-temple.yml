@@ -4,8 +4,8 @@ latitude: 53.59352
 longitude: 9.98887
 postcode: "20251"
 city: Hamburg
-street: "Eppendorfer Marktplatz"
-housenumber: 15
+street: Eppendorfer Marktplatz
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 14:00-19:30; Sa 11:00-17:00"
-website: "http://www.mehndi-tempel.com/"
+opening_hours: Mo-Fr 14:00-19:30; Sa 11:00-17:00
+website: http://www.mehndi-tempel.com/

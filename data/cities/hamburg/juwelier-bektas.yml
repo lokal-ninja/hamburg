@@ -1,11 +1,11 @@
 id: 734925417
-type: way
+type: node
 latitude: 53.60104
 longitude: 9.975
 postcode: "22529"
 city: Hamburg
-street: "Nedderfeld"
-housenumber: 70
-phone: "+49 40 4605552"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00; PH off"
-website: "https://www.juwelier-bektas.de/"
+street: Nedderfeld
+housenumber: "70"
+phone: +49 40 4605552
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00; PH off
+website: https://www.juwelier-bektas.de/

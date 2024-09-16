@@ -1,11 +1,11 @@
 id: 97703396
-type: way
+type: node
 latitude: 53.51948
 longitude: 9.99847
 postcode: "21107"
 city: Hamburg
-street: "Schlenzigstraße"
-housenumber: 4
+street: Schlenzigstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00, Sa Nach Vereinbarung; PH off"
+opening_hours: Mo-Fr 08:00-17:00, Sa "Nach Vereinbarung"; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.58288
 longitude: 10.06709
 postcode: "22049"
 city: Hamburg
-street: "Oberschlesische Straße"
-housenumber: 24
-phone: "+49 40 25304090"
-opening_hours: "Mo-Th 10:00-20:00; Fr 10:00-15:00; Sa 16:30-20:00"
+street: Oberschlesische Straße
+housenumber: "24"
+phone: +49 40 25304090
+opening_hours: Mo-Th 10:00-20:00; Fr 10:00-15:00; Sa 16:30-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.56515
 longitude: 9.92251
 postcode: "22761"
 city: Hamburg
-street: "Beerenweg"
-housenumber: 12
+street: Beerenweg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.55583
 longitude: 9.98255
 postcode: "20355"
 city: Hamburg
-street: "Valentinskamp"
-housenumber: 63
+street: Valentinskamp
+housenumber: "63"
 phone: ""
-opening_hours: "Tu-Fr 10:30-19:00; Sa 10:30-16:00"
+opening_hours: Tu-Fr 10:30-19:00; Sa 10:30-16:00
 website: ""

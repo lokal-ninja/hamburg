@@ -4,8 +4,8 @@ latitude: 53.54138
 longitude: 10.10578
 postcode: "22111"
 city: Hamburg
-street: "Billstedter Platz"
-housenumber: 18
-phone: "+49 40 21987548"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
+street: Billstedter Platz
+housenumber: "18"
+phone: +49 40 21987548
+opening_hours: Mo-Sa 10:00-20:00; PH off
 website: ""

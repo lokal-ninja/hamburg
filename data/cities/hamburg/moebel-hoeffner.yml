@@ -1,11 +1,11 @@
 id: 122748080
-type: way
+type: node
 latitude: 53.62023
 longitude: 9.91049
 postcode: "22523"
 city: Hamburg
-street: "Holsteiner Chaussee"
-housenumber: 130
-phone: "+49 40 360034 0"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.hoeffner.de/hamburg-eidelstedt"
+street: Holsteiner Chaussee
+housenumber: "130"
+phone: +49 40 360034 0
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.hoeffner.de/hamburg-eidelstedt

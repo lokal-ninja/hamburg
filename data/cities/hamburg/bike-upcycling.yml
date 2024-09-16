@@ -4,8 +4,8 @@ latitude: 53.63066
 longitude: 10.10981
 postcode: "22175"
 city: Hamburg
-street: "Karlshöhe"
+street: Karlshöhe
 housenumber: 60d
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "https://www.bike-up.de/"
+opening_hours: '"nach Vereinbarung"'
+website: https://www.bike-up.de/

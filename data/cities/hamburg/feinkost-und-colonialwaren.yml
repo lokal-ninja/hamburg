@@ -4,8 +4,8 @@ latitude: 53.56436
 longitude: 10.0203
 postcode: "22087"
 city: Hamburg
-street: "Papenhuder Straße"
-housenumber: 9
+street: Papenhuder Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:00, 14:30-18:30, Sa 07:00-12:00; PH off"
+opening_hours: Mo-Fr 06:30-12:00, 14:30-18:30, Sa 07:00-12:00; PH off
 website: ""

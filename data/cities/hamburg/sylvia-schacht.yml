@@ -1,11 +1,11 @@
 id: 106466403
-type: way
+type: node
 latitude: 53.65287
 longitude: 10.0928
 postcode: "22391"
 city: Hamburg
-street: "Heegbarg"
-housenumber: 6
-phone: "+49 40 61192956"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 09:00-14:00"
-website: "http://www.sylvia-schacht.de/"
+street: Heegbarg
+housenumber: "6"
+phone: +49 40 61192956
+opening_hours: Tu-Fr 09:30-19:00; Sa 09:00-14:00
+website: http://www.sylvia-schacht.de/

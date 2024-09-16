@@ -1,11 +1,11 @@
 id: 102792863
-type: way
+type: node
 latitude: 53.64211
 longitude: 10.08201
 postcode: "22391"
 city: Hamburg
-street: "Wellingsbüttler Weg"
-housenumber: 148
-phone: "+49 40 37611747"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.alstertal-coiffeur.de"
+street: Wellingsbüttler Weg
+housenumber: "148"
+phone: +49 40 37611747
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00; PH off
+website: https://www.alstertal-coiffeur.de

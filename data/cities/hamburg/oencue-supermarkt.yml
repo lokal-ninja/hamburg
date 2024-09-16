@@ -1,11 +1,11 @@
 id: 306263335
-type: way
+type: node
 latitude: 53.54044
 longitude: 10.1024
 postcode: "22111"
 city: Hamburg
-street: "Billstedter Hauptstraße"
-housenumber: 49
+street: Billstedter Hauptstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://oncu-supermarkt.com/"
+opening_hours: Mo-Sa 07:00-20:00
+website: http://oncu-supermarkt.com/

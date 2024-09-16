@@ -4,8 +4,8 @@ latitude: 53.57233
 longitude: 9.84675
 postcode: "22549"
 city: Hamburg
-street: "Langelohstraße"
-housenumber: 152
-phone: "+49 40 8007722"
-opening_hours: "Tu,We,Th 09:00-18:30, Fr 09:00-19:00, Sa 08:30-14:00"
+street: Langelohstraße
+housenumber: "152"
+phone: +49 40 8007722
+opening_hours: Tu,We,Th 09:00-18:30, Fr 09:00-19:00, Sa 08:30-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 136867385
-type: way
+type: node
 latitude: 53.6339
 longitude: 10.09023
 postcode: "22391"
 city: Hamburg
-street: "Saseler Chaussee"
-housenumber: 5
-phone: "+49 40 52732145"
+street: Saseler Chaussee
+housenumber: "5"
+phone: +49 40 52732145
 opening_hours: ""
-website: "http://ihr-studio-hamburg.de"
+website: http://ihr-studio-hamburg.de

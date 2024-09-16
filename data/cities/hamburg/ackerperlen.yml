@@ -1,11 +1,11 @@
 id: 266522091
-type: way
+type: node
 latitude: 53.49238
 longitude: 10.05539
 postcode: "21037"
 city: Hamburg
-street: "In der Weide"
-housenumber: 56
-phone: "+49 40 317 040 50"
+street: In der Weide
+housenumber: "56"
+phone: +49 40 317 040 50
 opening_hours: ""
-website: "https://www.ackerperlen.de/"
+website: https://www.ackerperlen.de/

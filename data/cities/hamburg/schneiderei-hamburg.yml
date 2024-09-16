@@ -4,8 +4,8 @@ latitude: 53.55796
 longitude: 10.0356
 postcode: "20535"
 city: Hamburg
-street: "Bürgerweide"
-housenumber: 62
+street: Bürgerweide
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "http://www.schneiderei-hamburg-lutvija.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
+website: http://www.schneiderei-hamburg-lutvija.de/

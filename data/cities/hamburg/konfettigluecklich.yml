@@ -4,8 +4,8 @@ latitude: 53.58311
 longitude: 10.01036
 postcode: "22303"
 city: Hamburg
-street: "Mühlenkamp"
-housenumber: 48
-phone: "+49 1515 4122448"
-opening_hours: "Mo,Su off; Tu-Sa 10:00-15:00"
-website: "https://www.instagram.com/konfetti.gluecklich/"
+street: Mühlenkamp
+housenumber: "48"
+phone: +49 1515 4122448
+opening_hours: Mo,Su off; Tu-Sa 10:00-15:00
+website: https://www.instagram.com/konfetti.gluecklich/

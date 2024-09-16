@@ -4,8 +4,8 @@ latitude: 53.60707
 longitude: 10.11693
 postcode: "22159"
 city: Hamburg
-street: "August-Krogmann-Straße"
-housenumber: 15
-phone: "+49-40-64550251"
-opening_hours: "Mo-Sa 7:00-23:00"
-website: "https://www.rewe.de/"
+street: August-Krogmann-Straße
+housenumber: "15"
+phone: +49-40-64550251
+opening_hours: Mo-Sa 7:00-23:00
+website: https://www.rewe.de/

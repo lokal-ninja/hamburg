@@ -1,11 +1,11 @@
 id: 33463908
-type: way
+type: node
 latitude: 53.53657
 longitude: 10.03612
 postcode: "20539"
 city: Hamburg
-street: "Billhorner Röhrendamm"
-housenumber: 117
-phone: "+49 40 63605751"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+street: Billhorner Röhrendamm
+housenumber: "117"
+phone: +49 40 63605751
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 199653776
-type: way
+type: node
 latitude: 53.60843
 longitude: 10.00509
 postcode: "22297"
 city: Hamburg
-street: "Alsterdorfer Straße"
+street: Alsterdorfer Straße
 housenumber: 255a
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

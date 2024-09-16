@@ -4,8 +4,8 @@ latitude: 53.55886
 longitude: 10.01364
 postcode: "20099"
 city: Hamburg
-street: "Lange Reihe"
-housenumber: 102
-phone: "+49 4034994297"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.niemeyer-cigarren.de/"
+street: Lange Reihe
+housenumber: "102"
+phone: +49 4034994297
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.niemeyer-cigarren.de/

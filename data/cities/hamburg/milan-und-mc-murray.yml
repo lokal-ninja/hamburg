@@ -1,11 +1,11 @@
 id: 186974397
-type: way
+type: node
 latitude: 53.57471
 longitude: 10.10971
 postcode: "22043"
 city: Hamburg
-street: "Schimmelmannstraße"
-housenumber: 135
+street: Schimmelmannstraße
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

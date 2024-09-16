@@ -4,8 +4,8 @@ latitude: 53.63484
 longitude: 9.91926
 postcode: "22457"
 city: Hamburg
-street: "Frohmestraße"
-housenumber: 17
-phone: "+49 40 86680150"
-opening_hours: "Mo-Fr 10:00-19:00; PH off"
-website: "http://schnelsen.qraex.de"
+street: Frohmestraße
+housenumber: "17"
+phone: +49 40 86680150
+opening_hours: Mo-Fr 10:00-19:00; PH off
+website: http://schnelsen.qraex.de

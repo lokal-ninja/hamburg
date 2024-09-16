@@ -4,8 +4,8 @@ latitude: 53.55189
 longitude: 9.99614
 postcode: "20095"
 city: Hamburg
-street: "Hermannstraße"
-housenumber: 18
-phone: "+49 891 200990"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-17:00; PH,Su off"
-website: "https://www.grueneerde.com/de/stores/store-hamburg/ge-s-34.html"
+street: Hermannstraße
+housenumber: "18"
+phone: +49 891 200990
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-17:00; PH,Su off
+website: https://www.grueneerde.com/de/stores/store-hamburg/ge-s-34.html

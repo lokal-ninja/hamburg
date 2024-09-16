@@ -1,11 +1,11 @@
 id: 297801285
-type: way
+type: node
 latitude: 53.66514
 longitude: 10.00016
 postcode: "22419"
 city: Hamburg
-street: "Tarpen"
-housenumber: 3
-phone: "+49 176 61799473"
+street: Tarpen
+housenumber: "3"
+phone: +49 176 61799473
 opening_hours: ""
-website: "https://hs-automobile-hamburg.de/"
+website: https://hs-automobile-hamburg.de/

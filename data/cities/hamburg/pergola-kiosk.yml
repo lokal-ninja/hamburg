@@ -4,8 +4,8 @@ latitude: 53.60313
 longitude: 10.03147
 postcode: "22297"
 city: Hamburg
-street: "Winterlindenweg"
-housenumber: 12
+street: Winterlindenweg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su,PH 09:00-18:00"
+opening_hours: Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su,PH 09:00-18:00
 website: ""

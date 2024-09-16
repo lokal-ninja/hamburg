@@ -1,11 +1,11 @@
 id: 64156535
-type: way
+type: node
 latitude: 53.63127
 longitude: 9.92627
 postcode: "22459"
 city: Hamburg
-street: "Frohmestraße"
-housenumber: 77
+street: Frohmestraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 25066056
-type: way
+type: node
 latitude: 53.57315
 longitude: 9.9192
 postcode: "22525"
 city: Hamburg
-street: "Schnackenburgallee"
-housenumber: 10
+street: Schnackenburgallee
+housenumber: "10"
 phone: ""
-opening_hours: "Sa 08:00-12:00; Mo-Th 08:00-17:00; Fr 08:00-16:00"
+opening_hours: Sa 08:00-12:00; Mo-Th 08:00-17:00; Fr 08:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.48917
 longitude: 10.20997
 postcode: "21029"
 city: Hamburg
-street: "Alte Holstenstraße"
-housenumber: 74
-phone: "+49 40 721 33 66"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.floristik-bremer.de/"
+street: Alte Holstenstraße
+housenumber: "74"
+phone: +49 40 721 33 66
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.floristik-bremer.de/

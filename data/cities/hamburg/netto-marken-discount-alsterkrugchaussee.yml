@@ -1,11 +1,11 @@
 id: 97405668
-type: way
+type: node
 latitude: 53.62834
 longitude: 10.0124
 postcode: "22335"
 city: Hamburg
-street: "Alsterkrugchaussee"
-housenumber: 535
+street: Alsterkrugchaussee
+housenumber: "535"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

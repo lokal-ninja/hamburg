@@ -1,11 +1,11 @@
 id: 34689771
-type: way
+type: node
 latitude: 53.56952
 longitude: 9.95888
 postcode: "20259"
 city: Hamburg
-street: "Fruchtallee"
-housenumber: 29
-phone: "+49 40 43172-0"
+street: Fruchtallee
+housenumber: "29"
+phone: +49 40 43172-0
 opening_hours: ""
 website: ""

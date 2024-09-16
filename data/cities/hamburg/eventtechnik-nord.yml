@@ -1,11 +1,11 @@
 id: 25039276
-type: way
+type: node
 latitude: 53.53007
 longitude: 10.10647
 postcode: "22113"
 city: Hamburg
-street: "Liebigstraße"
-housenumber: 94
-phone: "+49 40 244468"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.etnord.de/"
+street: Liebigstraße
+housenumber: "94"
+phone: +49 40 244468
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.etnord.de/

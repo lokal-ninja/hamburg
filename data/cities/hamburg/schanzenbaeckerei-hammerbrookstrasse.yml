@@ -4,8 +4,8 @@ latitude: 53.54832
 longitude: 10.023
 postcode: "20097"
 city: Hamburg
-street: "Hammerbrookstraße"
-housenumber: 47
-phone: "+49 40 23686055"
-opening_hours: "Mo-Fr 06:00-18:00"
-website: "https://www.schanzenbaeckerei.de/filialen/hammerbrook47.php"
+street: Hammerbrookstraße
+housenumber: "47"
+phone: +49 40 23686055
+opening_hours: Mo-Fr 06:00-18:00
+website: https://www.schanzenbaeckerei.de/filialen/hammerbrook47.php

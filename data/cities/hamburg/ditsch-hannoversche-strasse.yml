@@ -4,8 +4,8 @@ latitude: 53.45657
 longitude: 9.98729
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 30094585"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.ditsch.de/"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 30094585
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.ditsch.de/

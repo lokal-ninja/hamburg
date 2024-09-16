@@ -4,8 +4,8 @@ latitude: 53.57306
 longitude: 10.01827
 postcode: "22085"
 city: Hamburg
-street: "Kanalstraße"
-housenumber: 20
+street: Kanalstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.ottomarbechert.de/"
+website: https://www.ottomarbechert.de/

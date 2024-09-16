@@ -1,11 +1,11 @@
 id: 1157929355
-type: way
+type: node
 latitude: 53.62132
 longitude: 9.95241
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
+street: Tibarg
 housenumber: 44-48
-phone: "+49 4101 8472601"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00; PH off"
-website: "https://www.meyer-frischecenter.de/meyers-frischemaerkte-tibarg"
+phone: +49 4101 8472601
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00; PH off
+website: https://www.meyer-frischecenter.de/meyers-frischemaerkte-tibarg

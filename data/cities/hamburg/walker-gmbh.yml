@@ -1,11 +1,11 @@
 id: 168895907
-type: way
+type: node
 latitude: 53.56328
 longitude: 10.02282
 postcode: "22087"
 city: Hamburg
-street: "Ifflandstraße"
-housenumber: 71
+street: Ifflandstraße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

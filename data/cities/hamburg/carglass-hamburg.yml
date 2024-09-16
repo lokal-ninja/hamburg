@@ -1,11 +1,11 @@
 id: 113951931
-type: way
+type: node
 latitude: 53.47139
 longitude: 9.94455
 postcode: "21075"
 city: Hamburg
-street: "Stader Straße"
-housenumber: 138
-phone: "+49 800 0363636"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 08:00-13:30; PH closed"
-website: "https://www.carglass.de"
+street: Stader Straße
+housenumber: "138"
+phone: +49 800 0363636
+opening_hours: Mo-Fr 07:30-18:00, Sa 08:00-13:30; PH closed
+website: https://www.carglass.de

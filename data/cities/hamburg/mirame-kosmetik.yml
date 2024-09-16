@@ -4,8 +4,8 @@ latitude: 53.53985
 longitude: 10.10507
 postcode: "22111"
 city: Hamburg
-street: "Möllner Landstraße"
-housenumber: 3
-phone: "+49 (0)40 / 7311 3558"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://miramehamburg.de/"
+street: Möllner Landstraße
+housenumber: "3"
+phone: +49 (0)40 / 7311 3558
+opening_hours: Mo-Sa 10:00-20:00
+website: https://miramehamburg.de/

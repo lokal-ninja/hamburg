@@ -4,8 +4,8 @@ latitude: 53.58117
 longitude: 10.01264
 postcode: "22303"
 city: Hamburg
-street: "Gertigstraße"
-housenumber: 4
+street: Gertigstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:30, Sa 11:00-18:00"
+opening_hours: Mo-Fr 11:00-19:30, Sa 11:00-18:00
 website: ""

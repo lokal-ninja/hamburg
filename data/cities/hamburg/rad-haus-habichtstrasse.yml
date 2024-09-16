@@ -4,8 +4,9 @@ latitude: 53.59413
 longitude: 10.05075
 postcode: "22307"
 city: Hamburg
-street: "Habichtstraße"
+street: Habichtstraße
 housenumber: 104a
-phone: "+49 40 63669999"
-opening_hours: "Apr-Aug: Mo 13:00-19:00; Apr-Aug: Tu-Fr 10:00-19:00; Apr-Aug: Sa 10:00-16:00; Sep-Mar: Mo 13:00-18:30; Sep-Mar: Tu-Fr 10:00-18:30; Sep-Mar: Sa 10:00-16:00"
-website: "https://www.radhaus-habichtstrasse.de/"
+phone: +49 40 63669999
+opening_hours: 'Apr-Aug: Mo 13:00-19:00; Apr-Aug: Tu-Fr 10:00-19:00; Apr-Aug: Sa 10:00-16:00;
+    Sep-Mar: Mo 13:00-18:30; Sep-Mar: Tu-Fr 10:00-18:30; Sep-Mar: Sa 10:00-16:00'
+website: https://www.radhaus-habichtstrasse.de/

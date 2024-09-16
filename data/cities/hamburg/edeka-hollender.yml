@@ -1,11 +1,11 @@
 id: 62169391
-type: way
+type: node
 latitude: 53.64868
 longitude: 10.01648
 postcode: "22415"
 city: Hamburg
-street: "Tangstedter Landstraße"
-housenumber: 42
-phone: "+49 40 5316311"
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "https://edekahollender.de/"
+street: Tangstedter Landstraße
+housenumber: "42"
+phone: +49 40 5316311
+opening_hours: Mo-Sa 06:00-22:00
+website: https://edekahollender.de/

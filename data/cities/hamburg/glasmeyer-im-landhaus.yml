@@ -1,11 +1,11 @@
 id: 42221927
-type: way
+type: node
 latitude: 53.56565
 longitude: 9.8809
 postcode: "22607"
 city: Hamburg
-street: "Kalckreuthweg"
-housenumber: 90
+street: Kalckreuthweg
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

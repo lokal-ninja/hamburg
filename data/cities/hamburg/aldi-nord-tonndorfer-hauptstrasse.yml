@@ -1,11 +1,11 @@
 id: 50055154
-type: way
+type: node
 latitude: 53.58267
 longitude: 10.11569
 postcode: "22045"
 city: Hamburg
-street: "Tonndorfer Hauptstraße"
-housenumber: 28
+street: Tonndorfer Hauptstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/tonndorf/tonndorfer-hauptstrasse-28.html"
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/tonndorf/tonndorfer-hauptstrasse-28.html

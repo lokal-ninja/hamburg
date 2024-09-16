@@ -1,11 +1,11 @@
 id: 375673507
-type: way
+type: node
 latitude: 53.59055
 longitude: 10.01163
 postcode: "22303"
 city: Hamburg
-street: "Barmbeker Straße"
-housenumber: 86
+street: Barmbeker Straße
+housenumber: "86"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.esso.de/de-de/find-station/esso-hamburg-essostationhamburgbarmbekerstrasse-100150704"
+opening_hours: 24/7
+website: https://www.esso.de/de-de/find-station/esso-hamburg-essostationhamburgbarmbekerstrasse-100150704

@@ -1,11 +1,11 @@
 id: 152832983
-type: way
+type: node
 latitude: 53.462
 longitude: 10.01396
 postcode: "21079"
 city: Hamburg
-street: "Großmoorbogen"
-housenumber: 1
-phone: "+49 40 771720"
-opening_hours: "Mo-Fr 07:00-21:00, Sa 07:00-20:00; PH closed"
-website: "https://metro.de/"
+street: Großmoorbogen
+housenumber: "1"
+phone: +49 40 771720
+opening_hours: Mo-Fr 07:00-21:00, Sa 07:00-20:00; PH closed
+website: https://metro.de/

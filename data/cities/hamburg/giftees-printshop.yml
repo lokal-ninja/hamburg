@@ -4,8 +4,8 @@ latitude: 53.45765
 longitude: 9.987
 postcode: "21073"
 city: Hamburg
-street: "Seeveplatz"
-housenumber: 1
-phone: "+49 40 28478766"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "http://www.giftees.de/"
+street: Seeveplatz
+housenumber: "1"
+phone: +49 40 28478766
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: http://www.giftees.de/

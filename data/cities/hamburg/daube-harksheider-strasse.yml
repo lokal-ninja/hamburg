@@ -4,8 +4,8 @@ latitude: 53.65979
 longitude: 10.08504
 postcode: "22399"
 city: Hamburg
-street: "Harksheider Straße"
-housenumber: 2
-phone: "+49 40 61163866"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su 08:00-11:00"
-website: "https://www.daube-backt.de/seite/584954/harksheider-stra%C3%9Fe-2.html"
+street: Harksheider Straße
+housenumber: "2"
+phone: +49 40 61163866
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su 08:00-11:00
+website: https://www.daube-backt.de/seite/584954/harksheider-stra%C3%9Fe-2.html

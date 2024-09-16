@@ -4,8 +4,8 @@ latitude: 53.56845
 longitude: 9.92642
 postcode: "22761"
 city: Hamburg
-street: "Schützenstr."
-housenumber: 107
-phone: "+49 40 368 079 80"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.hamburgertauwerk.de/"
+street: Schützenstr.
+housenumber: "107"
+phone: +49 40 368 079 80
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.hamburgertauwerk.de/

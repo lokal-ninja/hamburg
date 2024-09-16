@@ -4,8 +4,8 @@ latitude: 53.55095
 longitude: 10.09992
 postcode: "22119"
 city: Hamburg
-street: "Stegerwaldring"
-housenumber: 21
+street: Stegerwaldring
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; PH off"
+opening_hours: Mo-Sa 09:00-21:00; PH off
 website: ""

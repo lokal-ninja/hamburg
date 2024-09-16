@@ -4,8 +4,8 @@ latitude: 53.62629
 longitude: 10.10891
 postcode: "22175"
 city: Hamburg
-street: "Karlshöhe"
-housenumber: 33
-phone: "+49 40 649 173 48"
-opening_hours: "Tu,We 09:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-13:00"
-website: "https://schoenes-haar.de/"
+street: Karlshöhe
+housenumber: "33"
+phone: +49 40 649 173 48
+opening_hours: Tu,We 09:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-13:00
+website: https://schoenes-haar.de/

@@ -4,8 +4,8 @@ latitude: 53.45692
 longitude: 9.98744
 postcode: "21079"
 city: Hamburg
-street: "Hannoversche Straße"
-housenumber: 86
-phone: "+49 40 76793745"
-opening_hours: "Mo-Fr 10:00-20:00"
-website: "https://www.eyesandmore.de/"
+street: Hannoversche Straße
+housenumber: "86"
+phone: +49 40 76793745
+opening_hours: Mo-Fr 10:00-20:00
+website: https://www.eyesandmore.de/

@@ -1,11 +1,11 @@
 id: 23693615
-type: way
+type: node
 latitude: 53.58079
 longitude: 9.79746
 postcode: "22589"
 city: Hamburg
-street: "Sülldorfer Landstraße"
-housenumber: 188
+street: Sülldorfer Landstraße
+housenumber: "188"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH closed"
+opening_hours: Mo-Sa 07:00-21:00; PH closed
 website: ""

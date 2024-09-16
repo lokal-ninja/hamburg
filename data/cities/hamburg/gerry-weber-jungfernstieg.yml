@@ -1,11 +1,11 @@
 id: 974159065
-type: way
+type: node
 latitude: 53.55385
 longitude: 9.99082
 postcode: "20354"
 city: Hamburg
-street: "Jungfernstieg"
-housenumber: 26
+street: Jungfernstieg
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00
 website: ""

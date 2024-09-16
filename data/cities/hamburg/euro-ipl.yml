@@ -4,8 +4,8 @@ latitude: 53.54979
 longitude: 10.02587
 postcode: "20097"
 city: Hamburg
-street: "Gotenstraße"
-housenumber: 21
-phone: "+49 40 66875550"
-opening_hours: "Mo-Fr 10:00-17:01"
-website: "https://www.euro-ipl-shop.de/"
+street: Gotenstraße
+housenumber: "21"
+phone: +49 40 66875550
+opening_hours: Mo-Fr 10:00-17:01
+website: https://www.euro-ipl-shop.de/

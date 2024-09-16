@@ -4,8 +4,8 @@ latitude: 53.59245
 longitude: 9.90597
 postcode: "22525"
 city: Hamburg
-street: "Sandgrube"
-housenumber: 12
-phone: "+49 40 41347550"
-opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-15:45"
-website: "https://www.hansa-flex.com/niederlassungen/inland/land/de/ort/hamburg_stellingen/betrieb/hal.html"
+street: Sandgrube
+housenumber: "12"
+phone: +49 40 41347550
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-15:45
+website: https://www.hansa-flex.com/niederlassungen/inland/land/de/ort/hamburg_stellingen/betrieb/hal.html

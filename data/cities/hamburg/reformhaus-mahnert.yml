@@ -4,8 +4,8 @@ latitude: 53.46985
 longitude: 9.85353
 postcode: "21149"
 city: Hamburg
-street: "Marktpassage"
-housenumber: 1
+street: Marktpassage
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
 website: ""

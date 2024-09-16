@@ -4,8 +4,8 @@ latitude: 53.54006
 longitude: 10.10466
 postcode: "22111"
 city: Hamburg
-street: "Möllner Landstraße"
-housenumber: 13
-phone: "+49 40 7313645"
-opening_hours: "Mo-Sa 09:30-20:00; PH off"
-website: "https://www.arko.de/unternehmen/unsere-standorte/#h"
+street: Möllner Landstraße
+housenumber: "13"
+phone: +49 40 7313645
+opening_hours: Mo-Sa 09:30-20:00; PH off
+website: https://www.arko.de/unternehmen/unsere-standorte/#h

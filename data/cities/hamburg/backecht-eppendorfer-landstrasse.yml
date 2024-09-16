@@ -4,8 +4,8 @@ latitude: 53.58923
 longitude: 9.987
 postcode: "20249"
 city: Hamburg
-street: "Eppendorfer Landstraße"
-housenumber: 64
-phone: "+49 40 460 90930"
-opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-14:00, Su 07:00-12:00"
-website: "https://www.backecht.de/"
+street: Eppendorfer Landstraße
+housenumber: "64"
+phone: +49 40 460 90930
+opening_hours: Mo-Fr 07:00-19:00, Sa 07:00-14:00, Su 07:00-12:00
+website: https://www.backecht.de/

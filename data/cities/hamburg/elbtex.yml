@@ -4,8 +4,8 @@ latitude: 53.55295
 longitude: 9.9315
 postcode: "22765"
 city: Hamburg
-street: "Ottenser Hauptstraße"
-housenumber: 10
-phone: "+49 40 390 10 96"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.elbtex.de"
+street: Ottenser Hauptstraße
+housenumber: "10"
+phone: +49 40 390 10 96
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.elbtex.de

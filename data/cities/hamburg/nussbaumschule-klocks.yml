@@ -4,8 +4,8 @@ latitude: 53.57239
 longitude: 9.88751
 postcode: "22607"
 city: Hamburg
-street: "Stutsmoor"
-housenumber: 42
+street: Stutsmoor
+housenumber: "42"
 phone: ""
-opening_hours: "Webshop ohne Filialen"
-website: "https://www.walnuss24.de"
+opening_hours: '"Webshop ohne Filialen"'
+website: https://www.walnuss24.de

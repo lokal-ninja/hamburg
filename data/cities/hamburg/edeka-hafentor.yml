@@ -4,8 +4,8 @@ latitude: 53.5459
 longitude: 9.97247
 postcode: "20459"
 city: Hamburg
-street: "Hafentor"
-housenumber: 7
+street: Hafentor
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 07:00-23:00; Fr,Sa 07:00-23:30"
+opening_hours: Mo-Th 07:00-23:00; Fr,Sa 07:00-23:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.62145
 longitude: 10.15573
 postcode: "22145"
 city: Hamburg
-street: "Bargkoppelweg"
-housenumber: 56
+street: Bargkoppelweg
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Th 07:00-15:30; Fr 07:00-14:00; PH,Sa,Su off"
+opening_hours: Mo-Th 07:00-15:30; Fr 07:00-14:00; PH,Sa,Su off
 website: ""

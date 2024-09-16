@@ -1,11 +1,11 @@
 id: 35071668
-type: way
+type: node
 latitude: 53.54556
 longitude: 10.02915
 postcode: "20097"
 city: Hamburg
-street: "Süderstraße"
-housenumber: 83
-phone: "+49 40 236 20 20"
-opening_hours: "Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off"
-website: "https://www.louis.de/filialen/louis-hamburg-hammerbrook"
+street: Süderstraße
+housenumber: "83"
+phone: +49 40 236 20 20
+opening_hours: 'Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off'
+website: https://www.louis.de/filialen/louis-hamburg-hammerbrook

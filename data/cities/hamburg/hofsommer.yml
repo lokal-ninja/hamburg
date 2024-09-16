@@ -4,8 +4,8 @@ latitude: 53.47212
 longitude: 9.8896
 postcode: "21149"
 city: Hamburg
-street: "Cuxhavener Straße"
-housenumber: 140
-phone: "+49-40-87933472"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "http://www.berufskleidung-in-hamburg.de/"
+street: Cuxhavener Straße
+housenumber: "140"
+phone: +49-40-87933472
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: http://www.berufskleidung-in-hamburg.de/

@@ -4,8 +4,8 @@ latitude: 53.5703
 longitude: 9.98575
 postcode: "20146"
 city: Hamburg
-street: "Hartungstraße"
-housenumber: 20
+street: Hartungstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00"
+opening_hours: Mo-Fr 12:00-19:00
 website: ""

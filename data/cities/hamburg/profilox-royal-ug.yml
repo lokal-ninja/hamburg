@@ -1,11 +1,11 @@
 id: 230489407
-type: way
+type: node
 latitude: 53.5341
 longitude: 10.10725
 postcode: "22113"
 city: Hamburg
-street: "Billbrookdeich"
-housenumber: 220
-phone: "+49 40 73090718"
+street: Billbrookdeich
+housenumber: "220"
+phone: +49 40 73090718
 opening_hours: ""
 website: ""

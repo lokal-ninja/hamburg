@@ -1,11 +1,11 @@
 id: 26624619
-type: way
+type: node
 latitude: 53.5667
 longitude: 9.98611
 postcode: ""
 city: Hamburg
-street: "Schlüterstraße"
-housenumber: 11
+street: Schlüterstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

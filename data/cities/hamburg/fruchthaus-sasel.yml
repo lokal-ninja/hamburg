@@ -4,8 +4,8 @@ latitude: 53.65318
 longitude: 10.11205
 postcode: "22393"
 city: Hamburg
-street: "Saseler Markt"
-housenumber: 18
+street: Saseler Markt
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.fruchthaus-sasel.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.fruchthaus-sasel.de/

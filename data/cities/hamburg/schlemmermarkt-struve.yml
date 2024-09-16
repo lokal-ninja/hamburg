@@ -4,8 +4,8 @@ latitude: 53.65329
 longitude: 10.09136
 postcode: "22391"
 city: Hamburg
-street: "Heegbarg"
-housenumber: 25
+street: Heegbarg
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/eh/nord/schlemmermarkt-struve-heegbarg-25/index.jsp"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/eh/nord/schlemmermarkt-struve-heegbarg-25/index.jsp

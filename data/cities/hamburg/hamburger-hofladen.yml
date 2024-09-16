@@ -4,8 +4,8 @@ latitude: 53.63303
 longitude: 10.05464
 postcode: "22337"
 city: Hamburg
-street: "Tornberg"
-housenumber: 37
-phone: "+49 40 591344"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:00"
-website: "https://www.hamburger-hofladen.de/"
+street: Tornberg
+housenumber: "37"
+phone: +49 40 591344
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-13:00
+website: https://www.hamburger-hofladen.de/

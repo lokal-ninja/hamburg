@@ -4,8 +4,8 @@ latitude: 53.60272
 longitude: 10.06305
 postcode: "22177"
 city: Hamburg
-street: "Fabriciusstraße"
-housenumber: 105
-phone: "+49 40 611150"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-12:00, Su 08:00-11:00"
-website: "https://www.daube-backt.de/seite/584953/fabriciusstra%C3%9Fe-105.html"
+street: Fabriciusstraße
+housenumber: "105"
+phone: +49 40 611150
+opening_hours: Mo-Fr 07:00-18:00, Sa 07:00-12:00, Su 08:00-11:00
+website: https://www.daube-backt.de/seite/584953/fabriciusstra%C3%9Fe-105.html

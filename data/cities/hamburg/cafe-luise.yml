@@ -4,8 +4,8 @@ latitude: 53.63343
 longitude: 10.05409
 postcode: "22337"
 city: Hamburg
-street: "Stübeheide"
-housenumber: 157
+street: Stübeheide
+housenumber: "157"
 phone: ""
-opening_hours: "Mo,We,Th,Fr 07:00-18:00; Sa-Su 07:30-17:00; PH off"
-website: "https://www.cafe-luise-baeckerei.de/"
+opening_hours: Mo,We,Th,Fr 07:00-18:00; Sa-Su 07:30-17:00; PH off
+website: https://www.cafe-luise-baeckerei.de/

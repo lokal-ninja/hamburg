@@ -1,11 +1,11 @@
 id: 25701275
-type: way
+type: node
 latitude: 53.61806
 longitude: 10.03254
 postcode: "22335"
 city: Hamburg
-street: "Sommerkamp"
+street: Sommerkamp
 housenumber: 31a
-phone: "+49 40 8797798 0"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.auteo.online/"
+phone: +49 40 8797798 0
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.auteo.online/

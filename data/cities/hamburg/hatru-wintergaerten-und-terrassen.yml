@@ -1,11 +1,11 @@
 id: 101854197
-type: way
+type: node
 latitude: 53.65514
 longitude: 10.11776
 postcode: "22393"
 city: Hamburg
-street: "Waldweg"
-housenumber: 31
-phone: "+49 40 6014089"
-opening_hours: "by appointment"
-website: "https://www.hatru.de/"
+street: Waldweg
+housenumber: "31"
+phone: +49 40 6014089
+opening_hours: '"by appointment"'
+website: https://www.hatru.de/

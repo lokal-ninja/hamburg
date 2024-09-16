@@ -1,11 +1,11 @@
 id: 96989124
-type: way
+type: node
 latitude: 53.6137
 longitude: 9.9551
 postcode: "22453"
 city: Hamburg
-street: "Vogt-Cordes-Damm"
+street: Vogt-Cordes-Damm
 housenumber: 10a
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

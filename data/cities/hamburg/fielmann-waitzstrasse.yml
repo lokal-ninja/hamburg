@@ -4,8 +4,8 @@ latitude: 53.55968
 longitude: 9.88468
 postcode: "22607"
 city: Hamburg
-street: "Waitzstraße"
-housenumber: 12
-phone: "+49 40 892652"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00;PH off"
-website: "https://www.fielmann.de/niederlassungen/hamburg/22607-waitzstrasse-12/"
+street: Waitzstraße
+housenumber: "12"
+phone: +49 40 892652
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00;PH off
+website: https://www.fielmann.de/niederlassungen/hamburg/22607-waitzstrasse-12/

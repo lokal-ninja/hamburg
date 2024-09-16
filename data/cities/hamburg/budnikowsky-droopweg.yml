@@ -4,8 +4,8 @@ latitude: 53.55338
 longitude: 10.06218
 postcode: "20537"
 city: Hamburg
-street: "Droopweg"
-housenumber: 25
+street: Droopweg
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.budni.de/filialen/20537-droopweg-25/"
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.budni.de/filialen/20537-droopweg-25/

@@ -4,8 +4,8 @@ latitude: 53.58255
 longitude: 10.01286
 postcode: "22303"
 city: Hamburg
-street: "Schinkelstraße"
-housenumber: 11
-phone: "+49 40 65 04 36 55"
-opening_hours: "Terminvereinbarung Telefon: 65043656 Handy: 0176-51489447"
-website: "http://www.emma-wolf.de/"
+street: Schinkelstraße
+housenumber: "11"
+phone: +49 40 65 04 36 55
+opening_hours: '"Terminvereinbarung Telefon: 65043656 Handy: 0176-51489447"'
+website: http://www.emma-wolf.de/

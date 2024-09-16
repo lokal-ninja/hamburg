@@ -4,8 +4,8 @@ latitude: 53.55436
 longitude: 9.94655
 postcode: "22767"
 city: Hamburg
-street: "Hospitalstraße"
-housenumber: 64
+street: Hospitalstraße
+housenumber: "64"
 phone: ""
 opening_hours: ""
-website: "https://oribon.de"
+website: https://oribon.de

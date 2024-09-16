@@ -4,8 +4,8 @@ latitude: 53.55303
 longitude: 9.9593
 postcode: "22767"
 city: Hamburg
-street: "Bleicherstraße"
-housenumber: 3
+street: Bleicherstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 14:00-19:30; Sa 13:00-18:30, PH off"
+opening_hours: Tu-Fr 14:00-19:30; Sa 13:00-18:30, PH off
 website: ""

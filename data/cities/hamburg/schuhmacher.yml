@@ -4,8 +4,8 @@ latitude: 53.61655
 longitude: 10.11391
 postcode: "22159"
 city: Hamburg
-street: "Neusurenland"
-housenumber: 103
+street: Neusurenland
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:00, 14:30-18:00"
+opening_hours: Mo-Fr 08:30-13:00, 14:30-18:00
 website: ""

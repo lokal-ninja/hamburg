@@ -4,8 +4,8 @@ latitude: 53.57125
 longitude: 10.12425
 postcode: "22043"
 city: Hamburg
-street: "Rodigallee"
-housenumber: 221
-phone: "+49 40 60953930"
-opening_hours: "Mo-Fr 07:00-18:00; Sa-Su 07:00-17:00"
-website: "https://www.jb.de/"
+street: Rodigallee
+housenumber: "221"
+phone: +49 40 60953930
+opening_hours: Mo-Fr 07:00-18:00; Sa-Su 07:00-17:00
+website: https://www.jb.de/

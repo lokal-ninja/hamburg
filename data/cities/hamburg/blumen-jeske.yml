@@ -4,8 +4,8 @@ latitude: 53.44911
 longitude: 9.95298
 postcode: "21077"
 city: Hamburg
-street: "Beerentalweg"
-housenumber: 44
-phone: "+49 40-7907205"
-opening_hours: "Tu,We,Fr 09:00-17:00; Th 09:00-13:00; Sa 09:00-14:00"
-website: "https://blumenjeske.de/"
+street: Beerentalweg
+housenumber: "44"
+phone: +49 40-7907205
+opening_hours: Tu,We,Fr 09:00-17:00; Th 09:00-13:00; Sa 09:00-14:00
+website: https://blumenjeske.de/

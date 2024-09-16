@@ -4,8 +4,8 @@ latitude: 53.58805
 longitude: 10.04485
 postcode: "22305"
 city: Hamburg
-street: "Krüsistraße"
-housenumber: 7
-phone: "+49 40 181078430"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-23:30; Su,PH off"
-website: "https://www.rewe.de/angebote/hamburg-freie-und-hansestadt/541804/rewe-markt-kruesistr-7/"
+street: Krüsistraße
+housenumber: "7"
+phone: +49 40 181078430
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-23:30; Su,PH off
+website: https://www.rewe.de/angebote/hamburg-freie-und-hansestadt/541804/rewe-markt-kruesistr-7/

@@ -1,11 +1,11 @@
 id: 47157782
-type: way
+type: node
 latitude: 53.62025
 longitude: 9.95192
 postcode: "22459"
 city: Hamburg
-street: "Tibarg"
-housenumber: 34
-phone: "+49 40 50090172"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; PH off"
-website: "https://www.vodafone-shops.de/hamburg-200554205/"
+street: Tibarg
+housenumber: "34"
+phone: +49 40 50090172
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; PH off
+website: https://www.vodafone-shops.de/hamburg-200554205/

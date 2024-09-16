@@ -4,8 +4,8 @@ latitude: 53.58528
 longitude: 10.05932
 postcode: "22049"
 city: Hamburg
-street: "Elsässer Straße"
-housenumber: 4
+street: Elsässer Straße
+housenumber: "4"
 phone: "+494065865353"
-opening_hours: "Mo-Th 08:30-14:30"
-website: "https://www.mookwat-pc.info/"
+opening_hours: Mo-Th 08:30-14:30
+website: https://www.mookwat-pc.info/

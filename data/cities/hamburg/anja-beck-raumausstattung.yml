@@ -1,11 +1,11 @@
 id: 101854193
-type: way
+type: node
 latitude: 53.65515
 longitude: 10.11785
 postcode: "22393"
 city: Hamburg
-street: "Waldweg"
-housenumber: 33
+street: Waldweg
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00, Sa 10:00-13:00
 website: ""

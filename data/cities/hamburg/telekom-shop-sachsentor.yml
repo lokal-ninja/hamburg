@@ -4,8 +4,8 @@ latitude: 53.48841
 longitude: 10.21185
 postcode: "21029"
 city: Hamburg
-street: "Sachsentor"
-housenumber: 8
-phone: "+49 40 7214581"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-17:00"
-website: "https://shopseite.telekom.de/nord-ost/hamburg/sachsentor-8"
+street: Sachsentor
+housenumber: "8"
+phone: +49 40 7214581
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-17:00
+website: https://shopseite.telekom.de/nord-ost/hamburg/sachsentor-8

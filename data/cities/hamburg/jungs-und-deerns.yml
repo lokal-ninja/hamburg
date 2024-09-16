@@ -4,8 +4,8 @@ latitude: 53.55824
 longitude: 9.8099
 postcode: "22587"
 city: Hamburg
-street: "Blankeneser Hauptstraße"
-housenumber: 151
-phone: "+49 40 869988"
-opening_hours: "Mo,Fr 09:30-13:00;Tu-Th 09:30-13:00,14:30-18:00;Sa 10:00-13:00"
+street: Blankeneser Hauptstraße
+housenumber: "151"
+phone: +49 40 869988
+opening_hours: Mo,Fr 09:30-13:00;Tu-Th 09:30-13:00,14:30-18:00;Sa 10:00-13:00
 website: ""

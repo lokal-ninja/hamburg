@@ -1,11 +1,11 @@
 id: 199767534
-type: way
+type: node
 latitude: 53.5893
 longitude: 10.05112
 postcode: "22305"
 city: Hamburg
-street: "Bramfelder Straße"
-housenumber: 103
+street: Bramfelder Straße
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/barmbek-nord/bramfelder-strasse-103.html"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hamburg/barmbek-nord/bramfelder-strasse-103.html

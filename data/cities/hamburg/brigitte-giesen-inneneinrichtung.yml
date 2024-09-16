@@ -4,8 +4,8 @@ latitude: 53.64853
 longitude: 10.16748
 postcode: "22359"
 city: Hamburg
-street: "Wiesenhöfen"
-housenumber: 4
+street: Wiesenhöfen
+housenumber: "4"
 phone: "+494063856611"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 11:00-15:00"
-website: "https://brigittegiesen-inneneinrichtung.de"
+opening_hours: Mo-Fr 10:00-18:00; Sa 11:00-15:00
+website: https://brigittegiesen-inneneinrichtung.de

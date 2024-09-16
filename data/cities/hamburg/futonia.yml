@@ -1,11 +1,11 @@
 id: 23057994
-type: way
+type: node
 latitude: 53.5635
 longitude: 9.94016
 postcode: "22769"
 city: Hamburg
-street: "Stresemannstraße"
-housenumber: 238
+street: Stresemannstraße
+housenumber: "238"
 phone: ""
 opening_hours: ""
 website: ""

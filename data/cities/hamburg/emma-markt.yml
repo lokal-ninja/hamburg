@@ -4,8 +4,8 @@ latitude: 53.5476
 longitude: 9.96261
 postcode: "20359"
 city: Hamburg
-street: "Davidstraße"
-housenumber: 5
+street: Davidstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

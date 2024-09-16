@@ -1,11 +1,11 @@
 id: 217566439
-type: way
+type: node
 latitude: 53.49109
 longitude: 10.20568
 postcode: "21031"
 city: Hamburg
-street: "Ludwig-Rosenberg-Ring"
-housenumber: 51
-phone: "+49 40 72006929"
-opening_hours: "Mo-Sa 09:00-20:00; PH closed"
-website: "https://www.fressnapf.de/"
+street: Ludwig-Rosenberg-Ring
+housenumber: "51"
+phone: +49 40 72006929
+opening_hours: Mo-Sa 09:00-20:00; PH closed
+website: https://www.fressnapf.de/

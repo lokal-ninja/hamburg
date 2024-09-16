@@ -4,8 +4,8 @@ latitude: 53.56157
 longitude: 9.95866
 postcode: "22769"
 city: Hamburg
-street: "Eifflerstraße"
+street: Eifflerstraße
 housenumber: 24a
-phone: "+49 179 104 66 36"
-opening_hours: "nach Vereinbarung"
-website: "https://rajas-radservice.de/kontakt-offnungszeiten/"
+phone: +49 179 104 66 36
+opening_hours: '"nach Vereinbarung"'
+website: https://rajas-radservice.de/kontakt-offnungszeiten/

@@ -4,8 +4,8 @@ latitude: 53.46242
 longitude: 9.98271
 postcode: "21073"
 city: Hamburg
-street: "Küchgarten"
-housenumber: 19
-phone: "+49 40 794 16 77 0"
-opening_hours: "Mo-Fr 9:30-16:30"
-website: "https://www.invia-hamburg.de/kaufhaus-fuer-alle/"
+street: Küchgarten
+housenumber: "19"
+phone: +49 40 794 16 77 0
+opening_hours: Mo-Fr 9:30-16:30
+website: https://www.invia-hamburg.de/kaufhaus-fuer-alle/

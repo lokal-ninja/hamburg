@@ -4,8 +4,8 @@ latitude: 53.56934
 longitude: 10.02588
 postcode: "22087"
 city: Hamburg
-street: "Mundsburger Damm"
-housenumber: 58
-phone: "+49 40 - 229 44 835"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://mysofabed.de"
+street: Mundsburger Damm
+housenumber: "58"
+phone: +49 40 - 229 44 835
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://mysofabed.de
