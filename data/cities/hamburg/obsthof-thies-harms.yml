@@ -7,5 +7,5 @@ city: Hamburg
 street: Hohenwischer Straße
 housenumber: "107"
 phone: +49 40 74527656
-opening_hours: Mo-Tu 11:00-18:00, Th-Fr 11:00-18:00, Sa 11:00-16:00
+opening_hours: Tu,Fr 13:00-18:00; Sa 11:00-16:00; PH off
 website: https://www.obsthof-harms.de/
