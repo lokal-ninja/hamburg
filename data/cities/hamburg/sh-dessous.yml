@@ -7,5 +7,5 @@ city: Hamburg
 street: Hellkamp
 housenumber: "17"
 phone: ""
-opening_hours: Tu-Fr 11:00-18:30; Sa 11:00-15:30; Mo off
+opening_hours: Tu,Th,Fr 11:00-18:30; We 14:00-20:00; Sa 11:00-15:30
 website: https://sh-dessous.de/
