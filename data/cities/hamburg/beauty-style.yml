@@ -7,6 +7,5 @@ city: Hamburg
 street: Dehnhaide
 housenumber: "18"
 phone: "+494020003469"
-opening_hours: Tu 09:00-19:00, We 09:00-18:00, Th 09:00-19:00, Fr 09:00-18:00, Sa
-    09:30-13:00
+opening_hours: Tu 09:00-19:00; We 09:00-18:00; Th 09:00-19:00; Fr 09:00-18:00
 website: https://www.friseur-beauty-style.de/
