@@ -1,5 +1,5 @@
 ---
 title: "A.T.U"
-url: /hamburg/a-t-u-stresemannstrasse/
+url: /hamburg/a-t-u-winsener-strasse/
 shop: Autowerkstatt
 ---
