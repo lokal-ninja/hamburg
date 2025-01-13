@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Sören Lade"
+title: "Edeka Sören Lade"
 url: /hamburg/edeka-soeren-lade/
 shop: Supermarkt
 ---

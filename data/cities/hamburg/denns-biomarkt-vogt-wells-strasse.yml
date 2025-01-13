@@ -1,11 +1,11 @@
 id: 12112183390
 type: node
-latitude: 53.59979
-longitude: 9.96144
+latitude: 53.59976
+longitude: 9.96165
 postcode: "22529"
 city: Hamburg
 street: Vogt-Wells-Straße
 housenumber: "14"
 phone: ""
-opening_hours: Mo-Sa 08:00-20:00
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""
