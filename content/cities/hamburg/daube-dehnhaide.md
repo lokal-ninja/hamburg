@@ -1,5 +1,5 @@
 ---
 title: "Daube"
-url: /hamburg/daube-frahmredder/
+url: /hamburg/daube-dehnhaide/
 shop: Bäckerei
 ---

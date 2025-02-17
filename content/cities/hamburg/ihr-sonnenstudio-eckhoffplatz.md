@@ -1,5 +1,5 @@
 ---
 title: "Ihr Sonnenstudio"
-url: /hamburg/ihr-sonnenstudio-schiffbeker-weg/
+url: /hamburg/ihr-sonnenstudio-eckhoffplatz/
 shop: Kosmetik
 ---
