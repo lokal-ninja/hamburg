@@ -1,5 +1,5 @@
 ---
 title: "Junge"
-url: /hamburg/junge-tibarg/
+url: /hamburg/junge-frohmestrasse/
 shop: Bäckerei
 ---
