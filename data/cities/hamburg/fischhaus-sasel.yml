@@ -7,6 +7,6 @@ city: Hamburg
 street: Saseler Markt
 housenumber: "12"
 phone: ""
-opening_hours: Tu 08:00-13:00,14:30-18:00; We 08:00-13:00, Th-Fr 08:00-13:00,14:30-18:00;
-    Sa 08:00-13:00; PH off
+opening_hours: Tu 08:00-15:00; We 08:00-15:00; Th,Fr 08:00-13:00,14:30-18:00; Sa 08:00-13:00;
+    PH off
 website: https://www.veldhoen-fischfeinkost.de/

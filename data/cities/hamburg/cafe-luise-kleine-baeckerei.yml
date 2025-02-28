@@ -7,5 +7,5 @@ city: Hamburg
 street: Alsterdorfer Straße
 housenumber: "59"
 phone: +49 40 52597848
-opening_hours: Mo-Fr 06:30-18:30; Sa 07:00-16:00; Su 07:00-17:00; PH off
+opening_hours: Mo,We-Fr 06:30-18:30; Sa 07:00-16:00; Su 07:30-17:00; PH off
 website: https://cafe-luise-baeckerei.de/
