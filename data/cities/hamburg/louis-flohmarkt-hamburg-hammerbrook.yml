@@ -7,5 +7,6 @@ city: Hamburg
 street: Süderstraße
 housenumber: "83"
 phone: ""
-opening_hours: Su-Mo off; Tu-Fr 11:00-19:00, Sa 10:00-16:00
+opening_hours: 'Mar-Sep: Tu-Fr 11:00-19:00, Sa 10:00-16:00; Oct-Feb: Tu-Fr: 11:00-19:00,
+    Sa 09:00-16:00; Mo off, Su off'
 website: https://www.louis.de/filialen/louis-flohmarkt-hamburg-hammerbrook
