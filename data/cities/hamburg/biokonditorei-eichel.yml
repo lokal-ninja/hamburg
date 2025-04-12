@@ -7,5 +7,5 @@ city: Hamburg
 street: Osterstraße
 housenumber: "15"
 phone: ""
-opening_hours: Tu-Su 11:30-18:00
+opening_hours: Tu-Su 11:30-18:00; Mo off
 website: ""
