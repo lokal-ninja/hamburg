@@ -1,11 +1,11 @@
-id: 11532319724
+id: 1506805978
 type: node
-latitude: 53.59229
-longitude: 10.07613
-postcode: "22049"
+latitude: 53.5598
+longitude: 10.06339
+postcode: "20535"
 city: Hamburg
-street: Lesserstraße
-housenumber: 156a
+street: Sievekingsallee
+housenumber: "100"
 phone: ""
-opening_hours: Mo-Sa 09:00-23:59; Su 12:00-22:00
+opening_hours: Mo-Th 06:00-22:00; Fr 06:00-24:00; Sa 00:00-02:00,07:00-24:00; Su 00:00-02:00,09:00-20:00
 website: ""
