@@ -1,5 +1,5 @@
 ---
-title: "LEGO"
+title: "Lego"
 url: /hamburg/lego/
 shop: Spielzeug
 ---
