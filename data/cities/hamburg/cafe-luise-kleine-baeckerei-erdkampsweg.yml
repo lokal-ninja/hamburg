@@ -7,5 +7,6 @@ city: Hamburg
 street: Erdkampsweg
 housenumber: "12"
 phone: +49 40 28575466
-opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-16:30; Su 08:00-16:30; PH off
+opening_hours: We-Fr 06:30-18:00; Sa 07:30-16:30; Su 07:30-17:00; Mo 06:30-18:00;
+    PH off; Tu off
 website: https://cafe-luise-baeckerei.de/
