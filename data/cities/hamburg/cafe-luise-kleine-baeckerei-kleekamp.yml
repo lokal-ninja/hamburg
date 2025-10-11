@@ -7,5 +7,5 @@ city: Hamburg
 street: Kleekamp
 housenumber: "3"
 phone: +49 40 28477493
-opening_hours: Mo-Tu,Th-Fr 07:00-18:00; Sa-Su 07:00-13:00; PH off
+opening_hours: Mo,We-Fr 07:00-18:00; Sa,Su 07:00-13:00; PH off
 website: https://cafe-luise-baeckerei.de/
