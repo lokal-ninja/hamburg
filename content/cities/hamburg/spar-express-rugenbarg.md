@@ -1,5 +1,5 @@
 ---
 title: "Spar Express"
-url: /hamburg/spar-express-kieler-strasse-2/
+url: /hamburg/spar-express-rugenbarg/
 shop: Lebensmittel
 ---
