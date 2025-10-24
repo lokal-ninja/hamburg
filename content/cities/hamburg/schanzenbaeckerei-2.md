@@ -1,5 +1,5 @@
 ---
 title: "Schanzenbäckerei"
-url: /hamburg/schanzenbaeckerei-hafentor/
+url: /hamburg/schanzenbaeckerei-2/
 shop: Bäckerei
 ---
