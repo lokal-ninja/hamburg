@@ -1,5 +1,5 @@
 ---
-title: "TEMPEL"
+title: "Tempel"
 url: /hamburg/tempel/
 shop: Kleidung
 ---
