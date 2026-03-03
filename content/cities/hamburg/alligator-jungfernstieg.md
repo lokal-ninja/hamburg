@@ -1,5 +1,5 @@
 ---
 title: "Alligator"
-url: /hamburg/alligator-ottenser-hauptstrasse/
+url: /hamburg/alligator-jungfernstieg/
 shop: Taschen & Koffer
 ---
