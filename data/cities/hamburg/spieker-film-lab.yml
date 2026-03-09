@@ -7,6 +7,5 @@ city: Hamburg
 street: Humboldtstraße
 housenumber: "128"
 phone: ""
-opening_hours: Mo-Tu 13:00-18:00; Th 13:00-18:00; Fr 13:00-18:00; Sa 11:00-16:00;
-    PH off
+opening_hours: Mo 13:00-19:00, Di 13:00-18:00, Do 13:00-19:00, Fr 13:00-18:00
 website: https://www.spiekerfilmlab.de
