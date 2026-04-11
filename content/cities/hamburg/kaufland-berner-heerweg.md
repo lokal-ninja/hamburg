@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /hamburg/kaufland-beim-strohhause/
+url: /hamburg/kaufland-berner-heerweg/
 shop: Supermarkt
 ---
