@@ -1,5 +1,5 @@
 ---
 title: "Bijou Brigitte"
 url: /hamburg/bijou-brigitte/
-shop: Modehaus
+shop: Schmuck
 ---
