@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /hamburg/skechers/
-shop: Schuhe
+shop: Kleidung
 ---
