@@ -7,6 +7,6 @@ city: Hamburg
 street: Bachstraße
 housenumber: "98"
 phone: +49 15678511498
-opening_hours: Mo-Th 16:00+, Fr-Su "Für Vereinsmitglieder zugänglich", Sa 14:00-18:00
-    "Für Nicht-Mitglieder zugänglich"
+opening_hours: 'Public: During events (e.g. every second Saturday for "open workshop"
+    from 14:00 to 18:00). For members: Mo-Fr after 16:00 and Sat/Sun the whole day'
 website: https://www.welcome-werkstatt.de/
