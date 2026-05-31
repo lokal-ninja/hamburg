@@ -7,5 +7,5 @@ city: Hamburg
 street: Blomkamp
 housenumber: "6"
 phone: +49 40 803 250
-opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-12:00
+opening_hours: Mo,Su,PH off; Tu-Fr 08:30-18:00; Sa 08:00-12:00
 website: https://www.salon-angeliena.de
