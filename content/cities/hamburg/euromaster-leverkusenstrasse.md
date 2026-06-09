@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
-url: /hamburg/euromaster-reinbeker-redder/
+url: /hamburg/euromaster-leverkusenstrasse/
 shop: Autowerkstatt
 ---
