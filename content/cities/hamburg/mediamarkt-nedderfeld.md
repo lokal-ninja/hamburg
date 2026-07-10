@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /hamburg/mediamarkt-billstedter-platz/
+url: /hamburg/mediamarkt-nedderfeld/
 shop: Elektronik
 ---
