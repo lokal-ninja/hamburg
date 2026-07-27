@@ -1,6 +1,6 @@
 ---
 title: Rellingen
 url: /rellingen/
-latitude: 53.629
-longitude: 9.887
+latitude: 53.626
+longitude: 9.885
 ---
