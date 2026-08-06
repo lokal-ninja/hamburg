@@ -7,6 +7,6 @@ city: Hamburg
 street: Caspar-Voght-Straße
 housenumber: 35c
 phone: ""
-opening_hours: Apr-Aug Tu-Fr 14:00-20:00; Apr-Aug PH,Sa,Su 12:00-20:00; Sep-Oct Tu-Fr
-    14:00-18:00; Sep-Oct PH,Sa,Su 12:00-18:00
+opening_hours: 'Apr-Aug: Tu-Fr 14:00-20:00; Apr-Aug: Sa,Su,PH 12:00-20:00; Sep-Oct:
+    Tu-Fr 14:00-18:00; Sep-Oct: Sa,Su,PH 12:00-18:00'
 website: ""
