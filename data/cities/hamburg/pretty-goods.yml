@@ -7,5 +7,5 @@ city: Hamburg
 street: Osterstraße
 housenumber: "136"
 phone: ""
-opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-17:00
+opening_hours: Mo,Tu,Th 11:00-18:00; Sa 11:00-17:00
 website: https://www.prettygoods-store.de/
