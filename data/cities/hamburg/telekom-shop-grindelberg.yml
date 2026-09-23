@@ -7,6 +7,5 @@ city: Hamburg
 street: Grindelberg
 housenumber: "86"
 phone: +49 40 42911912
-opening_hours: Mo off; Tu,Fr 10:00+; We 10:00+; Th 15:00-18:00; Sa 11:00-14:00; Su,PH
-    off
+opening_hours: '"Termine nach Vereinbarung"'
 website: https://shopseite.telekom.de/nord-ost/hamburg/grindelberg-86
