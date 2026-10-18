@@ -1,5 +1,5 @@
 ---
 title: "Kiosk"
 url: /hamburg/kiosk/
-shop: Kiosk
+shop: Spirituosen
 ---
