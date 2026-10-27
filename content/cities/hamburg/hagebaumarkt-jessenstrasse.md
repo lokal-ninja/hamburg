@@ -1,5 +1,5 @@
 ---
 title: "Hagebaumarkt"
-url: /hamburg/hagebaumarkt-krohnskamp/
+url: /hamburg/hagebaumarkt-jessenstrasse/
 shop: Baumarkt
 ---
